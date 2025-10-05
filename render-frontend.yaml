@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: treasure-hunt-frontend
+    env: static
+    buildCommand: cd frontend && npm install --legacy-peer-deps && npm run build
+    staticPublishPath: ./frontend/build
+    envVars:
+      - key: NODE_VERSION
+        value: 18.0.0
+      - key: REACT_APP_API_URL
+        value: https://treasure-hunt-seychelles-1.onrender.com/api
+      - key: REACT_APP_XRPL_SERVER
+        value: wss://s.altnet.rippletest.net:51233
