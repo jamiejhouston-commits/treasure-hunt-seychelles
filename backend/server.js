@@ -518,12 +518,16 @@ process.on('SIGINT', () => {
 });
 
 // Start server
-const server = app.listen(PORT, () => {
+const { autoPopulateDatabase } = require('./utils/auto_populate');
+
+const server = app.listen(PORT, async () => {
     logger.info(`🏴‍☠️ Treasure of Seychelles API server running on port ${PORT}`);
     logger.info(`📚 API Documentation: http://localhost:${PORT}/api-docs`);
     logger.info(`💾 Database: ${process.env.DATABASE_URL || 'SQLite'}`);
     logger.info(`🌐 XRPL Network: ${process.env.XRPL_NETWORK}`);
     logger.info(`🔒 Environment: ${process.env.NODE_ENV || 'development'}`);
+    // Auto-populate database if empty
+    await autoPopulateDatabase();
 });
 
 module.exports = app;
