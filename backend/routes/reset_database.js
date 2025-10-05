@@ -33,8 +33,16 @@ router.get('/reset-database', async (req, res) => {
     console.log('📦 INSERTING ONLY Chapter 1 & 2 (40 NFTs with layers)...');
     const nfts = [];
 
-    // Chapter 1: NFTs 1-20
+    // Chapter 1: NFTs 1-20 (with puzzle layers)
     for (let i = 1; i <= 20; i++) {
+      const layers = [{layer: 0, type: 'base_artwork', description: 'Original artwork'}];
+
+      // Add puzzle layers for specific Chapter 1 NFTs
+      if (i === 5) layers.push({layer: 1, type: 'cipher_clue', url: '/images/nft_5_layer_1.png', description: 'First puzzle piece'});
+      if (i === 12) layers.push({layer: 2, type: 'map_coordinates', url: '/images/nft_12_layer_2.png', description: 'Second puzzle piece'});
+      if (i === 17) layers.push({layer: 3, type: 'direction_key', url: '/images/nft_17_layer_3.png', description: 'Third puzzle piece'});
+      if (i === 20) layers.push({layer: 1, type: 'final_clue', url: '/images/nft_20_layer_1.png', description: 'Final puzzle piece'});
+
       nfts.push({
         token_id: i,
         name: `Seychelles Treasure #${i}`,
@@ -43,7 +51,7 @@ router.get('/reset-database', async (req, res) => {
         chapter: 'Chapter 1: The Trail Begins',
         rarity: i % 5 === 0 ? 'epic' : i % 3 === 0 ? 'rare' : i % 2 === 0 ? 'uncommon' : 'common',
         art_rarity: i % 5 === 0 ? 'epic' : i % 3 === 0 ? 'rare' : i % 2 === 0 ? 'uncommon' : 'common',
-        layers: JSON.stringify([{layer: 0, type: 'base_artwork', description: 'Original artwork'}]),
+        layers: JSON.stringify(layers),
         puzzle_enabled: [5, 12, 17, 20].includes(i),
         price_xrp: 10.0,
         for_sale: true,
