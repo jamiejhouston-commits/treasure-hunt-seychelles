@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: treasure-hunt-seychelles-backend
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+  - type: web
+    name: treasure-hunt-seychelles-frontend
+    env: static
+    buildCommand: npm install && REACT_APP_API_URL=https://treasure-hunt-seychelles-1.onrender.com/api npm run build
+    staticPublishPath: ./build
+    envVars:
+      - key: REACT_APP_API_URL
+        value: https://treasure-hunt-seychelles-1.onrender.com/api
