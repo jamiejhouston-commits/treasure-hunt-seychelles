@@ -283,7 +283,7 @@ export default function LayerViewer({ nft, onClose }) {
   const [isDragging, setIsDragging] = useState(false);
   const [dragStart, setDragStart] = useState({ x: 0, y: 0 });
   
-  const baseUrl = process.env.REACT_APP_API_URL || 'http://localhost:3001';
+  const baseUrl = (process.env.REACT_APP_API_URL || 'http://localhost:3001').replace('/api', '');
   
   // Parse layers from NFT data - layers might be a JSON string or array
   const parseLayers = () => {
@@ -386,7 +386,8 @@ export default function LayerViewer({ nft, onClose }) {
     // If layer has a URL field, use it
     if (layer.url) {
       console.log('🎨 LayerViewer: Using layer.url:', layer.url);
-      return layer.url + cacheBuster;
+      const fullUrl = layer.url.startsWith('http') ? layer.url : `${baseUrl}${layer.url}`;
+      return fullUrl + cacheBuster;
     }
 
     // Use token_id (check both snake_case and camelCase)
