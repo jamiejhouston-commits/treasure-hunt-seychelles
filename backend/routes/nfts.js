@@ -248,14 +248,12 @@ router.get('/', [
     // nfts = nfts.filter(n => isValid(n.nftoken_id));
     nfts = nfts.filter(n => n.nftoken_id); // Just check if nftoken_id exists
   }
-  // Auto-detect if running on Render
-  const isRender = process.env.RENDER === 'true' || process.env.RENDER_SERVICE_NAME;
-  const baseUrl = isRender
+  const baseUrl = process.env.NODE_ENV === 'production'
     ? 'https://treasure-hunt-seychelles-1.onrender.com'
-    : (process.env.API_BASE_URL || 'http://localhost:3001');
-  const frontendUrl = isRender
+    : 'http://localhost:3001';
+  const frontendUrl = process.env.NODE_ENV === 'production'
     ? 'https://treasure-hunt-seychelles-3.onrender.com'
-    : (process.env.FRONTEND_URL || 'http://localhost:3000');
+    : 'http://localhost:3000';
 
     // Format response - prefer DB image_uri when present (e.g., Chapter 3 preview images),
     // otherwise fall back to real generated images by ID.
