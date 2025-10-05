@@ -1,0 +1,41 @@
+{
+  "name": "Seychelles Treasure #16",
+  "description": "Chapter 1: The Trail Begins - NFT #16",
+  "image": "ipfs://Qmf7ghw1i16qxEwdAJS78sQQea9QQZyxifxWA9cByhH5Rp",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 1: The Trail Begins"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "No"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "art_rarity": "Uncommon",
+    "rarity_color": "#06d6a0",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": "Qmf7ghw1i16qxEwdAJS78sQQea9QQZyxifxWA9cByhH5Rp",
+        "description": "Original Seychelles artwork"
+      }
+    ]
+  }
+}

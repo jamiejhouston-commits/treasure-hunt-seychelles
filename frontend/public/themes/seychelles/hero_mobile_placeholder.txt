@@ -1,0 +1,3 @@
+/* Placeholder for hero_mobile.webp - Tall portrait of captain/helm/compass */
+/* Dimensions: 768x1024, optimized to ~350KB */
+/* Selected from: Portrait orientation captain or compass image */

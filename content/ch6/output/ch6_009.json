@@ -1,0 +1,44 @@
+{
+  "name": "Black River Crossing: Ferry of Shadows",
+  "description": "Black River Crossing groans with brackish tide; eight notch cuts carved into the ferry oar catch Naia's fingers while seven pale-bellied fish orbit the hull and one candle flame on Maliya's palm bends inland. A low pirogue silhouette rides the current ahead as Kassim keeps the shard satchel dry, tasting mud while the rope creaks toward the 160° pull.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_009",
+  "bearingDeg": 160,
+  "cipherOutput": "M",
+  "cipherIndex": 9,
+  "hiddenClue": "8 + 7 + 1 = 16 → 160°",
+  "riddle": "Let the notches tally the current, the fish mirror the sky, and the lone flame show direction—soft questions wake the river's answer.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 160
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "M"
+    },
+    {
+      "trait_type": "notches",
+      "value": 8
+    },
+    {
+      "trait_type": "fish",
+      "value": 7
+    },
+    {
+      "trait_type": "bentFlame",
+      "value": 1
+    }
+  ],
+  "image": "./ch6_009.png"
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Pirate's Well: Salt and Echoes",
+  "description": "Coral-stone well. 7 ropes, 2 buckets, 4 coin carvings. Kassim pours rum; ripples form compass.\n\nRiddle: \"Drop silver, hear thunder—the past still drinks.\"\n\nSophisticated painterly artwork using etched-parchment technique with Seychellois cultural motifs. Part of \"The Siren's Map of Praslin\" cipher series.",
+  "image": "http://localhost:3001/content/ch7_sirens_map/output/ch7_003_painterly.png",
+  "external_url": "http://localhost:3000/nft/1003",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VII - The Siren's Map of Praslin"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Sophisticated Painterly Etched-Parchment"
+    },
+    {
+      "trait_type": "Rendering Technique",
+      "value": "Multi-Layer Textured Brushwork"
+    },
+    {
+      "trait_type": "Cultural Authenticity",
+      "value": "Seychellois Folklore Motifs"
+    },
+    {
+      "trait_type": "Visual Quality",
+      "value": "Dense Foliage Rhythmic Patterns"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Saturated Seychellois (Greens/Blues/Golds)"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Foreground/Midground/Background Depth"
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "R"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Pirate's Well"
+    },
+    {
+      "trait_type": "Bearing (Degrees)",
+      "value": 130
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Sophisticated Painterly"
+    },
+    {
+      "trait_type": "Generation Method",
+      "value": "Advanced Layered Renderer (NO Primitive Shapes)"
+    },
+    {
+      "trait_type": "Hanging Ropes",
+      "value": 7
+    },
+    {
+      "trait_type": "Wooden Buckets",
+      "value": 2
+    },
+    {
+      "trait_type": "Coin Carvings",
+      "value": 4
+    }
+  ],
+  "advanced_specs": {
+    "style_guarantee": "PAINTERLY_LAYERED_SEYCHELLOIS_ONLY",
+    "banned_techniques": [
+      "primitive_shapes",
+      "flat_fills",
+      "basic_graphics",
+      "simple_geometry",
+      "childlike_art"
+    ],
+    "required_elements": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "cultural_motif_stamps",
+      "volumetric_atmospheric_depth",
+      "saturated_palette",
+      "visible_brush_strokes"
+    ],
+    "painterly_elements": {
+      "atmosphere": "coral_stone_ancient_weathered",
+      "culturalStamps": [
+        "pirate_well_motifs",
+        "kassim_ex_privateer"
+      ],
+      "brushTechnique": "rough_stone_texture_rope_detail",
+      "layering": "background_well_midground_ropes_foreground_kassim"
+    },
+    "render_prompt": "Etched parchment engraved map-card of Coral-stone well. 7 ropes, 2 buckets, 4 coin carvings. Kassim pours rum; ripples form compass.. coral_stone_ancient_weathered with rough_stone_texture_rope_detail. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_well_midground_ropes_foreground_kassim. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: pirate_well_motifs, kassim_ex_privateer. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negative_prompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail"
+  },
+  "puzzle_data": {
+    "scene": "Coral-stone well. 7 ropes, 2 buckets, 4 coin carvings. Kassim pours rum; ripples form compass.",
+    "riddle": "Drop silver, hear thunder—the past still drinks.",
+    "hidden_clue": "7+2+4=13 → 130°",
+    "bearing_deg": 130,
+    "cipher_output": "R",
+    "props": [
+      {
+        "name": "hanging_ropes",
+        "value": 7,
+        "description": "Weathered ropes hanging from well"
+      },
+      {
+        "name": "wooden_buckets",
+        "value": 2,
+        "description": "Old wooden buckets"
+      },
+      {
+        "name": "coin_carvings",
+        "value": 4,
+        "description": "Ancient coin carvings in stone"
+      }
+    ]
+  },
+  "technical_specs": {
+    "dimensions": "2048x2048",
+    "format": "PNG",
+    "color_space": "sRGB",
+    "render_layers": [
+      "background",
+      "midground",
+      "foreground",
+      "overlay",
+      "caption"
+    ],
+    "art_technique": "17th-century nautical chart + Seychellois modernist painting"
+  }
+}

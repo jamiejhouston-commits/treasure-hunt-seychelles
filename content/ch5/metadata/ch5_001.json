@@ -1,0 +1,35 @@
+{
+  "name": "Cerf Landing",
+  "description": "Weathered rope coils three times around a coral post as dawn mist rolls off Cerf's black sand beach. Each loop catches pale sunlight, casting cipher shadows that spell the island's first secret letters.",
+  "image": "ipfs://bafybeihexau7spugmcjovithmjc3sohllvyfbx4psc4tcf3tpj7s4zopri",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "CE",
+  "riddle": "Count the coils where land first holds the oar.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "ink_wash"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "beach_closeup"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "CE"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 201
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ch7_015",
+  "name": "Anse La Farine Jetty: Boards That Remember",
+  "scene": "7 gaps, 1 post, 2 floats. A corked bottle beneath boards.",
+  "props": [
+    {
+      "name": "jetty_gaps",
+      "value": 7,
+      "description": "Missing planks creating gaps"
+    },
+    {
+      "name": "mooring_post",
+      "value": 1,
+      "description": "Weathered mooring post"
+    },
+    {
+      "name": "fishing_floats",
+      "value": 2,
+      "description": "Colorful fishing floats"
+    }
+  ],
+  "hiddenClue": "(7−1)+2=8 → 80°",
+  "bearingDeg": 80,
+  "cipherOutput": "N",
+  "riddle": "Where something is missing, something is hidden.",
+  "painterlyElements": {
+    "atmosphere": "weathered_jetty_hidden_secrets",
+    "culturalStamps": [
+      "traditional_jetty_construction",
+      "fishing_gear"
+    ],
+    "brushTechnique": "weathered_wood_rope_texture",
+    "layering": "background_lagoon_midground_jetty_foreground_bottle"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of 7 gaps, 1 post, 2 floats. A corked bottle beneath boards.. weathered_jetty_hidden_secrets with weathered_wood_rope_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_lagoon_midground_jetty_foreground_bottle. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: traditional_jetty_construction, fishing_gear. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

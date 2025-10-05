@@ -1,0 +1,61 @@
+{
+  "name": "Lazare Picault View",
+  "description": "The wide sea vista spreads below Lazare Picault viewpoint as sunset creates a glowing haze over the waters where the great explorer first charted these islands. Pirate and witch stand together beneath the large compass ring etched in stone, while a skull guards the cutlass sheathed at the pirate's side. The sun sits precisely at the 255-degree mark, and tiny letters 'LP' are etched nearby—initials that name the man this ridge remembers. Bearing 255°. Cipher output: CA. \"Name the man the ridge remembers.\"",
+  "image": "ipfs://bafybeifqnpnpunxhapd6oiro4o2tspgv5b5zbfkgti6fdtdckcf5sjtc4a",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Lazare Picault viewpoint (Anse Boileau ridge)",
+  "timeOfDay": "Sunset",
+  "weather": "glowing haze",
+  "bearingDeg": 255,
+  "tide": "—",
+  "moonPhase": "Waning Gibbous",
+  "cipherOutput": "CA",
+  "riddle": "Name the man the ridge remembers.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Lazare Picault viewpoint (Anse Boileau ridge)"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "glowing haze"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "255°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "—"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waning Gibbous"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "CA"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 159
+  }
+}

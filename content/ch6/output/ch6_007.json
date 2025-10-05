@@ -1,0 +1,44 @@
+{
+  "name": "Sans Souci Pass: The Whispering Stones",
+  "description": "Fog at Sans Souci Pass tastes of cold iron; seven whisper-stones pricked with chalk hide an arrow beneath Naia's rubbing while two lanterns—one sputtering, one steady—halo three dew-slick ferns. Chains scrape uphill as Maliya salts her tongue and the trio slips along the 70° thread of roots.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_007",
+  "bearingDeg": 70,
+  "cipherOutput": "N",
+  "cipherIndex": 7,
+  "hiddenClue": "7 − 1 + 1 = 7 → 70°",
+  "riddle": "Seven stones murmur, two flames answer, three fronds nod—let the arrow they conceal point you onward.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 70
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "N"
+    },
+    {
+      "trait_type": "lanterns",
+      "value": 2
+    },
+    {
+      "trait_type": "whisperStones",
+      "value": 7
+    },
+    {
+      "trait_type": "fernFronds",
+      "value": 3
+    }
+  ],
+  "image": "./ch6_007.png"
+}

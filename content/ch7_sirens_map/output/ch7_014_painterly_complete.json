@@ -1,0 +1,59 @@
+{
+  "id": "ch7_014",
+  "name": "Curieuse Mangroves: Root Letters",
+  "scene": "4 crab mounds, 5 arches, 1 tortoise bell. Roots form the letter I.",
+  "props": [
+    {
+      "name": "crab_mounds",
+      "value": 4,
+      "description": "Mud crab mounds among roots"
+    },
+    {
+      "name": "root_arches",
+      "value": 5,
+      "description": "Natural mangrove root arches"
+    },
+    {
+      "name": "tortoise_bell",
+      "value": 1,
+      "description": "Ancient tortoise shell bell"
+    }
+  ],
+  "hiddenClue": "(4+5)×1=9 → 90°",
+  "bearingDeg": 90,
+  "cipherOutput": "I",
+  "riddle": "To read the forest, climb one branch higher.",
+  "painterlyElements": {
+    "atmosphere": "mangrove_root_cathedral_letter_formation",
+    "culturalStamps": [
+      "crab_mound_patterns",
+      "tortoise_shell_bell"
+    ],
+    "brushTechnique": "twisted_root_mud_texture",
+    "layering": "background_mangrove_maze_midground_arches_foreground_bell"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of 4 crab mounds, 5 arches, 1 tortoise bell. Roots form the letter I.. mangrove_root_cathedral_letter_formation with twisted_root_mud_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_mangrove_maze_midground_arches_foreground_bell. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: crab_mound_patterns, tortoise_shell_bell. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Forest Drum Circle: Rhythms of the Ancestors",
+  "description": "Under sweating takamaka trunks, five goat-skin drums breathe resin while eight firefly clusters pulse in time with Maliya's wrists and two ashy rings smolder in the soil. Kassim hides rain-slick tears as Naia records each beat, the rhythm drumming the 150° heading into their bones.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_005",
+  "bearingDeg": 150,
+  "cipherOutput": "N",
+  "cipherIndex": 5,
+  "hiddenClue": "5 + 8 + 2 = 15 → 150°",
+  "riddle": "Hear the five hearts, follow eight lights, step within two circles—only then does the rhythm spell the bearing.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 150
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "N"
+    },
+    {
+      "trait_type": "drums",
+      "value": 5
+    },
+    {
+      "trait_type": "fireflyClusters",
+      "value": 8
+    },
+    {
+      "trait_type": "ashRings",
+      "value": 2
+    }
+  ],
+  "image": "./ch6_005.png"
+}

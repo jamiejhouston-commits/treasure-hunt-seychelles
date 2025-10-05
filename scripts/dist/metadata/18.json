@@ -1,0 +1,37 @@
+{
+  "name": "Levasseur Fragment #018 — La Digue's Secret",
+  "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 348°, coords -8.8651, 49.0726.",
+  "image": "ipfs://PLACEHOLDER/18.png",
+  "attributes": [
+    {
+      "trait_type": "Island",
+      "value": "La Digue"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "348°"
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "La Digue's Secrets"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Astronomy"
+    }
+  ],
+  "clue": {
+    "type": "glyph",
+    "value": "ᚠᚢᚦᚨ",
+    "hint": "Bearing 348°. Coords -8.8651, 49.0726."
+  },
+  "external_url": "https://treasureofseychelles.com/nft/18",
+  "collection": {
+    "name": "Treasure of Seychelles",
+    "chapter": "La Digue's Secrets"
+  }
+}

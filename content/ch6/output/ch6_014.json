@@ -1,0 +1,44 @@
+{
+  "name": "Tea Plantation Shade: Leaves that Count",
+  "description": "Shade among the tea terraces tastes of tannin and rust; two splintered chests sag open to a counting board carved with six coco de mer silhouettes while one shard lurks sticky with sap beneath burlap. Naia counts the doubled curves aloud, Kassim massages numb fingers, and Maliya steeps a bitter ward to fog the revenant's breath.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_014",
+  "bearingDeg": 90,
+  "cipherOutput": "A",
+  "cipherIndex": 14,
+  "hiddenClue": "2 + 6 + 1 = 9 → 90°",
+  "riddle": "Let the chests, leaf pairs, and hidden tooth brew together—their infusion pours into your next degree.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 90
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "A"
+    },
+    {
+      "trait_type": "teaChests",
+      "value": 2
+    },
+    {
+      "trait_type": "cocoDeMerSilhouettes",
+      "value": 6
+    },
+    {
+      "trait_type": "shard",
+      "value": 1
+    }
+  ],
+  "image": "./ch6_014.png"
+}

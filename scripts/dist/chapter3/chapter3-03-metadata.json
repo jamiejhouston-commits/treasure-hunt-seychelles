@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 03: Fog at Lazare Picault",
+  "description": "The mountain peak shrouds its secrets in ethereal mist. Through the fog, a compass rose glows with supernatural light, guiding those brave enough to climb.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Lazare Picault Viewpoint, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Glowing Compass"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "The mystical viewpoint where directions become clear"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 3
+    }
+  ],
+  "properties": {
+    "clue": "Directional Riddle: 'When mist clears at dawn, follow the golden ray northwest'",
+    "visualElements": [
+      "Mountain peak shrouded in thick mist",
+      "Glowing compass rose floating in fog",
+      "Silhouettes of twisted trees",
+      "Ocean vista barely visible through clouds",
+      "Ethereal light beams through mist",
+      "Pirate hat abandoned on rocky outcrop"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

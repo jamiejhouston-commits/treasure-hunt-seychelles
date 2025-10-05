@@ -1,0 +1,31 @@
+{
+  "name": "S3-12 — Anse Major Edge",
+  "description": "S3-12 — Anse Major Edge. Clue: Count the cuts along the hilt—the path bites east.",
+  "image": "/preview/chapter3/S3-12.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Major Trail"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Midday"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Trail"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dagger"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

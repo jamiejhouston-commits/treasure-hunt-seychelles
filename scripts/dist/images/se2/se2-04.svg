@@ -1,0 +1,39 @@
+
+<svg width="2048" height="2048" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#133C55;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0D1B2A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A1830;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="2048" height="2048" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="1024" y="150" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="48" font-weight="bold">SE2-04 — MIST OF MORNE BLANC</text>
+  
+  <!-- Place -->
+  <text x="1024" y="220" text-anchor="middle" fill="#D9B45B" font-family="serif" font-size="32">Morne Blanc (Sans Souci ridge</text>
+  
+  <!-- Hidden Letter (very faint) -->
+  <text x="1024" y="1200" text-anchor="middle" fill="#133C55" font-family="serif" font-size="400" font-weight="bold" opacity="0.3">E</text>
+  
+  <!-- Compass Ring -->
+  <circle cx="1024" cy="1024" r="300" fill="none" stroke="#D9B45B" stroke-width="8"/>
+  
+  <!-- Star overlay if needed -->
+  <polygon points="1174,385 1179,395 1189,395 1182,402 1184,412 1174,408 1164,412 1166,402 1159,395 1169,395" fill="#EAE7DC"/>
+<polygon points="1070.352549156242,480.10565162951536 1075.352549156242,490.10565162951536 1085.352549156242,490.10565162951536 1078.352549156242,497.10565162951536 1080.352549156242,507.10565162951536 1070.352549156242,503.10565162951536 1060.352549156242,507.10565162951536 1062.352549156242,497.10565162951536 1055.352549156242,490.10565162951536 1065.352549156242,490.10565162951536" fill="#EAE7DC"/>
+<polygon points="902.647450843758,443.7785252292473 907.647450843758,453.7785252292473 917.647450843758,453.7785252292473 910.647450843758,460.7785252292473 912.647450843758,470.7785252292473 902.647450843758,466.7785252292473 892.647450843758,470.7785252292473 894.647450843758,460.7785252292473 887.647450843758,453.7785252292473 897.647450843758,453.7785252292473" fill="#EAE7DC"/>
+<polygon points="902.6474508437578,326.2214747707527 907.6474508437578,336.2214747707527 917.6474508437578,336.2214747707527 910.6474508437578,343.2214747707527 912.6474508437578,353.2214747707527 902.6474508437578,349.2214747707527 892.6474508437578,353.2214747707527 894.6474508437578,343.2214747707527 887.6474508437578,336.2214747707527 897.6474508437578,336.2214747707527" fill="#EAE7DC"/>
+<polygon points="1070.352549156242,289.89434837048464 1075.352549156242,299.89434837048464 1085.352549156242,299.89434837048464 1078.352549156242,306.89434837048464 1080.352549156242,316.89434837048464 1070.352549156242,312.89434837048464 1060.352549156242,316.89434837048464 1062.352549156242,306.89434837048464 1055.352549156242,299.89434837048464 1065.352549156242,299.89434837048464" fill="#EAE7DC"/>
+  
+  <!-- Clue text -->
+  <text x="1024" y="1700" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="24">Above the bay, the mist keeps counsel.</text>
+  <text x="1024" y="1750" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="24">Count the five lights that survive the cloud.</text>
+  
+  <!-- Visual description -->
+  <text x="100" y="1900" fill="#D9B45B" font-family="serif" font-size="20">Cloud forest boards; ridge posts; five faint star points in mist; rope forms a c...</text>
+</svg>

@@ -1,0 +1,48 @@
+{
+  "name": "Seychelles Treasure #37",
+  "description": "Chapter 2: The Hidden Cache - NFT #37 (Contains Puzzle Clue)",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 2: The Hidden Cache"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 2",
+    "puzzle_enabled": true,
+    "art_rarity": "Uncommon",
+    "rarity_color": "#06d6a0",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 3,
+        "type": "decoding_key",
+        "ipfs_hash": null,
+        "description": "The riddle to unlock the cipher",
+        "hint": "SHIFT NINE PACES FORWARD\nWHEN THE PATH ENDS, IT BEGINS ANEW"
+      }
+    ]
+  }
+}

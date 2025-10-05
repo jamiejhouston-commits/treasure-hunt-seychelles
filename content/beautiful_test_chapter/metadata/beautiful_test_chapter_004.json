@@ -1,0 +1,28 @@
+{
+  "name": "Beautiful Test Chapter Card 4",
+  "description": "A beautifully crafted treasure card from Beautiful Test Chapter, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeieecec2ylzklfkonlggexte2rndrfu3yvvngdtqepi7rsm5e7wqz4",
+  "chapter": "Beautiful Test Chapter",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Beautiful Test Chapter"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "granite"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 4
+    }
+  ],
+  "properties": {
+    "tokenId": 4,
+    "chapter": "Beautiful Test Chapter"
+  }
+}

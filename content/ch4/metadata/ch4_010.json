@@ -1,0 +1,61 @@
+{
+  "name": "Morne Blanc Watch",
+  "description": "The late morning sun illuminates Morne Blanc's commanding viewpoint as layered ridges cascade toward the sea in perfect perspective. A pirate scans the horizon through his brass spyglass while a witch traces mystical circles in the mountain lichen. The compass card lies open nearby, but the 'E' has been torn away—for what's missing points harder than what remains, and the spyglass aims true at 261 degrees. Bearing 261°. Cipher output: SE. \"What's missing points harder than what remains.\"",
+  "image": "ipfs://bafybeihzsvfnk7z2rqn736tbdaenvye6iup7l2gjzlwwjuenlg2tfokz3u",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Morne Blanc viewpoint",
+  "timeOfDay": "Late morning",
+  "weather": "bright",
+  "bearingDeg": 261,
+  "tide": "—",
+  "moonPhase": "Waning Gibbous",
+  "cipherOutput": "SE",
+  "riddle": "What's missing points harder than what remains.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Morne Blanc viewpoint"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Late morning"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "bright"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "261°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "—"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waning Gibbous"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "SE"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 150
+  }
+}

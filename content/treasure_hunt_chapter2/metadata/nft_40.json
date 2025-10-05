@@ -1,0 +1,48 @@
+{
+  "name": "Seychelles Treasure #40",
+  "description": "Chapter 2: The Hidden Cache - NFT #40 (Contains Puzzle Clue)",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 2: The Hidden Cache"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 2",
+    "puzzle_enabled": true,
+    "art_rarity": "Uncommon",
+    "rarity_color": "#06d6a0",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 1,
+        "type": "coordinates",
+        "ipfs_hash": null,
+        "description": "GPS coordinates in Seychelles",
+        "hint": "4.7253° S, 55.4892° E"
+      }
+    ]
+  }
+}

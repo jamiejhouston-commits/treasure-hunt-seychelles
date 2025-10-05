@@ -1,0 +1,61 @@
+{
+  "name": "Cap Ternay Sounding",
+  "description": "Dawn breaks softly over Cap Ternay, the marine park headlands emerging from calm haze like ancient guardians. A pirate sounder works his lead line with practiced precision, while beside him a witch holds a conch shell to her ear, listening to the sea's secrets. The lead weight bears a stamped '3', and the knotted line reveals the sacred sequence: 3, 5, 8—the Fibonacci numbers that nature herself uses to count. Bearing 158°. Cipher output: CA. \"Hear the sea count in steps of living growth.\"",
+  "image": "ipfs://bafybeigfdenifiuftma74socbf2setlcqjob346yg6vhsuw6chrfp3nfyy",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Cap Ternay",
+  "timeOfDay": "Dawn",
+  "weather": "calm haze",
+  "bearingDeg": 158,
+  "tide": "High",
+  "moonPhase": "Waning Gibbous",
+  "cipherOutput": "CA",
+  "riddle": "Hear the sea count in steps of living growth.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Cap Ternay"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Dawn"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "calm haze"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "158°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "High"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waning Gibbous"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "CA"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 145
+  }
+}

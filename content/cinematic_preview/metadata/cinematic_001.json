@@ -1,0 +1,19 @@
+{
+  "name": "Cinematic Treasure Panel #1",
+  "description": "Cinematic Seychelles pirate adventure scene generated procedurally.",
+  "image": "ipfs://TO-BE-UPLOADED/cinematic_001.png",
+  "attributes": [
+    {
+      "trait_type": "Template",
+      "value": "compass_vista"
+    },
+    {
+      "trait_type": "Hero Object",
+      "value": "compass"
+    },
+    {
+      "trait_type": "Seed",
+      "value": "SEGMENT-DEMO"
+    }
+  ]
+}

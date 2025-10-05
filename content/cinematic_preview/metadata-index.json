@@ -1,0 +1,14 @@
+[
+  {
+    "name": "cinematic_001",
+    "template": "compass_vista",
+    "hero": "compass",
+    "file": "cinematic_001.png"
+  },
+  {
+    "name": "cinematic_002",
+    "template": "compass_vista",
+    "hero": "compass",
+    "file": "cinematic_002.png"
+  }
+]

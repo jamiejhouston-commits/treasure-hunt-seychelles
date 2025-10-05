@@ -1,0 +1,28 @@
+{
+  "name": "Praslin's Prophecy Card 4",
+  "description": "A beautifully crafted treasure card from Praslin's Prophecy, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeidk4t725wdqskjstlmibpbvyq4bqn2mcgo762psvz6etk6f57lmiy",
+  "chapter": "Praslin's Prophecy",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Praslin's Prophecy"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "granite"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 4
+    }
+  ],
+  "properties": {
+    "tokenId": 4,
+    "chapter": "Praslin's Prophecy"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 19: The Final Cave",
+  "description": "Deep in the mountain's heart, golden light outlines the shape of ultimate treasure. This cavern holds what Levasseur's crew died to protect, waiting for the worthy.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Mountain Cave, Mahé Interior"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Golden Glow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "The final chamber where Chapter 3 reaches its climax"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 19
+    }
+  ],
+  "properties": {
+    "clue": "Chapter 3 Cipher: 'In depths of stone, where light does glow, the final truth at last you'll know'",
+    "visualElements": [
+      "Deep cavern with golden light in depths",
+      "Treasure chest outline glowing faintly",
+      "Ancient cave paintings on walls",
+      "Stalactites forming natural cathedral",
+      "Pirate skeleton guarding entrance",
+      "Mystical golden aura filling chamber"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

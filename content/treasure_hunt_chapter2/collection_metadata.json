@@ -1,0 +1,850 @@
+[
+  {
+    "name": "Seychelles Treasure #21",
+    "description": "Chapter 2: The Hidden Cache - NFT #21",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Epic",
+      "rarity_color": "#9d4edd",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #22",
+    "description": "Chapter 2: The Hidden Cache - NFT #22",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Uncommon",
+      "rarity_color": "#06d6a0",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #23",
+    "description": "Chapter 2: The Hidden Cache - NFT #23",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Rare",
+      "rarity_color": "#3a86ff",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #24",
+    "description": "Chapter 2: The Hidden Cache - NFT #24",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Common",
+      "rarity_color": "#8d99ae",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #25",
+    "description": "Chapter 2: The Hidden Cache - NFT #25 (Contains Puzzle Clue)",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": true,
+      "art_rarity": "Epic",
+      "rarity_color": "#9d4edd",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        },
+        {
+          "layer": 1,
+          "type": "cipher_text",
+          "ipfs_hash": null,
+          "description": "Encrypted message - what does it say?",
+          "hint": "JWBN BXUNRU"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #26",
+    "description": "Chapter 2: The Hidden Cache - NFT #26",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Uncommon",
+      "rarity_color": "#06d6a0",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #27",
+    "description": "Chapter 2: The Hidden Cache - NFT #27",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Rare",
+      "rarity_color": "#3a86ff",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #28",
+    "description": "Chapter 2: The Hidden Cache - NFT #28",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Epic",
+      "rarity_color": "#9d4edd",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #29",
+    "description": "Chapter 2: The Hidden Cache - NFT #29",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Common",
+      "rarity_color": "#8d99ae",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #30",
+    "description": "Chapter 2: The Hidden Cache - NFT #30",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Common",
+      "rarity_color": "#8d99ae",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #31",
+    "description": "Chapter 2: The Hidden Cache - NFT #31",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Uncommon",
+      "rarity_color": "#06d6a0",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #32",
+    "description": "Chapter 2: The Hidden Cache - NFT #32 (Contains Puzzle Clue)",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": true,
+      "art_rarity": "Rare",
+      "rarity_color": "#3a86ff",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        },
+        {
+          "layer": 2,
+          "type": "map_fragment",
+          "ipfs_hash": null,
+          "description": "Ancient map fragment showing a hidden location",
+          "hint": "anse_soleil_map"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #33",
+    "description": "Chapter 2: The Hidden Cache - NFT #33",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Epic",
+      "rarity_color": "#9d4edd",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #34",
+    "description": "Chapter 2: The Hidden Cache - NFT #34",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Common",
+      "rarity_color": "#8d99ae",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #35",
+    "description": "Chapter 2: The Hidden Cache - NFT #35",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Rare",
+      "rarity_color": "#3a86ff",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #36",
+    "description": "Chapter 2: The Hidden Cache - NFT #36",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Common",
+      "rarity_color": "#8d99ae",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #37",
+    "description": "Chapter 2: The Hidden Cache - NFT #37 (Contains Puzzle Clue)",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": true,
+      "art_rarity": "Uncommon",
+      "rarity_color": "#06d6a0",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        },
+        {
+          "layer": 3,
+          "type": "decoding_key",
+          "ipfs_hash": null,
+          "description": "The riddle to unlock the cipher",
+          "hint": "SHIFT NINE PACES FORWARD\nWHEN THE PATH ENDS, IT BEGINS ANEW"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #38",
+    "description": "Chapter 2: The Hidden Cache - NFT #38",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Epic",
+      "rarity_color": "#9d4edd",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #39",
+    "description": "Chapter 2: The Hidden Cache - NFT #39",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": false,
+      "art_rarity": "Rare",
+      "rarity_color": "#3a86ff",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Seychelles Treasure #40",
+    "description": "Chapter 2: The Hidden Cache - NFT #40 (Contains Puzzle Clue)",
+    "image": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 2: The Hidden Cache"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "properties": {
+      "chapter": "Chapter 2",
+      "puzzle_enabled": true,
+      "art_rarity": "Uncommon",
+      "rarity_color": "#06d6a0",
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": null,
+          "description": "Original Seychelles artwork"
+        },
+        {
+          "layer": 1,
+          "type": "coordinates",
+          "ipfs_hash": null,
+          "description": "GPS coordinates in Seychelles",
+          "hint": "4.7253° S, 55.4892° E"
+        }
+      ]
+    }
+  }
+]

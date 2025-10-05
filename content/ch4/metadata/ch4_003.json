@@ -1,0 +1,61 @@
+{
+  "name": "Anse Gaulette Whisper",
+  "description": "Midnight settles over Anse Gaulette like a velvet shroud, broken only by bands of ground fog that drift across the shore break. A black cat with emerald eyes perches atop a rope-bound chest, its gaze fixed on some unseen presence beyond the veil. Three stars gleam in its collar—celestial markers that align with the cardinal directions. Behind the shifting fog, a witch's silhouette moves like smoke made flesh. Bearing 202°. Cipher output: RE. \"Choose the middle star where fog eats sound.\"",
+  "image": "ipfs://bafybeidflouphruzs4iallf76kpopg3spubam4vdisbri7svoksdbmlnoe",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Anse Gaulette",
+  "timeOfDay": "Night",
+  "weather": "ground fog bands",
+  "bearingDeg": 202,
+  "tide": "Low",
+  "moonPhase": "New",
+  "cipherOutput": "RE",
+  "riddle": "Choose the middle star where fog eats sound.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Gaulette"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "ground fog bands"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "202°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "New"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "RE"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 143
+  }
+}

@@ -1,0 +1,1218 @@
+{
+  "chapter": "VII",
+  "title": "The Siren's Map of Praslin",
+  "cipherPhrase": "SIREN MAP PRASLIN ISLES",
+  "totalCards": 20,
+  "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+  "styleGuarantees": [
+    "NO_PRIMITIVE_SHAPES",
+    "TEXTURED_BRUSHES_ONLY",
+    "MULTI_LAYER_OVERLAYS",
+    "CULTURAL_MOTIF_STAMPS",
+    "VOLUMETRIC_DEPTH",
+    "SATURATED_PALETTE",
+    "ETCHED_MAP_CAPTIONS"
+  ],
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "childlike"
+  ],
+  "cards": [
+    {
+      "id": "ch7_001",
+      "name": "Anse Lazio: The Siren's Whisper",
+      "scene": "Twilight surf with glowing plankton. 3 black parrots wheel above 2 broken oars; 7 lanterns bob on the swell. Fisherman Jacques warns: 'Not all tides bring gifts.'",
+      "props": [
+        {
+          "name": "black_parrots",
+          "value": 3,
+          "description": "Black parrots wheeling above surf"
+        },
+        {
+          "name": "broken_oars",
+          "value": 2,
+          "description": "Broken oars floating in waves"
+        },
+        {
+          "name": "floating_lanterns",
+          "value": 7,
+          "description": "Lanterns bobbing on swell"
+        }
+      ],
+      "hiddenClue": "3+2+7=12 → 120°",
+      "bearingDeg": 120,
+      "cipherOutput": "S",
+      "riddle": "Count the wings that watch the oars that broke—sail where seven fires float.",
+      "painterlyElements": {
+        "atmosphere": "twilight_surf_glowing_plankton",
+        "culturalStamps": [
+          "seychellois_fisherman",
+          "traditional_lanterns"
+        ],
+        "brushTechnique": "rough_ocean_spray_texture",
+        "layering": "foreground_parrots_midground_oars_background_surf"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Twilight surf with glowing plankton. 3 black parrots wheel above 2 broken oars; 7 lanterns bob on the swell. Fisherman Jacques warns: 'Not all tides bring gifts.'. twilight_surf_glowing_plankton with rough_ocean_spray_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. foreground_parrots_midground_oars_background_surf. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: seychellois_fisherman, traditional_lanterns. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_002",
+      "name": "Vallée de Mai: Heart of Secrets",
+      "scene": "Palm cathedral, coco de mer husks glowing. 5 tortoises, 9 seeds, 1 shard in roots.",
+      "props": [
+        {
+          "name": "giant_tortoises",
+          "value": 5,
+          "description": "Ancient tortoises among palm roots"
+        },
+        {
+          "name": "coco_seeds",
+          "value": 9,
+          "description": "Glowing coco de mer seeds"
+        },
+        {
+          "name": "crystal_shard",
+          "value": 1,
+          "description": "Crystal shard nestled in roots"
+        }
+      ],
+      "hiddenClue": "5+9+1=15 → 150°",
+      "bearingDeg": 150,
+      "cipherOutput": "I",
+      "riddle": "When a heart splits clean, its halves point home.",
+      "painterlyElements": {
+        "atmosphere": "cathedral_palms_dappled_light",
+        "culturalStamps": [
+          "coco_de_mer_motifs",
+          "tortoise_shells"
+        ],
+        "brushTechnique": "dense_foliage_texture_layers",
+        "layering": "background_palms_midground_tortoises_foreground_seeds"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Palm cathedral, coco de mer husks glowing. 5 tortoises, 9 seeds, 1 shard in roots.. cathedral_palms_dappled_light with dense_foliage_texture_layers. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_palms_midground_tortoises_foreground_seeds. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: coco_de_mer_motifs, tortoise_shells. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_003",
+      "name": "Pirate's Well: Salt and Echoes",
+      "scene": "Coral-stone well. 7 ropes, 2 buckets, 4 coin carvings. Kassim pours rum; ripples form compass.",
+      "props": [
+        {
+          "name": "hanging_ropes",
+          "value": 7,
+          "description": "Weathered ropes hanging from well"
+        },
+        {
+          "name": "wooden_buckets",
+          "value": 2,
+          "description": "Old wooden buckets"
+        },
+        {
+          "name": "coin_carvings",
+          "value": 4,
+          "description": "Ancient coin carvings in stone"
+        }
+      ],
+      "hiddenClue": "7+2+4=13 → 130°",
+      "bearingDeg": 130,
+      "cipherOutput": "R",
+      "riddle": "Drop silver, hear thunder—the past still drinks.",
+      "painterlyElements": {
+        "atmosphere": "coral_stone_ancient_weathered",
+        "culturalStamps": [
+          "pirate_well_motifs",
+          "kassim_ex_privateer"
+        ],
+        "brushTechnique": "rough_stone_texture_rope_detail",
+        "layering": "background_well_midground_ropes_foreground_kassim"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Coral-stone well. 7 ropes, 2 buckets, 4 coin carvings. Kassim pours rum; ripples form compass.. coral_stone_ancient_weathered with rough_stone_texture_rope_detail. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_well_midground_ropes_foreground_kassim. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: pirate_well_motifs, kassim_ex_privateer. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_004",
+      "name": "Curieuse Channel: Tortoise Crossing",
+      "scene": "3 giant tortoises wade with map strips. 6 sharks, 2 green torches.",
+      "props": [
+        {
+          "name": "wading_tortoises",
+          "value": 3,
+          "description": "Giant tortoises crossing channel"
+        },
+        {
+          "name": "reef_sharks",
+          "value": 6,
+          "description": "Sharks circling in clear water"
+        },
+        {
+          "name": "green_torches",
+          "value": 2,
+          "description": "Green signal torches"
+        }
+      ],
+      "hiddenClue": "(6−2)×3=12 → 120°",
+      "bearingDeg": 120,
+      "cipherOutput": "E",
+      "riddle": "Carriers of centuries do not lose the way.",
+      "painterlyElements": {
+        "atmosphere": "crystal_clear_channel_water",
+        "culturalStamps": [
+          "giant_tortoise_detailed",
+          "reef_sharks"
+        ],
+        "brushTechnique": "underwater_light_refraction_texture",
+        "layering": "background_channel_midground_sharks_foreground_tortoises"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 3 giant tortoises wade with map strips. 6 sharks, 2 green torches.. crystal_clear_channel_water with underwater_light_refraction_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_channel_midground_sharks_foreground_tortoises. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: giant_tortoise_detailed, reef_sharks. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_005",
+      "name": "Baie Ste Anne: Market of Masks",
+      "scene": "Creole market. 8 masks, 4 gourds, 2 parrots. Naia trades a map scrap.",
+      "props": [
+        {
+          "name": "cultural_masks",
+          "value": 8,
+          "description": "Traditional Creole masks"
+        },
+        {
+          "name": "carved_gourds",
+          "value": 4,
+          "description": "Decorated gourds for sale"
+        },
+        {
+          "name": "market_parrots",
+          "value": 2,
+          "description": "Parrots perched in market"
+        }
+      ],
+      "hiddenClue": "8−4+2=6 → 60°",
+      "bearingDeg": 60,
+      "cipherOutput": "N",
+      "riddle": "Every mask reveals more than a face.",
+      "painterlyElements": {
+        "atmosphere": "bustling_creole_market_awnings",
+        "culturalStamps": [
+          "traditional_masks",
+          "market_vendor_naia"
+        ],
+        "brushTechnique": "textile_pattern_vibrant_colors",
+        "layering": "background_awnings_midground_stalls_foreground_naia"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Creole market. 8 masks, 4 gourds, 2 parrots. Naia trades a map scrap.. bustling_creole_market_awnings with textile_pattern_vibrant_colors. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_awnings_midground_stalls_foreground_naia. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: traditional_masks, market_vendor_naia. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_006",
+      "name": "Fond Ferdinand: The Spiral Path",
+      "scene": "Steps like nautilus. 4 landings, 3 coco carvings, 5 pandanus.",
+      "props": [
+        {
+          "name": "spiral_landings",
+          "value": 4,
+          "description": "Nautilus-spiral stone landings"
+        },
+        {
+          "name": "coco_carvings",
+          "value": 3,
+          "description": "Carved coco de mer in stone"
+        },
+        {
+          "name": "pandanus_trees",
+          "value": 5,
+          "description": "Pandanus trees along path"
+        }
+      ],
+      "hiddenClue": "4×3+5=17 → 170°",
+      "bearingDeg": 170,
+      "cipherOutput": "M",
+      "riddle": "Follow the shell's mathematics.",
+      "painterlyElements": {
+        "atmosphere": "spiral_path_mathematical_nature",
+        "culturalStamps": [
+          "nautilus_patterns",
+          "carved_coco_motifs"
+        ],
+        "brushTechnique": "geometric_natural_spiral_texture",
+        "layering": "background_pandanus_midground_carvings_foreground_steps"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Steps like nautilus. 4 landings, 3 coco carvings, 5 pandanus.. spiral_path_mathematical_nature with geometric_natural_spiral_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_pandanus_midground_carvings_foreground_steps. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: nautilus_patterns, carved_coco_motifs. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_007",
+      "name": "Anse Volbert: Tide Ledger",
+      "scene": "Low tide reveals 7 traps, 1 anchor, 2 staffs.",
+      "props": [
+        {
+          "name": "fish_traps",
+          "value": 7,
+          "description": "Traditional fish traps revealed by tide"
+        },
+        {
+          "name": "coral_anchor",
+          "value": 1,
+          "description": "Ancient anchor in sand"
+        },
+        {
+          "name": "carved_staffs",
+          "value": 2,
+          "description": "Ceremonial staffs in tidal pool"
+        }
+      ],
+      "hiddenClue": "7+(2×1)=9 → 90°",
+      "bearingDeg": 90,
+      "cipherOutput": "A",
+      "riddle": "When the ocean writes, it uses sticks and stars.",
+      "painterlyElements": {
+        "atmosphere": "low_tide_exposed_secrets",
+        "culturalStamps": [
+          "traditional_fish_traps",
+          "ceremonial_staffs"
+        ],
+        "brushTechnique": "wet_sand_reflective_texture",
+        "layering": "background_receding_water_midground_traps_foreground_anchor"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Low tide reveals 7 traps, 1 anchor, 2 staffs.. low_tide_exposed_secrets with wet_sand_reflective_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_receding_water_midground_traps_foreground_anchor. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: traditional_fish_traps, ceremonial_staffs. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_008",
+      "name": "St. Pierre Islet: Rings of Foam",
+      "scene": "Tropicbirds, 5 ring waves, 1 coral window. Siren rune flashes.",
+      "props": [
+        {
+          "name": "tropicbirds",
+          "value": 3,
+          "description": "White tropicbirds diving"
+        },
+        {
+          "name": "ring_waves",
+          "value": 5,
+          "description": "Concentric wave rings"
+        },
+        {
+          "name": "coral_window",
+          "value": 1,
+          "description": "Natural coral arch window"
+        }
+      ],
+      "hiddenClue": "(3+5)×1=8 → 80°",
+      "bearingDeg": 80,
+      "cipherOutput": "P",
+      "riddle": "The smallest portal frames the biggest sea.",
+      "painterlyElements": {
+        "atmosphere": "mystical_islet_siren_energy",
+        "culturalStamps": [
+          "tropicbird_flight_patterns",
+          "siren_rune_glow"
+        ],
+        "brushTechnique": "foam_spray_ethereal_light",
+        "layering": "background_open_sea_midground_waves_foreground_coral_window"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Tropicbirds, 5 ring waves, 1 coral window. Siren rune flashes.. mystical_islet_siren_energy with foam_spray_ethereal_light. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_open_sea_midground_waves_foreground_coral_window. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: tropicbird_flight_patterns, siren_rune_glow. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_009",
+      "name": "Chauve Souris: Bat Covenant",
+      "scene": "Cave. 9 bats, 2 chalk circles, 1 hook.",
+      "props": [
+        {
+          "name": "fruit_bats",
+          "value": 9,
+          "description": "Fruit bats in cave formation"
+        },
+        {
+          "name": "chalk_circles",
+          "value": 2,
+          "description": "Ritual chalk circles on cave floor"
+        },
+        {
+          "name": "iron_hook",
+          "value": 1,
+          "description": "Ancient iron hook in wall"
+        }
+      ],
+      "hiddenClue": "9+2−1=10 → 100°",
+      "bearingDeg": 100,
+      "cipherOutput": "P",
+      "riddle": "Read the pause marks of the night.",
+      "painterlyElements": {
+        "atmosphere": "mysterious_cave_bat_sanctuary",
+        "culturalStamps": [
+          "fruit_bat_colony",
+          "ritual_chalk_patterns"
+        ],
+        "brushTechnique": "cave_shadow_texture_chalk_dust",
+        "layering": "background_cave_depths_midground_circles_foreground_bats"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Cave. 9 bats, 2 chalk circles, 1 hook.. mysterious_cave_bat_sanctuary with cave_shadow_texture_chalk_dust. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_cave_depths_midground_circles_foreground_bats. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: fruit_bat_colony, ritual_chalk_patterns. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_010",
+      "name": "Anse Georgette: Salt Geometry",
+      "scene": "Granite monoliths. 4 stacks, 3 triangles, 2 kites.",
+      "props": [
+        {
+          "name": "granite_stacks",
+          "value": 4,
+          "description": "Balanced granite stone stacks"
+        },
+        {
+          "name": "salt_triangles",
+          "value": 3,
+          "description": "Salt crystal triangular formations"
+        },
+        {
+          "name": "wind_kites",
+          "value": 2,
+          "description": "Traditional kites in wind"
+        }
+      ],
+      "hiddenClue": "4+3+2=9 → 90°",
+      "bearingDeg": 90,
+      "cipherOutput": "R",
+      "riddle": "Triangles in shells point where wind agrees.",
+      "painterlyElements": {
+        "atmosphere": "granite_beach_geometric_patterns",
+        "culturalStamps": [
+          "balanced_stones",
+          "traditional_kites"
+        ],
+        "brushTechnique": "rough_granite_texture_salt_crystal",
+        "layering": "background_monoliths_midground_stacks_foreground_kites"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Granite monoliths. 4 stacks, 3 triangles, 2 kites.. granite_beach_geometric_patterns with rough_granite_texture_salt_crystal. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_monoliths_midground_stacks_foreground_kites. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: balanced_stones, traditional_kites. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_011",
+      "name": "Glacis Noir Lookout: Stars Beneath Leaves",
+      "scene": "5 constellations, 2 lamps, 1 tortoise shell mirror.",
+      "props": [
+        {
+          "name": "star_constellations",
+          "value": 5,
+          "description": "Constellations visible through canopy"
+        },
+        {
+          "name": "lanterns",
+          "value": 2,
+          "description": "Traditional lamps casting light"
+        },
+        {
+          "name": "shell_mirror",
+          "value": 1,
+          "description": "Polished tortoise shell mirror"
+        }
+      ],
+      "hiddenClue": "(5×2)+1=11 → 110°",
+      "bearingDeg": 110,
+      "cipherOutput": "A",
+      "riddle": "Sometimes the ground is the sky.",
+      "painterlyElements": {
+        "atmosphere": "canopy_starlight_mystical_reflection",
+        "culturalStamps": [
+          "star_navigation",
+          "tortoise_shell_crafts"
+        ],
+        "brushTechnique": "dappled_starlight_through_leaves_texture",
+        "layering": "background_stars_midground_canopy_foreground_mirror"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 5 constellations, 2 lamps, 1 tortoise shell mirror.. canopy_starlight_mystical_reflection with dappled_starlight_through_leaves_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_stars_midground_canopy_foreground_mirror. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: star_navigation, tortoise_shell_crafts. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_012",
+      "name": "Vallée Stream: The Siren's Counting Song",
+      "scene": "Women washing, 3 drums, 6 kingfishers, 2 carved leaves.",
+      "props": [
+        {
+          "name": "ritual_drums",
+          "value": 3,
+          "description": "Traditional drums by stream"
+        },
+        {
+          "name": "kingfishers",
+          "value": 6,
+          "description": "Bright kingfishers darting over water"
+        },
+        {
+          "name": "carved_leaves",
+          "value": 2,
+          "description": "Ceremonial carved leaves floating"
+        }
+      ],
+      "hiddenClue": "(6−3)+2=5 → 50°",
+      "bearingDeg": 50,
+      "cipherOutput": "S",
+      "riddle": "Count forward to return.",
+      "painterlyElements": {
+        "atmosphere": "stream_washing_women_ritual_music",
+        "culturalStamps": [
+          "creole_washing_tradition",
+          "kingfisher_flight"
+        ],
+        "brushTechnique": "flowing_water_rhythm_texture",
+        "layering": "background_stream_midground_women_foreground_drums"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Women washing, 3 drums, 6 kingfishers, 2 carved leaves.. stream_washing_women_ritual_music with flowing_water_rhythm_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_stream_midground_women_foreground_drums. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: creole_washing_tradition, kingfisher_flight. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_013",
+      "name": "Old Cemetery: Names That Walk",
+      "scene": "3 crosses, 8 candle stubs, 1 shell-key.",
+      "props": [
+        {
+          "name": "stone_crosses",
+          "value": 3,
+          "description": "Weathered stone crosses"
+        },
+        {
+          "name": "candle_stubs",
+          "value": 8,
+          "description": "Melted candle stubs on graves"
+        },
+        {
+          "name": "shell_key",
+          "value": 1,
+          "description": "Mysterious shell-shaped key"
+        }
+      ],
+      "hiddenClue": "3+8=11 → 110°",
+      "bearingDeg": 110,
+      "cipherOutput": "L",
+      "riddle": "The dead subtract but do not deceive.",
+      "painterlyElements": {
+        "atmosphere": "ancient_cemetery_spectral_presence",
+        "culturalStamps": [
+          "creole_burial_traditions",
+          "shell_artifacts"
+        ],
+        "brushTechnique": "weathered_stone_candle_wax_texture",
+        "layering": "background_graves_midground_crosses_foreground_shell_key"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 3 crosses, 8 candle stubs, 1 shell-key.. ancient_cemetery_spectral_presence with weathered_stone_candle_wax_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_graves_midground_crosses_foreground_shell_key. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: creole_burial_traditions, shell_artifacts. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_014",
+      "name": "Curieuse Mangroves: Root Letters",
+      "scene": "4 crab mounds, 5 arches, 1 tortoise bell. Roots form the letter I.",
+      "props": [
+        {
+          "name": "crab_mounds",
+          "value": 4,
+          "description": "Mud crab mounds among roots"
+        },
+        {
+          "name": "root_arches",
+          "value": 5,
+          "description": "Natural mangrove root arches"
+        },
+        {
+          "name": "tortoise_bell",
+          "value": 1,
+          "description": "Ancient tortoise shell bell"
+        }
+      ],
+      "hiddenClue": "(4+5)×1=9 → 90°",
+      "bearingDeg": 90,
+      "cipherOutput": "I",
+      "riddle": "To read the forest, climb one branch higher.",
+      "painterlyElements": {
+        "atmosphere": "mangrove_root_cathedral_letter_formation",
+        "culturalStamps": [
+          "crab_mound_patterns",
+          "tortoise_shell_bell"
+        ],
+        "brushTechnique": "twisted_root_mud_texture",
+        "layering": "background_mangrove_maze_midground_arches_foreground_bell"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 4 crab mounds, 5 arches, 1 tortoise bell. Roots form the letter I.. mangrove_root_cathedral_letter_formation with twisted_root_mud_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_mangrove_maze_midground_arches_foreground_bell. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: crab_mound_patterns, tortoise_shell_bell. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_015",
+      "name": "Anse La Farine Jetty: Boards That Remember",
+      "scene": "7 gaps, 1 post, 2 floats. A corked bottle beneath boards.",
+      "props": [
+        {
+          "name": "jetty_gaps",
+          "value": 7,
+          "description": "Missing planks creating gaps"
+        },
+        {
+          "name": "mooring_post",
+          "value": 1,
+          "description": "Weathered mooring post"
+        },
+        {
+          "name": "fishing_floats",
+          "value": 2,
+          "description": "Colorful fishing floats"
+        }
+      ],
+      "hiddenClue": "(7−1)+2=8 → 80°",
+      "bearingDeg": 80,
+      "cipherOutput": "N",
+      "riddle": "Where something is missing, something is hidden.",
+      "painterlyElements": {
+        "atmosphere": "weathered_jetty_hidden_secrets",
+        "culturalStamps": [
+          "traditional_jetty_construction",
+          "fishing_gear"
+        ],
+        "brushTechnique": "weathered_wood_rope_texture",
+        "layering": "background_lagoon_midground_jetty_foreground_bottle"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 7 gaps, 1 post, 2 floats. A corked bottle beneath boards.. weathered_jetty_hidden_secrets with weathered_wood_rope_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_lagoon_midground_jetty_foreground_bottle. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: traditional_jetty_construction, fishing_gear. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_016",
+      "name": "La Digue Passage: White Birds on Wind",
+      "scene": "6 terns, 1 buoy, 3 beacons. Blink rate spells a number.",
+      "props": [
+        {
+          "name": "white_terns",
+          "value": 6,
+          "description": "Terns wheeling in formation"
+        },
+        {
+          "name": "channel_buoy",
+          "value": 1,
+          "description": "Navigation buoy bobbing"
+        },
+        {
+          "name": "signal_beacons",
+          "value": 3,
+          "description": "Blinking navigation beacons"
+        }
+      ],
+      "hiddenClue": "(6÷3)×1=2 → 20°",
+      "bearingDeg": 20,
+      "cipherOutput": "I",
+      "riddle": "A thought repeated becomes a path.",
+      "painterlyElements": {
+        "atmosphere": "channel_passage_navigation_rhythm",
+        "culturalStamps": [
+          "tern_flight_patterns",
+          "maritime_navigation"
+        ],
+        "brushTechnique": "wind_swept_feather_beacon_light_texture",
+        "layering": "background_passage_midground_buoy_foreground_terns"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 6 terns, 1 buoy, 3 beacons. Blink rate spells a number.. channel_passage_navigation_rhythm with wind_swept_feather_beacon_light_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_passage_midground_buoy_foreground_terns. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: tern_flight_patterns, maritime_navigation. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_017",
+      "name": "Ave Maria Rocks: Choir of Spray",
+      "scene": "5 plumes, 2 rosaries, 1 locket.",
+      "props": [
+        {
+          "name": "spray_plumes",
+          "value": 5,
+          "description": "Towering spray plumes from rocks"
+        },
+        {
+          "name": "coral_rosaries",
+          "value": 2,
+          "description": "Rosaries made of coral beads"
+        },
+        {
+          "name": "silver_locket",
+          "value": 1,
+          "description": "Tarnished silver locket"
+        }
+      ],
+      "hiddenClue": "5+2+1=8 → 80°",
+      "bearingDeg": 80,
+      "cipherOutput": "S",
+      "riddle": "Pray to the tide; it counts without fingers.",
+      "painterlyElements": {
+        "atmosphere": "sacred_rocks_spray_choir_devotion",
+        "culturalStamps": [
+          "coral_rosary_crafts",
+          "maritime_devotion"
+        ],
+        "brushTechnique": "towering_spray_coral_texture",
+        "layering": "background_rocks_midground_spray_foreground_rosaries"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 5 plumes, 2 rosaries, 1 locket.. sacred_rocks_spray_choir_devotion with towering_spray_coral_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_rocks_midground_spray_foreground_rosaries. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: coral_rosary_crafts, maritime_devotion. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_018",
+      "name": "Cousin Island Sanctuary: Wardens of Light",
+      "scene": "4 turtle nests, 3 lanterns, 2 signs. A tortoise bears a glyph.",
+      "props": [
+        {
+          "name": "turtle_nests",
+          "value": 4,
+          "description": "Protected sea turtle nests"
+        },
+        {
+          "name": "sanctuary_lanterns",
+          "value": 3,
+          "description": "Conservation lanterns"
+        },
+        {
+          "name": "warning_signs",
+          "value": 2,
+          "description": "Sanctuary protection signs"
+        }
+      ],
+      "hiddenClue": "4×3−2=10 → 100°",
+      "bearingDeg": 100,
+      "cipherOutput": "L",
+      "riddle": "Guardians point, even when silent.",
+      "painterlyElements": {
+        "atmosphere": "protected_sanctuary_conservation_duty",
+        "culturalStamps": [
+          "turtle_conservation",
+          "sanctuary_guardian"
+        ],
+        "brushTechnique": "sand_nest_lantern_glow_texture",
+        "layering": "background_sanctuary_midground_nests_foreground_tortoise_glyph"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 4 turtle nests, 3 lanterns, 2 signs. A tortoise bears a glyph.. protected_sanctuary_conservation_duty with sand_nest_lantern_glow_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_sanctuary_midground_nests_foreground_tortoise_glyph. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: turtle_conservation, sanctuary_guardian. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_019",
+      "name": "Fond Ferdinand Stair: The Echo of Steps",
+      "scene": "9 steps, 4 candles, 1 pendant. Footsteps echo 2-1-2-1.",
+      "props": [
+        {
+          "name": "stone_steps",
+          "value": 9,
+          "description": "Ancient stone steps ascending"
+        },
+        {
+          "name": "ritual_candles",
+          "value": 4,
+          "description": "Candles marking the path"
+        },
+        {
+          "name": "jade_pendant",
+          "value": 1,
+          "description": "Carved jade pendant"
+        }
+      ],
+      "hiddenClue": "(9+1)−4=6 → 60°",
+      "bearingDeg": 60,
+      "cipherOutput": "E",
+      "riddle": "Between rise and rest, choose the smaller number.",
+      "painterlyElements": {
+        "atmosphere": "ascending_steps_echo_ritual_passage",
+        "culturalStamps": [
+          "stone_step_construction",
+          "jade_carving"
+        ],
+        "brushTechnique": "worn_stone_candle_flame_texture",
+        "layering": "background_ascending_path_midground_candles_foreground_pendant"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of 9 steps, 4 candles, 1 pendant. Footsteps echo 2-1-2-1.. ascending_steps_echo_ritual_passage with worn_stone_candle_flame_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_ascending_path_midground_candles_foreground_pendant. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: stone_step_construction, jade_carving. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    },
+    {
+      "id": "ch7_020",
+      "name": "Pointe Chevalier: Siren's Map Restored",
+      "scene": "Fragments unfurl across water. 10 stars, 5 glyphs, 1 spiral. The map spells 'SIREN MAP PRASLIN ISLES.'",
+      "props": [
+        {
+          "name": "map_stars",
+          "value": 10,
+          "description": "Navigation stars on the restored map"
+        },
+        {
+          "name": "ancient_glyphs",
+          "value": 5,
+          "description": "Glyphs revealing the cipher"
+        },
+        {
+          "name": "central_spiral",
+          "value": 1,
+          "description": "Spiral binding all elements"
+        }
+      ],
+      "hiddenClue": "10+5+1=16 → 160°",
+      "bearingDeg": 160,
+      "cipherOutput": "S",
+      "riddle": "When sea and sky agree, read the music.",
+      "painterlyElements": {
+        "atmosphere": "map_revelation_siren_song_completion",
+        "culturalStamps": [
+          "complete_siren_map",
+          "praslin_isles_layout"
+        ],
+        "brushTechnique": "unfurling_map_water_reflection_texture",
+        "layering": "background_open_sea_midground_floating_fragments_foreground_complete_map"
+      },
+      "renderSpec": {
+        "prompt": "Etched parchment engraved map-card of Fragments unfurl across water. 10 stars, 5 glyphs, 1 spiral. The map spells 'SIREN MAP PRASLIN ISLES.'. map_revelation_siren_song_completion with unfurling_map_water_reflection_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_open_sea_midground_floating_fragments_foreground_complete_map. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: complete_siren_map, praslin_isles_layout. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+        "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+        "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+        "guaranteedEffects": [
+          "textured_brushes",
+          "multi_layer_overlays",
+          "pattern_fills",
+          "cultural_motif_stamps",
+          "volumetric_depth",
+          "saturated_palette"
+        ]
+      },
+      "outputSize": 2048,
+      "colorSpace": "sRGB",
+      "painterly": true,
+      "bannedElements": [
+        "flat_shapes",
+        "primitive_graphics",
+        "basic_fills",
+        "simple_geometry",
+        "vector_primitives",
+        "plain_colors"
+      ]
+    }
+  ],
+  "outputSpecs": {
+    "dimensions": "2048x2048",
+    "format": "PNG",
+    "colorSpace": "sRGB",
+    "renderLayers": [
+      "background",
+      "midground",
+      "foreground",
+      "overlay",
+      "caption"
+    ]
+  }
+}

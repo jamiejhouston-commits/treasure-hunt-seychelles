@@ -1,0 +1,46 @@
+{
+  "name": "SE2-17 — GAULETTES MARK",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Gaulettes (Baie Lazare district), Mahé. By the marked stone where roads lean to the sea,\nscratch the sign and follow the feather.",
+  "image": "ipfs://bafkreiagcrzpvuthoghnj77pq7qxc5e3qw3yiazyibaszyhpxiugxg5ndu",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Gaulettes (Baie Lazare district), Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "T"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Baie Lazare beach"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "etching hides letter; coin notch aligns home.",
+    "clue": "By the marked stone where roads lean to the sea,\nscratch the sign and follow the feather.",
+    "visual_description": "Roadside stone/marker silhouette (Picault zone); faint skull etch; coin in crack; feather points to bay."
+  }
+}

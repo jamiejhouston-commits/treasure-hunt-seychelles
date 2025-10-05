@@ -1,0 +1,2465 @@
+[
+  {
+    "tokenId": 1,
+    "rarity": "Epic",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 4,
+    "coordinates": "-6.6493, 50.2225",
+    "clue": {
+      "type": "cipher",
+      "value": "Rotate 4°, sum primes",
+      "hint": "Bearing 4°. Coords -6.6493, 50.2225."
+    }
+  },
+  {
+    "tokenId": 2,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 227,
+    "coordinates": "-4.0667, 55.6121",
+    "clue": {
+      "type": "coord",
+      "value": "-4.0667, 55.6121",
+      "hint": "Bearing 227°. Coords -4.0667, 55.6121."
+    }
+  },
+  {
+    "tokenId": 3,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 286,
+    "coordinates": "-6.4534, 49.2409",
+    "clue": {
+      "type": "coord",
+      "value": "-6.4534, 49.2409",
+      "hint": "Bearing 286°. Coords -6.4534, 49.2409."
+    }
+  },
+  {
+    "tokenId": 4,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 276,
+    "coordinates": "-5.0249, 52.7468",
+    "clue": {
+      "type": "coord",
+      "value": "-5.0249, 52.7468",
+      "hint": "Bearing 276°. Coords -5.0249, 52.7468."
+    }
+  },
+  {
+    "tokenId": 5,
+    "rarity": "Rare",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 305,
+    "coordinates": "-8.6185, 46.3689",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 305°. Coords -8.6185, 46.3689."
+    }
+  },
+  {
+    "tokenId": 6,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 221,
+    "coordinates": "-8.1954, 53.2280",
+    "clue": {
+      "type": "coord",
+      "value": "-8.1954, 53.2280",
+      "hint": "Bearing 221°. Coords -8.1954, 53.2280."
+    }
+  },
+  {
+    "tokenId": 7,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 206,
+    "coordinates": "-5.5673, 50.3368",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 206°. Coords -5.5673, 50.3368."
+    }
+  },
+  {
+    "tokenId": 8,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 149,
+    "coordinates": "-6.3342, 46.3406",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 149°. Coords -6.3342, 46.3406."
+    }
+  },
+  {
+    "tokenId": 9,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 346,
+    "coordinates": "-7.2679, 51.6296",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 346°. Coords -7.2679, 51.6296."
+    }
+  },
+  {
+    "tokenId": 10,
+    "rarity": "Rare",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 263,
+    "coordinates": "-8.4313, 48.0216",
+    "clue": {
+      "type": "coord",
+      "value": "-8.4313, 48.0216",
+      "hint": "Bearing 263°. Coords -8.4313, 48.0216."
+    }
+  },
+  {
+    "tokenId": 11,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 321,
+    "coordinates": "-9.4854, 52.0293",
+    "clue": {
+      "type": "coord",
+      "value": "-9.4854, 52.0293",
+      "hint": "Bearing 321°. Coords -9.4854, 52.0293."
+    }
+  },
+  {
+    "tokenId": 12,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 22,
+    "coordinates": "-5.9317, 50.5256",
+    "clue": {
+      "type": "coord",
+      "value": "-5.9317, 50.5256",
+      "hint": "Bearing 22°. Coords -5.9317, 50.5256."
+    }
+  },
+  {
+    "tokenId": 13,
+    "rarity": "Epic",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 15,
+    "coordinates": "-6.1828, 51.8570",
+    "clue": {
+      "type": "cipher",
+      "value": "Rotate 15°, sum primes",
+      "hint": "Bearing 15°. Coords -6.1828, 51.8570."
+    }
+  },
+  {
+    "tokenId": 14,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 11,
+    "coordinates": "-7.1849, 50.8103",
+    "clue": {
+      "type": "coord",
+      "value": "-7.1849, 50.8103",
+      "hint": "Bearing 11°. Coords -7.1849, 50.8103."
+    }
+  },
+  {
+    "tokenId": 15,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 77,
+    "coordinates": "-4.0408, 49.6005",
+    "clue": {
+      "type": "coord",
+      "value": "-4.0408, 49.6005",
+      "hint": "Bearing 77°. Coords -4.0408, 49.6005."
+    }
+  },
+  {
+    "tokenId": 16,
+    "rarity": "Rare",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 244,
+    "coordinates": "-8.9831, 52.1788",
+    "clue": {
+      "type": "coord",
+      "value": "-8.9831, 52.1788",
+      "hint": "Bearing 244°. Coords -8.9831, 52.1788."
+    }
+  },
+  {
+    "tokenId": 17,
+    "rarity": "Rare",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 166,
+    "coordinates": "-9.4351, 46.1162",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 166°. Coords -9.4351, 46.1162."
+    }
+  },
+  {
+    "tokenId": 18,
+    "rarity": "Rare",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 348,
+    "coordinates": "-8.8651, 49.0726",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 348°. Coords -8.8651, 49.0726."
+    }
+  },
+  {
+    "tokenId": 19,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 132,
+    "coordinates": "-7.6838, 50.6494",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 132°. Coords -7.6838, 50.6494."
+    }
+  },
+  {
+    "tokenId": 20,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 66,
+    "coordinates": "-8.7273, 46.1821",
+    "clue": {
+      "type": "coord",
+      "value": "-8.7273, 46.1821",
+      "hint": "Bearing 66°. Coords -8.7273, 46.1821."
+    }
+  },
+  {
+    "tokenId": 21,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 45,
+    "coordinates": "-6.2870, 47.6137",
+    "clue": {
+      "type": "coord",
+      "value": "-6.2870, 47.6137",
+      "hint": "Bearing 45°. Coords -6.2870, 47.6137."
+    }
+  },
+  {
+    "tokenId": 22,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 333,
+    "coordinates": "-8.5987, 48.8417",
+    "clue": {
+      "type": "coord",
+      "value": "-8.5987, 48.8417",
+      "hint": "Bearing 333°. Coords -8.5987, 48.8417."
+    }
+  },
+  {
+    "tokenId": 23,
+    "rarity": "Rare",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 201,
+    "coordinates": "-5.8705, 46.1180",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 201°. Coords -5.8705, 46.1180."
+    }
+  },
+  {
+    "tokenId": 24,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 328,
+    "coordinates": "-8.1549, 52.5981",
+    "clue": {
+      "type": "coord",
+      "value": "-8.1549, 52.5981",
+      "hint": "Bearing 328°. Coords -8.1549, 52.5981."
+    }
+  },
+  {
+    "tokenId": 25,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 86,
+    "coordinates": "-7.1990, 51.2539",
+    "clue": {
+      "type": "coord",
+      "value": "-7.1990, 51.2539",
+      "hint": "Bearing 86°. Coords -7.1990, 51.2539."
+    }
+  },
+  {
+    "tokenId": 26,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 340,
+    "coordinates": "-4.5368, 55.8289",
+    "clue": {
+      "type": "coord",
+      "value": "-4.5368, 55.8289",
+      "hint": "Bearing 340°. Coords -4.5368, 55.8289."
+    }
+  },
+  {
+    "tokenId": 27,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 163,
+    "coordinates": "-4.5642, 55.6896",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 163°. Coords -4.5642, 55.6896."
+    }
+  },
+  {
+    "tokenId": 28,
+    "rarity": "Rare",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Astronomy"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 168,
+    "coordinates": "-7.5702, 50.5969",
+    "clue": {
+      "type": "coord",
+      "value": "-7.5702, 50.5969",
+      "hint": "Bearing 168°. Coords -7.5702, 50.5969."
+    }
+  },
+  {
+    "tokenId": 29,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 96,
+    "coordinates": "-9.9110, 51.1827",
+    "clue": {
+      "type": "coord",
+      "value": "-9.9110, 51.1827",
+      "hint": "Bearing 96°. Coords -9.9110, 51.1827."
+    }
+  },
+  {
+    "tokenId": 30,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 132,
+    "coordinates": "-8.4749, 53.3721",
+    "clue": {
+      "type": "cipher",
+      "value": "Rotate 132°, sum primes",
+      "hint": "Bearing 132°. Coords -8.4749, 53.3721."
+    }
+  },
+  {
+    "tokenId": 31,
+    "rarity": "Rare",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 59,
+    "coordinates": "-6.7262, 50.4705",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 59°. Coords -6.7262, 50.4705."
+    }
+  },
+  {
+    "tokenId": 32,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 37,
+    "coordinates": "-5.7795, 52.8649",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 37°. Coords -5.7795, 52.8649."
+    }
+  },
+  {
+    "tokenId": 33,
+    "rarity": "Legendary",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": true
+    },
+    "bearing": 130,
+    "coordinates": "-9.3256, 50.7648",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 130°. Coords -9.3256, 50.7648."
+    }
+  },
+  {
+    "tokenId": 34,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 227,
+    "coordinates": "-8.7226, 48.3825",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 227°. Coords -8.7226, 48.3825."
+    }
+  },
+  {
+    "tokenId": 35,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 1,
+    "coordinates": "-9.1016, 55.1187",
+    "clue": {
+      "type": "cipher",
+      "value": "Rotate 1°, sum primes",
+      "hint": "Bearing 1°. Coords -9.1016, 55.1187."
+    }
+  },
+  {
+    "tokenId": 36,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 346,
+    "coordinates": "-9.9141, 54.9648",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 346°. Coords -9.9141, 54.9648."
+    }
+  },
+  {
+    "tokenId": 37,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 251,
+    "coordinates": "-6.6434, 54.9998",
+    "clue": {
+      "type": "coord",
+      "value": "-6.6434, 54.9998",
+      "hint": "Bearing 251°. Coords -6.6434, 54.9998."
+    }
+  },
+  {
+    "tokenId": 38,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 314,
+    "coordinates": "-9.9295, 49.8494",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 314°. Coords -9.9295, 49.8494."
+    }
+  },
+  {
+    "tokenId": 39,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 34,
+    "coordinates": "-4.3467, 52.4147",
+    "clue": {
+      "type": "coord",
+      "value": "-4.3467, 52.4147",
+      "hint": "Bearing 34°. Coords -4.3467, 52.4147."
+    }
+  },
+  {
+    "tokenId": 40,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 235,
+    "coordinates": "-8.5848, 50.1066",
+    "clue": {
+      "type": "coord",
+      "value": "-8.5848, 50.1066",
+      "hint": "Bearing 235°. Coords -8.5848, 50.1066."
+    }
+  },
+  {
+    "tokenId": 41,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 355,
+    "coordinates": "-9.8702, 52.6795",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 355°. Coords -9.8702, 52.6795."
+    }
+  },
+  {
+    "tokenId": 42,
+    "rarity": "Rare",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 82,
+    "coordinates": "-4.8396, 52.1750",
+    "clue": {
+      "type": "coord",
+      "value": "-4.8396, 52.1750",
+      "hint": "Bearing 82°. Coords -4.8396, 52.1750."
+    }
+  },
+  {
+    "tokenId": 43,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 278,
+    "coordinates": "-6.0422, 54.6870",
+    "clue": {
+      "type": "coord",
+      "value": "-6.0422, 54.6870",
+      "hint": "Bearing 278°. Coords -6.0422, 54.6870."
+    }
+  },
+  {
+    "tokenId": 44,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 12,
+    "coordinates": "-8.9001, 54.2387",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 12°. Coords -8.9001, 54.2387."
+    }
+  },
+  {
+    "tokenId": 45,
+    "rarity": "Rare",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Astronomy",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 28,
+    "coordinates": "-6.2967, 54.0004",
+    "clue": {
+      "type": "coord",
+      "value": "-6.2967, 54.0004",
+      "hint": "Bearing 28°. Coords -6.2967, 54.0004."
+    }
+  },
+  {
+    "tokenId": 46,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 152,
+    "coordinates": "-8.9042, 51.0192",
+    "clue": {
+      "type": "coord",
+      "value": "-8.9042, 51.0192",
+      "hint": "Bearing 152°. Coords -8.9042, 51.0192."
+    }
+  },
+  {
+    "tokenId": 47,
+    "rarity": "Rare",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 159,
+    "coordinates": "-5.3807, 52.7503",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 159°. Coords -5.3807, 52.7503."
+    }
+  },
+  {
+    "tokenId": 48,
+    "rarity": "Rare",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 178,
+    "coordinates": "-9.1293, 49.1000",
+    "clue": {
+      "type": "coord",
+      "value": "-9.1293, 49.1000",
+      "hint": "Bearing 178°. Coords -9.1293, 49.1000."
+    }
+  },
+  {
+    "tokenId": 49,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 101,
+    "coordinates": "-9.8790, 48.8616",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 101°. Coords -9.8790, 48.8616."
+    }
+  },
+  {
+    "tokenId": 50,
+    "rarity": "Rare",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 76,
+    "coordinates": "-7.0812, 49.2175",
+    "clue": {
+      "type": "cipher",
+      "value": "Rotate 76°, sum primes",
+      "hint": "Bearing 76°. Coords -7.0812, 49.2175."
+    }
+  },
+  {
+    "tokenId": 51,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 36,
+    "coordinates": "-5.3107, 51.6808",
+    "clue": {
+      "type": "coord",
+      "value": "-5.3107, 51.6808",
+      "hint": "Bearing 36°. Coords -5.3107, 51.6808."
+    }
+  },
+  {
+    "tokenId": 52,
+    "rarity": "Rare",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 116,
+    "coordinates": "-8.2643, 48.0278",
+    "clue": {
+      "type": "coord",
+      "value": "-8.2643, 48.0278",
+      "hint": "Bearing 116°. Coords -8.2643, 48.0278."
+    }
+  },
+  {
+    "tokenId": 53,
+    "rarity": "Rare",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 313,
+    "coordinates": "-8.3142, 47.0110",
+    "clue": {
+      "type": "coord",
+      "value": "-8.3142, 47.0110",
+      "hint": "Bearing 313°. Coords -8.3142, 47.0110."
+    }
+  },
+  {
+    "tokenId": 54,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 91,
+    "coordinates": "-6.5465, 47.2881",
+    "clue": {
+      "type": "coord",
+      "value": "-6.5465, 47.2881",
+      "hint": "Bearing 91°. Coords -6.5465, 47.2881."
+    }
+  },
+  {
+    "tokenId": 55,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 239,
+    "coordinates": "-4.8981, 52.7295",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 239°. Coords -4.8981, 52.7295."
+    }
+  },
+  {
+    "tokenId": 56,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 270,
+    "coordinates": "-8.7198, 51.5523",
+    "clue": {
+      "type": "coord",
+      "value": "-8.7198, 51.5523",
+      "hint": "Bearing 270°. Coords -8.7198, 51.5523."
+    }
+  },
+  {
+    "tokenId": 57,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 173,
+    "coordinates": "-4.6846, 49.0896",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 173°. Coords -4.6846, 49.0896."
+    }
+  },
+  {
+    "tokenId": 58,
+    "rarity": "Epic",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 84,
+    "coordinates": "-9.8676, 51.8287",
+    "clue": {
+      "type": "coord",
+      "value": "-9.8676, 51.8287",
+      "hint": "Bearing 84°. Coords -9.8676, 51.8287."
+    }
+  },
+  {
+    "tokenId": 59,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 155,
+    "coordinates": "-6.5706, 50.8019",
+    "clue": {
+      "type": "coord",
+      "value": "-6.5706, 50.8019",
+      "hint": "Bearing 155°. Coords -6.5706, 50.8019."
+    }
+  },
+  {
+    "tokenId": 60,
+    "rarity": "Rare",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 24,
+    "coordinates": "-6.3623, 50.2973",
+    "clue": {
+      "type": "coord",
+      "value": "-6.3623, 50.2973",
+      "hint": "Bearing 24°. Coords -6.3623, 50.2973."
+    }
+  },
+  {
+    "tokenId": 61,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 151,
+    "coordinates": "-7.6770, 52.1806",
+    "clue": {
+      "type": "coord",
+      "value": "-7.6770, 52.1806",
+      "hint": "Bearing 151°. Coords -7.6770, 52.1806."
+    }
+  },
+  {
+    "tokenId": 62,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 107,
+    "coordinates": "-7.4182, 46.4442",
+    "clue": {
+      "type": "coord",
+      "value": "-7.4182, 46.4442",
+      "hint": "Bearing 107°. Coords -7.4182, 46.4442."
+    }
+  },
+  {
+    "tokenId": 63,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 82,
+    "coordinates": "-6.4327, 55.6694",
+    "clue": {
+      "type": "coord",
+      "value": "-6.4327, 55.6694",
+      "hint": "Bearing 82°. Coords -6.4327, 55.6694."
+    }
+  },
+  {
+    "tokenId": 64,
+    "rarity": "Epic",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 10,
+    "coordinates": "-5.3609, 46.5878",
+    "clue": {
+      "type": "coord",
+      "value": "-5.3609, 46.5878",
+      "hint": "Bearing 10°. Coords -5.3609, 46.5878."
+    }
+  },
+  {
+    "tokenId": 65,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 208,
+    "coordinates": "-6.9601, 54.7934",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 208°. Coords -6.9601, 54.7934."
+    }
+  },
+  {
+    "tokenId": 66,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 79,
+    "coordinates": "-5.8549, 52.6262",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 79°. Coords -5.8549, 52.6262."
+    }
+  },
+  {
+    "tokenId": 67,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 237,
+    "coordinates": "-5.9935, 49.1755",
+    "clue": {
+      "type": "cipher",
+      "value": "Rotate 237°, sum primes",
+      "hint": "Bearing 237°. Coords -5.9935, 49.1755."
+    }
+  },
+  {
+    "tokenId": 68,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 258,
+    "coordinates": "-6.4831, 49.9779",
+    "clue": {
+      "type": "coord",
+      "value": "-6.4831, 49.9779",
+      "hint": "Bearing 258°. Coords -6.4831, 49.9779."
+    }
+  },
+  {
+    "tokenId": 69,
+    "rarity": "Rare",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 193,
+    "coordinates": "-6.3332, 47.7492",
+    "clue": {
+      "type": "coord",
+      "value": "-6.3332, 47.7492",
+      "hint": "Bearing 193°. Coords -6.3332, 47.7492."
+    }
+  },
+  {
+    "tokenId": 70,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 48,
+    "coordinates": "-9.9779, 55.3214",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 48°. Coords -9.9779, 55.3214."
+    }
+  },
+  {
+    "tokenId": 71,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 220,
+    "coordinates": "-6.5193, 55.6477",
+    "clue": {
+      "type": "coord",
+      "value": "-6.5193, 55.6477",
+      "hint": "Bearing 220°. Coords -6.5193, 55.6477."
+    }
+  },
+  {
+    "tokenId": 72,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 60,
+    "coordinates": "-7.4143, 55.0157",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 60°. Coords -7.4143, 55.0157."
+    }
+  },
+  {
+    "tokenId": 73,
+    "rarity": "Rare",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 188,
+    "coordinates": "-7.7247, 51.7441",
+    "clue": {
+      "type": "coord",
+      "value": "-7.7247, 51.7441",
+      "hint": "Bearing 188°. Coords -7.7247, 51.7441."
+    }
+  },
+  {
+    "tokenId": 74,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 85,
+    "coordinates": "-9.6633, 46.5834",
+    "clue": {
+      "type": "coord",
+      "value": "-9.6633, 46.5834",
+      "hint": "Bearing 85°. Coords -9.6633, 46.5834."
+    }
+  },
+  {
+    "tokenId": 75,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 246,
+    "coordinates": "-8.0511, 49.5762",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 246°. Coords -8.0511, 49.5762."
+    }
+  },
+  {
+    "tokenId": 76,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 163,
+    "coordinates": "-8.0916, 46.3959",
+    "clue": {
+      "type": "cipher",
+      "value": "Rotate 163°, sum primes",
+      "hint": "Bearing 163°. Coords -8.0916, 46.3959."
+    }
+  },
+  {
+    "tokenId": 77,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 191,
+    "coordinates": "-9.9773, 53.0780",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 191°. Coords -9.9773, 53.0780."
+    }
+  },
+  {
+    "tokenId": 78,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 250,
+    "coordinates": "-6.8974, 48.9048",
+    "clue": {
+      "type": "coord",
+      "value": "-6.8974, 48.9048",
+      "hint": "Bearing 250°. Coords -6.8974, 48.9048."
+    }
+  },
+  {
+    "tokenId": 79,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 114,
+    "coordinates": "-8.7892, 54.8672",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 114°. Coords -8.7892, 54.8672."
+    }
+  },
+  {
+    "tokenId": 80,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 313,
+    "coordinates": "-4.3125, 47.5288",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 313°. Coords -4.3125, 47.5288."
+    }
+  },
+  {
+    "tokenId": 81,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 23,
+    "coordinates": "-6.6153, 51.7722",
+    "clue": {
+      "type": "coord",
+      "value": "-6.6153, 51.7722",
+      "hint": "Bearing 23°. Coords -6.6153, 51.7722."
+    }
+  },
+  {
+    "tokenId": 82,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 149,
+    "coordinates": "-8.4831, 47.8273",
+    "clue": {
+      "type": "coord",
+      "value": "-8.4831, 47.8273",
+      "hint": "Bearing 149°. Coords -8.4831, 47.8273."
+    }
+  },
+  {
+    "tokenId": 83,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 243,
+    "coordinates": "-5.1427, 48.3743",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 243°. Coords -5.1427, 48.3743."
+    }
+  },
+  {
+    "tokenId": 84,
+    "rarity": "Epic",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 34,
+    "coordinates": "-6.6631, 48.4111",
+    "clue": {
+      "type": "coord",
+      "value": "-6.6631, 48.4111",
+      "hint": "Bearing 34°. Coords -6.6631, 48.4111."
+    }
+  },
+  {
+    "tokenId": 85,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 101,
+    "coordinates": "-5.9349, 47.3029",
+    "clue": {
+      "type": "coord",
+      "value": "-5.9349, 47.3029",
+      "hint": "Bearing 101°. Coords -5.9349, 47.3029."
+    }
+  },
+  {
+    "tokenId": 86,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 151,
+    "coordinates": "-8.4856, 52.3086",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 151°. Coords -8.4856, 52.3086."
+    }
+  },
+  {
+    "tokenId": 87,
+    "rarity": "Epic",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 286,
+    "coordinates": "-9.2846, 51.1566",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 286°. Coords -9.2846, 51.1566."
+    }
+  },
+  {
+    "tokenId": 88,
+    "rarity": "Epic",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 5,
+    "coordinates": "-8.3041, 55.2991",
+    "clue": {
+      "type": "coord",
+      "value": "-8.3041, 55.2991",
+      "hint": "Bearing 5°. Coords -8.3041, 55.2991."
+    }
+  },
+  {
+    "tokenId": 89,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 69,
+    "coordinates": "-9.6250, 47.8835",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 69°. Coords -9.6250, 47.8835."
+    }
+  },
+  {
+    "tokenId": 90,
+    "rarity": "Rare",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 198,
+    "coordinates": "-9.7562, 51.5212",
+    "clue": {
+      "type": "coord",
+      "value": "-9.7562, 51.5212",
+      "hint": "Bearing 198°. Coords -9.7562, 51.5212."
+    }
+  },
+  {
+    "tokenId": 91,
+    "rarity": "Epic",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Astronomy",
+      "Coral Tracing"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": true,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 109,
+    "coordinates": "-7.2565, 47.5436",
+    "clue": {
+      "type": "coord",
+      "value": "-7.2565, 47.5436",
+      "hint": "Bearing 109°. Coords -7.2565, 47.5436."
+    }
+  },
+  {
+    "tokenId": 92,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 61,
+    "coordinates": "-5.5776, 46.0671",
+    "clue": {
+      "type": "coord",
+      "value": "-5.5776, 46.0671",
+      "hint": "Bearing 61°. Coords -5.5776, 46.0671."
+    }
+  },
+  {
+    "tokenId": 93,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 262,
+    "coordinates": "-7.6895, 52.0937",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 262°. Coords -7.6895, 52.0937."
+    }
+  },
+  {
+    "tokenId": 94,
+    "rarity": "Common",
+    "island": "La Digue",
+    "chapter": "La Digue's Secrets",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 147,
+    "coordinates": "-4.2748, 52.5437",
+    "clue": {
+      "type": "coord",
+      "value": "-4.2748, 52.5437",
+      "hint": "Bearing 147°. Coords -4.2748, 52.5437."
+    }
+  },
+  {
+    "tokenId": 95,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 259,
+    "coordinates": "-4.2961, 47.4544",
+    "clue": {
+      "type": "coord",
+      "value": "-4.2961, 47.4544",
+      "hint": "Bearing 259°. Coords -4.2961, 47.4544."
+    }
+  },
+  {
+    "tokenId": 96,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 90,
+    "coordinates": "-6.3099, 48.5018",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 90°. Coords -6.3099, 48.5018."
+    }
+  },
+  {
+    "tokenId": 97,
+    "rarity": "Common",
+    "island": "Praslin",
+    "chapter": "Praslin's Prophecy",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 68,
+    "coordinates": "-7.4363, 48.4139",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 68°. Coords -7.4363, 48.4139."
+    }
+  },
+  {
+    "tokenId": 98,
+    "rarity": "Rare",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [
+      "Astronomy",
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": true,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 197,
+    "coordinates": "-4.5493, 47.0328",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 197°. Coords -4.5493, 47.0328."
+    }
+  },
+  {
+    "tokenId": 99,
+    "rarity": "Common",
+    "island": "Aldabra",
+    "chapter": "Outer Islands Revelation",
+    "overlays": [
+      "Coco de Mer Sigil"
+    ],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": true,
+      "gold_foil": false
+    },
+    "bearing": 82,
+    "coordinates": "-7.5647, 55.8116",
+    "clue": {
+      "type": "glyph",
+      "value": "ᚠᚢᚦᚨ",
+      "hint": "Bearing 82°. Coords -7.5647, 55.8116."
+    }
+  },
+  {
+    "tokenId": 100,
+    "rarity": "Common",
+    "island": "Mahé",
+    "chapter": "Mahé Manuscripts",
+    "overlays": [],
+    "layers": {
+      "parchment": true,
+      "island": true,
+      "compass": true,
+      "stars": false,
+      "coral": false,
+      "coco_de_mer": false,
+      "gold_foil": false
+    },
+    "bearing": 124,
+    "coordinates": "-6.9287, 46.0877",
+    "clue": {
+      "type": "coord",
+      "value": "-6.9287, 46.0877",
+      "hint": "Bearing 124°. Coords -6.9287, 46.0877."
+    }
+  }
+]

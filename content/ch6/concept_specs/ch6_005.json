@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_005",
+  "name": "Forest Drum Circle: Rhythms of the Ancestors",
+  "description": "Clearing under takamaka. Five hand-drums; eight clusters of fireflies pulse in rhythm. Maliya plays, Naia maps beats, Kassim emotional. Two ashy concentric ground rings. Riddle: If you can hear the fire, you can see the path.",
+  "bearingDeg": 150,
+  "cipherOutput": "N",
+  "hiddenClue": "5 + 8 + 2 = 15 → 150°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Clearing under takamaka. Five hand-drums; eight clusters of fireflies pulse in rhythm. Maliya plays, Naia maps beats, Kassim emotional. Two ashy concentric ground rings.. Key props numeric: 5 drums, 8 fireflyClusters, 2 rings. Cipher letter: N Bearing: 150°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "N"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 150
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "5 + 8 + 2 = 15 → 150°"
+    },
+    {
+      "trait_type": "drums",
+      "value": 5
+    },
+    {
+      "trait_type": "fireflyClusters",
+      "value": 8
+    },
+    {
+      "trait_type": "rings",
+      "value": 2
+    }
+  ]
+}

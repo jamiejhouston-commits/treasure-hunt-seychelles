@@ -1,0 +1,46 @@
+{
+  "name": "SE2-16 — MAJOR'S RETURN",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Major headland (return), Mahé. Four lights on the cliff's brow\nsend you back along the wound.",
+  "image": "ipfs://bafkreihxhq4nrhmgiivnucjfuckxuw2rw7puhtboo6taipx7ya6cf4gvha",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Major headland (return), Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "L"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Baie Lazare"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 4
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "four-star overlay; rope points SW (homeward).",
+    "clue": "Four lights on the cliff's brow\nsend you back along the wound.",
+    "visual_description": "Headland curve; four faint stars; dagger in rope coil; torn map corner."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Seychelles Treasure #12",
+  "description": "Chapter 1: The Trail Begins - NFT #12 (Contains Puzzle Clue)",
+  "image": "ipfs://QmZWAUS5UDEvLxfe9ATLuueVmvFw9j2Shnmn1W4A2wu5fG",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 1: The Trail Begins"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 1",
+    "puzzle_enabled": true,
+    "art_rarity": "Rare",
+    "rarity_color": "#3a86ff",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": "QmZWAUS5UDEvLxfe9ATLuueVmvFw9j2Shnmn1W4A2wu5fG",
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 2,
+        "type": "map_fragment",
+        "ipfs_hash": "QmVUUPYBAm9TGRBa8vQdozBw7NmiFYM7cLfPZjsVJBei2g",
+        "description": "Ancient map fragment showing a trail",
+        "hint": "trail_map"
+      }
+    ]
+  }
+}

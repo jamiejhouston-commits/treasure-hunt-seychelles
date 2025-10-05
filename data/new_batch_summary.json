@@ -1,0 +1,177 @@
+{
+  "totalProcessed": 20,
+  "startingTokenId": 7001,
+  "endingTokenId": 7020,
+  "rarityBreakdown": {
+    "Common": 7,
+    "Legendary": 2,
+    "Rare": 9,
+    "Epic": 1,
+    "Uncommon": 1
+  },
+  "processedAt": "2025-09-30T21:32:38.177Z",
+  "readyForMinting": true,
+  "mintInputFile": "new_batch_mint_input.json",
+  "items": [
+    {
+      "tokenId": 7001,
+      "filename": "20250930_183351_02_ref_A_bold_stylized_illustration_of_a_Creol.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmQpceNSTHBrwYSsanknu7ZpTNdfhX7iUW7dQvEk4X7mie",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmVTMxZu6mKh7f5G6t8bFHm3VBefGvM4NbewFc37MaGnMz",
+      "name": "Seychelles Treasure Clue #7001",
+      "rarity": "Common"
+    },
+    {
+      "tokenId": 7002,
+      "filename": "20250930_183351_10_ref_A_decorative_illustration_of_a_Creole_co.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmasfWnkmvkm6fWTcPu1mraSqXQCZ7FRw2LR4myk831DzE",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmWnqh3VkRoa5qikztTYN72huk7zw18od8fHxBbuVP8Aqn",
+      "name": "Seychelles Treasure Clue #7002",
+      "rarity": "Common"
+    },
+    {
+      "tokenId": 7003,
+      "filename": "20250930_190604_07_ref_Creole_House_Among_Palms__Wooden_house.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmdJxPEFjd4RyxzXnYKjyLUS6Qy9ixNDihLU6ZNGEy9Czb",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmbcKhVi2WK6wgrk49qmLvdu1fpKWKEsPBq3tCUi3bXaqT",
+      "name": "Seychelles Treasure Clue #7003",
+      "rarity": "Common"
+    },
+    {
+      "tokenId": 7004,
+      "filename": "20250930_190604_08_ref_Creole_Woman_with_Bicycle__Woman_in_hib (1).png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmSkmQijLrERoPfV7uQBbsipU2FUvsWQt3pKsZudVtFiXW",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmSWox7W3aC1BdgWZn2f3w5Qj4dSyZXUkpDUdZjkBLXfoT",
+      "name": "Seychelles Treasure Clue #7004",
+      "rarity": "Common"
+    },
+    {
+      "tokenId": 7005,
+      "filename": "20250930_193124_08_txt_Creole_Woman_with_Bicycle__Woman_in_hib.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/Qmezv9c7VGYnWmUoCGv5AkQSEQADVt1eMuXfvDb19cKyTL",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmPxUPLhpC7Jdb8ft3UE7cXQFAd4fnFvxoqRFxJsRBckuL",
+      "name": "Seychelles Treasure Clue #7005",
+      "rarity": "Common"
+    },
+    {
+      "tokenId": 7006,
+      "filename": "20250930_200911_04_vallee_de_mai_forest_interior_coco_de_mer_palms_w.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmcV2Sc9TpZwiekCXQ4QDntSnEXHaJkEPwVBQFu6BfZ14T",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmPXzqUAfcHWpfDQ2u8Lg8UBmis72JehVC911KfmXvawaY",
+      "name": "Vallée de Mai Primeval Forest",
+      "rarity": "Legendary"
+    },
+    {
+      "tokenId": 7007,
+      "filename": "20250930_200911_18_night_fishing_by_lantern_light_golden_circles_of_.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmcWoB92J5niJBUCiKjRXTYr53vNF6H8WLQVWxhf1mv9sj",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmSRfCyEC9mEUFpn3qL3P2CfWvXWZrQziVs7dJP64auD3T",
+      "name": "Seychelles Treasure Clue #7007",
+      "rarity": "Common"
+    },
+    {
+      "tokenId": 7008,
+      "filename": "20250930_211002_03_painted.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmW9bJb4kD8Npqt5dBmG1Z9XYmayEP6nyKGzz3SssZWZtz",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmPTvZyWa8FPmkPtTdTESXofBPMMqjqYQTzBZRDAeMQeJx",
+      "name": "Seychelles Artistic Vision #03",
+      "rarity": "Rare"
+    },
+    {
+      "tokenId": 7009,
+      "filename": "20250930_211002_04_painted.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmQJuUA3sHMAT2JWHk6x6n2t4QkW14itzYhPmhDp1WFenz",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmaYX3ptRpJKxyvL5h6DaTuKeprFyUT47vT291LXkcbQA5",
+      "name": "Seychelles Artistic Vision #04",
+      "rarity": "Rare"
+    },
+    {
+      "tokenId": 7010,
+      "filename": "20250930_211002_06_painted.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmSuDphAnEG7KVVi2BRpFkGD3N6PgWahipv49Kq47K7pgJ",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmXtbaxoCg6jDy3LwsnNrvrWemqkrcjV72bRZQjYxwN3bm",
+      "name": "Seychelles Artistic Vision #06",
+      "rarity": "Rare"
+    },
+    {
+      "tokenId": 7011,
+      "filename": "20250930_211002_09_painted.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPChWPfp3FZMHEWCoCamiwHQ9d6SauLCHbpRFjVcr7Sh7",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmfUXCH7mzK9K51PK4xY77gAMGTtJXHrdnJkizTL3xPp8A",
+      "name": "Seychelles Artistic Vision #09",
+      "rarity": "Rare"
+    },
+    {
+      "tokenId": 7012,
+      "filename": "20250930_211002_13_painted.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmaEHQgTR36c5ocBrWnYYnZRhzUUv9PyHm42772Hu3SAAJ",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/Qmf4W914XdBL1bCwxGAY9bKHf91th6o4VpynNJTxUW9zi1",
+      "name": "Seychelles Artistic Vision #13",
+      "rarity": "Rare"
+    },
+    {
+      "tokenId": 7013,
+      "filename": "20250930_211002_17_painted.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmWKHRg6C9XhVnYxGjfLET9pdhs3857tGTLTw7zqtxVWhs",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmQUsy6MC5QdLV8XiYNTRoP2NDEdE6GMC8B72teE3WkK55",
+      "name": "Seychelles Artistic Vision #17",
+      "rarity": "Rare"
+    },
+    {
+      "tokenId": 7014,
+      "filename": "creole_03_night_fishing_lantern.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/Qmd14YsdhANUWouEPVYtT9HZ6DKFBxuR2zRY8NRh2Zvere",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmVrJsLrnh5woxA3n6r4vhtS91o6a9WfzPLmUTeZyzFaz8",
+      "name": "Creole Night Fishing",
+      "rarity": "Rare"
+    },
+    {
+      "tokenId": 7015,
+      "filename": "creole_04_black_parrot.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmT5R55UGcb7RtB8WrvH3JRkx1dv6GQnaWQ2m7qwoGFemK",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/Qmaq9aTWri8QvWxHiVFDx2gzd8fsxnKiD5f9DSF56utncE",
+      "name": "Black Parrot of Praslin",
+      "rarity": "Epic"
+    },
+    {
+      "tokenId": 7016,
+      "filename": "creole_05_village_dance.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/Qmbtu8RrqE6AdTRHJfgpc6wxD7ArGyxV5VCogGEeLiL8Ze",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmbhLa2RG5n9pBkA43eDmN8mxi9JzLPTEEFfXNHJBh69Tu",
+      "name": "Creole Village Dance",
+      "rarity": "Uncommon"
+    },
+    {
+      "tokenId": 7017,
+      "filename": "creole_07_jungle_river.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmYNk3ffyosHdDP7YAq9BZwYw3wFuzQjpUnPaWmBsoNdV7",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmNbzp8uCp6xm1YKExZpSt6yz9hGxvHxfGRRVbbUpG5x2p",
+      "name": "Jungle River Passage",
+      "rarity": "Rare"
+    },
+    {
+      "tokenId": 7018,
+      "filename": "creole_08_fishing_village.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmZ5oeqZ2C1bpyAx3fbPPsUs6JzoxJyM8NBzEFSjkNaDtd",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmYm1FinAXpW7qoksQavFGe6GqjnmnooWkknucGtna4X8Q",
+      "name": "Traditional Fishing Village",
+      "rarity": "Common"
+    },
+    {
+      "tokenId": 7019,
+      "filename": "creole_08_forest_spirits_mahé.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmZ4EbBmLcHSThQHW3HPBj9nC4gnB9o972rZUfprBMGii3",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmQyYQi2fnaVHWpidv7ucWaaiSWd5DTGrUUJHe6289YGgY",
+      "name": "Forest Spirits of Mahé",
+      "rarity": "Legendary"
+    },
+    {
+      "tokenId": 7020,
+      "filename": "creole_09_plantation_house.png",
+      "imageUrl": "https://gateway.pinata.cloud/ipfs/QmPrWfyjmKanjMfvqP38sUCr9hVkZfmTDRNvz89bCpCdUq",
+      "metadataUri": "https://gateway.pinata.cloud/ipfs/QmbgXjmTBti4HufnE7Amk8ncgRJta8S9nEGhHdFqdeJvDJ",
+      "name": "Colonial Plantation House",
+      "rarity": "Rare"
+    }
+  ]
+}

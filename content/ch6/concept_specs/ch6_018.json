@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_018",
+  "name": "Roche Caiman: The Split Rune",
+  "description": "Lightning-split boulder rune carved then struck. Four cracks radiate. Two rune halves. One chalk circle uniting them. Key pressed; measurements taken. Riddle: When a word is broken, its pieces still add up.",
+  "bearingDeg": 90,
+  "cipherOutput": "S",
+  "hiddenClue": "4 × 2 + 1 = 9 → 90°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Lightning-split boulder rune carved then struck. Four cracks radiate. Two rune halves. One chalk circle uniting them. Key pressed; measurements taken.. Key props numeric: 4 cracks, 2 halves, 1 circle. Cipher letter: S Bearing: 90°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "S"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 90
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "4 × 2 + 1 = 9 → 90°"
+    },
+    {
+      "trait_type": "cracks",
+      "value": 4
+    },
+    {
+      "trait_type": "halves",
+      "value": 2
+    },
+    {
+      "trait_type": "circle",
+      "value": 1
+    }
+  ]
+}

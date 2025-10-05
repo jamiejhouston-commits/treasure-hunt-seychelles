@@ -1,0 +1,59 @@
+{
+  "id": "ch7_008",
+  "name": "St. Pierre Islet: Rings of Foam",
+  "scene": "Tropicbirds, 5 ring waves, 1 coral window. Siren rune flashes.",
+  "props": [
+    {
+      "name": "tropicbirds",
+      "value": 3,
+      "description": "White tropicbirds diving"
+    },
+    {
+      "name": "ring_waves",
+      "value": 5,
+      "description": "Concentric wave rings"
+    },
+    {
+      "name": "coral_window",
+      "value": 1,
+      "description": "Natural coral arch window"
+    }
+  ],
+  "hiddenClue": "(3+5)×1=8 → 80°",
+  "bearingDeg": 80,
+  "cipherOutput": "P",
+  "riddle": "The smallest portal frames the biggest sea.",
+  "painterlyElements": {
+    "atmosphere": "mystical_islet_siren_energy",
+    "culturalStamps": [
+      "tropicbird_flight_patterns",
+      "siren_rune_glow"
+    ],
+    "brushTechnique": "foam_spray_ethereal_light",
+    "layering": "background_open_sea_midground_waves_foreground_coral_window"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Tropicbirds, 5 ring waves, 1 coral window. Siren rune flashes.. mystical_islet_siren_energy with foam_spray_ethereal_light. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_open_sea_midground_waves_foreground_coral_window. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: tropicbird_flight_patterns, siren_rune_glow. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

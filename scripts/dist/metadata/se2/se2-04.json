@@ -1,0 +1,46 @@
+{
+  "name": "SE2-04 — MIST OF MORNE BLANC",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Morne Blanc (Sans Souci ridge, Mahé). Above the bay, the mist keeps counsel.\nCount the five lights that survive the cloud.",
+  "image": "ipfs://bafkreifsbtgmkqzmyc234mtohwrl457ond5qw3ustga7waeprzgplmurli",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Morne Blanc (Sans Souci ridge, Mahé)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "E"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Copolia"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 5
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "five-point constellation overlays a bearing ring.",
+    "clue": "Above the bay, the mist keeps counsel.\nCount the five lights that survive the cloud.",
+    "visual_description": "Cloud forest boards; ridge posts; five faint star points in mist; rope forms a compass arc; pirate shadow in fog."
+  }
+}

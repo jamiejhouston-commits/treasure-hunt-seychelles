@@ -1,0 +1,35 @@
+{
+  "name": "Twin Palms",
+  "description": "Two coconut palms lean toward each other across a lagoon, their fronds interweaving like fingers. Shadow patterns on the water between them spell messages that change with the setting sun's angle.",
+  "image": "ipfs://bafkreiawm37e73ljugao77fkkctspnm3oe2e5micodtpdsjite6xqlugwu",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "—",
+  "riddle": "Two stand where one sways.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "palm_silhouette"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "sunset_pair"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "—"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 215
+  }
+}

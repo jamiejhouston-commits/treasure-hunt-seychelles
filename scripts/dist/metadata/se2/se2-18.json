@@ -1,0 +1,46 @@
+{
+  "name": "SE2-18 — BAY OF COINS",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Baie Lazare beach (wide). The bay keeps what the sea returns.\nSpiral the rope to test your course.",
+  "image": "ipfs://bafkreihmurrtapx2mkozgqgfrbwdeghdzi3o6nbbd42qzevyq2656vidvm",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Baie Lazare beach (wide)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "B"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Lady Denison-Pender Shoal"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "spiral = azimuth spiral back-bearing test.",
+    "clue": "The bay keeps what the sea returns.\nSpiral the rope to test your course.",
+    "visual_description": "Wide crescent; coins spill to surf; rope spiral; chest shadow in dunes."
+  }
+}

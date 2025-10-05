@@ -1,0 +1,37 @@
+
+<svg width="2048" height="2048" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#133C55;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0D1B2A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A1830;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="2048" height="2048" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="1024" y="150" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="48" font-weight="bold">SE2-02 — TIDE-BASIN RUNES</text>
+  
+  <!-- Place -->
+  <text x="1024" y="220" text-anchor="middle" fill="#D9B45B" font-family="serif" font-size="32">Ros Sodyer Rock Pool (Anse Takamaka</text>
+  
+  <!-- Hidden Letter (very faint) -->
+  <text x="1024" y="1200" text-anchor="middle" fill="#133C55" font-family="serif" font-size="400" font-weight="bold" opacity="0.3">A</text>
+  
+  <!-- Compass Ring -->
+  <circle cx="1024" cy="1024" r="300" fill="none" stroke="#D9B45B" stroke-width="8"/>
+  
+  <!-- Star overlay if needed -->
+  <polygon points="1174,385 1179,395 1189,395 1182,402 1184,412 1174,408 1164,412 1166,402 1159,395 1169,395" fill="#EAE7DC"/>
+<polygon points="949,471.6025403784439 954,481.6025403784439 964,481.6025403784439 957,488.6025403784439 959,498.6025403784439 949,494.6025403784439 939,498.6025403784439 941,488.6025403784439 934,481.6025403784439 944,481.6025403784439" fill="#EAE7DC"/>
+<polygon points="948.9999999999999,298.39745962155615 953.9999999999999,308.39745962155615 963.9999999999999,308.39745962155615 956.9999999999999,315.39745962155615 958.9999999999999,325.39745962155615 948.9999999999999,321.39745962155615 938.9999999999999,325.39745962155615 940.9999999999999,315.39745962155615 933.9999999999999,308.39745962155615 943.9999999999999,308.39745962155615" fill="#EAE7DC"/>
+  
+  <!-- Clue text -->
+  <text x="1024" y="1700" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="24">When the ocean exhales, stone remembers.</text>
+  <text x="1024" y="1750" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="24">Read the runes in the pool; they point by night, not day.</text>
+  
+  <!-- Visual description -->
+  <text x="100" y="1900" fill="#D9B45B" font-family="serif" font-size="20">Circular tide pool at low tide; faint runes under water. Pirate hand + cutlass r...</text>
+</svg>

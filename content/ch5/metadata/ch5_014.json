@@ -1,0 +1,35 @@
+{
+  "name": "Seagrass Rune",
+  "description": "Seagrass meadows sway in perfect formations, their movements traced by schools of silver fish. The grass patterns form living runes, constantly shifting yet maintaining their essential letter shapes.",
+  "image": "ipfs://bafkreiahdhpbmcegvawhwv7jqko2nhpebcslngm4zhggbulaflj66et44i",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "—",
+  "riddle": "The net drags what grows.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "grass_weave"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "underwater_meadow"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "—"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 214
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Beacon Rock",
+  "description": "Atop the island's highest point, carved star patterns in volcanic rock align with true celestial bodies. Only when specific constellations appear do the rock carvings reveal their hidden letter meanings.",
+  "image": "ipfs://bafkreiela3rwvhx7ylrak5puhzvkemppfcvmd4gfsui7iuhvbo4m2pproa",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "—",
+  "riddle": "The stone calls the star.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "star_navigation"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "rock_summit"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "—"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 218
+  }
+}

@@ -1,0 +1,142 @@
+﻿import React, { useState, useEffect } from 'react';
+import styled from 'styled-components';
+
+const HeroSection = styled.section`
+  position: relative;
+  min-height: 74vh;
+  padding: 5rem 1.5rem 6rem;
+  overflow: hidden;
+  
+  /* Responsive background images with proper fallbacks */
+  background: 
+    radial-gradient(circle at center, rgba(12,15,19,0.65) 0%, rgba(12,15,19,0.85) 100%),
+    image-set(
+      url('/themes/seychelles/hero_desktop.avif') 1x,
+      url('/themes/seychelles/hero_desktop.webp') 1x
+    );
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  
+  @media (max-width: 1024px) {
+    min-height: 86vh;
+    background: 
+      radial-gradient(circle at center, rgba(12,15,19,0.65) 0%, rgba(12,15,19,0.85) 100%),
+      image-set(
+        url('/themes/seychelles/hero_mobile.avif') 1x,
+        url('/themes/seychelles/hero_mobile.webp') 1x
+      );
+    background-attachment: scroll; /* Better performance on mobile */
+  }
+  
+  /* Fallback for browsers that don't support image-set */
+  @supports not (background-image: image-set(url('test.webp') 1x)) {
+    background-image: 
+      radial-gradient(circle at center, rgba(12,15,19,0.65) 0%, rgba(12,15,19,0.85) 100%),
+      url('/themes/seychelles/hero_desktop.webp');
+      
+    @media (max-width: 1024px) {
+      background-image: 
+        radial-gradient(circle at center, rgba(12,15,19,0.65) 0%, rgba(12,15,19,0.85) 100%),
+        url('/themes/seychelles/hero_mobile.webp');
+    }
+  }
+`;
+
+const ContentLayer = styled.div`
+  position: relative;
+  z-index: 10;
+  max-width: 1040px;
+  margin: 0 auto;
+  text-align: center;
+`;
+
+const MainHeading = styled.h1`
+  font-size: clamp(2.5rem, 5vw, 3.25rem);
+  margin-bottom: 1rem;
+  color: #F4E1A0;
+  text-shadow: 0 2px 16px var(--shadow);
+  font-family: 'Pirata One', cursive;
+  letter-spacing: 0.02em;
+  
+  /* Glint animation */
+  background: linear-gradient(100deg, transparent 0%, rgba(255, 255, 255, 0.18) 12%, transparent 25%) no-repeat;
+  background-size: 200% 100%;
+  animation: goldGlint 16s linear infinite;
+  -webkit-background-clip: text;
+  background-clip: text;
+`;
+
+const SubHeading = styled.p`
+  font-size: 1.15rem;
+  color: var(--ink-dim);
+  margin-bottom: 2rem;
+  line-height: 1.6;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  @media (max-width: 768px) {
+    font-size: 1rem;
+  }
+`;
+
+const CTAButton = styled.a`
+  background: linear-gradient(135deg, var(--gold) 0%, var(--gold-2) 100%);
+  border: 1px solid var(--gold);
+  color: var(--bg-deep);
+  padding: 14px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(217, 180, 91, 0.2);
+  font-size: 1.1rem;
+  
+  &::before {
+    content: "⚓";
+    font-size: 16px;
+  }
+  
+  &:hover {
+    background: linear-gradient(135deg, var(--gold-2) 0%, #9A7B2F 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(217, 180, 91, 0.3), inset 0 1px 3px rgba(0,0,0,0.2);
+  }
+  
+  @media (max-width: 768px) {
+    padding: 12px 24px;
+    font-size: 1rem;
+  }
+`;
+
+const Home = () => {
+  return (
+    <HeroSection>
+      {/* Background animation layers */}
+      <div className="bg-layer water-shimmer" aria-hidden="true" />
+      <div className="bg-layer fog-layer" aria-hidden="true" />
+      <div className="bg-layer grain-overlay" aria-hidden="true" />
+      <div className="compass-watermark" aria-hidden="true" />
+
+      <ContentLayer>
+        <MainHeading>
+          Treasure of Seychelles
+        </MainHeading>
+        <SubHeading>
+          Embark on a legendary quest through 1000 cryptographic clues hidden in NFTs,
+          leading to Olivier Levasseur's lost pirate treasure worth over $1 billion.
+        </SubHeading>
+
+        <CTAButton href="/gallery">
+          Enter the Gallery
+        </CTAButton>
+      </ContentLayer>
+    </HeroSection>
+  );
+};
+
+export default Home;

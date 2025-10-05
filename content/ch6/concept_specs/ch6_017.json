@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_017",
+  "name": "Bel Ombre Tidepools: Mirror of Shards",
+  "description": "Moonlit tidepools like coins. Submerged shard reflects faces older. Five rune shells ring pool; nine reef spines; two bats sip. Clothing wet edges. Riddle: To read a mirror, count what it refuses to keep.",
+  "bearingDeg": 160,
+  "cipherOutput": "I",
+  "hiddenClue": "5 + 9 + 2 = 16 → 160°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Moonlit tidepools like coins. Submerged shard reflects faces older. Five rune shells ring pool; nine reef spines; two bats sip. Clothing wet edges.. Key props numeric: 5 shells, 9 spines, 2 bats. Cipher letter: I Bearing: 160°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "I"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 160
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "5 + 9 + 2 = 16 → 160°"
+    },
+    {
+      "trait_type": "shells",
+      "value": 5
+    },
+    {
+      "trait_type": "spines",
+      "value": 9
+    },
+    {
+      "trait_type": "bats",
+      "value": 2
+    }
+  ]
+}

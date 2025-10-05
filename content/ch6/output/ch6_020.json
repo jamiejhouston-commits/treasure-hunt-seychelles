@@ -1,0 +1,44 @@
+{
+  "name": "Mask Reforged: The Revenant’s Vow",
+  "description": "When the shards fuse, the Revenant King's mask exhales steam and ozone; ten iron teeth lock, five runes orbit wide, and the compass etched beneath bleeds gold. Bats flood the cavern mouth as Naia's eyes catch the light, Kassim kneels without bowing, and Maliya lifts the rebuilt mask knowing the curse now listens. Salt and old vows settle before the final 150° promise.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_020",
+  "bearingDeg": 150,
+  "cipherOutput": "E",
+  "cipherIndex": 20,
+  "hiddenClue": "10 + 5 = 15 → 150°",
+  "riddle": "Taste the iron bite, read the widened five lights—where their total sinks beneath the sea, carve your claim.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 150
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "E"
+    },
+    {
+      "trait_type": "ironTeeth",
+      "value": 10
+    },
+    {
+      "trait_type": "glowingRunes",
+      "value": 5
+    },
+    {
+      "trait_type": "compassRose",
+      "value": 1
+    }
+  ],
+  "image": "./ch6_020.png"
+}

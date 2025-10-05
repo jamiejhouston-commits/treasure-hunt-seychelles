@@ -1,0 +1,46 @@
+{
+  "name": "SE2-03 — THE HOLLOW AT BOILEAU",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Boileau, Mahé. In Boileau's hollow, a blade once bit the map.\nLift the stone; the hillside whispers where to climb.",
+  "image": "ipfs://bafkreibu7r24neozpg6a3lsuyvob6tkbz4wvhgcvjl7w7pwkex4vj6z6fu",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Boileau, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "I"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Morne Blanc"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "notches around the hollow align with ridge silhouette.",
+    "clue": "In Boileau's hollow, a blade once bit the map.\nLift the stone; the hillside whispers where to climb.",
+    "visual_description": "Stream through mangrove; a hollow stone with scratch marks; dagger pommel in sand; coin spill in lantern gold; low fog."
+  }
+}

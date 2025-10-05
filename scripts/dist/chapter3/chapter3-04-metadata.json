@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 04: The Hidden Waterfall",
+  "description": "Behind cascading waters lies more than stone. The shadow of treasure chest haunts the misty veil, promising riches to those who dare step beyond the fall.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Sans Souci Waterfall, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Waterfall Chest"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Nature's vault conceals the crew's emergency cache"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 4
+    }
+  ],
+  "properties": {
+    "clue": "Numerical Pattern: 3-7-11-? (Count the falls to find the next)",
+    "visualElements": [
+      "Cascading waterfall with mist spray",
+      "Dark shadow of treasure chest behind water curtain",
+      "Lush tropical vegetation around falls",
+      "Rainbow in waterfall mist",
+      "Pirate rope ladder hanging from cliff",
+      "Skull carved into cliff face"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

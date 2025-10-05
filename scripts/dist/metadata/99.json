@@ -1,0 +1,37 @@
+{
+  "name": "Levasseur Fragment #099 — Outer Islands Revelation",
+  "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 82°, coords -7.5647, 55.8116.",
+  "image": "ipfs://PLACEHOLDER/99.png",
+  "attributes": [
+    {
+      "trait_type": "Island",
+      "value": "Aldabra"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "82°"
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Outer Islands Revelation"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Coco de Mer Sigil"
+    }
+  ],
+  "clue": {
+    "type": "glyph",
+    "value": "ᚠᚢᚦᚨ",
+    "hint": "Bearing 82°. Coords -7.5647, 55.8116."
+  },
+  "external_url": "https://treasureofseychelles.com/nft/99",
+  "collection": {
+    "name": "Treasure of Seychelles",
+    "chapter": "Outer Islands Revelation"
+  }
+}

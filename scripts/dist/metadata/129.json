@@ -1,0 +1,31 @@
+{
+  "name": "S3-09 — Royale Lantern",
+  "description": "S3-09 — Royale Lantern. Clue: Royale rests with two small lights—loop the rope and climb to counsel.",
+  "image": "ipfs://bafybeiatqifafwlgmnbag5ete3polid7lh6vkelrddu3egd4js2j744zva",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Royale, Mahé"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Evening"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lantern"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

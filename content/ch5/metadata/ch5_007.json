@@ -1,0 +1,35 @@
+{
+  "name": "Shark Channel",
+  "description": "Massive swells crash through the eastern channel as a shark fin cuts the surface like a living blade. Rope knots in a fishing net trace letter patterns against churning foam and spray.",
+  "image": "ipfs://bafkreiejqlqxgimanot5fsksyq3llbc6iynd4c255n737eycifsn43nbh4",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "DE",
+  "riddle": "Knots mark the teeth of the tide.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "wave_dynamic"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "storm_action"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "DE"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 207
+  }
+}

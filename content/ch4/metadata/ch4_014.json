@@ -1,0 +1,61 @@
+{
+  "name": "Cerf's Narrow",
+  "description": "A stiff breeze drives the sail through Cerf Island's treacherous channel, where coral teeth gleam turquoise beneath the surface. The witch casts protective salt astern while the pirate grips the tiller, a dagger lashed across it at the crucial angle of 304 degrees. Five coral dots mark the chart—count them to find the fifth letter of 'LAZARE', but hold the tiller steady where coral bites blue and depths run shallow. Bearing 304°. Cipher output: TA. \"Hold the tiller where coral bites blue.\"",
+  "image": "ipfs://bafybeiabu56hofevlwdb4pnimfxlrzajce5tyo6wwn7rutvgrgyv7wwbfa",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Cerf Island channel",
+  "timeOfDay": "Midday",
+  "weather": "stiff breeze",
+  "bearingDeg": 304,
+  "tide": "Falling",
+  "moonPhase": "Waxing Gibbous",
+  "cipherOutput": "TA",
+  "riddle": "Hold the tiller where coral bites blue.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Cerf Island channel"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Midday"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "stiff breeze"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "304°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Falling"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waxing Gibbous"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "TA"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 154
+  }
+}

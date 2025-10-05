@@ -1,0 +1,4678 @@
+[
+  {
+    "id": 1,
+    "token_id": "TEMP_1",
+    "name": "Levasseur Fragment #001 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 4°, coords -6.6493, 50.2225.",
+    "image_url": "ipfs://PLACEHOLDER/1.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibb6iomen2saknin6ablu3c5slmgekek36dnfc7loirejhxnfx5w4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "4°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Epic",
+    "price": 30,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "7ECBF07C03AAD8DCFED1938C6D4CC8E7F0F605B053A73989365E56B8056E44E2",
+    "minted_at": "2025-09-23T20:35:54.178Z",
+    "created_at": "2025-09-23T20:35:54.191Z",
+    "updated_at": "2025-09-23T20:35:54.191Z"
+  },
+  {
+    "id": 2,
+    "token_id": "TEMP_2",
+    "name": "Levasseur Fragment #002 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 227°, coords -4.0667, 55.6121.",
+    "image_url": "ipfs://PLACEHOLDER/2.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihpldw46f7sgo7yqn4fvcb3eozdjd3qymypldslxstnxleodejkv4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "227°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 51,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "5F7AD00AF65D710FE4628E00B61B5A91F15A1A02C521004E79D978A90B302FEA",
+    "minted_at": "2025-09-23T20:35:54.192Z",
+    "created_at": "2025-09-23T20:35:54.192Z",
+    "updated_at": "2025-09-23T20:35:54.192Z"
+  },
+  {
+    "id": 3,
+    "token_id": "TEMP_3",
+    "name": "Levasseur Fragment #003 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 286°, coords -6.4534, 49.2409.",
+    "image_url": "ipfs://PLACEHOLDER/3.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicn3leloko6gw7c6zqzuoijpnxzg2v6xh3z6gfvtr4x7ctsalzkua",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "286°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      }
+    ],
+    "rarity": "Common",
+    "price": 43,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "DF93B74E92B5ECCE129030AC7D47543DDE4516774AC6D9483710610725F3C211",
+    "minted_at": "2025-09-23T20:35:54.193Z",
+    "created_at": "2025-09-23T20:35:54.193Z",
+    "updated_at": "2025-09-23T20:35:54.193Z"
+  },
+  {
+    "id": 4,
+    "token_id": "TEMP_4",
+    "name": "Levasseur Fragment #004 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 276°, coords -5.0249, 52.7468.",
+    "image_url": "ipfs://PLACEHOLDER/4.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreig22crmx4jwboufgzjlzydch6ifu7xvfpvjzfr3cxuq7grd4tcgmi",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "276°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 19,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "0B0E3CE12A1F491F9B2B61AAFECDFFEB87AD7EA94778092B70EEE7964553A8D7",
+    "minted_at": "2025-09-23T20:35:54.194Z",
+    "created_at": "2025-09-23T20:35:54.194Z",
+    "updated_at": "2025-09-23T20:35:54.194Z"
+  },
+  {
+    "id": 5,
+    "token_id": "TEMP_5",
+    "name": "Levasseur Fragment #005 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 305°, coords -8.6185, 46.3689.",
+    "image_url": "ipfs://PLACEHOLDER/5.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreieo4lj4mpchy3mrqkooazidd3g736z2ctnxfsukwbe6o2shqwth3y",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "305°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 25,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "068357EBB79C997598AF401585F9A494F9585620B18AF7914CE7DBB7266AD7F9",
+    "minted_at": "2025-09-23T20:35:54.195Z",
+    "created_at": "2025-09-23T20:35:54.195Z",
+    "updated_at": "2025-09-23T20:35:54.195Z"
+  },
+  {
+    "id": 6,
+    "token_id": "TEMP_6",
+    "name": "Levasseur Fragment #006 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 221°, coords -8.1954, 53.2280.",
+    "image_url": "ipfs://PLACEHOLDER/6.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicryc4n3p4yhhoznlq25kxy44uiajgu5doi6cmer2dwygpw2j4ckm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "221°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "1507F64DCC3395C5E69050101077154CF1EDC91978E2DC21DFED344781B2F1DA",
+    "minted_at": "2025-09-23T20:35:54.196Z",
+    "created_at": "2025-09-23T20:35:54.196Z",
+    "updated_at": "2025-09-23T20:35:54.196Z"
+  },
+  {
+    "id": 7,
+    "token_id": "TEMP_7",
+    "name": "Levasseur Fragment #007 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 206°, coords -5.5673, 50.3368.",
+    "image_url": "ipfs://PLACEHOLDER/7.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreidlkbrl4mk4phcweoqkg2p3kodqjcjtctlnhwtdv7xx7b25ovz5i4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "206°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 49,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "50F0F36669D4253906D9484DF148F416D4220D4DDC3BD362871F4793AC35AA08",
+    "minted_at": "2025-09-23T20:35:54.197Z",
+    "created_at": "2025-09-23T20:35:54.197Z",
+    "updated_at": "2025-09-23T20:35:54.197Z"
+  },
+  {
+    "id": 8,
+    "token_id": "TEMP_8",
+    "name": "Levasseur Fragment #008 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 149°, coords -6.3342, 46.3406.",
+    "image_url": "ipfs://PLACEHOLDER/8.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreidg73vgowg7rlpiuc6whikiu6rrfmyj4ije7cfajbeeohwap36hdm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "149°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 25,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "6E745CC7248851C4BCEEFE63EBF83C8F70D711FC4542F0385B19EACAF3F953B1",
+    "minted_at": "2025-09-23T20:35:54.198Z",
+    "created_at": "2025-09-23T20:35:54.198Z",
+    "updated_at": "2025-09-23T20:35:54.198Z"
+  },
+  {
+    "id": 9,
+    "token_id": "TEMP_9",
+    "name": "Levasseur Fragment #009 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 346°, coords -7.2679, 51.6296.",
+    "image_url": "ipfs://PLACEHOLDER/9.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiezsvdl25wsjorwfr3cpyl4bqqrmdo7jbaq374bs7nqr2bu7osaoq",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "346°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 24,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "C0F713F5AB1EE5CCFE9E8CFE6CC5FD0344B433AF3B1673FE81A233180105C5FC",
+    "minted_at": "2025-09-23T20:35:54.198Z",
+    "created_at": "2025-09-23T20:35:54.198Z",
+    "updated_at": "2025-09-23T20:35:54.198Z"
+  },
+  {
+    "id": 10,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A3D8D9FBB00A6093F",
+    "name": "Levasseur Fragment #010 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 263°, coords -8.4313, 48.0216.",
+    "image_url": "ipfs://PLACEHOLDER/10.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibjsdnw4io3fg4lcqekuq23kntweweb52pvksvu2w7az53lqw5hua",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "263°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 37,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "FBA1F2112410BB41B9B7FFE20261B84F6F9409669350B157375847A98098E017",
+    "minted_at": "2025-09-23T20:35:54.199Z",
+    "created_at": "2025-09-23T20:35:54.199Z",
+    "updated_at": "2025-09-23T20:35:54.199Z"
+  },
+  {
+    "id": 11,
+    "token_id": "TEMP_11",
+    "name": "Levasseur Fragment #011 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 321°, coords -9.4854, 52.0293.",
+    "image_url": "ipfs://PLACEHOLDER/11.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigrhublfi6fdjq4nl4bttvi5fl2gxg6nqbvnsti5cu2rcssqeyh4i",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "321°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 19,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "F3744F6D5FECFF70E2FB2936265E41B8887142475B38DFEBD0BAE78C3F7617FC",
+    "minted_at": "2025-09-23T20:35:54.200Z",
+    "created_at": "2025-09-23T20:35:54.200Z",
+    "updated_at": "2025-09-23T20:35:54.200Z"
+  },
+  {
+    "id": 12,
+    "token_id": "TEMP_12",
+    "name": "Levasseur Fragment #012 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 22°, coords -5.9317, 50.5256.",
+    "image_url": "ipfs://PLACEHOLDER/12.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicpx45tqsrzbvixtumv5n7x2c47sk2ox6ztg5tlf4d5qnlzfp3roi",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "22°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 23,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "735426DF97ED51A765F701CD506C2A8DAC86C9560F4BE1877C388A290BABC10D",
+    "minted_at": "2025-09-23T20:35:54.200Z",
+    "created_at": "2025-09-23T20:35:54.200Z",
+    "updated_at": "2025-09-23T20:35:54.200Z"
+  },
+  {
+    "id": 13,
+    "token_id": "TEMP_13",
+    "name": "Levasseur Fragment #013 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 15°, coords -6.1828, 51.8570.",
+    "image_url": "ipfs://PLACEHOLDER/13.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreib27ms3okmbz2bn6oyhbjq3vcdo3xveetz65hwpj6p3jztggigbwm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "15°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Epic",
+    "price": 45,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "9BCAB3FDFD41B288F6BA6B3F35F430094A995B88FB51DAF901ABA41453EAE1A2",
+    "minted_at": "2025-09-23T20:35:54.201Z",
+    "created_at": "2025-09-23T20:35:54.201Z",
+    "updated_at": "2025-09-23T20:35:54.201Z"
+  },
+  {
+    "id": 14,
+    "token_id": "TEMP_14",
+    "name": "Levasseur Fragment #014 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 11°, coords -7.1849, 50.8103.",
+    "image_url": "ipfs://PLACEHOLDER/14.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreig3x5g5rlqdgefy4aewomswsujzltrucbmndizvodus7njg6grdn4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "11°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 25,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "45A50CCE19E2FEE700B31FCA8787AFA4C0AEC70E72D9E3C74DD75C16A6135054",
+    "minted_at": "2025-09-23T20:35:54.201Z",
+    "created_at": "2025-09-23T20:35:54.201Z",
+    "updated_at": "2025-09-23T20:35:54.201Z"
+  },
+  {
+    "id": 15,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7ABEB0439700A6095B",
+    "name": "Levasseur Fragment #015 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 77°, coords -4.0408, 49.6005.",
+    "image_url": "ipfs://PLACEHOLDER/15.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihxn6m4c6rq74tsp7hvx6cjonqeb4ndvddidcn5td276rv6oceyn4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "77°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 24,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "8E717BE5692AB2F30FA863D58A94381E1FBF8F0543AA99A4E3BC29CE9AB1E878",
+    "minted_at": "2025-09-23T20:35:54.202Z",
+    "created_at": "2025-09-23T20:35:54.202Z",
+    "updated_at": "2025-09-23T20:35:54.202Z"
+  },
+  {
+    "id": 16,
+    "token_id": "TEMP_16",
+    "name": "Levasseur Fragment #016 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 244°, coords -8.9831, 52.1788.",
+    "image_url": "ipfs://PLACEHOLDER/16.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreia7hcuiacaggmxydsdsjg6sq5xkudp6tm2hlqhsadjejodot46ydm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "244°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 52,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "0C1E6863EE8578B7B2FB8C272BA293602CD14F9E9D89DA2B5F4A92E5E96B0A8C",
+    "minted_at": "2025-09-23T20:35:54.203Z",
+    "created_at": "2025-09-23T20:35:54.203Z",
+    "updated_at": "2025-09-23T20:35:54.203Z"
+  },
+  {
+    "id": 17,
+    "token_id": "TEMP_17",
+    "name": "Levasseur Fragment #017 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 166°, coords -9.4351, 46.1162.",
+    "image_url": "ipfs://PLACEHOLDER/17.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiaci6lvu4mtbtbb3ekwtic5j57cpz6pmpwde5gbs6ups3kneexbcq",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "166°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 36,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "578854D327B2DD9C01762DF47113673B00775E58F82F95DB72C8745C18BEE24C",
+    "minted_at": "2025-09-23T20:35:54.204Z",
+    "created_at": "2025-09-23T20:35:54.204Z",
+    "updated_at": "2025-09-23T20:35:54.204Z"
+  },
+  {
+    "id": 18,
+    "token_id": "TEMP_18",
+    "name": "Levasseur Fragment #018 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 348°, coords -8.8651, 49.0726.",
+    "image_url": "ipfs://PLACEHOLDER/18.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreig2i5tjwbkphbncc2mfvdu3cmisakcqpt2baoio4eriiz6a5chlkm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "348°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 18,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "6293FF6301E2FC7201B180F0CA4EAE88EBA874FF799C4566C0A005B92EC8090D",
+    "minted_at": "2025-09-23T20:35:54.204Z",
+    "created_at": "2025-09-23T20:35:54.204Z",
+    "updated_at": "2025-09-23T20:35:54.204Z"
+  },
+  {
+    "id": 19,
+    "token_id": "TEMP_19",
+    "name": "Levasseur Fragment #019 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 132°, coords -7.6838, 50.6494.",
+    "image_url": "ipfs://PLACEHOLDER/19.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreidltiasalsqatwkz5f7u5o3m2h5gtixudwxrgl4schsgmaoeqiwya",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "132°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 63,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "8470568F8F4D2BEDACD043C8A6A2BF1046B8D9FDB7D45951558E9C121474C49C",
+    "minted_at": "2025-09-23T20:35:54.205Z",
+    "created_at": "2025-09-23T20:35:54.205Z",
+    "updated_at": "2025-09-23T20:35:54.205Z"
+  },
+  {
+    "id": 20,
+    "token_id": "TEMP_20",
+    "name": "Levasseur Fragment #020 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 66°, coords -8.7273, 46.1821.",
+    "image_url": "ipfs://PLACEHOLDER/20.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreianijiyeguh5lrrqstot6c4f4lbbvtgihgzxkjm3l3f2ls7foqimq",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "66°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 41,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "AA5CB80299407F410B47F26901DB95B88440CD752D9A0DF1DADA801038D52883",
+    "minted_at": "2025-09-23T20:35:54.206Z",
+    "created_at": "2025-09-23T20:35:54.206Z",
+    "updated_at": "2025-09-23T20:35:54.206Z"
+  },
+  {
+    "id": 21,
+    "token_id": "TEMP_21",
+    "name": "Levasseur Fragment #021 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 45°, coords -6.2870, 47.6137.",
+    "image_url": "ipfs://PLACEHOLDER/21.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreic567fdaqftwxdgnuappjvxxxy5vgwqofvrew4g63lsiz62vkj6by",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "45°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 63,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "C067A78082CEF117EC77D7784F2C69407F85EAC2BCB286C4646489D5578AF8A1",
+    "minted_at": "2025-09-23T20:35:54.207Z",
+    "created_at": "2025-09-23T20:35:54.207Z",
+    "updated_at": "2025-09-23T20:35:54.207Z"
+  },
+  {
+    "id": 22,
+    "token_id": "TEMP_22",
+    "name": "Levasseur Fragment #022 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 333°, coords -8.5987, 48.8417.",
+    "image_url": "ipfs://PLACEHOLDER/22.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreidkv5hbzjvzlp2hpyymhqdfepidheojeybyn6tlbwp5n2qhurywsi",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "333°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 30,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "79641575DD76CED15B255E9F466FA44605F67DE65C49A95D9EA4C51073960C99",
+    "minted_at": "2025-09-23T20:35:54.208Z",
+    "created_at": "2025-09-23T20:35:54.208Z",
+    "updated_at": "2025-09-23T20:35:54.208Z"
+  },
+  {
+    "id": 23,
+    "token_id": "TEMP_23",
+    "name": "Levasseur Fragment #023 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 201°, coords -5.8705, 46.1180.",
+    "image_url": "ipfs://PLACEHOLDER/23.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreid7atgo3oeokhwhkkdo25fhtytxsblnne3hiyim25oe3vtdad6v7q",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "201°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "2A120701820E6387B9D346A2C270250B167F86CBF95C5DDBC237104998C03196",
+    "minted_at": "2025-09-23T20:35:54.209Z",
+    "created_at": "2025-09-23T20:35:54.209Z",
+    "updated_at": "2025-09-23T20:35:54.209Z"
+  },
+  {
+    "id": 24,
+    "token_id": "TEMP_24",
+    "name": "Levasseur Fragment #024 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 328°, coords -8.1549, 52.5981.",
+    "image_url": "ipfs://PLACEHOLDER/24.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihorv2prgdknavpscpccg4pveztqz57oluhuvwnj7cj5deqr7lbxy",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "328°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 57,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "1C48BAAA28EC6049140AE57A6B35C2F37641872923614A7226A20EB7DD7907C6",
+    "minted_at": "2025-09-23T20:35:54.216Z",
+    "created_at": "2025-09-23T20:35:54.216Z",
+    "updated_at": "2025-09-23T20:35:54.216Z"
+  },
+  {
+    "id": 25,
+    "token_id": "TEMP_25",
+    "name": "Levasseur Fragment #025 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 86°, coords -7.1990, 51.2539.",
+    "image_url": "ipfs://PLACEHOLDER/25.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiekbm4lwjbes6ggekkmv2yotjlokgp2y26jsjppyynnd6vbymvqmm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "86°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 49,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "B83FE9F9ADA15FB0BA956A0C76793F501382D1D002F860812B5A935577C60C10",
+    "minted_at": "2025-09-23T20:35:54.217Z",
+    "created_at": "2025-09-23T20:35:54.217Z",
+    "updated_at": "2025-09-23T20:35:54.217Z"
+  },
+  {
+    "id": 26,
+    "token_id": "TEMP_26",
+    "name": "Levasseur Fragment #026 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 340°, coords -4.5368, 55.8289.",
+    "image_url": "ipfs://PLACEHOLDER/26.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifqcreb5gnbtb5ig63pkmgfvldxtfcmweforicos3xvpcjhslonoe",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "340°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 37,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "953D38C61C29AF12DCD2598336F8539FDD2B47A9A87182C99E900140454A93DF",
+    "minted_at": "2025-09-23T20:35:54.218Z",
+    "created_at": "2025-09-23T20:35:54.218Z",
+    "updated_at": "2025-09-23T20:35:54.218Z"
+  },
+  {
+    "id": 27,
+    "token_id": "TEMP_27",
+    "name": "Levasseur Fragment #027 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 163°, coords -4.5642, 55.6896.",
+    "image_url": "ipfs://PLACEHOLDER/27.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibf2u4zemji67nqudgxtwyhismzcbddo4ko7kywiongwqptmfweh4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "163°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 35,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "96E40A90A53FDA55153EAEB675EC681246188098CA571AEEB32B9A542FE2922B",
+    "minted_at": "2025-09-23T20:35:54.219Z",
+    "created_at": "2025-09-23T20:35:54.219Z",
+    "updated_at": "2025-09-23T20:35:54.219Z"
+  },
+  {
+    "id": 28,
+    "token_id": "TEMP_28",
+    "name": "Levasseur Fragment #028 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 168°, coords -7.5702, 50.5969.",
+    "image_url": "ipfs://PLACEHOLDER/28.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihknxpekjqkpxzylaqe75az3itu4djszvkhfcojojt7zbyerfo4la",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "168°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 22,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "47880FC2AE16ED8CB996E56C564015DA5BCD25A43E7AE2B2BC0CEBCAF7139AEA",
+    "minted_at": "2025-09-23T20:35:54.219Z",
+    "created_at": "2025-09-23T20:35:54.219Z",
+    "updated_at": "2025-09-23T20:35:54.219Z"
+  },
+  {
+    "id": 29,
+    "token_id": "TEMP_29",
+    "name": "Levasseur Fragment #029 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 96°, coords -9.9110, 51.1827.",
+    "image_url": "ipfs://PLACEHOLDER/29.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiebhahtpgcz3cu4rjud6zyj5gicay2dsp6k72ataseu6bcvja5gsu",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "96°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 59,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "F9736AFD243E79CE2854F1FB1CDE9BF117C6A0F722805A41CC9982488627213E",
+    "minted_at": "2025-09-23T20:35:54.220Z",
+    "created_at": "2025-09-23T20:35:54.220Z",
+    "updated_at": "2025-09-23T20:35:54.220Z"
+  },
+  {
+    "id": 30,
+    "token_id": "TEMP_30",
+    "name": "Levasseur Fragment #030 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 132°, coords -8.4749, 53.3721.",
+    "image_url": "ipfs://PLACEHOLDER/30.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreidqmx3fvfuvua3urzqwvk5kqm3xqovwkpnzdo724uy6pnzgmejere",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "132°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 35,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "4E18AABD76EF0A53D3815B3EF1BB5EFAC006287DE60F18524639CA7BD9AA4907",
+    "minted_at": "2025-09-23T20:35:54.220Z",
+    "created_at": "2025-09-23T20:35:54.220Z",
+    "updated_at": "2025-09-23T20:35:54.221Z"
+  },
+  {
+    "id": 31,
+    "token_id": "TEMP_31",
+    "name": "Levasseur Fragment #031 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 59°, coords -6.7262, 50.4705.",
+    "image_url": "ipfs://PLACEHOLDER/31.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifxxwwarp4uosjwt3bou3k3uhrvmoz2b5iaxbb3ggg3hypks72yxm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "59°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 36,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "5F26167BA4A425A921095ACD64C8BD256C9CB982B6889316D89771A9EDE66794",
+    "minted_at": "2025-09-23T20:35:54.221Z",
+    "created_at": "2025-09-23T20:35:54.222Z",
+    "updated_at": "2025-09-23T20:35:54.222Z"
+  },
+  {
+    "id": 32,
+    "token_id": "TEMP_32",
+    "name": "Levasseur Fragment #032 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 37°, coords -5.7795, 52.8649.",
+    "image_url": "ipfs://PLACEHOLDER/32.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigmo3nsfoyxm5lsdcwheuqu5xw5ethucoqlhieqooiyodvsyppqfa",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "37°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 19,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "05E8B42D8983D0D3AAD6355B9759B4AE3DCF5400446687B10702574CDF92DBCB",
+    "minted_at": "2025-09-23T20:35:54.222Z",
+    "created_at": "2025-09-23T20:35:54.222Z",
+    "updated_at": "2025-09-23T20:35:54.222Z"
+  },
+  {
+    "id": 33,
+    "token_id": "TEMP_33",
+    "name": "Levasseur Fragment #033 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 130°, coords -9.3256, 50.7648.",
+    "image_url": "ipfs://PLACEHOLDER/33.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicx6nb7qb5mec7om4mya7drvd4vwkjszahn6q3mbygemxj62tsctq",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "130°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Legendary",
+    "price": 31,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "BF12086D612C8D6DD9BF29803E5E2A3B583F4B7F3615C92B3B560CE04F6FC45A",
+    "minted_at": "2025-09-23T20:35:54.223Z",
+    "created_at": "2025-09-23T20:35:54.223Z",
+    "updated_at": "2025-09-23T20:35:54.223Z"
+  },
+  {
+    "id": 34,
+    "token_id": "TEMP_34",
+    "name": "Levasseur Fragment #034 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 227°, coords -8.7226, 48.3825.",
+    "image_url": "ipfs://PLACEHOLDER/34.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreie2ctwkninqu7pz6othy25gqsdp6wufxjpft3zx2scf2zbnprcedm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "227°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 53,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "1AF3608E5F95C31198918A76103BFDC67B7307D693560C9C0ABAD68C81BBF7DC",
+    "minted_at": "2025-09-23T20:35:54.224Z",
+    "created_at": "2025-09-23T20:35:54.224Z",
+    "updated_at": "2025-09-23T20:35:54.224Z"
+  },
+  {
+    "id": 35,
+    "token_id": "TEMP_35",
+    "name": "Levasseur Fragment #035 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 1°, coords -9.1016, 55.1187.",
+    "image_url": "ipfs://PLACEHOLDER/35.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreic53sh3qrie5woqbhbkovtnzh53q5xg7dhuts63kqeb5qbdlggmxe",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "1°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 47,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "42BCF3276D23708475317A48016C71662F84EBBF52031AB560B21BCF8657A565",
+    "minted_at": "2025-09-23T20:35:54.225Z",
+    "created_at": "2025-09-23T20:35:54.225Z",
+    "updated_at": "2025-09-23T20:35:54.225Z"
+  },
+  {
+    "id": 36,
+    "token_id": "TEMP_36",
+    "name": "Levasseur Fragment #036 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 346°, coords -9.9141, 54.9648.",
+    "image_url": "ipfs://PLACEHOLDER/36.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihdpx5xe5d3vudai7gjnefnczvwl6ps57gjx7fitmrbzbeujac4le",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "346°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 41,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "B8D61C79C646495FC048403FC026DE0614BE7FF21F66D5D9B243042507E7D628",
+    "minted_at": "2025-09-23T20:35:54.226Z",
+    "created_at": "2025-09-23T20:35:54.226Z",
+    "updated_at": "2025-09-23T20:35:54.226Z"
+  },
+  {
+    "id": 37,
+    "token_id": "TEMP_37",
+    "name": "Levasseur Fragment #037 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 251°, coords -6.6434, 54.9998.",
+    "image_url": "ipfs://PLACEHOLDER/37.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibp2rb2pigacouuyyavhmnueicfvpx4ikhki2g2xm7kx3ytluugqu",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "251°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 21,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "BC4E0900E9EEFD818C77A10CCFF70B1D1DD3CE6FE331DCACA10FE7FA1189D0FE",
+    "minted_at": "2025-09-23T20:35:54.227Z",
+    "created_at": "2025-09-23T20:35:54.227Z",
+    "updated_at": "2025-09-23T20:35:54.227Z"
+  },
+  {
+    "id": 38,
+    "token_id": "TEMP_38",
+    "name": "Levasseur Fragment #038 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 314°, coords -9.9295, 49.8494.",
+    "image_url": "ipfs://PLACEHOLDER/38.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigjzd6nxyb5zdgdajjqpnelqfnkeqq3oeh7okkkslbeksjrjqycma",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "314°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 18,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "83C8C5EF5BEC743E3745410B7BD27ECFDA5C2F6FCBD21777537841C19AB8BDE4",
+    "minted_at": "2025-09-23T20:35:54.227Z",
+    "created_at": "2025-09-23T20:35:54.227Z",
+    "updated_at": "2025-09-23T20:35:54.227Z"
+  },
+  {
+    "id": 39,
+    "token_id": "TEMP_39",
+    "name": "Levasseur Fragment #039 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 34°, coords -4.3467, 52.4147.",
+    "image_url": "ipfs://PLACEHOLDER/39.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifc432pyanzlbjlbiye4g6dvficxg7chsc6hogq2zgk6q5hahtwwe",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "34°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 42,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "2DDB9EEDB57150249FF4A982F7EBE99BF9B03F31AD483D2ECE6D5AF487E45EBD",
+    "minted_at": "2025-09-23T20:35:54.228Z",
+    "created_at": "2025-09-23T20:35:54.228Z",
+    "updated_at": "2025-09-23T20:35:54.228Z"
+  },
+  {
+    "id": 40,
+    "token_id": "TEMP_40",
+    "name": "Levasseur Fragment #040 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 235°, coords -8.5848, 50.1066.",
+    "image_url": "ipfs://PLACEHOLDER/40.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicbehxeutkoeweagfrlaaxedfhzlosv6vdcc6ari4jqkuejoz3jkq",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "235°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 21,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "1F307980319E156225162728FB98D5A1859E03931229B8D028824D06ACB1572A",
+    "minted_at": "2025-09-23T20:35:54.229Z",
+    "created_at": "2025-09-23T20:35:54.229Z",
+    "updated_at": "2025-09-23T20:35:54.229Z"
+  },
+  {
+    "id": 41,
+    "token_id": "TEMP_41",
+    "name": "Levasseur Fragment #041 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 355°, coords -9.8702, 52.6795.",
+    "image_url": "ipfs://PLACEHOLDER/41.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihhkfbkpzkco6dv2zokudsw7qdgtv67ad3ork4xneeyyunriqydjy",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "355°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      }
+    ],
+    "rarity": "Common",
+    "price": 21,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "28BB0C13018B94160122ECB1374D24EF379B34DB2FA0E98C7C6439FAE91449EF",
+    "minted_at": "2025-09-23T20:35:54.229Z",
+    "created_at": "2025-09-23T20:35:54.229Z",
+    "updated_at": "2025-09-23T20:35:54.229Z"
+  },
+  {
+    "id": 42,
+    "token_id": "TEMP_42",
+    "name": "Levasseur Fragment #042 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 82°, coords -4.8396, 52.1750.",
+    "image_url": "ipfs://PLACEHOLDER/42.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihbr23zfwn2xy4f625cmfqumyyyjgrsq5zqwza55taeoc46fcsfva",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "82°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 42,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "559278299673F2743BEB8A1BDA26AB9A36E1125DCA6B3DBB1584088853408586",
+    "minted_at": "2025-09-23T20:35:54.230Z",
+    "created_at": "2025-09-23T20:35:54.230Z",
+    "updated_at": "2025-09-23T20:35:54.230Z"
+  },
+  {
+    "id": 43,
+    "token_id": "TEMP_43",
+    "name": "Levasseur Fragment #043 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 278°, coords -6.0422, 54.6870.",
+    "image_url": "ipfs://PLACEHOLDER/43.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiaxutcnzyecwiukt6n2wp34ssc7tn7ox57s7n4uzwgmpvb62zmqoi",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "278°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 45,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "53383093BBC5733805315E2BB0A3008F47243497072219C275A91BE1D6D9F159",
+    "minted_at": "2025-09-23T20:35:54.231Z",
+    "created_at": "2025-09-23T20:35:54.231Z",
+    "updated_at": "2025-09-23T20:35:54.231Z"
+  },
+  {
+    "id": 44,
+    "token_id": "TEMP_44",
+    "name": "Levasseur Fragment #044 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 12°, coords -8.9001, 54.2387.",
+    "image_url": "ipfs://PLACEHOLDER/44.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigffeyk2xadt26vabpptfmn663baaxe6o32by53bqdc6acgj4zy6m",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "12°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      }
+    ],
+    "rarity": "Common",
+    "price": 37,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "9E36AF2D2B2FC9B0632625CEB165359B0C5B104591677D1D7BF248040810DC10",
+    "minted_at": "2025-09-23T20:35:54.231Z",
+    "created_at": "2025-09-23T20:35:54.231Z",
+    "updated_at": "2025-09-23T20:35:54.231Z"
+  },
+  {
+    "id": 45,
+    "token_id": "TEMP_45",
+    "name": "Levasseur Fragment #045 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 28°, coords -6.2967, 54.0004.",
+    "image_url": "ipfs://PLACEHOLDER/45.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifggjg32tcb6l5gg5bemsqggxcy4v2mpnesjnotnrfrbr7at6hpge",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "28°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 40,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "86113A3F853C4C10A2B46CF4ABA720B295FA4202282B0CD730864C23DE438164",
+    "minted_at": "2025-09-23T20:35:54.232Z",
+    "created_at": "2025-09-23T20:35:54.232Z",
+    "updated_at": "2025-09-23T20:35:54.232Z"
+  },
+  {
+    "id": 46,
+    "token_id": "TEMP_46",
+    "name": "Levasseur Fragment #046 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 152°, coords -8.9042, 51.0192.",
+    "image_url": "ipfs://PLACEHOLDER/46.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihmmzyr5zl4n4tux2s3euvorcitfkyn6bgm3nqbom2bp5v2jwgqky",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "152°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 19,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "E6525A4160289667B9DC4B0C607E0CF51C9970EC13D44C8F9EF963E82BA56AFD",
+    "minted_at": "2025-09-23T20:35:54.233Z",
+    "created_at": "2025-09-23T20:35:54.233Z",
+    "updated_at": "2025-09-23T20:35:54.233Z"
+  },
+  {
+    "id": 47,
+    "token_id": "TEMP_47",
+    "name": "Levasseur Fragment #047 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 159°, coords -5.3807, 52.7503.",
+    "image_url": "ipfs://PLACEHOLDER/47.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibqhbufn5g6cae4cfg5c5x3ay75522mne2l2aicjw64b37l2srle4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "159°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 35,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "1F1F195F7ADD132EF86D58BDD230D31453E40961621AD5D64A3E1AC91298F997",
+    "minted_at": "2025-09-23T20:35:54.234Z",
+    "created_at": "2025-09-23T20:35:54.234Z",
+    "updated_at": "2025-09-23T20:35:54.234Z"
+  },
+  {
+    "id": 48,
+    "token_id": "TEMP_48",
+    "name": "Levasseur Fragment #048 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 178°, coords -9.1293, 49.1000.",
+    "image_url": "ipfs://PLACEHOLDER/48.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreignmauuiw6sa7fwo2vz4m4wkh7ywaaiueclahqqrzgigeqn77dw3a",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "178°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 26,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "F5A90FDED56A1A7C77EDE5098C8A45E1526F56F1B5D0A39B54B5F69CD397B6FE",
+    "minted_at": "2025-09-23T20:35:54.234Z",
+    "created_at": "2025-09-23T20:35:54.234Z",
+    "updated_at": "2025-09-23T20:35:54.234Z"
+  },
+  {
+    "id": 49,
+    "token_id": "TEMP_49",
+    "name": "Levasseur Fragment #049 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 101°, coords -9.8790, 48.8616.",
+    "image_url": "ipfs://PLACEHOLDER/49.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreierp7panqcx64ga74axhmpijfpzwpkkk5lq5ix3dsrapbb7wn3kyi",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "101°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 51,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "009F3429C0F6B6610484EC1EF6195B749354D1670B4E2D3B62984A21847CF531",
+    "minted_at": "2025-09-23T20:35:54.235Z",
+    "created_at": "2025-09-23T20:35:54.235Z",
+    "updated_at": "2025-09-23T20:35:54.235Z"
+  },
+  {
+    "id": 50,
+    "token_id": "TEMP_50",
+    "name": "Levasseur Fragment #050 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 76°, coords -7.0812, 49.2175.",
+    "image_url": "ipfs://PLACEHOLDER/50.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihh23ltmwx6d5cmaapombuvo4mnedekjixq7hxoua6dqzqnyzp364",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "76°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 60,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "D1A2CDC6516A01F6C83F3FF0A276513997670F8ABACB5B19A5E521B6C03A7A52",
+    "minted_at": "2025-09-23T20:35:54.235Z",
+    "created_at": "2025-09-23T20:35:54.235Z",
+    "updated_at": "2025-09-23T20:35:54.235Z"
+  },
+  {
+    "id": 51,
+    "token_id": "TEMP_51",
+    "name": "Levasseur Fragment #051 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 36°, coords -5.3107, 51.6808.",
+    "image_url": "ipfs://PLACEHOLDER/51.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibyulyvwnr3dgg4d3zzgp5rrnhyruu6ur5px2w2yoqhghv6bymuj4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "36°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 30,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "8C7F91EEB18EE75D58A9029660446D4F85617A1C437BD918F2C1E9E929DDBAC8",
+    "minted_at": "2025-09-23T20:35:54.236Z",
+    "created_at": "2025-09-23T20:35:54.236Z",
+    "updated_at": "2025-09-23T20:35:54.236Z"
+  },
+  {
+    "id": 52,
+    "token_id": "TEMP_52",
+    "name": "Levasseur Fragment #052 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 116°, coords -8.2643, 48.0278.",
+    "image_url": "ipfs://PLACEHOLDER/52.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicr2qrfnr3iknpzna3x6cwjodcesqx32dued4tfguj75tdej2gzhm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "116°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 49,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "B06008D4CB30191EF90060EBB7ABD059F214E79D6927387250A2C99BACF0CB59",
+    "minted_at": "2025-09-23T20:35:54.237Z",
+    "created_at": "2025-09-23T20:35:54.237Z",
+    "updated_at": "2025-09-23T20:35:54.237Z"
+  },
+  {
+    "id": 53,
+    "token_id": "TEMP_53",
+    "name": "Levasseur Fragment #053 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 313°, coords -8.3142, 47.0110.",
+    "image_url": "ipfs://PLACEHOLDER/53.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreianm3jsybvw4abnqr656gbnipobpnjwlypmfll2bqlqpgk5zxemsq",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "313°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 49,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "76EB6BF23572B0B64C4AA149627AED1001E608DF7E837EE82E19258DC8056C3B",
+    "minted_at": "2025-09-23T20:35:54.237Z",
+    "created_at": "2025-09-23T20:35:54.237Z",
+    "updated_at": "2025-09-23T20:35:54.237Z"
+  },
+  {
+    "id": 54,
+    "token_id": "TEMP_54",
+    "name": "Levasseur Fragment #054 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 91°, coords -6.5465, 47.2881.",
+    "image_url": "ipfs://PLACEHOLDER/54.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibcabdz4swoxsoe3crx6f3fmphxgfz22zqrmn7cknsifthld76iwe",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "91°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 44,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "1E304F81E7CE112EA1608C777B9FE7751DA091E02B95AAAAF2256CB3627DC959",
+    "minted_at": "2025-09-23T20:35:54.238Z",
+    "created_at": "2025-09-23T20:35:54.238Z",
+    "updated_at": "2025-09-23T20:35:54.238Z"
+  },
+  {
+    "id": 55,
+    "token_id": "TEMP_55",
+    "name": "Levasseur Fragment #055 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 239°, coords -4.8981, 52.7295.",
+    "image_url": "ipfs://PLACEHOLDER/55.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihg42nsryjbpp63eca5ktoynjacmhsnmoz54gqdocjbht2yz7nigu",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "239°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 24,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "CE1F3865D2B127110F75CDAAE0571096EBA32CCA5EB923A69C4C145973EB788D",
+    "minted_at": "2025-09-23T20:35:54.239Z",
+    "created_at": "2025-09-23T20:35:54.239Z",
+    "updated_at": "2025-09-23T20:35:54.239Z"
+  },
+  {
+    "id": 56,
+    "token_id": "TEMP_56",
+    "name": "Levasseur Fragment #056 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 270°, coords -8.7198, 51.5523.",
+    "image_url": "ipfs://PLACEHOLDER/56.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifc4inncbyrchi4awrkyams756hgh7nn7ctopukmtwby7sv76tlxa",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "270°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 61,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "10A63831116425DD9887D1197755EFB110997A8AE8E4D2B8022811BFB76DD852",
+    "minted_at": "2025-09-23T20:35:54.240Z",
+    "created_at": "2025-09-23T20:35:54.240Z",
+    "updated_at": "2025-09-23T20:35:54.240Z"
+  },
+  {
+    "id": 57,
+    "token_id": "TEMP_57",
+    "name": "Levasseur Fragment #057 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 173°, coords -4.6846, 49.0896.",
+    "image_url": "ipfs://PLACEHOLDER/57.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreievjxao2bfc7plopb34xdlusme3ixwpkxs2rdnz4plf25giuyaega",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "173°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 16,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "8EF8B733785C748DFB129DF3690C9E215CDD62547FCB176F0E860A511F2191B6",
+    "minted_at": "2025-09-23T20:35:54.241Z",
+    "created_at": "2025-09-23T20:35:54.241Z",
+    "updated_at": "2025-09-23T20:35:54.241Z"
+  },
+  {
+    "id": 58,
+    "token_id": "TEMP_58",
+    "name": "Levasseur Fragment #058 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 84°, coords -9.8676, 51.8287.",
+    "image_url": "ipfs://PLACEHOLDER/58.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiaswy3ko45ytuia3lsq2msa7uopok66dryr7glbp6t52fjrj5plxm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "84°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Epic",
+    "price": 56,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "7AC62C56C26536B4B956E8F3EFF6ACC102CD88A40A0A7F16CC29E57635CD044B",
+    "minted_at": "2025-09-23T20:35:54.242Z",
+    "created_at": "2025-09-23T20:35:54.242Z",
+    "updated_at": "2025-09-23T20:35:54.242Z"
+  },
+  {
+    "id": 59,
+    "token_id": "TEMP_59",
+    "name": "Levasseur Fragment #059 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 155°, coords -6.5706, 50.8019.",
+    "image_url": "ipfs://PLACEHOLDER/59.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiggujobtdnpiw6hvjhkfhojlfwhzu3dsngme4eagt2cdmnhicz2re",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "155°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 20,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "359A58BC55D10F90D7B5BFA7D5E741BF9424F5454F45F7B60E5F02E75511C1AC",
+    "minted_at": "2025-09-23T20:35:54.243Z",
+    "created_at": "2025-09-23T20:35:54.243Z",
+    "updated_at": "2025-09-23T20:35:54.243Z"
+  },
+  {
+    "id": 60,
+    "token_id": "TEMP_60",
+    "name": "Levasseur Fragment #060 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 24°, coords -6.3623, 50.2973.",
+    "image_url": "ipfs://PLACEHOLDER/60.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreif23p4c74nlur4adofn7acwpjb3x2tubvcybg7lhf7r4iljvx73d4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "24°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 37,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "95262CB02F19D22E5CC2FD09A6207BACF559A8E980CBDAF8D64202800897F408",
+    "minted_at": "2025-09-23T20:35:54.243Z",
+    "created_at": "2025-09-23T20:35:54.243Z",
+    "updated_at": "2025-09-23T20:35:54.243Z"
+  },
+  {
+    "id": 61,
+    "token_id": "TEMP_61",
+    "name": "Levasseur Fragment #061 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 151°, coords -7.6770, 52.1806.",
+    "image_url": "ipfs://PLACEHOLDER/61.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigsgg2uvvpwaovqx53pquajuhl7o7uztipett2ox4onn465d4alp4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "151°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 61,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "2D9F1536133C7E094CA3C0107B226AAE0975777F81316223610EAD1A13784161",
+    "minted_at": "2025-09-23T20:35:54.244Z",
+    "created_at": "2025-09-23T20:35:54.244Z",
+    "updated_at": "2025-09-23T20:35:54.244Z"
+  },
+  {
+    "id": 62,
+    "token_id": "TEMP_62",
+    "name": "Levasseur Fragment #062 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 107°, coords -7.4182, 46.4442.",
+    "image_url": "ipfs://PLACEHOLDER/62.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiabwzy7mphcfh5zjduydpljsvkmwe3zawoel44f5ygawcwffnv7ly",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "107°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 62,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "69CCE22C91DE8D35C2517A46B971A4B32F2C5EF60C9A1AAB3A8787F1591DF67B",
+    "minted_at": "2025-09-23T20:35:54.245Z",
+    "created_at": "2025-09-23T20:35:54.245Z",
+    "updated_at": "2025-09-23T20:35:54.250Z"
+  },
+  {
+    "id": 63,
+    "token_id": "TEMP_63",
+    "name": "Levasseur Fragment #063 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 82°, coords -6.4327, 55.6694.",
+    "image_url": "ipfs://PLACEHOLDER/63.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigohyvrqzjosy4gi6xaixpiasspcmcdk7lvnqkka6bjwbxjrreqqy",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "82°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 42,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "FA0923FEAD1AF523B724BE0B64BBC7DA664EAE5349C05C3AC606CAB168B050A0",
+    "minted_at": "2025-09-23T20:35:54.251Z",
+    "created_at": "2025-09-23T20:35:54.251Z",
+    "updated_at": "2025-09-23T20:35:54.251Z"
+  },
+  {
+    "id": 64,
+    "token_id": "TEMP_64",
+    "name": "Levasseur Fragment #064 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 10°, coords -5.3609, 46.5878.",
+    "image_url": "ipfs://PLACEHOLDER/64.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifdsmubqb47b2ffoygn5r5upekuj6cd3obiovyiduvastiizwwttm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "10°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Epic",
+    "price": 42,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "4B83BD658058D69FEE4B967FFF81292AAE36225DABDF37F1F26BC6331D67D24A",
+    "minted_at": "2025-09-23T20:35:54.251Z",
+    "created_at": "2025-09-23T20:35:54.251Z",
+    "updated_at": "2025-09-23T20:35:54.251Z"
+  },
+  {
+    "id": 65,
+    "token_id": "TEMP_65",
+    "name": "Levasseur Fragment #065 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 208°, coords -6.9601, 54.7934.",
+    "image_url": "ipfs://PLACEHOLDER/65.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifi5ydujsfygqwqjuzsdsrhcocyeqx3m5vbkw5ljtqbaqsntoorpi",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "208°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 29,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "E45A5F26E6390A1467E4752CE2FA683C83EEE7C2302DCA06AB7D765358292A65",
+    "minted_at": "2025-09-23T20:35:54.252Z",
+    "created_at": "2025-09-23T20:35:54.252Z",
+    "updated_at": "2025-09-23T20:35:54.252Z"
+  },
+  {
+    "id": 66,
+    "token_id": "TEMP_66",
+    "name": "Levasseur Fragment #066 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 79°, coords -5.8549, 52.6262.",
+    "image_url": "ipfs://PLACEHOLDER/66.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifa472ffzyetxt2wl4aujk4jinpkbsqvqwzq554dvertge7nqcuu4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "79°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 30,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "5304A6ABBC90411DF2C80A5939BEB44EBA3FF35B0D6B5E8B0CC3BC83D4A33ABD",
+    "minted_at": "2025-09-23T20:35:54.253Z",
+    "created_at": "2025-09-23T20:35:54.253Z",
+    "updated_at": "2025-09-23T20:35:54.253Z"
+  },
+  {
+    "id": 67,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A655ECC4B00A6098F",
+    "name": "Levasseur Fragment #067 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 237°, coords -5.9935, 49.1755.",
+    "image_url": "ipfs://PLACEHOLDER/67.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifxfcxtmjfkzezjtcef66ihujsj66vhgq67fzvdp2l4aptxgj774u",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "237°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 27,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "F37B83ED13F01B357E94A49413B124D61E76F86699736C18438DA6471D7801F4",
+    "minted_at": "2025-09-23T20:35:54.253Z",
+    "created_at": "2025-09-23T20:35:54.253Z",
+    "updated_at": "2025-09-23T20:35:54.253Z"
+  },
+  {
+    "id": 68,
+    "token_id": "TEMP_68",
+    "name": "Levasseur Fragment #068 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 258°, coords -6.4831, 49.9779.",
+    "image_url": "ipfs://PLACEHOLDER/68.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigwxohy2ri5lskyxgmfgotkoik6c4fejmcuijr745efyqjw524n54",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "258°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 41,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "BCCE18344AC1272A69D9F8DB41530CD820D176C82910D5AEC259B80B775013D7",
+    "minted_at": "2025-09-23T20:35:54.254Z",
+    "created_at": "2025-09-23T20:35:54.254Z",
+    "updated_at": "2025-09-23T20:35:54.254Z"
+  },
+  {
+    "id": 69,
+    "token_id": "TEMP_69",
+    "name": "Levasseur Fragment #069 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 193°, coords -6.3332, 47.7492.",
+    "image_url": "ipfs://PLACEHOLDER/69.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigh24qkyyjpa6rsx5yesmzpk3cyaw7oebwt6w7xic6v3fz6cje7vu",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "193°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 64,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "9A0EAF51999444C1002E8B1147FE8C0FF668C7E120B44B3BE5FF0904A3B4F5FA",
+    "minted_at": "2025-09-23T20:35:54.255Z",
+    "created_at": "2025-09-23T20:35:54.255Z",
+    "updated_at": "2025-09-23T20:35:54.255Z"
+  },
+  {
+    "id": 70,
+    "token_id": "TEMP_70",
+    "name": "Levasseur Fragment #070 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 48°, coords -9.9779, 55.3214.",
+    "image_url": "ipfs://PLACEHOLDER/70.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreibyllpoykyow7zftuircxfeclzkfetqu2c6iad2mf7abqkisy74t4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "48°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 42,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "26474AB9950E7022FC0651AA4B6F78C091941A461D47E6D93EF1596EF26E3C0C",
+    "minted_at": "2025-09-23T20:35:54.255Z",
+    "created_at": "2025-09-23T20:35:54.256Z",
+    "updated_at": "2025-09-23T20:35:54.256Z"
+  },
+  {
+    "id": 71,
+    "token_id": "TEMP_71",
+    "name": "Levasseur Fragment #071 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 220°, coords -6.5193, 55.6477.",
+    "image_url": "ipfs://PLACEHOLDER/71.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifsklyy7sp57d5ur4jdr477gdqzxbr6dmadginfmiwa5tewxyodb4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "220°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 36,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "ECF52DB30F0E4027EA1B0FE41D8E46B5647B30714D0F8515B66C2ABEE4EEA476",
+    "minted_at": "2025-09-23T20:35:54.257Z",
+    "created_at": "2025-09-23T20:35:54.257Z",
+    "updated_at": "2025-09-23T20:35:54.257Z"
+  },
+  {
+    "id": 72,
+    "token_id": "TEMP_72",
+    "name": "Levasseur Fragment #072 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 60°, coords -7.4143, 55.0157.",
+    "image_url": "ipfs://PLACEHOLDER/72.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihren4jft3zibktlco44yjyytty7mofhbxvblu3psngpxllcmzq5y",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "60°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 38,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "EECE241D8D58D12B4C12241DEB03F134BF68983A8B62689B6409E06057FBC68C",
+    "minted_at": "2025-09-23T20:35:54.258Z",
+    "created_at": "2025-09-23T20:35:54.258Z",
+    "updated_at": "2025-09-23T20:35:54.258Z"
+  },
+  {
+    "id": 73,
+    "token_id": "TEMP_73",
+    "name": "Levasseur Fragment #073 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 188°, coords -7.7247, 51.7441.",
+    "image_url": "ipfs://PLACEHOLDER/73.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigtajf2go6nuymgefof3s6tyssz65oapw4gao46k3zku36zf4efui",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "188°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 34,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "D57F80052B65274CD7A646B8B024E552F614C2C8C69153B5A1431C84F36F9F54",
+    "minted_at": "2025-09-23T20:35:54.260Z",
+    "created_at": "2025-09-23T20:35:54.260Z",
+    "updated_at": "2025-09-23T20:35:54.260Z"
+  },
+  {
+    "id": 74,
+    "token_id": "TEMP_74",
+    "name": "Levasseur Fragment #074 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 85°, coords -9.6633, 46.5834.",
+    "image_url": "ipfs://PLACEHOLDER/74.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreign3zev7lcmsdlgrolk5i6cdsemuoo3dhj5ltvudshiiy5f35toxy",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "85°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 60,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "B4D2ABC401163C1E854A3A122E8743B4D6EA04FCAE1F7DF91EB44190C6D4FFFC",
+    "minted_at": "2025-09-23T20:35:54.261Z",
+    "created_at": "2025-09-23T20:35:54.261Z",
+    "updated_at": "2025-09-23T20:35:54.261Z"
+  },
+  {
+    "id": 75,
+    "token_id": "TEMP_75",
+    "name": "Levasseur Fragment #075 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 246°, coords -8.0511, 49.5762.",
+    "image_url": "ipfs://PLACEHOLDER/75.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihne4dajqpodvymar6nnvgt525cxmhrwszvaej2ncllt2dkwassgm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "246°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 55,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "15F71272D174CBAE98CE2246FD2FA1261408E903D1DCE70681DF59E8BC2EB67B",
+    "minted_at": "2025-09-23T20:35:54.262Z",
+    "created_at": "2025-09-23T20:35:54.262Z",
+    "updated_at": "2025-09-23T20:35:54.262Z"
+  },
+  {
+    "id": 76,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A1E67B88E00A60954",
+    "name": "Levasseur Fragment #076 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 163°, coords -8.0916, 46.3959.",
+    "image_url": "ipfs://PLACEHOLDER/76.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreie6j6wkfushfezwsppblwuacerca67paaglothq5aciyckabellpi",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "163°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 60,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "512105426419D52117DAE26F769D4783149541F2608C349EBB32FFA9BBAFECC8",
+    "minted_at": "2025-09-23T20:35:54.262Z",
+    "created_at": "2025-09-23T20:35:54.262Z",
+    "updated_at": "2025-09-23T20:35:54.262Z"
+  },
+  {
+    "id": 77,
+    "token_id": "TEMP_77",
+    "name": "Levasseur Fragment #077 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 191°, coords -9.9773, 53.0780.",
+    "image_url": "ipfs://PLACEHOLDER/77.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreih7qkdbrqim4dptulhvcaf5znfxjagmpqsr5nfxsgkv46fpbkssu4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "191°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 41,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "BE35E6FE11CF5BE07CE5F0CE5739938529EB6E0D2F0DC6C368EF5627AD36FCEA",
+    "minted_at": "2025-09-23T20:35:54.263Z",
+    "created_at": "2025-09-23T20:35:54.263Z",
+    "updated_at": "2025-09-23T20:35:54.263Z"
+  },
+  {
+    "id": 78,
+    "token_id": "TEMP_78",
+    "name": "Levasseur Fragment #078 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 250°, coords -6.8974, 48.9048.",
+    "image_url": "ipfs://PLACEHOLDER/78.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiasv4crqobbgsooou3awn22rl6c5vsqvhsa7osnzvlqmbadtl4oay",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "250°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 49,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "14AE682D590B211FDDEE9FBBBF6D40DCBD8F8129FE1F1DBA280D0366C669137A",
+    "minted_at": "2025-09-23T20:35:54.264Z",
+    "created_at": "2025-09-23T20:35:54.264Z",
+    "updated_at": "2025-09-23T20:35:54.264Z"
+  },
+  {
+    "id": 79,
+    "token_id": "TEMP_79",
+    "name": "Levasseur Fragment #079 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 114°, coords -8.7892, 54.8672.",
+    "image_url": "ipfs://PLACEHOLDER/79.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreib3gqh5cxjsqaxnppyrzjjdmwvcvgp33q3twfrzln4wrh7tx77qpq",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "114°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 43,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "E10508A3F801AD6FB56B6BE7DE321FF797DA7F2601F2B36C93179AF5A6B35879",
+    "minted_at": "2025-09-23T20:35:54.265Z",
+    "created_at": "2025-09-23T20:35:54.265Z",
+    "updated_at": "2025-09-23T20:35:54.265Z"
+  },
+  {
+    "id": 80,
+    "token_id": "TEMP_80",
+    "name": "Levasseur Fragment #080 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 313°, coords -4.3125, 47.5288.",
+    "image_url": "ipfs://PLACEHOLDER/80.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreia335zj3o42w26dxvssanelnkggkhke7pramwoelhr55fvdifmsem",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "313°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 31,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "32F4461882A67C1BCDA673B399A2AA454C862724E77A5EE658DB849DDC6B66AF",
+    "minted_at": "2025-09-23T20:35:54.265Z",
+    "created_at": "2025-09-23T20:35:54.265Z",
+    "updated_at": "2025-09-23T20:35:54.265Z"
+  },
+  {
+    "id": 81,
+    "token_id": "TEMP_81",
+    "name": "Levasseur Fragment #081 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 23°, coords -6.6153, 51.7722.",
+    "image_url": "ipfs://PLACEHOLDER/81.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihviqktjn47q2jilc3zenlm2fwwqemwwrnpx37oh62d7cdbd6un6u",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "23°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 56,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "3854A22D7D62D9B7B8F6D880E35177E45BABE67C6C9997379F5C53C54D7533E8",
+    "minted_at": "2025-09-23T20:35:54.266Z",
+    "created_at": "2025-09-23T20:35:54.266Z",
+    "updated_at": "2025-09-23T20:35:54.266Z"
+  },
+  {
+    "id": 82,
+    "token_id": "TEMP_82",
+    "name": "Levasseur Fragment #082 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 149°, coords -8.4831, 47.8273.",
+    "image_url": "ipfs://PLACEHOLDER/82.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreigyoc4qmamh2lon6zycntltsco5n6vdhg3itdodb2js6wrxp62cva",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "149°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 62,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "24DEC1CF1F2C7C89208DB2AABBEB5E9933E0DF12C5F80B2B35E0CE801015CC7C",
+    "minted_at": "2025-09-23T20:35:54.266Z",
+    "created_at": "2025-09-23T20:35:54.266Z",
+    "updated_at": "2025-09-23T20:35:54.266Z"
+  },
+  {
+    "id": 83,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7AA3AA966100A60965",
+    "name": "Levasseur Fragment #083 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 243°, coords -5.1427, 48.3743.",
+    "image_url": "ipfs://PLACEHOLDER/83.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreif3ng7hdcpkc542kqo7q7nn4xbbgchtdrsffzg5jmhnz7z44tfio4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "243°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      }
+    ],
+    "rarity": "Common",
+    "price": 18,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "71A5FD0482FE7BC35804447C4124863AF493AE87D255B5300D72618A5E9ACF21",
+    "minted_at": "2025-09-23T20:35:54.266Z",
+    "created_at": "2025-09-23T20:35:54.266Z",
+    "updated_at": "2025-09-23T20:35:54.266Z"
+  },
+  {
+    "id": 84,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7AE01BEF7800A6097E",
+    "name": "Levasseur Fragment #084 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 34°, coords -6.6631, 48.4111.",
+    "image_url": "ipfs://PLACEHOLDER/84.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihat6cf4a3eq52vkbph6uy54mkw5tbgemlwhgkty44nghm5jufyha",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "34°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Epic",
+    "price": 43,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "41F5158B738109C26A08752DE2B12F1B0519A95935586FBDFE7E147BC7723FE6",
+    "minted_at": "2025-09-23T20:35:54.267Z",
+    "created_at": "2025-09-23T20:35:54.267Z",
+    "updated_at": "2025-09-23T20:35:54.267Z"
+  },
+  {
+    "id": 85,
+    "token_id": "TEMP_85",
+    "name": "Levasseur Fragment #085 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 101°, coords -5.9349, 47.3029.",
+    "image_url": "ipfs://PLACEHOLDER/85.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreif6nc3vuwnmgqxprby3ercaysb3xvpsbpr4m3v6mud2edo64swv6m",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "101°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 60,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "4E19DAD26DAD84282EFBAE0B4C11F0B7577A68BF677980206042DA677881C10E",
+    "minted_at": "2025-09-23T20:35:54.267Z",
+    "created_at": "2025-09-23T20:35:54.267Z",
+    "updated_at": "2025-09-23T20:35:54.267Z"
+  },
+  {
+    "id": 86,
+    "token_id": "TEMP_86",
+    "name": "Levasseur Fragment #086 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 151°, coords -8.4856, 52.3086.",
+    "image_url": "ipfs://PLACEHOLDER/86.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicmw76e5crh36kftkbkz66uwq22wbxezjotwu3nirohwfouseiay4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "151°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 37,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "A425C26BD3F32E8F2C1A3B1E0B657E295D1C94C00B03308F83317EEE7F9FE966",
+    "minted_at": "2025-09-23T20:35:54.268Z",
+    "created_at": "2025-09-23T20:35:54.268Z",
+    "updated_at": "2025-09-23T20:35:54.268Z"
+  },
+  {
+    "id": 87,
+    "token_id": "TEMP_87",
+    "name": "Levasseur Fragment #087 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 286°, coords -9.2846, 51.1566.",
+    "image_url": "ipfs://PLACEHOLDER/87.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifa3kipj6gqdzcpghxz6ju6q4f5wt6fsls24itgpl2d2bsdd2bxvu",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "286°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Epic",
+    "price": 34,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "CEE912AC8970533A28E4EBDAD8DC622EAD4B7E2FBF482E9237DCE09505503654",
+    "minted_at": "2025-09-23T20:35:54.269Z",
+    "created_at": "2025-09-23T20:35:54.269Z",
+    "updated_at": "2025-09-23T20:35:54.269Z"
+  },
+  {
+    "id": 88,
+    "token_id": "TEMP_88",
+    "name": "Levasseur Fragment #088 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 5°, coords -8.3041, 55.2991.",
+    "image_url": "ipfs://PLACEHOLDER/88.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicrhnmerlc3bzi7ue55t7oyfugcqyd5n3uhzgus5qfjnlkcyw7x5u",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "5°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Epic",
+    "price": 60,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "BCC7F45C2768F63264F34ED099A3F7DF79482C8C32E84DF4299197A1F8A51B16",
+    "minted_at": "2025-09-23T20:35:54.270Z",
+    "created_at": "2025-09-23T20:35:54.270Z",
+    "updated_at": "2025-09-23T20:35:54.270Z"
+  },
+  {
+    "id": 89,
+    "token_id": "TEMP_89",
+    "name": "Levasseur Fragment #089 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 69°, coords -9.6250, 47.8835.",
+    "image_url": "ipfs://PLACEHOLDER/89.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiahabb3sdnvim7esurtotk57eojgp5xkdizcc2hsgynb2qwfeg3ma",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "69°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      }
+    ],
+    "rarity": "Common",
+    "price": 43,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "4EF47CF813367AC259F78E06BB17F22D6531DE70FCB16C4C8AE0C64A507978D9",
+    "minted_at": "2025-09-23T20:35:54.271Z",
+    "created_at": "2025-09-23T20:35:54.271Z",
+    "updated_at": "2025-09-23T20:35:54.271Z"
+  },
+  {
+    "id": 90,
+    "token_id": "TEMP_90",
+    "name": "Levasseur Fragment #090 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 198°, coords -9.7562, 51.5212.",
+    "image_url": "ipfs://PLACEHOLDER/90.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreihm4ba7jytuyu2wo6j5uqpyhuj6dcw255lmen5ugicadmb76bl5vq",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "198°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 23,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "A7E5FFDF5516E9C9017291BB6F63B1BD2BA6C802EBAF225D835361CA71FEDDC5",
+    "minted_at": "2025-09-23T20:35:54.271Z",
+    "created_at": "2025-09-23T20:35:54.271Z",
+    "updated_at": "2025-09-23T20:35:54.271Z"
+  },
+  {
+    "id": 91,
+    "token_id": "TEMP_91",
+    "name": "Levasseur Fragment #091 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 109°, coords -7.2565, 47.5436.",
+    "image_url": "ipfs://PLACEHOLDER/91.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreidhgpe7rj34h3j22rbeli3p6ybruojulnifk5wqhy23bmxlbjfo5y",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "109°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coral Tracing"
+      }
+    ],
+    "rarity": "Epic",
+    "price": 64,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "FB482B815D419BD03C5AE834D563E9FB75AC852BE1E1D331D15E4EA0989D4620",
+    "minted_at": "2025-09-23T20:35:54.272Z",
+    "created_at": "2025-09-23T20:35:54.272Z",
+    "updated_at": "2025-09-23T20:35:54.272Z"
+  },
+  {
+    "id": 92,
+    "token_id": "TEMP_92",
+    "name": "Levasseur Fragment #092 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 61°, coords -5.5776, 46.0671.",
+    "image_url": "ipfs://PLACEHOLDER/92.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicnjx467adbyhunod5ni3byprcqnsyvifzxwkyq4fww3fid4oq3n4",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "61°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 47,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "7373602D642DAA16A568DD9834FDFF6A98CDFFCDDFFA20F3E90C90C5DA356764",
+    "minted_at": "2025-09-23T20:35:54.272Z",
+    "created_at": "2025-09-23T20:35:54.272Z",
+    "updated_at": "2025-09-23T20:35:54.272Z"
+  },
+  {
+    "id": 93,
+    "token_id": "TEMP_93",
+    "name": "Levasseur Fragment #093 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 262°, coords -7.6895, 52.0937.",
+    "image_url": "ipfs://PLACEHOLDER/93.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiehiyc327j2gb4sw33vdfhgbt67jclcdfi2bvwmnbom3n27ilnl64",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "262°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      }
+    ],
+    "rarity": "Common",
+    "price": 31,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "64577DB5D95752C9898A42DC6FE2DA1DA1FAF623B1371E347CB192A4E641CD47",
+    "minted_at": "2025-09-23T20:35:54.273Z",
+    "created_at": "2025-09-23T20:35:54.273Z",
+    "updated_at": "2025-09-23T20:35:54.273Z"
+  },
+  {
+    "id": 94,
+    "token_id": "TEMP_94",
+    "name": "Levasseur Fragment #094 — La Digue's Secret",
+    "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 147°, coords -4.2748, 52.5437.",
+    "image_url": "ipfs://PLACEHOLDER/94.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiajfvitvp4wvdvn56dvn3i3gddy5mhloh4hajzze4zm3jz5cdu7ja",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "La Digue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "147°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "La Digue's Secrets"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 64,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "0DFF5A83A48E72C82FC8C60F79D2EEA6DC61E53C09DCE617B2B1F348548F3A14",
+    "minted_at": "2025-09-23T20:35:54.274Z",
+    "created_at": "2025-09-23T20:35:54.274Z",
+    "updated_at": "2025-09-23T20:35:54.274Z"
+  },
+  {
+    "id": 95,
+    "token_id": "TEMP_95",
+    "name": "Levasseur Fragment #095 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 259°, coords -4.2961, 47.4544.",
+    "image_url": "ipfs://PLACEHOLDER/95.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiakk3nvovyi2hmomwrplxkjjmxynxcq33kldp5jzwqk7jfwdzu34m",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "259°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 61,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "8C9CAA95DDAFB3AE7444746AFBA8ACE732BB6FF5D63C43C4C66C01EF14594FAA",
+    "minted_at": "2025-09-23T20:35:54.276Z",
+    "created_at": "2025-09-23T20:35:54.276Z",
+    "updated_at": "2025-09-23T20:35:54.276Z"
+  },
+  {
+    "id": 96,
+    "token_id": "TEMP_96",
+    "name": "Levasseur Fragment #096 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 90°, coords -6.3099, 48.5018.",
+    "image_url": "ipfs://PLACEHOLDER/96.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreicxmszqxt7zay2koklmuvi3m7r3hbg7jy46f3szaqyvzsizvxrcny",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "90°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 20,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "07D048FC9BD9E063B54F1FA32ABD41FC89E8FB71EAFF7D56032F6B3FDD6BA70E",
+    "minted_at": "2025-09-23T20:35:54.276Z",
+    "created_at": "2025-09-23T20:35:54.276Z",
+    "updated_at": "2025-09-23T20:35:54.276Z"
+  },
+  {
+    "id": 97,
+    "token_id": "TEMP_97",
+    "name": "Levasseur Fragment #097 — Praslin's Prophecy",
+    "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 68°, coords -7.4363, 48.4139.",
+    "image_url": "ipfs://PLACEHOLDER/97.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreifvbaa5jy7lab5v6vmnolfrdciqhtbsn55te6iq3rv7rauvqi23fm",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Praslin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "68°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Praslin's Prophecy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 54,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "0F683E02744BCF91CF279CD9AFD0AE2E2A446E0FA7CC7E41F7301AAEA8153929",
+    "minted_at": "2025-09-23T20:35:54.277Z",
+    "created_at": "2025-09-23T20:35:54.277Z",
+    "updated_at": "2025-09-23T20:35:54.277Z"
+  },
+  {
+    "id": 98,
+    "token_id": "TEMP_98",
+    "name": "Levasseur Fragment #098 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 197°, coords -4.5493, 47.0328.",
+    "image_url": "ipfs://PLACEHOLDER/98.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreie5db4dlbgawkjz2urlukgmgzo6qjk7mjgos5vcomr6hxvjgyvhti",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "197°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Astronomy"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Rare",
+    "price": 51,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "C7D96C5A943F7257B982743F9E3466279896E077C24D14640A57D0E5D0194C74",
+    "minted_at": "2025-09-23T20:35:54.278Z",
+    "created_at": "2025-09-23T20:35:54.278Z",
+    "updated_at": "2025-09-23T20:35:54.278Z"
+  },
+  {
+    "id": 99,
+    "token_id": "TEMP_99",
+    "name": "Levasseur Fragment #099 — Outer Islands Revelation",
+    "description": "A Seychelles cartographic fragment. Island Aldabra; Chapter Outer Islands Revelation. Bearing 82°, coords -7.5647, 55.8116.",
+    "image_url": "ipfs://PLACEHOLDER/99.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiff32inwawvtfgmv5uddmdbtjd4whgazpipa5gutekyt3ge4ktlzi",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Aldabra"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "82°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Outer Islands Revelation"
+      },
+      {
+        "trait_type": "Overlay",
+        "value": "Coco de Mer Sigil"
+      }
+    ],
+    "rarity": "Common",
+    "price": 39,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "2509716F92186FF9AAEF4643651119EAC171406B6D41FC6BC53E680EE22C7330",
+    "minted_at": "2025-09-23T20:35:54.278Z",
+    "created_at": "2025-09-23T20:35:54.278Z",
+    "updated_at": "2025-09-23T20:35:54.278Z"
+  },
+  {
+    "id": 100,
+    "token_id": "TEMP_100",
+    "name": "Levasseur Fragment #100 — Mahé Manuscript",
+    "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 124°, coords -6.9287, 46.0877.",
+    "image_url": "ipfs://PLACEHOLDER/100.png",
+    "metadata_url": "https://gateway.pinata.cloud/ipfs/bafkreiayjv5xyangxicusbpvq32hieta7covqu2sfd7mwr5d4pz5kpieli",
+    "attributes": [
+      {
+        "trait_type": "Island",
+        "value": "Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Bearing",
+        "value": "124°"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Mahé Manuscripts"
+      }
+    ],
+    "rarity": "Common",
+    "price": 55,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "D85597F03393806093B7CF10C40D7DE8322E91BEBF7DBA4083643EEEE974D5BD",
+    "minted_at": "2025-09-23T20:35:54.279Z",
+    "created_at": "2025-09-23T20:35:54.279Z",
+    "updated_at": "2025-09-23T20:35:54.279Z"
+  },
+  {
+    "id": 101,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A54DEA03700A609BB",
+    "name": "SE2-01 — THE SHOREFALL LANDING",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Baie Lazare (Anse Gaulettes / Lazare Picault, Mahé). Where Picault first kissed shore, the moon drew a silver line.\\nFollow it south, when the tide leaves a bowl of glass.",
+    "image_url": "ipfs://bafkreihedwwsob4pby4b4u3covfllyza7ec7kym74dltdbf6ydw5sa2cn4",
+    "metadata_url": "ipfs://bafkreien3pf6avwtpjgktqgg732lwbuchkou4wvhjb6peqls7fur5ewefq",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Baie Lazare (Anse Gaulettes / Lazare Picault, Mahé)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "B"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Ros Sodyer (Rock Pool, Anse Takamaka)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "4390DBFCE076ED6379B43B26A9061B5087395D810E6DEC7CB7EAD36C780306E4",
+    "minted_at": "2025-09-24T16:39:10.953Z",
+    "created_at": "2025-09-24T16:39:10.953Z",
+    "updated_at": "2025-09-24T16:39:10.953Z"
+  },
+  {
+    "id": 102,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A6BC4913600A609BC",
+    "name": "SE2-02 — TIDE-BASIN RUNES",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Ros Sodyer Rock Pool (Anse Takamaka, Mahé). When the ocean exhales, stone remembers.\\nRead the runes in the pool; they point by night, not day.",
+    "image_url": "ipfs://bafkreicfzlxus3qysro3crwtopg6koxislx5znjnzazfcpm7rvnhj3ffim",
+    "metadata_url": "ipfs://bafkreiejivymgthzhmuvui7prwrbnyzd6bdhblob26ce7naloq5fe3r7ka",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Ros Sodyer Rock Pool (Anse Takamaka, Mahé)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "A"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Anse Boileau"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 3
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "ED0EECB92CD6A4BC323711035C4BC2ED19FBB5A492A25F16E754A94434BD0957",
+    "minted_at": "2025-09-24T16:39:19.810Z",
+    "created_at": "2025-09-24T16:39:19.810Z",
+    "updated_at": "2025-09-24T16:39:19.810Z"
+  },
+  {
+    "id": 103,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A82AA7E3900A609BD",
+    "name": "SE2-03 — THE HOLLOW AT BOILEAU",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Boileau, Mahé. In Boileau's hollow, a blade once bit the map.\\nLift the stone; the hillside whispers where to climb.",
+    "image_url": "ipfs://bafkreibu7r24neozpg6a3lsuyvob6tkbz4wvhgcvjl7w7pwkex4vj6z6fu",
+    "metadata_url": "ipfs://bafkreieq537tc4yoyihndy5yx7vzuosgzoge6plb3dxgujdk4lmf2flipy",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Anse Boileau, Mahé"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "I"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Morne Blanc"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "6CDE045C7AF872732499B491F3B25ABCF1BB9B9EF651016F02D5373F1C63AD4D",
+    "minted_at": "2025-09-24T16:39:28.473Z",
+    "created_at": "2025-09-24T16:39:28.473Z",
+    "updated_at": "2025-09-24T16:39:28.473Z"
+  },
+  {
+    "id": 104,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A0C0D583F00A609C3",
+    "name": "SE2-04 — MIST OF MORNE BLANC",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Morne Blanc (Sans Souci ridge, Mahé). Above the bay, the mist keeps counsel.\\nCount the five lights that survive the cloud.",
+    "image_url": "ipfs://bafkreifsbtgmkqzmyc234mtohwrl457ond5qw3ustga7waeprzgplmurli",
+    "metadata_url": "ipfs://bafkreid3pbdfrmyltwa45zwwp7hnb7cbodlbx7g66nvpoapr5njzkxamim",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Morne Blanc (Sans Souci ridge, Mahé)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "E"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Copolia"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 5
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "45F508F9373418A15E18D0B8772C7DF15532F33DF4E9C59AD34AC7C447BC657B",
+    "minted_at": "2025-09-24T16:39:38.766Z",
+    "created_at": "2025-09-24T16:39:38.766Z",
+    "updated_at": "2025-09-24T16:39:38.766Z"
+  },
+  {
+    "id": 105,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A22F3093E00A609C4",
+    "name": "SE2-05 — LANTERN ON COPOLIA",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Copolia Trail granite dome, Mahé. On Copolia's stone, light bends the reef.\\nArc the rope where the shoreline turns.",
+    "image_url": "ipfs://bafkreibrjl3rla2zqju5fbhy6uyvcdeuiinoxuzsljiivaxtivowhna2au",
+    "metadata_url": "ipfs://bafkreic4nbvmf4r5mdkw6qmguudfapcyu3hu72zpq4n4ies3qwm7qg2b7u",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Copolia Trail granite dome, Mahé"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "L"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Cascade Waterfall"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "8D2630C79A4010561E68400FFB23977F8A14E7F3CAD62987CDB89E49FFAC0BAA",
+    "minted_at": "2025-09-24T16:39:47.719Z",
+    "created_at": "2025-09-24T16:39:47.719Z",
+    "updated_at": "2025-09-24T16:39:47.719Z"
+  },
+  {
+    "id": 106,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A39D8F60100A609C5",
+    "name": "SE2-06 — BEHIND THE CASCADE",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Cascade Waterfall (east interior, Mahé). Step behind the veil; water hides what stone declares.\\nCoins of light pay passage west.",
+    "image_url": "ipfs://bafkreiehhiunfepr6psddsxlypqu442he3bdgdbkwat6hamq73r33b3wq4",
+    "metadata_url": "ipfs://bafkreiaplmgi3vbmlpawvmgkbwmhnsdwozogtilgcglrekizjgvd3cr63y",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Cascade Waterfall (east interior, Mahé)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "A"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Sauzier Waterfall (Port Glaud)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "8342CD90B89AD1B9C33203AE1D00F9301DC245021EB67A13BE4E6562E461D92B",
+    "minted_at": "2025-09-24T16:39:56.512Z",
+    "created_at": "2025-09-24T16:39:56.512Z",
+    "updated_at": "2025-09-24T16:39:56.512Z"
+  },
+  {
+    "id": 107,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A50BEA70000A609C6",
+    "name": "SE2-07 — SAUZIER'S WHISPER",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Sauzier Waterfall (Port Glaud / near Port Launay, Mahé). Where the westward fall sings, follow the echo.\\nIts measure climbs the coast to a hidden path.",
+    "image_url": "ipfs://bafkreifiyfo5uaelraap3alh5iwwuthsdd3gd5krafzeek5gjzkrrct2qi",
+    "metadata_url": "ipfs://bafkreieknkjmmzxtls5kn7q2omtzpnmjmf5tgryp347rakxnzsr2vreoey",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Sauzier Waterfall (Port Glaud / near Port Launay, Mahé)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "Z"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Anse Major Trail (Bel Ombre)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "D8506B2A2F986519E325CC8E1E94725731A595A9ED7DD3C2F02B3F3AD4C52051",
+    "minted_at": "2025-09-24T16:40:05.528Z",
+    "created_at": "2025-09-24T16:40:05.528Z",
+    "updated_at": "2025-09-24T16:40:05.528Z"
+  },
+  {
+    "id": 108,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A67A4940300A609C7",
+    "name": "SE2-08 — THE HIDDEN PATH OF MAJOR",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Major Trail (Bel Ombre, Mahé). A path with teeth and sea below.\\nCount the cuts; they bite the heading east.",
+    "image_url": "ipfs://bafkreiem2j5opzdbdnkzdi7flqvixvivos3jjdo7bee6jmi4iatcp7ll5u",
+    "metadata_url": "ipfs://bafkreieapi45zxnyhwjtdyz7d36pglaaszqpe5hqa3b4w33gak5ioqqlle",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Anse Major Trail (Bel Ombre, Mahé)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "A"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Anse Georgette (Praslin)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "001F7408851200B378E8F1478A5E24804E77B96B0E2B7FDF17CB67A832A54530",
+    "minted_at": "2025-09-24T16:40:14.405Z",
+    "created_at": "2025-09-24T16:40:14.405Z",
+    "updated_at": "2025-09-24T16:40:14.405Z"
+  },
+  {
+    "id": 109,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A7E8A450200A609C8",
+    "name": "SE2-09 — VACHE SENTINEL",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Vache Island (Île aux Vaches Marines). A cow by name, a sentinel by duty.\\nCount the seven lights that never drink.",
+    "image_url": "ipfs://bafkreifsudg7jsleg7gu57ztymdlq25dbwqapyuiothozvm7krgec6h57e",
+    "metadata_url": "ipfs://bafkreibyx3y6tmvdb2wxi3vgqmve62aigfwecoytz6olbmlyqucd2tdm5e",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Vache Island (Île aux Vaches Marines)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "R"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Anse Georgette (Praslin)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 7
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "F1FE8950C3A583D5B152EFFA0BF7581A803BCE73E1FC751FFC8291AF9F6178AB",
+    "minted_at": "2025-09-24T16:40:23.977Z",
+    "created_at": "2025-09-24T16:40:23.977Z",
+    "updated_at": "2025-09-24T16:40:23.977Z"
+  },
+  {
+    "id": 110,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A9570320500A609C9",
+    "name": "SE2-10 — TEETH OF GEORGETTE",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Georgette (Praslin). Among the teeth, a corner of night.\\nThe feather points where the reef denies depth.",
+    "image_url": "ipfs://bafkreicmv5w4st6jpsiacvplz67grtn6o2up5tyqcwc4pff2f26n3tzbam",
+    "metadata_url": "ipfs://bafkreicapy7lar7agjnfuzkqhhl3lcgm4zyidjx3ocdebx6wc7mb5bn4fe",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Anse Georgette (Praslin)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "E"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Lady Denison-Pender Shoal"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "349DFFAB0B2341594A4AAB9168017EBA30CF6689ABD8C470D6C646AFF85744A6",
+    "minted_at": "2025-09-24T16:40:32.942Z",
+    "created_at": "2025-09-24T16:40:32.942Z",
+    "updated_at": "2025-09-24T16:40:32.942Z"
+  },
+  {
+    "id": 111,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7AAC55E30400A609CA",
+    "name": "SE2-11 — NIGHT AT INTENDANCE",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Intendance, Mahé. Where the sea writes in thunder, the sand keeps one coin.\\nTurn its scar toward the gentler shore.",
+    "image_url": "ipfs://bafkreier4ccpdl7aoomusq3g33giknoymhr7j6f7g4dkh4jcwzsjwean6y",
+    "metadata_url": "ipfs://bafkreifczhy6c2peniofv7oijoif73zusmasgf4ysfvyipty4todgpeng4",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Anse Intendance, Mahé"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "P"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Anse Royale"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "B98C0B57578613C7D49F213A81558E8C5052E7CB63C2793D7ABD298D0BD15C73",
+    "minted_at": "2025-09-24T16:40:41.791Z",
+    "created_at": "2025-09-24T16:40:41.791Z",
+    "updated_at": "2025-09-24T16:40:41.791Z"
+  },
+  {
+    "id": 112,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7AC33BD00700A609CB",
+    "name": "SE2-12 — ROYALE LANTERN",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Royale, Mahé. Royale rests with two small lights.\\nLoop the rope and climb to council.",
+    "image_url": "ipfs://bafkreigv4jfec5jppnkn5oas2zbdxvexf3n4jxs5oslc6fmrtqhyvn2aim",
+    "metadata_url": "ipfs://bafkreihjpxrtmpud2yn2ghxnw3ptt4ef3xy4dwn27jymdoakzh7gi23vze",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Anse Royale, Mahé"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "I"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Mission Lodge (Sans Souci)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 2
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "AC4040FA06D0D074027CAFD98297706AE39850D812FEFE9765A57333945C8066",
+    "minted_at": "2025-09-24T16:40:50.864Z",
+    "created_at": "2025-09-24T16:40:50.864Z",
+    "updated_at": "2025-09-24T16:40:50.864Z"
+  },
+  {
+    "id": 113,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7ADA21810600A609CC",
+    "name": "SE2-13 — COUNCIL OF MISSION LODGE",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Mission Lodge (Sans Souci, Mahé). Stones that watched the island's heart\\ncast shadows pointing to the high road.",
+    "image_url": "ipfs://bafkreie2dvv7sywitc5uxzim42qdc2hs2krpaexeryeem63y27mmydhwvy",
+    "metadata_url": "ipfs://bafkreicsp4zuie2ebe4y56ey34ftbfnwl322pijcdbp6so3s2cdfq3auaa",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Mission Lodge (Sans Souci, Mahé)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "C"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "La Misère Viewpoint"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "69FB32F740DB3B6CAC4BCF492D8B4534B21F682B4C5DE502DEB4CA84676A81A8",
+    "minted_at": "2025-09-24T16:40:59.666Z",
+    "created_at": "2025-09-24T16:40:59.666Z",
+    "updated_at": "2025-09-24T16:40:59.666Z"
+  },
+  {
+    "id": 114,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7AF1076E0900A609CD",
+    "name": "SE2-14 — MISÈRE LOOKOUT",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). La Misère Viewpoint, Mahé. From hardship's ridge, count two knots of wind.\\nThe lights below betray the turn.",
+    "image_url": "ipfs://bafkreifmw5affjoycrnmwjo6u32aiaquwi6gfhmfovthewpstqbbb22yiu",
+    "metadata_url": "ipfs://bafkreigjgnv2wr7puwrhy6qkm6be2l7jxxakd7tkccdqykpsyw6hy6qlxa",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "La Misère Viewpoint, Mahé"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "A"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Baie Ternay / Port Launay"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "88131B056DD8A0B06D92012290B28912A1E788BA174702CD9FA5371F696222F2",
+    "minted_at": "2025-09-24T16:41:08.487Z",
+    "created_at": "2025-09-24T16:41:08.487Z",
+    "updated_at": "2025-09-24T16:41:08.487Z"
+  },
+  {
+    "id": 115,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A07ED5F0800A609CE",
+    "name": "SE2-15 — TERNAY'S QUIET",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Baie Ternay / Port Launay Marine Park. In a bay that refuses storm,\\nthe coral fingers name a number.",
+    "image_url": "ipfs://bafkreicz3lk6ubph2scjxne7ht6j42nzff6l7eum7k2yzounhym24md2ca",
+    "metadata_url": "ipfs://bafkreighuxapozuqmnb7i4u7d4exa4x4lhvdezmiut6p2f3caxsfwn6n7q",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Baie Ternay / Port Launay Marine Park"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "U"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Anse Major (return)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "4F0F7BA83C81A75490D1268041AE2667697081A1DA3EFF207025D7034C7115D1",
+    "minted_at": "2025-09-24T16:41:17.334Z",
+    "created_at": "2025-09-24T16:41:17.334Z",
+    "updated_at": "2025-09-24T16:41:17.334Z"
+  },
+  {
+    "id": 116,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A1ED30C0B00A609CF",
+    "name": "SE2-16 — MAJOR'S RETURN",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Major headland (return), Mahé. Four lights on the cliff's brow\\nsend you back along the wound.",
+    "image_url": "ipfs://bafkreihxhq4nrhmgiivnucjfuckxuw2rw7puhtboo6taipx7ya6cf4gvha",
+    "metadata_url": "ipfs://bafkreibwkqbwenhv7ef6s5qv5kadla5jt5hegpto6dcaihvtunzmo2r6iq",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Anse Major headland (return), Mahé"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "L"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Baie Lazare"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 4
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "D1F056D9F157B304C6F30605DCE98D4E5E3E766BC48BFE8DE4F6CFDCD638DFEE",
+    "minted_at": "2025-09-24T16:41:26.141Z",
+    "created_at": "2025-09-24T16:41:26.141Z",
+    "updated_at": "2025-09-24T16:41:26.141Z"
+  },
+  {
+    "id": 117,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A35B8FD0A00A609D0",
+    "name": "SE2-17 — GAULETTES MARK",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Gaulettes (Baie Lazare district), Mahé. By the marked stone where roads lean to the sea,\\nscratch the sign and follow the feather.",
+    "image_url": "ipfs://bafkreiagcrzpvuthoghnj77pq7qxc5e3qw3yiazyibaszyhpxiugxg5ndu",
+    "metadata_url": "ipfs://bafkreidyu7o4hbnvvzzjabsup74actrpwlnjcyhkdb4kix55qiexqcyxpi",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Anse Gaulettes (Baie Lazare district), Mahé"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "T"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Baie Lazare beach"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "880C90F66751640CD62D07F6679524821ABDDBEFF96830BF5172A58231971822",
+    "minted_at": "2025-09-24T16:41:35.223Z",
+    "created_at": "2025-09-24T16:41:35.223Z",
+    "updated_at": "2025-09-24T16:41:35.223Z"
+  },
+  {
+    "id": 118,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A4C9EAA0D00A609D1",
+    "name": "SE2-18 — BAY OF COINS",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Baie Lazare beach (wide). The bay keeps what the sea returns.\\nSpiral the rope to test your course.",
+    "image_url": "ipfs://bafkreihmurrtapx2mkozgqgfrbwdeghdzi3o6nbbd42qzevyq2656vidvm",
+    "metadata_url": "ipfs://bafkreifbnvjso4i6nrkeht75rz3r3jjqi4e3ijs6skpeagmdpz7vyr3hhy",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Baie Lazare beach (wide)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "B"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Lady Denison-Pender Shoal"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "6C60862D6FA087C5B1A16CDB1324C34A48B76D04D620EA4BBF8B1810A4D9959D",
+    "minted_at": "2025-09-24T16:41:45.510Z",
+    "created_at": "2025-09-24T16:41:45.510Z",
+    "updated_at": "2025-09-24T16:41:45.510Z"
+  },
+  {
+    "id": 119,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A63849B0C00A609D2",
+    "name": "SE2-19 — REEF GATE (DENISON)",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Lady Denison-Pender Shoal (outer). Six lights at the gate pretend to open.\\nTurn your bow—home holds the lock.",
+    "image_url": "ipfs://bafkreia7t7oc7r7rwnm3wbd6pg5zseyvo726js7cwrhkd5vten26wiwxhy",
+    "metadata_url": "ipfs://bafkreidxb7pnywwpc2w5l62tlc7ftterdx7vtkvslkkm7xrp63vlzmx76a",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Lady Denison-Pender Shoal (outer)"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "A"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "Baie Lazare (close loop)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 6
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "E71CF66505676AD16C5CFA7A6AE96EB2FACFE71D87E12DCCCCB453CDEB4289F6",
+    "minted_at": "2025-09-24T16:41:54.577Z",
+    "created_at": "2025-09-24T16:41:54.577Z",
+    "updated_at": "2025-09-24T16:41:54.577Z"
+  },
+  {
+    "id": 120,
+    "token_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A7A6A480F00A609D3",
+    "name": "SE2-20 — THE FIRST SHORE'S KEY",
+    "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Baie Lazare (return), Mahé. The loop returns where it began.\\nThe first shore keeps the last key.",
+    "image_url": "ipfs://bafkreia2pxrxegrhas46u5dxvgtlt7l2piltmp5j7vtyxihx247zmfblry",
+    "metadata_url": "ipfs://bafkreib4esusxemqc7same2rjwsch2ni4sxcft3doc5rimaj7lc34ygmru",
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter II — The Landing at Baie Lazare"
+      },
+      {
+        "trait_type": "Edition",
+        "value": "Special"
+      },
+      {
+        "trait_type": "Place",
+        "value": "Baie Lazare (return), Mahé"
+      },
+      {
+        "trait_type": "Symbol",
+        "value": "Levasseur Cipher"
+      },
+      {
+        "trait_type": "ClueType",
+        "value": "Cartographic Fragment"
+      },
+      {
+        "trait_type": "HiddenLetter",
+        "value": "Y"
+      },
+      {
+        "trait_type": "BearingToNext",
+        "value": "(CLOSE LOOP)"
+      },
+      {
+        "trait_type": "StarCount",
+        "value": 0
+      }
+    ],
+    "rarity": "Special Edition",
+    "price": 50,
+    "owner_address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+    "transaction_hash": "57F27A59C0F6293E1EEF5243E852CF497B537CB612C25B6AA6D75C1EE1FFCA7E",
+    "minted_at": "2025-09-24T16:42:03.744Z",
+    "created_at": "2025-09-24T16:42:03.744Z",
+    "updated_at": "2025-09-24T16:42:03.744Z"
+  }
+]

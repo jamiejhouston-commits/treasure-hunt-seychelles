@@ -1,0 +1,107 @@
+TREASURE HUNT PUZZLE SOLUTION
+═══════════════════════════════════════════════════════════
+
+CHAPTER 2: THE HIDDEN CACHE
+
+ANSWER: ANSE SOLEIL
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PUZZLE PIECES:
+
+NFT #25 (Layer 1): Cipher Text
+  Content: "JWBN BXUNRU"
+  Type: Caesar +9 encrypted message
+  Rarity: Epic
+
+NFT #32 (Layer 2): Map Fragment
+  Content: Map of Southwest Mahé Island with Anse Soleil marked with red X
+  Type: Geographic location indicator
+  Rarity: Rare
+
+NFT #37 (Layer 3): Decoding Key (Riddle)
+  Content: "SHIFT NINE PACES FORWARD
+           WHEN THE PATH ENDS, IT BEGINS ANEW"
+  Type: Caesar +9 cipher riddle key
+  Rarity: Uncommon
+
+NFT #40 (Layer 4): Coordinates
+  Content: "4.7253° S, 55.4892° E"
+  Type: Precise GPS location
+  Rarity: Common
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SOLUTION STEPS:
+
+1. Find NFT #37 → Learn riddle "SHIFT NINE PACES FORWARD, WHEN THE PATH ENDS, IT BEGINS ANEW"
+   - "Nine paces forward" = shift each letter +9 positions
+   - "When the path ends, it begins anew" = alphabet wraps around (Z→A)
+
+2. Find NFT #25 → Get encrypted text "JWBN BXUNRU"
+
+3. Apply Caesar +9 cipher with wrapping:
+   Decrypt by shifting BACK 9 positions:
+
+   J(-9)→A, W(-9)→N, B(-9)→S, N(-9)→E, (space),
+   B(-9)→S, X(-9)→O, U(-9)→L, N(-9)→E, R(-9)→I, U(-9)→L
+
+   Showing the wrapping:
+   - J (10th letter) -9 = A (1st letter)
+   - W (23rd letter) -9 = N (14th letter)
+   - B (2nd letter) -9 wraps = S (19th letter) [B→A→Z→Y→...→S]
+   - X (24th letter) -9 = O (15th letter)
+   - R (18th letter) -9 = I (9th letter)
+   - U (21st letter) -9 = L (12th letter)
+
+   Result: "ANSE SOLEIL"
+
+4. Find NFT #32 → Map shows Anse Soleil marked on southwest Mahé
+5. Find NFT #40 → Coordinates 4.7253° S, 55.4892° E confirm location
+6. Google "Anse Soleil Seychelles" → Confirms actual beach location
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ABOUT THE LOCATION:
+
+ANSE SOLEIL (meaning "Sun Bay" in French) is a stunning secluded beach
+on the southwest coast of Mahé Island, Seychelles.
+
+While not directly documented as a La Buse treasure site, Anse Soleil
+represents a realistic alternate cache location because:
+
+- Remote and hidden from main settlements in the 1700s pirate era
+- Protected cove ideal for concealing treasure
+- Southwest coast position strategic for pirate operations
+- Natural harbor features perfect for hiding valuables
+
+The beach is accessed via a winding road through lush tropical forest,
+making it one of Mahé's most secluded and beautiful locations - exactly
+the type of hidden spot a cunning pirate would choose for a secret cache.
+
+Coordinates: 4.7253° S, 55.4892° E
+Location: Southwest coast of Mahé Island, Seychelles
+Historical Plausibility: High (remote, protected, accessible by sea)
+Current Status: Popular secluded beach destination
+
+This location represents a PLAUSIBLE secondary cache site where La Buse
+could have hidden part of his treasure, separate from the main Bel Ombre
+excavation site, as pirates often distributed their wealth across
+multiple hidden locations for security.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PUZZLE DIFFICULTY:
+
+This puzzle is harder than Chapter 1 because:
+1. Caesar +9 is more complex than Caesar +7
+2. Multiple letters require alphabet wrapping (B, R, U)
+3. The riddle key is cryptic - users must decipher the hint
+4. "When the path ends, it begins anew" requires logical thinking
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRIZE:
+$1,500 USD (Double the Chapter 1 prize, escalating rewards)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

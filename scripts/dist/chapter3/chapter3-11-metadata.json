@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 11: Map Fragment I",
+  "description": "Time and salt have torn this precious document, but what remains shows half the coastline that leads to untold riches. The other half awaits discovery.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Pirate Camp, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Torn Parchment"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "First half of the master map, carefully preserved"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 11
+    }
+  ],
+  "properties": {
+    "clue": "Half Coordinate: 'S 4° 44' -- E 55° 31' (western fragment)'",
+    "visualElements": [
+      "Torn parchment map showing coastline",
+      "Aged yellow paper with brown edges",
+      "Red X marking treasure location",
+      "Compass rose in corner of map",
+      "Pirate writing in faded ink",
+      "Wax seal partially visible"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

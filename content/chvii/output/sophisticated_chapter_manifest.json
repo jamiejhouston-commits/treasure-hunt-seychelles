@@ -1,0 +1,127 @@
+{
+  "chapter": {
+    "chapterNumber": "VII",
+    "chapterName": "The Sophisticated Seychellois Saga",
+    "totalCards": 20,
+    "styleGuarantee": "ETCHED_PAINTERLY_ONLY",
+    "exampleArtReference": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\example art",
+    "bannedStyles": [
+      "basic_shapes",
+      "childlike",
+      "cartoon",
+      "simple",
+      "flat_graphics"
+    ]
+  },
+  "cards": [
+    {
+      "id": "ch7_001",
+      "name": "Mahé Highlands: The Tortoise Oracle",
+      "chapter": "VII",
+      "rarity": "legendary",
+      "styleType": "ETCHED_PAINTERLY_SEYCHELLOIS",
+      "prompt": "Etched parchment engraved map-card of mist-crowned granite highlands. Maliya mambo witch in sea-green shawl kneeling beside ancient giant tortoise with carved shell glyphs. Five glowing coco de mer pods beneath cascading waterfalls. Fine copperplate hatching, muted sepia base #C2B49B, indigo shadows #1E2F48, warm gold pod glow. Volumetric mist, textured layering, elongated spiritual figures. 17th-century nautical chart + Seychellois folklore illustration, ritualistic archaeological mood.",
+      "negativePrompt": "basic shapes, childlike, cartoon, simple, flat shading, modern technology, photoreal, neon, oversaturated, low detail, extra limbs",
+      "requiredElements": {
+        "medium": "etched_parchment_engraved_map_card",
+        "lineQuality": "fine_copperplate_hatching_cross_hatch",
+        "palette": "muted_sepia_indigo_teal_bone_gold",
+        "lighting": "directional_low_sun_moon_volumetric_mist",
+        "composition": "textured_layering_no_flat_spaces",
+        "figures": "elongated_angular_patterned_movement",
+        "culturalMotifs": [
+          "giant_tortoise_oracle",
+          "highland_mist",
+          "carved_glyphs",
+          "mambo_priestess"
+        ],
+        "mood": "ritualistic_archaeological_haunted_narrative"
+      },
+      "bannedElements": [
+        "basic_shapes",
+        "childlike",
+        "cartoon",
+        "simple",
+        "flat_graphics"
+      ],
+      "props": [
+        {
+          "name": "glowing_pods",
+          "value": 5,
+          "description": "Coco de mer pods with mystical inner light"
+        },
+        {
+          "name": "shell_glyphs",
+          "value": 8,
+          "description": "Ancient symbols carved on tortoise shell"
+        },
+        {
+          "name": "waterfall_streams",
+          "value": 3,
+          "description": "Cascading highland waterfalls"
+        }
+      ],
+      "scene": "Ancient granite boulders crowned with mist as Maliya kneels beside a centuries-old giant tortoise, reading glyphs carved into its shell while five coco de mer pods glow with inner fire beneath cascading waterfalls.",
+      "environment": "highland"
+    },
+    {
+      "id": "ch7_002",
+      "name": "Praslin Market: The Spice Cipher",
+      "chapter": "VII",
+      "rarity": "rare",
+      "styleType": "ETCHED_PAINTERLY_SEYCHELLOIS",
+      "prompt": "Etched parchment engraved map-card of bustling Praslin spice market. Naia cartographer in indigo scarf examining turmeric glyph patterns while weathered Creole vendor points to four brass scales. Seven black parrots perched among textile awnings and woven baskets. Fine copperplate hatching, market atmosphere with dappled shadows, muted sepia base with turmeric yellow accents. Elongated market figures in cultural dress, textured awning patterns. 17th-century trade route chart + Seychellois market folklore.",
+      "negativePrompt": "basic shapes, childlike, cartoon, simple, flat shading, modern technology, photoreal, neon, oversaturated, low detail",
+      "requiredElements": {
+        "medium": "etched_parchment_engraved_map_card",
+        "lineQuality": "fine_copperplate_hatching_cross_hatch",
+        "palette": "muted_sepia_indigo_teal_bone_gold",
+        "lighting": "directional_low_sun_moon_volumetric_mist",
+        "composition": "textured_layering_no_flat_spaces",
+        "figures": "elongated_angular_patterned_movement",
+        "culturalMotifs": [
+          "creole_market",
+          "black_parrots",
+          "spice_trading",
+          "textile_awnings"
+        ],
+        "mood": "ritualistic_archaeological_haunted_narrative"
+      },
+      "bannedElements": [
+        "basic_shapes",
+        "childlike",
+        "cartoon",
+        "simple",
+        "flat_graphics"
+      ],
+      "props": [
+        {
+          "name": "black_parrots",
+          "value": 7,
+          "description": "Sacred black parrots among market stalls"
+        },
+        {
+          "name": "brass_scales",
+          "value": 4,
+          "description": "Ancient brass scales with mystical resonance"
+        },
+        {
+          "name": "spice_symbols",
+          "value": 9,
+          "description": "Hidden glyphs in spice arrangements"
+        }
+      ],
+      "scene": "Textile awnings flutter over woven baskets as seven black parrots perch among spice stalls while Naia traces ancient symbols hidden in turmeric patterns, the vendor's weathered hands pointing to four brass scales that hum with ancestral memories.",
+      "environment": "village"
+    }
+  ],
+  "styleGuarantee": "SOPHISTICATED_ETCHED_PAINTERLY_ONLY",
+  "bannedStyles": [
+    "basic_shapes",
+    "childlike",
+    "cartoon",
+    "simple",
+    "flat_graphics"
+  ],
+  "exampleArtReference": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\example art"
+}

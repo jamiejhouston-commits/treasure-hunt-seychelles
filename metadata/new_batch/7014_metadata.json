@@ -1,0 +1,45 @@
+{
+  "name": "Creole Night Fishing",
+  "description": "Traditional Seychellois fishermen casting nets under the golden glow of lanterns, preserving ancestral techniques passed down through generations of island folk.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmd14YsdhANUWouEPVYtT9HZ6DKFBxuR2zRY8NRh2Zvere",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Culture",
+      "value": "Creole"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Night Fishing"
+    },
+    {
+      "trait_type": "Time",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7014
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Cousin Island Sanctuary: Wardens of Light",
+  "description": "4 turtle nests, 3 lanterns, 2 signs. A tortoise bears a glyph.\n\nRiddle: \"Guardians point, even when silent.\"\n\nSophisticated painterly artwork using etched-parchment technique with Seychellois cultural motifs. Part of \"The Siren's Map of Praslin\" cipher series.",
+  "image": "http://localhost:3001/content/ch7_sirens_map/output/ch7_018_painterly.png",
+  "external_url": "http://localhost:3000/nft/1018",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VII - The Siren's Map of Praslin"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Sophisticated Painterly Etched-Parchment"
+    },
+    {
+      "trait_type": "Rendering Technique",
+      "value": "Multi-Layer Textured Brushwork"
+    },
+    {
+      "trait_type": "Cultural Authenticity",
+      "value": "Seychellois Folklore Motifs"
+    },
+    {
+      "trait_type": "Visual Quality",
+      "value": "Dense Foliage Rhythmic Patterns"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Saturated Seychellois (Greens/Blues/Golds)"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Foreground/Midground/Background Depth"
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "L"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Cousin Island Sanctuary"
+    },
+    {
+      "trait_type": "Bearing (Degrees)",
+      "value": 100
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Sophisticated Painterly"
+    },
+    {
+      "trait_type": "Generation Method",
+      "value": "Advanced Layered Renderer (NO Primitive Shapes)"
+    },
+    {
+      "trait_type": "Turtle Nests",
+      "value": 4
+    },
+    {
+      "trait_type": "Sanctuary Lanterns",
+      "value": 3
+    },
+    {
+      "trait_type": "Warning Signs",
+      "value": 2
+    }
+  ],
+  "advanced_specs": {
+    "style_guarantee": "PAINTERLY_LAYERED_SEYCHELLOIS_ONLY",
+    "banned_techniques": [
+      "primitive_shapes",
+      "flat_fills",
+      "basic_graphics",
+      "simple_geometry",
+      "childlike_art"
+    ],
+    "required_elements": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "cultural_motif_stamps",
+      "volumetric_atmospheric_depth",
+      "saturated_palette",
+      "visible_brush_strokes"
+    ],
+    "painterly_elements": {
+      "atmosphere": "protected_sanctuary_conservation_duty",
+      "culturalStamps": [
+        "turtle_conservation",
+        "sanctuary_guardian"
+      ],
+      "brushTechnique": "sand_nest_lantern_glow_texture",
+      "layering": "background_sanctuary_midground_nests_foreground_tortoise_glyph"
+    },
+    "render_prompt": "Etched parchment engraved map-card of 4 turtle nests, 3 lanterns, 2 signs. A tortoise bears a glyph.. protected_sanctuary_conservation_duty with sand_nest_lantern_glow_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_sanctuary_midground_nests_foreground_tortoise_glyph. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: turtle_conservation, sanctuary_guardian. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negative_prompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail"
+  },
+  "puzzle_data": {
+    "scene": "4 turtle nests, 3 lanterns, 2 signs. A tortoise bears a glyph.",
+    "riddle": "Guardians point, even when silent.",
+    "hidden_clue": "4×3−2=10 → 100°",
+    "bearing_deg": 100,
+    "cipher_output": "L",
+    "props": [
+      {
+        "name": "turtle_nests",
+        "value": 4,
+        "description": "Protected sea turtle nests"
+      },
+      {
+        "name": "sanctuary_lanterns",
+        "value": 3,
+        "description": "Conservation lanterns"
+      },
+      {
+        "name": "warning_signs",
+        "value": 2,
+        "description": "Sanctuary protection signs"
+      }
+    ]
+  },
+  "technical_specs": {
+    "dimensions": "2048x2048",
+    "format": "PNG",
+    "color_space": "sRGB",
+    "render_layers": [
+      "background",
+      "midground",
+      "foreground",
+      "overlay",
+      "caption"
+    ],
+    "art_technique": "17th-century nautical chart + Seychellois modernist painting"
+  }
+}

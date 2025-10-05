@@ -1,0 +1,59 @@
+{
+  "id": "ch7_004",
+  "name": "Curieuse Channel: Tortoise Crossing",
+  "scene": "3 giant tortoises wade with map strips. 6 sharks, 2 green torches.",
+  "props": [
+    {
+      "name": "wading_tortoises",
+      "value": 3,
+      "description": "Giant tortoises crossing channel"
+    },
+    {
+      "name": "reef_sharks",
+      "value": 6,
+      "description": "Sharks circling in clear water"
+    },
+    {
+      "name": "green_torches",
+      "value": 2,
+      "description": "Green signal torches"
+    }
+  ],
+  "hiddenClue": "(6−2)×3=12 → 120°",
+  "bearingDeg": 120,
+  "cipherOutput": "E",
+  "riddle": "Carriers of centuries do not lose the way.",
+  "painterlyElements": {
+    "atmosphere": "crystal_clear_channel_water",
+    "culturalStamps": [
+      "giant_tortoise_detailed",
+      "reef_sharks"
+    ],
+    "brushTechnique": "underwater_light_refraction_texture",
+    "layering": "background_channel_midground_sharks_foreground_tortoises"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of 3 giant tortoises wade with map strips. 6 sharks, 2 green torches.. crystal_clear_channel_water with underwater_light_refraction_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_channel_midground_sharks_foreground_tortoises. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: giant_tortoise_detailed, reef_sharks. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

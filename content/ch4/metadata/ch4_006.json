@@ -1,0 +1,61 @@
+{
+  "name": "Rock Pool Charm",
+  "description": "Sunshafts pierce the afternoon mist at Port Glaud's sacred rock pools, creating cathedral light around a witch who raises her lantern from atop a granite boulder. Below, a pirate kneels reading cipher scraps by the still water that spills eternally from pool to sea. A coin spiral winds seven turns around the ancient rock—each revolution marking a letter, each turn a step toward truth. Bearing 187°. Cipher output: UL. \"Where still water spills, the spiral names the way.\"",
+  "image": "ipfs://bafybeih5mpa66n53k5ac2t6tgotsgowwqacfvk4exqsy7t7nhywq3zqmj4",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Port Glaud Rock Pool",
+  "timeOfDay": "Late afternoon",
+  "weather": "sunshafts through mist",
+  "bearingDeg": 187,
+  "tide": "Low",
+  "moonPhase": "First Quarter",
+  "cipherOutput": "UL",
+  "riddle": "Where still water spills, the spiral names the way.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Port Glaud Rock Pool"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Late afternoon"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "sunshafts through mist"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "187°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "First Quarter"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "UL"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 146
+  }
+}

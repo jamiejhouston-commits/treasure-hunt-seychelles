@@ -1,0 +1,59 @@
+{
+  "id": "ch7_013",
+  "name": "Old Cemetery: Names That Walk",
+  "scene": "3 crosses, 8 candle stubs, 1 shell-key.",
+  "props": [
+    {
+      "name": "stone_crosses",
+      "value": 3,
+      "description": "Weathered stone crosses"
+    },
+    {
+      "name": "candle_stubs",
+      "value": 8,
+      "description": "Melted candle stubs on graves"
+    },
+    {
+      "name": "shell_key",
+      "value": 1,
+      "description": "Mysterious shell-shaped key"
+    }
+  ],
+  "hiddenClue": "3+8=11 → 110°",
+  "bearingDeg": 110,
+  "cipherOutput": "L",
+  "riddle": "The dead subtract but do not deceive.",
+  "painterlyElements": {
+    "atmosphere": "ancient_cemetery_spectral_presence",
+    "culturalStamps": [
+      "creole_burial_traditions",
+      "shell_artifacts"
+    ],
+    "brushTechnique": "weathered_stone_candle_wax_texture",
+    "layering": "background_graves_midground_crosses_foreground_shell_key"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of 3 crosses, 8 candle stubs, 1 shell-key.. ancient_cemetery_spectral_presence with weathered_stone_candle_wax_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_graves_midground_crosses_foreground_shell_key. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: creole_burial_traditions, shell_artifacts. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Vallée de Mai Primeval Forest",
+  "description": "The legendary Vallée de Mai, home to the coco de mer palm and ancient secrets. This UNESCO World Heritage site holds mysteries as old as the Garden of Eden.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmcV2Sc9TpZwiekCXQ4QDntSnEXHaJkEPwVBQFu6BfZ14T",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Vallée de Mai"
+    },
+    {
+      "trait_type": "Flora",
+      "value": "Coco de Mer"
+    },
+    {
+      "trait_type": "Status",
+      "value": "UNESCO Heritage"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7006
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

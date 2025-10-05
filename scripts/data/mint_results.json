@@ -1,0 +1,142 @@
+[
+  {
+    "tokenId": 6001,
+    "error": "The latest ledger sequence 11162451 is greater than the transaction's LastLedgerSequence (11162450).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6002,
+    "nftokenID": "000801F4E9EEC54241010C093A907DCEBBBDF27520A0EA7A403EA58D00A609F2",
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/bafkreibfns6kqpqewlmcnroad4zqbcxzethkdxir5suut7tbq6poq5xy4q",
+    "transactionHash": "EBD286E819F7304CA403E12D37F4A379045AD09CF13BBDCE91B3BE467256B136",
+    "ledgerIndex": 11162432,
+    "fee": "0.000012",
+    "timestamp": "2025-10-03T18:12:53.467Z",
+    "account": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH"
+  },
+  {
+    "tokenId": 6003,
+    "nftokenID": "00080000E9EEC54241010C093A907DCEBBBDF27520A0EA7A65CA26FD00A60A0A",
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/bafkreigbdrqvjujicitme2zrv7p3dywawx3ltt4ywc7juh7gzuuxxaaqjy",
+    "transactionHash": "5BB955128F092909DF807ADFD6276D0602B94D304E2095F43DC8A5A7B45C61F2",
+    "ledgerIndex": 11162432,
+    "fee": "0.000012",
+    "timestamp": "2025-10-03T18:12:52.737Z",
+    "account": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH"
+  },
+  {
+    "tokenId": 6004,
+    "error": "The latest ledger sequence 11162451 is greater than the transaction's LastLedgerSequence (11162450).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6005,
+    "error": "The latest ledger sequence 11162451 is greater than the transaction's LastLedgerSequence (11162450).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6006,
+    "nftokenID": "000801F4E9EEC54241010C093A907DCEBBBDF27520A0EA7A89101D8500A609EA",
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/bafkreidpymjcw6wmasppa2qpeye3c3nszz42x6vj6fmdpipgys5aztzocu",
+    "transactionHash": "689464609D8D41B2DF7E372B665375A62E8E5222A554DD28984646308D5AAFFF",
+    "ledgerIndex": 11162454,
+    "fee": "0.000012",
+    "timestamp": "2025-10-03T18:13:58.630Z",
+    "account": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH"
+  },
+  {
+    "tokenId": 6007,
+    "error": "The latest ledger sequence 11162473 is greater than the transaction's LastLedgerSequence (11162472).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6008,
+    "error": "The latest ledger sequence 11162473 is greater than the transaction's LastLedgerSequence (11162472).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6009,
+    "nftokenID": "000801F4E9EEC54241010C093A907DCEBBBDF27520A0EA7A764A517900A609DE",
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/bafkreigiq73gufypjxkt6zx3othumwyuy4sgxjfezzzbkhccqrbysyl4ba",
+    "transactionHash": "C52EF17936E32966FA44CFFD51BF033E08E203E9C28B0BB7347D4D2382B64C2D",
+    "ledgerIndex": 11162454,
+    "fee": "0.000012",
+    "timestamp": "2025-10-03T18:13:59.599Z",
+    "account": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH"
+  },
+  {
+    "tokenId": 6010,
+    "error": "The latest ledger sequence 11162473 is greater than the transaction's LastLedgerSequence (11162472).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6011,
+    "nftokenID": "000801F4E9EEC54241010C093A907DCEBBBDF27520A0EA7AA415F37B00A609E0",
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/bafkreib2pfpsxoiib3entkm7g42ty7qr4wdcn6oygo4waaui3vhaa7ttvi",
+    "transactionHash": "D04880B3812B6A99EAF28411B340E8631CD4D04931A33DD88D7E23CB4A658B6D",
+    "ledgerIndex": 11162476,
+    "fee": "0.000012",
+    "timestamp": "2025-10-03T18:15:06.426Z",
+    "account": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH"
+  },
+  {
+    "tokenId": 6012,
+    "error": "The latest ledger sequence 11162495 is greater than the transaction's LastLedgerSequence (11162494).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6013,
+    "nftokenID": "000801F4E9EEC54241010C093A907DCEBBBDF27520A0EA7AA415F37B00A609E0",
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/bafkreial32jqnzz7t4ae52iiq74jcpnvmnvobykh7f7ptlrkdshc4nrgkm",
+    "transactionHash": "5C1AA6BB0A03CB98D6039407C13F1DFE02BAF250B90881F2C0126DD4206193EB",
+    "ledgerIndex": 11162476,
+    "fee": "0.000012",
+    "timestamp": "2025-10-03T18:15:05.249Z",
+    "account": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH"
+  },
+  {
+    "tokenId": 6014,
+    "error": "The latest ledger sequence 11162495 is greater than the transaction's LastLedgerSequence (11162494).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6015,
+    "error": "The latest ledger sequence 11162495 is greater than the transaction's LastLedgerSequence (11162494).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6016,
+    "nftokenID": "000801F4E9EEC54241010C093A907DCEBBBDF27520A0EA7AE0875C9400A609F9",
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/bafkreigxdgzw43biezhurekzoeylsvmnd3pe7mqxrsewjdry5w67wj2jsi",
+    "transactionHash": "D7C01BE55061632E1979BA33F7EC18048CE5A12C5200FD588F2E13ADFDBA16F7",
+    "ledgerIndex": 11162498,
+    "fee": "0.000012",
+    "timestamp": "2025-10-03T18:16:13.058Z",
+    "account": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH"
+  },
+  {
+    "tokenId": 6017,
+    "error": "The latest ledger sequence 11162517 is greater than the transaction's LastLedgerSequence (11162516).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6018,
+    "nftokenID": "000801F4E9EEC54241010C093A907DCEBBBDF27520A0EA7AFFAD377F00A609E4",
+    "metadataUri": "https://gateway.pinata.cloud/ipfs/bafkreicswxjrcdqac2feuvenio25criek3oqvyr24du5tolx2nzfpidmg4",
+    "transactionHash": "74796131801AB907B9C0FCE740F7FD15167D0F3E783E621009B269850598877E",
+    "ledgerIndex": 11162498,
+    "fee": "0.000012",
+    "timestamp": "2025-10-03T18:16:14.031Z",
+    "account": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH"
+  },
+  {
+    "tokenId": 6019,
+    "error": "The latest ledger sequence 11162517 is greater than the transaction's LastLedgerSequence (11162516).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  },
+  {
+    "tokenId": 6020,
+    "error": "The latest ledger sequence 11162517 is greater than the transaction's LastLedgerSequence (11162516).\nPreliminary result: tefPAST_SEQ",
+    "failed": true
+  }
+]

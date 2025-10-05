@@ -1,0 +1,35 @@
+{
+  "name": "Hidden Spring",
+  "description": "Crystal-clear spring water bubbles from hidden rock crevices, carving temporary letter shapes in sand before flowing into the sea. The final cipher letter forms and dissolves with each pulse of the spring.",
+  "image": "ipfs://bafkreiadjnt77n6w4pwboq63iummta4wfa2hcjfgc2icdxpmpupdothdle",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "Y",
+  "riddle": "Cross what flows unseen.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "water_flow"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "spring_source"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "Y"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 212
+  }
+}

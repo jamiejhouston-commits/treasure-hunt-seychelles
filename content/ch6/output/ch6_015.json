@@ -1,0 +1,44 @@
+{
+  "name": "Grand Anse Waterfall: The Key of Silence",
+  "description": "Grand Anse waterfall drowns all thought; eight candles gutter in the spray while three lie drowned in wax puddles, and one rusted iron key rests on a stone tongue scored with four etched tallies. Kassim wades waist-deep to seize the key as Naia signals bearings with soaked parchment and Maliya presses a blessing of river mud to his forehead, muttering that the revenant fears what cannot breathe.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_015",
+  "bearingDeg": 80,
+  "cipherOutput": "H",
+  "cipherIndex": 15,
+  "hiddenClue": "3 + 1 + 4 = 8 → 80°",
+  "riddle": "Count the flames that survive, honor the drowned, and heed the tallies—only silence unlocks the roaring gate.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 80
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "H"
+    },
+    {
+      "trait_type": "candles",
+      "value": 8
+    },
+    {
+      "trait_type": "ironKey",
+      "value": 1
+    },
+    {
+      "trait_type": "tallies",
+      "value": 4
+    }
+  ],
+  "image": "./ch6_015.png"
+}

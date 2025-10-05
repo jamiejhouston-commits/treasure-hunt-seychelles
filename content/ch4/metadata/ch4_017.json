@@ -1,0 +1,61 @@
+{
+  "name": "Anse Soleil Cross-Sea",
+  "description": "Morning's crisp glare transforms Anse Soleil into a yellow sea between twin headlands, its waters gleaming like molten gold. A pirate stretches a line across the bay's throat while a witch hangs a protective charm at the rope's midspan. Seven knots mark the rope's length—count to the seventh to find the seventh letter of 'PICAULT', where T marks the spot and the yellow sea yields its solar secret. Bearing 207°. Cipher output: RE. \"Span the yellow sea with seven holds.\"",
+  "image": "ipfs://bafybeibkomgg3acx3ceqvlbuktuspo7yykmwwxcesq7diweekx3sqyhcti",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Anse Soleil",
+  "timeOfDay": "Morning",
+  "weather": "crisp glare",
+  "bearingDeg": 207,
+  "tide": "High",
+  "moonPhase": "First Quarter",
+  "cipherOutput": "RE",
+  "riddle": "Span the yellow sea with seven holds.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Soleil"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Morning"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "crisp glare"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "207°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "High"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "First Quarter"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "RE"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 157
+  }
+}

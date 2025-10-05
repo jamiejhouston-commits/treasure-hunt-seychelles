@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 09: The Rock Pool Secret",
+  "description": "Still waters run deep with secrets. The pool's reflection reveals what the eye cannot see - a skull pattern that points to treasure beyond imagination.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Tidal Rock Pools, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Skull Reflection"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Natural mirror reveals hidden truths to the observant"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 9
+    }
+  ],
+  "properties": {
+    "clue": "Cipher Key Fragment: 'Reflection shows truth: A=1, S=19, K=11'",
+    "visualElements": [
+      "Circular tidal rock pool with crystal clear water",
+      "Skull pattern reflected in water surface",
+      "Tropical fish swimming beneath reflection",
+      "Coral formations around pool edges",
+      "Pirate dagger pointing toward pool",
+      "Mysterious runes carved in pool rim"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

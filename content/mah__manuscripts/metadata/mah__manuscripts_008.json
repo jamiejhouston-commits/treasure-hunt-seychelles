@@ -1,0 +1,28 @@
+{
+  "name": "Mahé Manuscripts Card 8",
+  "description": "A beautifully crafted treasure card from Mahé Manuscripts, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeicig44ptxuo3yasl2ojxowf52nwdmqkim2u364hpon2a5yg2dj22q",
+  "chapter": "Mahé Manuscripts",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Mahé Manuscripts"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "treasure"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "scholarly"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 8
+    }
+  ],
+  "properties": {
+    "tokenId": 8,
+    "chapter": "Mahé Manuscripts"
+  }
+}

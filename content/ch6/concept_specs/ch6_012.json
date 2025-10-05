@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_012",
+  "name": "Upper Sans Souci: Stones that Breathe",
+  "description": "Granite throat wind alive. Five petroglyph carvings. Six bat clusters roosting. One abandoned stick leaning. Naia rubs symbols; Maliya feels stone; Kassim listens. Riddle: Not every guide is a friend; take away the liar to find the sum.",
+  "bearingDeg": 100,
+  "cipherOutput": "K",
+  "hiddenClue": "5 + 6 − 1 = 10 → 100°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Granite throat wind alive. Five petroglyph carvings. Six bat clusters roosting. One abandoned stick leaning. Naia rubs symbols; Maliya feels stone; Kassim listens.. Key props numeric: 5 carvings, 6 batClusters, 1 stick. Cipher letter: K Bearing: 100°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "K"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 100
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "5 + 6 − 1 = 10 → 100°"
+    },
+    {
+      "trait_type": "carvings",
+      "value": 5
+    },
+    {
+      "trait_type": "batClusters",
+      "value": 6
+    },
+    {
+      "trait_type": "stick",
+      "value": 1
+    }
+  ]
+}

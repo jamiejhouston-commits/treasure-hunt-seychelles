@@ -1,0 +1,59 @@
+{
+  "id": "ch7_003",
+  "name": "Pirate's Well: Salt and Echoes",
+  "scene": "Coral-stone well. 7 ropes, 2 buckets, 4 coin carvings. Kassim pours rum; ripples form compass.",
+  "props": [
+    {
+      "name": "hanging_ropes",
+      "value": 7,
+      "description": "Weathered ropes hanging from well"
+    },
+    {
+      "name": "wooden_buckets",
+      "value": 2,
+      "description": "Old wooden buckets"
+    },
+    {
+      "name": "coin_carvings",
+      "value": 4,
+      "description": "Ancient coin carvings in stone"
+    }
+  ],
+  "hiddenClue": "7+2+4=13 → 130°",
+  "bearingDeg": 130,
+  "cipherOutput": "R",
+  "riddle": "Drop silver, hear thunder—the past still drinks.",
+  "painterlyElements": {
+    "atmosphere": "coral_stone_ancient_weathered",
+    "culturalStamps": [
+      "pirate_well_motifs",
+      "kassim_ex_privateer"
+    ],
+    "brushTechnique": "rough_stone_texture_rope_detail",
+    "layering": "background_well_midground_ropes_foreground_kassim"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Coral-stone well. 7 ropes, 2 buckets, 4 coin carvings. Kassim pours rum; ripples form compass.. coral_stone_ancient_weathered with rough_stone_texture_rope_detail. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_well_midground_ropes_foreground_kassim. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: pirate_well_motifs, kassim_ex_privateer. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

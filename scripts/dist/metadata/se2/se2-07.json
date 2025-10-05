@@ -1,0 +1,46 @@
+{
+  "name": "SE2-07 — SAUZIER'S WHISPER",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Sauzier Waterfall (Port Glaud / near Port Launay, Mahé). Where the westward fall sings, follow the echo.\nIts measure climbs the coast to a hidden path.",
+  "image": "ipfs://bafkreifiyfo5uaelraap3alh5iwwuthsdd3gd5krafzeek5gjzkrrct2qi",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Sauzier Waterfall (Port Glaud / near Port Launay, Mahé)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "Z"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Anse Major Trail (Bel Ombre)"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "echo 'bars' mark an angle; chest handle points seaward.",
+    "clue": "Where the westward fall sings, follow the echo.\nIts measure climbs the coast to a hidden path.",
+    "visual_description": "Lush fall; rope-ladder fragment; echo lines like music staff; chest handle half-buried; a parrot on branch."
+  }
+}

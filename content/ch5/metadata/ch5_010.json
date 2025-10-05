@@ -1,0 +1,35 @@
+{
+  "name": "Driftwood Shrine",
+  "description": "Three ancient planks form a crude altar where offerings burn in perpetual flame. The wood grain itself forms letter shapes, revealed only when fire illuminates the sacred geometry within.",
+  "image": "ipfs://bafkreihcixggyapxuzm2se7exy6pb373qshoaxnfokdeaa6jrixtizhdpa",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "E",
+  "riddle": "Three planks speak louder than one.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "sun_altar"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "shrine_offering"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "E"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 210
+  }
+}

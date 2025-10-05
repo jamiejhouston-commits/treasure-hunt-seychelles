@@ -1,0 +1,50 @@
+{
+  "id": "ch7_001",
+  "name": "Mahé Highlands: The Tortoise Oracle",
+  "chapter": "VII",
+  "rarity": "legendary",
+  "styleType": "ETCHED_PAINTERLY_SEYCHELLOIS",
+  "prompt": "Etched parchment engraved map-card of mist-crowned granite highlands. Maliya mambo witch in sea-green shawl kneeling beside ancient giant tortoise with carved shell glyphs. Five glowing coco de mer pods beneath cascading waterfalls. Fine copperplate hatching, muted sepia base #C2B49B, indigo shadows #1E2F48, warm gold pod glow. Volumetric mist, textured layering, elongated spiritual figures. 17th-century nautical chart + Seychellois folklore illustration, ritualistic archaeological mood.",
+  "negativePrompt": "basic shapes, childlike, cartoon, simple, flat shading, modern technology, photoreal, neon, oversaturated, low detail, extra limbs",
+  "requiredElements": {
+    "medium": "etched_parchment_engraved_map_card",
+    "lineQuality": "fine_copperplate_hatching_cross_hatch",
+    "palette": "muted_sepia_indigo_teal_bone_gold",
+    "lighting": "directional_low_sun_moon_volumetric_mist",
+    "composition": "textured_layering_no_flat_spaces",
+    "figures": "elongated_angular_patterned_movement",
+    "culturalMotifs": [
+      "giant_tortoise_oracle",
+      "highland_mist",
+      "carved_glyphs",
+      "mambo_priestess"
+    ],
+    "mood": "ritualistic_archaeological_haunted_narrative"
+  },
+  "bannedElements": [
+    "basic_shapes",
+    "childlike",
+    "cartoon",
+    "simple",
+    "flat_graphics"
+  ],
+  "props": [
+    {
+      "name": "glowing_pods",
+      "value": 5,
+      "description": "Coco de mer pods with mystical inner light"
+    },
+    {
+      "name": "shell_glyphs",
+      "value": 8,
+      "description": "Ancient symbols carved on tortoise shell"
+    },
+    {
+      "name": "waterfall_streams",
+      "value": 3,
+      "description": "Cascading highland waterfalls"
+    }
+  ],
+  "scene": "Ancient granite boulders crowned with mist as Maliya kneels beside a centuries-old giant tortoise, reading glyphs carved into its shell while five coco de mer pods glow with inner fire beneath cascading waterfalls.",
+  "environment": "highland"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Seychelles Treasure #20",
+  "description": "Chapter 1: The Trail Begins - NFT #20 (Contains Puzzle Clue)",
+  "image": "ipfs://QmcMggHSbZwJ62anEMup9W3XGG3McBJRH16a1LX1JyK4vs",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 1: The Trail Begins"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 1",
+    "puzzle_enabled": true,
+    "art_rarity": "Uncommon",
+    "rarity_color": "#06d6a0",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": "QmcMggHSbZwJ62anEMup9W3XGG3McBJRH16a1LX1JyK4vs",
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 1,
+        "type": "coordinates",
+        "ipfs_hash": "QmcHgyga8PKkLnnP4MnRh2ypVSrHwKWKgeXggKQGvY6iCG",
+        "description": "Geographic coordinates in Seychelles",
+        "hint": "4.6097° S, 55.4263° E"
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Anse Major Passage",
+  "description": "Afternoon glare transforms Anse Major's coastal footpath into a ribbon of white light as a weathered pirate hauls the corner of a treasure chest along the granite trail. A witch marks an 'X' on the stone slab while a black cat watches with unblinking green eyes. Two rope coils lie nearby, two cat eyes gleam—the double count leads to bearing 222 degrees, where mathematics and mysticism converge. Bearing 222°. Cipher output: GA. \"Two coils, two eyes; follow the double.\"",
+  "image": "ipfs://bafybeidcaaei7hdicy4sohpw6zuyipl7v7ns2pysekbhpwd7rozb3a4cxy",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Anse Major",
+  "timeOfDay": "Afternoon",
+  "weather": "glare on water",
+  "bearingDeg": 222,
+  "tide": "Rising",
+  "moonPhase": "First Quarter",
+  "cipherOutput": "GA",
+  "riddle": "Two coils, two eyes; follow the double.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Major"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Afternoon"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "glare on water"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "222°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Rising"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "First Quarter"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "GA"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 151
+  }
+}

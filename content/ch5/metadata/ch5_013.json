@@ -1,0 +1,35 @@
+{
+  "name": "Turtle Nest",
+  "description": "Under starlight, turtle eggs rest in perfectly arranged patterns while ghost crabs skitter between shells that spell ancient protections. The nest guards secrets older than human memory.",
+  "image": "ipfs://bafkreigvydqim2kmhdhfdonnqvviilxnmueesm4tvbgtrkr4cpdzy3hbpy",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "—",
+  "riddle": "The tide counts in shells.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "night_stars"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "beach_nest"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "—"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 213
+  }
+}

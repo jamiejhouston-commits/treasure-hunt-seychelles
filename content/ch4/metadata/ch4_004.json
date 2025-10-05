@@ -1,0 +1,61 @@
+{
+  "name": "Police Bay Warding",
+  "description": "The noon sun blazes overhead as strong trade winds whip Police Bay into a frenzy of white-capped rollers. Two weathered pirates brace against a mast-spar driven deep into the sand, while a witch traces protective veve symbols with driftwood in the churning surf. Crossed cutlasses lie embedded in the sand, their shadows forming the numbers 2 and 6—a cipher written in steel and light that counts truer than any sundial. Bearing 226°. Cipher output: PI. \"Shadowed steel counts truer than the sun.\"",
+  "image": "ipfs://bafybeiabbpm3zqaoxrmn4pzi74u4ugnwafw5obd66n4cgqf5szaktztg4q",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Grand Police (Police Bay)",
+  "timeOfDay": "Noon",
+  "weather": "strong trade wind",
+  "bearingDeg": 226,
+  "tide": "Falling",
+  "moonPhase": "Waxing Crescent",
+  "cipherOutput": "PI",
+  "riddle": "Shadowed steel counts truer than the sun.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Grand Police (Police Bay)"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Noon"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "strong trade wind"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "226°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Falling"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "PI"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 144
+  }
+}

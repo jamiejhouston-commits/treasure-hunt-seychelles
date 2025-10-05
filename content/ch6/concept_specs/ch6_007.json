@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_007",
+  "name": "Sans Souci Pass: The Whispering Stones",
+  "description": "Dense fog. Seven stones carved with dots; Naia charcoal rub reveals arrow. Two lanterns (one dim). Three fern fronds. Kassim hears chain-on-stone; Maliya warns presence. Riddle: What points without pointing is still a sign.",
+  "bearingDeg": 70,
+  "cipherOutput": "N",
+  "hiddenClue": "7 − 1 + 1 = 7 → 70°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Dense fog. Seven stones carved with dots; Naia charcoal rub reveals arrow. Two lanterns (one dim). Three fern fronds. Kassim hears chain-on-stone; Maliya warns presence.. Key props numeric: 2 lanterns, 7 stones, 3 fronds. Cipher letter: N Bearing: 70°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "N"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 70
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "7 − 1 + 1 = 7 → 70°"
+    },
+    {
+      "trait_type": "lanterns",
+      "value": 2
+    },
+    {
+      "trait_type": "stones",
+      "value": 7
+    },
+    {
+      "trait_type": "fronds",
+      "value": 3
+    }
+  ]
+}

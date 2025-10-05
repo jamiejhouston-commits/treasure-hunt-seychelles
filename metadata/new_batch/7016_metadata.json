@@ -1,0 +1,45 @@
+{
+  "name": "Creole Village Dance",
+  "description": "The rhythmic heartbeat of Seychellois culture, where traditional dances tell stories of the islands' rich history under tropical moonlight.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmbtu8RrqE6AdTRHJfgpc6wxD7ArGyxV5VCogGEeLiL8Ze",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Culture",
+      "value": "Creole"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Dancing"
+    },
+    {
+      "trait_type": "Community",
+      "value": "Village"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7016
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

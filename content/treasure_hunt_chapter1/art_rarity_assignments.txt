@@ -1,0 +1,65 @@
+
+ART RARITY ASSIGNMENTS
+═══════════════════════════════════════════════════════════
+
+CHAPTER 1: THE TRAIL BEGINS
+
+Total NFTs: 20
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RARITY TIERS:
+
+
+EPIC (2 NFTs)
+Color: #9d4edd
+NFTs: #1, #19
+
+
+RARE (4 NFTs)
+Color: #3a86ff
+NFTs: #5, #8, #12, #17
+
+
+UNCOMMON (6 NFTs)
+Color: #06d6a0
+NFTs: #2, #7, #11, #14, #16, #20
+
+
+COMMON (8 NFTs)
+Color: #8d99ae
+NFTs: #3, #4, #6, #9, #10, #13, #15, #18
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RARITY DISTRIBUTION:
+
+Epic:     2 NFTs (10%)  - Exceptional artwork, unique composition
+Rare:     4 NFTs (20%)  - High quality, visually striking
+Uncommon: 6 NFTs (30%)  - Above average aesthetic appeal
+Common:   8 NFTs (40%)  - Standard quality, still beautiful
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RARITY BONUSES:
+
+Collect all 2 Epic NFTs:     Bonus: $500
+Collect all 4 Rare NFTs:     Bonus: $200
+Collect all 6 Uncommon NFTs: Bonus: $100
+Complete set (all 20):       Bonus: $1,000
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+VISUAL INDICATORS:
+
+Each rarity tier has a distinct color badge that appears:
+- On gallery thumbnail (corner badge)
+- In layer viewer (prominent display)
+- In collection tracker
+
+Epic:     Purple/Gold (#9d4edd) - Most prestigious
+Rare:     Blue (#3a86ff) - Highly valuable  
+Uncommon: Green (#06d6a0) - Notable quality
+Common:   Gray (#8d99ae) - Standard beauty
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

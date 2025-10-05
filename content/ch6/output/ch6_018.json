@@ -1,0 +1,44 @@
+{
+  "name": "Roche Caiman: The Split Rune",
+  "description": "At Roche Caiman a lightning-split boulder steams in the rain; four radiant cracks crawl from the sundered rune while two halves strain to reunite inside the chalk circle Maliya binds with the iron key. Naia sketches sparks that smell like burnt sugar, Kassim measures the gap with trembling calipers, and thunder answers the 90° call.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_018",
+  "bearingDeg": 90,
+  "cipherOutput": "S",
+  "cipherIndex": 18,
+  "hiddenClue": "4 × 2 + 1 = 9 → 90°",
+  "riddle": "Broken words still add—bind the halves, trace the cracks, and let the circle speak the number.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 90
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "S"
+    },
+    {
+      "trait_type": "radiantCracks",
+      "value": 4
+    },
+    {
+      "trait_type": "runeHalves",
+      "value": 2
+    },
+    {
+      "trait_type": "bindingCircle",
+      "value": 1
+    }
+  ],
+  "image": "./ch6_018.png"
+}

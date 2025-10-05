@@ -1,0 +1,46 @@
+{
+  "name": "SE2-15 — TERNAY'S QUIET",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Baie Ternay / Port Launay Marine Park. In a bay that refuses storm,\nthe coral fingers name a number.",
+  "image": "ipfs://bafkreicz3lk6ubph2scjxne7ht6j42nzff6l7eum7k2yzounhym24md2ca",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Baie Ternay / Port Launay Marine Park"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "U"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Anse Major (return)"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "coral branches form a degree mark.",
+    "clue": "In a bay that refuses storm,\nthe coral fingers name a number.",
+    "visual_description": "Calm marine park; chest silhouette under water; parrot feather in coral."
+  }
+}

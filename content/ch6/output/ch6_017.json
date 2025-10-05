@@ -1,0 +1,44 @@
+{
+  "name": "Bel Ombre Tidepools: Mirror of Shards",
+  "description": "Bel Ombre tidepools mirror a bruised sky; five rune-etched shells ring the water, nine reef spines spear upward, and a giant tortoise silhouette glides beneath the reflections while two bats sip starlight. Naia maps each rune to the shard humming under her palm, Kassim notes seawater etching his scars silver, and Maliya whispers that the revenant watches from the mirrored shell.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_017",
+  "bearingDeg": 160,
+  "cipherOutput": "I",
+  "cipherIndex": 17,
+  "hiddenClue": "5 + 9 + 2 = 16 → 160°",
+  "riddle": "Count what the pool refuses to swallow—shells, spines, and watchers reveal the mirrored heading.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 160
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "I"
+    },
+    {
+      "trait_type": "runeShells",
+      "value": 5
+    },
+    {
+      "trait_type": "reefSpines",
+      "value": 9
+    },
+    {
+      "trait_type": "bats",
+      "value": 2
+    }
+  ],
+  "image": "./ch6_017.png"
+}

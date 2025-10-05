@@ -1,0 +1,149 @@
+{
+  "timestamp": "2025-09-24T17:51:44.603Z",
+  "chapter": 3,
+  "collection": "VASA NFT Collection",
+  "totalGenerated": 20,
+  "status": "AWAITING_APPROVAL",
+  "items": [
+    {
+      "name": "Chapter 3 – Card 01: Landing at Anse Gaulette",
+      "location": "Anse Gaulette, Mahé",
+      "rarity": "Epic",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-01.png",
+      "clue": "Coordinates: -4.7333, 55.5167 - Where the journey begins"
+    },
+    {
+      "name": "Chapter 3 – Card 02: The Carved Rock",
+      "location": "Granite Formations, Mahé",
+      "rarity": "Rare",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-02.png",
+      "clue": "Cipher Fragment: 'XIII + VII = XX, follow the rising sun'"
+    },
+    {
+      "name": "Chapter 3 – Card 03: Fog at Lazare Picault",
+      "location": "Lazare Picault Viewpoint, Mahé",
+      "rarity": "Legendary",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-03.png",
+      "clue": "Directional Riddle: 'When mist clears at dawn, follow the golden ray northwest'"
+    },
+    {
+      "name": "Chapter 3 – Card 04: The Hidden Waterfall",
+      "location": "Sans Souci Waterfall, Mahé",
+      "rarity": "Epic",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-04.png",
+      "clue": "Numerical Pattern: 3-7-11-? (Count the falls to find the next)"
+    },
+    {
+      "name": "Chapter 3 – Card 05: The Pirate's Parrot",
+      "location": "Shipwreck Site, Mahé Coast",
+      "rarity": "Rare",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-05.png",
+      "clue": "Torn Map Piece: '...cave entrance marked by three palms...'"
+    },
+    {
+      "name": "Chapter 3 – Card 06: Cave of Echoes",
+      "location": "Hidden Cave System, Mahé",
+      "rarity": "Epic",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-06.png",
+      "clue": "Coordinate Digits: 'VII-V hidden in wall symbols, seek the southern passage'"
+    },
+    {
+      "name": "Chapter 3 – Card 07: The Compass in the Sand",
+      "location": "Anse Gaulette Beach, Mahé",
+      "rarity": "Rare",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-07.png",
+      "clue": "Partial Direction: 'Northwest 47 degrees, count the waves to shore'"
+    },
+    {
+      "name": "Chapter 3 – Card 08: Port Launay Shadows",
+      "location": "Port Launay Marine Park, Mahé",
+      "rarity": "Legendary",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-08.png",
+      "clue": "Tide Riddle: 'When moon is full and tide is high, the phantom cargo comes to light'"
+    },
+    {
+      "name": "Chapter 3 – Card 09: The Rock Pool Secret",
+      "location": "Tidal Rock Pools, Mahé",
+      "rarity": "Epic",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-09.png",
+      "clue": "Cipher Key Fragment: 'Reflection shows truth: A=1, S=19, K=11'"
+    },
+    {
+      "name": "Chapter 3 – Card 10: The Watcher's Skull",
+      "location": "Jungle Trail, Mahé Interior",
+      "rarity": "Rare",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-10.png",
+      "clue": "Path Riddle: 'Left leads to death, right to gold, choose wisely bold'"
+    },
+    {
+      "name": "Chapter 3 – Card 11: Map Fragment I",
+      "location": "Pirate Camp, Mahé",
+      "rarity": "Epic",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-11.png",
+      "clue": "Half Coordinate: 'S 4° 44' -- E 55° 31' (western fragment)'"
+    },
+    {
+      "name": "Chapter 3 – Card 12: The Crossed Blades",
+      "location": "Sacred Grove, Mahé",
+      "rarity": "Legendary",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-12.png",
+      "clue": "Latin Phrase: 'Fideles usque ad mortem' - Faithful unto death"
+    },
+    {
+      "name": "Chapter 3 – Card 13: Coconut Grove Ambush",
+      "location": "Coconut Plantation, Mahé",
+      "rarity": "Rare",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-13.png",
+      "clue": "Betrayal Symbol: 'Trust no man when gold is near - marked by crossed daggers'"
+    },
+    {
+      "name": "Chapter 3 – Card 14: The Sunken Chest",
+      "location": "Underwater Cave, Mahé Coast",
+      "rarity": "Epic",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-14.png",
+      "clue": "Hidden Sequence: '7-3-11-9 - depths where treasure lies'"
+    },
+    {
+      "name": "Chapter 3 – Card 15: Torch of Secrets",
+      "location": "Secret Cave Chamber, Mahé",
+      "rarity": "Legendary",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-15.png",
+      "clue": "Cryptogram Fragment: 'WKHUH OLHV WKH WUHDVXUH RI OHYDVVHXU'"
+    },
+    {
+      "name": "Chapter 3 – Card 16: The False Trail",
+      "location": "Jungle Crossroads, Mahé",
+      "rarity": "Rare",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-16.png",
+      "clue": "Choice Riddle: 'Follow the parrot's call, not the skull's stare'"
+    },
+    {
+      "name": "Chapter 3 – Card 17: Map Fragment II",
+      "location": "Hidden Cache, Mahé",
+      "rarity": "Legendary",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-17.png",
+      "clue": "Complete Coordinate: 'S 4° 44' 12\" - E 55° 31' 27\" (eastern fragment)'"
+    },
+    {
+      "name": "Chapter 3 – Card 18: The Pirate's Ghost",
+      "location": "Haunted Clearing, Mahé",
+      "rarity": "Legendary",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-18.png",
+      "clue": "Ghostly Riddle: 'Beyond the mist, where eagles nest, lies what you seek'"
+    },
+    {
+      "name": "Chapter 3 – Card 19: The Final Cave",
+      "location": "Mountain Cave, Mahé Interior",
+      "rarity": "Mythic",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-19.png",
+      "clue": "Chapter 3 Cipher: 'In depths of stone, where light does glow, the final truth at last you'll know'"
+    },
+    {
+      "name": "Chapter 3 – Card 20: Chapter Finale – Torn Map Piece",
+      "location": "Burnt Treasure Cache, Mahé",
+      "rarity": "Mythic",
+      "imagePath": "C:\\Users\\andre\\The Levasseur Treasure of Seychelles\\scripts\\dist\\chapter3\\chapter3-20.png",
+      "clue": "Chapter 4 Teaser: 'Where Coco de Mer grows, greater treasures await discovery'"
+    }
+  ]
+}

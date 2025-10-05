@@ -1,0 +1,282 @@
+{
+  "witch_winds_of_mah__001": {
+    "name": "Witch-Winds of Mahé Card 1",
+    "tokenId": 1,
+    "imageCid": "bafybeibtalqujglj2gbapbtapkqpflhuy2ituz4kekaftafrflr5ra7b2i",
+    "metadataCid": "bafkreifqlpppke6jey46nqm7w4omgmzxjeqebsjnoubxecufr5aq576tpa",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__002": {
+    "name": "Witch-Winds of Mahé Card 2",
+    "tokenId": 2,
+    "imageCid": "bafybeihkjrpxlfw2blclrsgwvgp4bfcoap3onassxtv5ghn3ye4n547cna",
+    "metadataCid": "bafkreihwclcqr3siiy7gotxk6beoo6j7z7r7rn46xthucvx6ftbeoc5zqu",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__003": {
+    "name": "Witch-Winds of Mahé Card 3",
+    "tokenId": 3,
+    "imageCid": "bafybeihxudebgqxwesko6i6pvfzhkhsx5a5ofvk32pkwcknrwpyiia6sii",
+    "metadataCid": "bafkreidafyqtcbhb5ejjh4iowqpplircsfx3ozqczd4q2ckwpbazclklse",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__004": {
+    "name": "Witch-Winds of Mahé Card 4",
+    "tokenId": 4,
+    "imageCid": "bafybeia5kp5pcwzunwtmo4qvp56afay4mzfvctyc7k7x7lqqft4cc3hzhi",
+    "metadataCid": "bafkreiek6yfw4764ufq6iabywefowjevnps3chmoou3prluaqcieesxyla",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__005": {
+    "name": "Witch-Winds of Mahé Card 5",
+    "tokenId": 5,
+    "imageCid": "bafybeibcdw5qkebykqj6q7na3axbs7rwksnywotoh6qc4uprlqcqyfauqm",
+    "metadataCid": "bafkreigq7qd3ga672l3ovtk65evex5dgkqhiszv3ey2pgrjkn4ryxe7qfu",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__006": {
+    "name": "Witch-Winds of Mahé Card 6",
+    "tokenId": 6,
+    "imageCid": "bafybeihp6zfco6il6diyrqfpiqup2lct6vsdzrfmzb476aygbocb7xwsee",
+    "metadataCid": "bafkreiavhurttleo5m54iqsu2hghaod2laxdmlbrj4o5pmzvocwtjd3wdq",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__007": {
+    "name": "Witch-Winds of Mahé Card 7",
+    "tokenId": 7,
+    "imageCid": "bafybeigojsnyazdwfh77lz6wgfti6a45dgjxkyr6cxrdlzqmyhihoxnwdy",
+    "metadataCid": "bafkreievzazwiq7p4pyfo25p7hwhptlegq4aw45opv7fbocp3qcuozkbti",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__008": {
+    "name": "Witch-Winds of Mahé Card 8",
+    "tokenId": 8,
+    "imageCid": "bafybeidszqlgcfu3rya4tzzpmyjz6p4q5wwtxaehsozgvet5gwvefez4aa",
+    "metadataCid": "bafkreih7shzcj6sch5gpppv3myythg52dit5ld542isfcwpfn7kisqfkry",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__009": {
+    "name": "Witch-Winds of Mahé Card 9",
+    "tokenId": 9,
+    "imageCid": "bafybeicmz5cktkfjxbl67intm3aofwqw3upupxfebfiwvldpa7fdc3nhyi",
+    "metadataCid": "bafkreic5vzyxjnmb55p7jsie6wgagokodi7mtpzoxqb25lk3nbhleadpwm",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__010": {
+    "name": "Witch-Winds of Mahé Card 10",
+    "tokenId": 10,
+    "imageCid": "bafybeiai6obivpuo2yqyxom57eu3xhifhdlbbs2ysnsfjln2dvt2ks2yqy",
+    "metadataCid": "bafkreidaicmawotyzamuxqmbaptw2itqwcc3ldjlzgdtckmuusod522rje",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__011": {
+    "name": "Witch-Winds of Mahé Card 11",
+    "tokenId": 11,
+    "imageCid": "bafybeid25yyk45wkm3l457ihp6cg2z56f6logviiyeijjv7wwy5g3dugzq",
+    "metadataCid": "bafkreih7i44m7keullfg6byb2hh2fzhpnzwgfbfuxtvktok35zvmmgovvm",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__012": {
+    "name": "Witch-Winds of Mahé Card 12",
+    "tokenId": 12,
+    "imageCid": "bafybeifbl2e6ltgf5majgwby7z77ogzttyankjgurum6xaosvoxt6lh2xy",
+    "metadataCid": "bafkreicyu6f2vgmgyb2f6j2lfjudrcug7i2e7tbhokjomqtbuwwlpflg4m",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__013": {
+    "name": "Witch-Winds of Mahé Card 13",
+    "tokenId": 13,
+    "imageCid": "bafybeihwsydcvjgcp3urrmzlcz67ddl2ekntv2xb3mb4nr2yu7uggcup5q",
+    "metadataCid": "bafkreicrskia4mnvo2xdh2yhiinsl72wdtv7creanbiqrktkwh4i3lvbdy",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__014": {
+    "name": "Witch-Winds of Mahé Card 14",
+    "tokenId": 14,
+    "imageCid": "bafybeid32h7zlrvhysopozcdqgjths3eot4lyegd362zwxffhdzxk6lsw4",
+    "metadataCid": "bafkreif2hy76k4fduiiwidfveqnxllnnsm6ltum6s3v3cfcyad4kfho6qi",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__015": {
+    "name": "Witch-Winds of Mahé Card 15",
+    "tokenId": 15,
+    "imageCid": "bafybeih4kmin4llrgbqksp4kz335xl2wpaykfbtuwz3etbmbkug64ny4de",
+    "metadataCid": "bafkreieg5mljhtf4ca55zsqckg47zwwqwpxumwmmkik6v2kptezb5tlm3m",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__016": {
+    "name": "Witch-Winds of Mahé Card 16",
+    "tokenId": 16,
+    "imageCid": "bafybeie3sjvdc424qgargfbpjagamfhkyrng3jrj6efeyu7o7bj2n42fte",
+    "metadataCid": "bafkreif2gbsw2tmrwukyqr4xshkly4bzm6kaqlfrsget5j2mniwbvuogh4",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__017": {
+    "name": "Witch-Winds of Mahé Card 17",
+    "tokenId": 17,
+    "imageCid": "bafybeiglvvzpomguxztcobb54f53g7455ug2f7crztjipcdxzf3gzxjkuu",
+    "metadataCid": "bafkreico7lcqkzgnafps3qesst2ejk56hrauzs44tcgmb5hvpuzgt52hnm",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__018": {
+    "name": "Witch-Winds of Mahé Card 18",
+    "tokenId": 18,
+    "imageCid": "bafybeic7o2olg4rjqmiojobjnu6wixs6rqgdaqngftlgtkhrst5qbe3ztm",
+    "metadataCid": "bafkreibitxebtv2nrifspjjfon2hrakgjpalna5cvx6ocyg6hdsprltuxu",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__019": {
+    "name": "Witch-Winds of Mahé Card 19",
+    "tokenId": 19,
+    "imageCid": "bafybeiezv5g25mrbrwpy2zj6eaprcx2p544umzdj6c2zbp62betnkntpga",
+    "metadataCid": "bafkreigxzr32zwgwwivdfoe54q27rgrqoayv4xhvz6kzpnieeyvwetg5yy",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__020": {
+    "name": "Witch-Winds of Mahé Card 20",
+    "tokenId": 20,
+    "imageCid": "bafybeihranppcflcz7s6atcaesjv2tun3albsdhhrvpstorlgsozkmji3e",
+    "metadataCid": "bafkreicakjmwiogbsuedft7nfturxqizq2g4dcovmc5fsye4p3xu27ybsu",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__021": {
+    "name": "Witch-Winds of Mahé Card 21",
+    "tokenId": 21,
+    "imageCid": "bafybeidxsepy6xbs5lolni2mlyeudvlo6erosmtthgpa3rfuup5ktlz43i",
+    "metadataCid": "bafkreif6a6eljh4pkhjhfipmgpxe4soikj2si7rbiv22xwalydv2fphru4",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__022": {
+    "name": "Witch-Winds of Mahé Card 22",
+    "tokenId": 22,
+    "imageCid": "bafybeiaf7vt6kf7orw4ocoqb4xcpu4sn4zu3y7mgcxj2flmdm2wkkrlhqa",
+    "metadataCid": "bafkreifppzikothyohmedo2tkkt6redffxti7xti7flyw4655h2otlvkm4",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__023": {
+    "name": "Witch-Winds of Mahé Card 23",
+    "tokenId": 23,
+    "imageCid": "bafybeibf57wj4i5udbipxdvnri3uheqcel22ywvnibcyzp3v4eraixepou",
+    "metadataCid": "bafkreieudh5gm2x5v7ntrfrvd7wtgmjb5efopdjjei7igl6ib5rp33oota",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__024": {
+    "name": "Witch-Winds of Mahé Card 24",
+    "tokenId": 24,
+    "imageCid": "bafybeibpcxqlhazobuc66vigtum2wiis73xipxv3zpsqur2m6bx2i3m6ma",
+    "metadataCid": "bafkreigh5yvjbgkcwz7hvj2lfokvek75gfuv4vgmqctdo7b7yw4k3ac6hy",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__025": {
+    "name": "Witch-Winds of Mahé Card 25",
+    "tokenId": 25,
+    "imageCid": "bafybeibtav3zu65qhldfm6la2pjsx26vk7tvghs3otuop7xqxs6lhuxtwi",
+    "metadataCid": "bafkreiepd6mven3z3iudpgpnt67j2bqznididjhftrnr3euytcxmzaqqpi",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__026": {
+    "name": "Witch-Winds of Mahé Card 26",
+    "tokenId": 26,
+    "imageCid": "bafybeig3h5r4m242zzgitsycvuduaksybijowbnci2trv6ofkoxilac5vy",
+    "metadataCid": "bafkreicvk7btor7fnrvyi65c7j5dimcdoj2twuflfgypzqe7h2giycjh6q",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__027": {
+    "name": "Witch-Winds of Mahé Card 27",
+    "tokenId": 27,
+    "imageCid": "bafybeiguqrgfguhphmfzbu4unojeeovdrpi3a3pm5637wltu5zkcnohbqe",
+    "metadataCid": "bafkreie37tum7jyga7nxmvk7aqsxmwstuaz7bf563ddeeo3jespjt6eo7i",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__028": {
+    "name": "Witch-Winds of Mahé Card 28",
+    "tokenId": 28,
+    "imageCid": "bafybeibcd74eblyy32mhxhlj4m4vmuzgx2nbuskslucfbvo4gmnr2mbv3u",
+    "metadataCid": "bafkreia4wyon74cbl4bxnr4ux6wb4uwxbxpd4eauevuurdfqvwlk7jrefa",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__029": {
+    "name": "Witch-Winds of Mahé Card 29",
+    "tokenId": 29,
+    "imageCid": "bafybeiddfsyfiv7u4ovhrqwesaehrkaikiuvxlmjucp7iwd2hhdzvfykq4",
+    "metadataCid": "bafkreidsac5x34xky4mxwmeequwi7i24qcjfazhxf5xf26tjpw56xaax5a",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__030": {
+    "name": "Witch-Winds of Mahé Card 30",
+    "tokenId": 30,
+    "imageCid": "bafybeigkfn7or54jgq6yp3f4mvmcg4orw5frn247mrs3bqp3wldwns27sm",
+    "metadataCid": "bafkreib5g6fatsbhn2ku5ahjgnpxxwqnealek72paun75wl6im5wqrrxry",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__031": {
+    "name": "Witch-Winds of Mahé Card 31",
+    "tokenId": 31,
+    "imageCid": "bafybeie26o6u73xewxxkh4pfyowwbcu6oiygzfvjtssjn7hkp2dowozgey",
+    "metadataCid": "bafkreiff3ovzphzgp47h4fpw5rvdqiscfnuiw5zt7nqvzylsj42oxz27ji",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__032": {
+    "name": "Witch-Winds of Mahé Card 32",
+    "tokenId": 32,
+    "imageCid": "bafybeihu7mi6fkahmkjfi4whfuz756jkgmpylzs34zj376eapxdl54isva",
+    "metadataCid": "bafkreiewif4cr5r3ur2cr6oke42rv7wlkq4lqoglputy3mmf3drnho4iri",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__033": {
+    "name": "Witch-Winds of Mahé Card 33",
+    "tokenId": 33,
+    "imageCid": "bafybeieosughu4r72qur65evdqbefobdaz5xnybypbudgu4tj36vehpz6i",
+    "metadataCid": "bafkreifnvz7cs4rjqz6pcfy54vpncxexnsu4qecudefhczc7q24uyghfia",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__034": {
+    "name": "Witch-Winds of Mahé Card 34",
+    "tokenId": 34,
+    "imageCid": "bafybeihcx3kusa3ehrkxtjbgwbz5gmdyrs5pwfo7cu5kaj4svvqtgjpfh4",
+    "metadataCid": "bafkreib3xqnkfgvoq3pylpcbq6eh57metjgw4efyagxyggdtlvrmmijbqa",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__035": {
+    "name": "Witch-Winds of Mahé Card 35",
+    "tokenId": 35,
+    "imageCid": "bafybeiaeuxuarcbfsbsb5hwal4o7qahe7ohzoup5bu2y6ilkzkrhwwl6yi",
+    "metadataCid": "bafkreie5jqxdutnoqlnunbciktxkzray4ui4h7ixbhdf7m6yus2b5oo4ju",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__036": {
+    "name": "Witch-Winds of Mahé Card 36",
+    "tokenId": 36,
+    "imageCid": "bafybeicae65toxoldmhdpavgxvakoxbj6kgbv7kkrrg3sbktivojunddqe",
+    "metadataCid": "bafkreig6c6gtwpltslvb4gqwu37b76gip67ldogi4tnyijxa5p37hk2fja",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__037": {
+    "name": "Witch-Winds of Mahé Card 37",
+    "tokenId": 37,
+    "imageCid": "bafybeib7nvkb6e7nbliyyvldchkab4arife7piibl3mvao6b3gzxlcmdum",
+    "metadataCid": "bafkreigb44rqhbggpvnkk6vctsca6j4zrg2r5oumuigz4u2omvpfr6ypte",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__038": {
+    "name": "Witch-Winds of Mahé Card 38",
+    "tokenId": 38,
+    "imageCid": "bafybeicz7hmwme3na3dpp2qejjakewcdlevvb3hrxpmye4s5vat5el3twq",
+    "metadataCid": "bafkreidkcgtir3jsgq4qu3bdabifcszzkgjdtzkrlkz374tm2ku5ldccsa",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__039": {
+    "name": "Witch-Winds of Mahé Card 39",
+    "tokenId": 39,
+    "imageCid": "bafybeiepsej4cvzbxlyoubtel6hne3hhyw35mhfk7oq6rgwk67vwgqj4m4",
+    "metadataCid": "bafkreig2dwpt5g5eilh6lqr47bdu54r4qzhvbpm6yzir5bgwnfbcfmrlfe",
+    "chapter": "Witch-Winds of Mahé"
+  },
+  "witch_winds_of_mah__040": {
+    "name": "Witch-Winds of Mahé Card 40",
+    "tokenId": 40,
+    "imageCid": "bafybeige5x6czhzupeecqdsq3v42m7i62otuvhrc7rotptlq5n3z57iat4",
+    "metadataCid": "bafkreiguxwaja7sqnagkb3yx74umtbkzlwwyywyggdc5xcttmwyd2tsjxy",
+    "chapter": "Witch-Winds of Mahé"
+  }
+}

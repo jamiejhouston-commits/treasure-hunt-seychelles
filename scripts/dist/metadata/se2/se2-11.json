@@ -1,0 +1,46 @@
+{
+  "name": "SE2-11 — NIGHT AT INTENDANCE",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Intendance, Mahé. Where the sea writes in thunder, the sand keeps one coin.\nTurn its scar toward the gentler shore.",
+  "image": "ipfs://bafkreier4ccpdl7aoomusq3g33giknoymhr7j6f7g4dkh4jcwzsjwean6y",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Intendance, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "P"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Anse Royale"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "coin notch aligns with shoreline sweep.",
+    "clue": "Where the sea writes in thunder, the sand keeps one coin.\nTurn its scar toward the gentler shore.",
+    "visual_description": "Wild surf; pirate hat on driftwood; skull-coin in sand; storm glow offshore."
+  }
+}

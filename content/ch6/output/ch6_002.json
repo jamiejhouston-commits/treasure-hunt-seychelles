@@ -1,0 +1,44 @@
+{
+  "name": "Cap Ternay: The Veil of Sacrifice",
+  "description": "Cap Ternay's mangroves choke on copper-sweet rot as four wax circles hardened black halo the altar, four decoy glyphs smear the limestone, and only two true spiral runes glow damp gold. Naia's charcoal bleeds across the page while Kassim braces his cutlass over the emerald-eyed cat that refuses to leave his boots, and Maliya tongues blood from a split lip as she parses which sigils still breathe. The hollow percussion of unseen drums taps toward the 318° wind they were warned to follow.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_002",
+  "bearingDeg": 318,
+  "cipherOutput": "E",
+  "cipherIndex": 2,
+  "hiddenClue": "(4 − 4) × 2 = 0 → 318°",
+  "riddle": "Burn the false, keep the faithful—when the sum drops below zero, trust the windless bearing.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 318
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "E"
+    },
+    {
+      "trait_type": "waxCircles",
+      "value": 4
+    },
+    {
+      "trait_type": "trueRunes",
+      "value": 2
+    },
+    {
+      "trait_type": "decoyGlyphs",
+      "value": 4
+    }
+  ],
+  "image": "./ch6_002.png"
+}

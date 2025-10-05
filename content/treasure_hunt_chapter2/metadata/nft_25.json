@@ -1,0 +1,48 @@
+{
+  "name": "Seychelles Treasure #25",
+  "description": "Chapter 2: The Hidden Cache - NFT #25 (Contains Puzzle Clue)",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 2: The Hidden Cache"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 2",
+    "puzzle_enabled": true,
+    "art_rarity": "Epic",
+    "rarity_color": "#9d4edd",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 1,
+        "type": "cipher_text",
+        "ipfs_hash": null,
+        "description": "Encrypted message - what does it say?",
+        "hint": "JWBN BXUNRU"
+      }
+    ]
+  }
+}

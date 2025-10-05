@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_009",
+  "name": "Black River Crossing: Ferry of Shadows",
+  "description": "Dark river; rope-tethered ferry. Four notch pairs on oar. Seven pale fish circle like stars. Maliya candle flame bends inland. Naia traces fish constellation. Riddle: Even water counts, if you ask it softly.",
+  "bearingDeg": 160,
+  "cipherOutput": "M",
+  "hiddenClue": "8 + 7 + 1 = 16 → 160°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Dark river; rope-tethered ferry. Four notch pairs on oar. Seven pale fish circle like stars. Maliya candle flame bends inland. Naia traces fish constellation.. Key props numeric: 4 notchPairs, 7 fish, 1 bentFlame. Cipher letter: M Bearing: 160°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "M"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 160
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "8 + 7 + 1 = 16 → 160°"
+    },
+    {
+      "trait_type": "notchPairs",
+      "value": 4
+    },
+    {
+      "trait_type": "fish",
+      "value": 7
+    },
+    {
+      "trait_type": "bentFlame",
+      "value": 1
+    }
+  ]
+}

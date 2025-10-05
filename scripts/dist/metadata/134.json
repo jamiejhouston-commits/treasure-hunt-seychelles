@@ -1,0 +1,31 @@
+{
+  "name": "S3-14 — Copolia Dome",
+  "description": "S3-14 — Copolia Dome. Clue: On the stone, light bends the reef—arc the rope where shoreline turns.",
+  "image": "ipfs://bafkreig7tlv7d2zisg6pojnlnxlnbrttd6khse2huqpxq7tiau5nx6q6mi",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Copolia Granite Dome"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Zenith"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Viewpoint"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cutlass"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

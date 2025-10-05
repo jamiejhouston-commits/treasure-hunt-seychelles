@@ -1,0 +1,59 @@
+{
+  "id": "ch7_012",
+  "name": "Vallée Stream: The Siren's Counting Song",
+  "scene": "Women washing, 3 drums, 6 kingfishers, 2 carved leaves.",
+  "props": [
+    {
+      "name": "ritual_drums",
+      "value": 3,
+      "description": "Traditional drums by stream"
+    },
+    {
+      "name": "kingfishers",
+      "value": 6,
+      "description": "Bright kingfishers darting over water"
+    },
+    {
+      "name": "carved_leaves",
+      "value": 2,
+      "description": "Ceremonial carved leaves floating"
+    }
+  ],
+  "hiddenClue": "(6−3)+2=5 → 50°",
+  "bearingDeg": 50,
+  "cipherOutput": "S",
+  "riddle": "Count forward to return.",
+  "painterlyElements": {
+    "atmosphere": "stream_washing_women_ritual_music",
+    "culturalStamps": [
+      "creole_washing_tradition",
+      "kingfisher_flight"
+    ],
+    "brushTechnique": "flowing_water_rhythm_texture",
+    "layering": "background_stream_midground_women_foreground_drums"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Women washing, 3 drums, 6 kingfishers, 2 carved leaves.. stream_washing_women_ritual_music with flowing_water_rhythm_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_stream_midground_women_foreground_drums. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: creole_washing_tradition, kingfisher_flight. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

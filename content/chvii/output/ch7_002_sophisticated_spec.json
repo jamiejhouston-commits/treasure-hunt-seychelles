@@ -1,0 +1,50 @@
+{
+  "id": "ch7_002",
+  "name": "Praslin Market: The Spice Cipher",
+  "chapter": "VII",
+  "rarity": "rare",
+  "styleType": "ETCHED_PAINTERLY_SEYCHELLOIS",
+  "prompt": "Etched parchment engraved map-card of bustling Praslin spice market. Naia cartographer in indigo scarf examining turmeric glyph patterns while weathered Creole vendor points to four brass scales. Seven black parrots perched among textile awnings and woven baskets. Fine copperplate hatching, market atmosphere with dappled shadows, muted sepia base with turmeric yellow accents. Elongated market figures in cultural dress, textured awning patterns. 17th-century trade route chart + Seychellois market folklore.",
+  "negativePrompt": "basic shapes, childlike, cartoon, simple, flat shading, modern technology, photoreal, neon, oversaturated, low detail",
+  "requiredElements": {
+    "medium": "etched_parchment_engraved_map_card",
+    "lineQuality": "fine_copperplate_hatching_cross_hatch",
+    "palette": "muted_sepia_indigo_teal_bone_gold",
+    "lighting": "directional_low_sun_moon_volumetric_mist",
+    "composition": "textured_layering_no_flat_spaces",
+    "figures": "elongated_angular_patterned_movement",
+    "culturalMotifs": [
+      "creole_market",
+      "black_parrots",
+      "spice_trading",
+      "textile_awnings"
+    ],
+    "mood": "ritualistic_archaeological_haunted_narrative"
+  },
+  "bannedElements": [
+    "basic_shapes",
+    "childlike",
+    "cartoon",
+    "simple",
+    "flat_graphics"
+  ],
+  "props": [
+    {
+      "name": "black_parrots",
+      "value": 7,
+      "description": "Sacred black parrots among market stalls"
+    },
+    {
+      "name": "brass_scales",
+      "value": 4,
+      "description": "Ancient brass scales with mystical resonance"
+    },
+    {
+      "name": "spice_symbols",
+      "value": 9,
+      "description": "Hidden glyphs in spice arrangements"
+    }
+  ],
+  "scene": "Textile awnings flutter over woven baskets as seven black parrots perch among spice stalls while Naia traces ancient symbols hidden in turmeric patterns, the vendor's weathered hands pointing to four brass scales that hum with ancestral memories.",
+  "environment": "village"
+}

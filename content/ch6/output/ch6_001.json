@@ -1,0 +1,44 @@
+{
+  "name": "Port Launay: The Fisherman’s Warning",
+  "description": "Brine-slick dusk at Port Launay clings to four rust-scabbed anchors while three fruit bats orbit a sickle moon and a far pirogue silhouette rocks beyond the breakwater. Diesel smoke, wet kelp, and old rum sting the trio as Tibo shoves a damp chart scrap into Naia's hands, begging them to hold the 43° bearing before the revenant's chains drag him under.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_001",
+  "bearingDeg": 43,
+  "cipherOutput": "R",
+  "cipherIndex": 1,
+  "hiddenClue": "4 + 3 = 43°",
+  "riddle": "Four anchors bite, three wings flee—steer where their sum gnaws moonlit tide.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 43
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "R"
+    },
+    {
+      "trait_type": "anchors",
+      "value": 4
+    },
+    {
+      "trait_type": "bats",
+      "value": 3
+    },
+    {
+      "trait_type": "crackedLanternPane",
+      "value": 1
+    }
+  ],
+  "image": "./ch6_001.png"
+}

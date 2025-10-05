@@ -1,0 +1,61 @@
+{
+  "name": "Anse Royale Rune",
+  "description": "Sunset calm settles over Anse Royale as a driftwood shrine takes shape on the pristine beach. The witch paints ancient runes while a pirate arranges coins in the pattern of a cross—but this cross is crooked, its arms unequal in the ratio 1:3. Four cat prints in the sand lead to this sacred geometry, where the shorter arm points to truth and the fourth and third letters of 'ETTE' spell the evening's secret. Bearing 143°. Cipher output: LA. \"Four steps, a crooked cross—the shorter arm is the truth.\"",
+  "image": "ipfs://bafybeialofxhcmuh3o2ogwh6wem3wg753cj7n4vyfj27s7e4gaxg3hejhe",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Anse Royale",
+  "timeOfDay": "Sunset",
+  "weather": "calm",
+  "bearingDeg": 143,
+  "tide": "Low",
+  "moonPhase": "Full",
+  "cipherOutput": "LA",
+  "riddle": "Four steps, a crooked cross—the shorter arm is the truth.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Royale"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "calm"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "143°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Full"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "LA"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 155
+  }
+}

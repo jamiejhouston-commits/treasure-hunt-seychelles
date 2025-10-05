@@ -1,0 +1,46 @@
+{
+  "name": "SE2-05 — LANTERN ON COPOLIA",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Copolia Trail granite dome, Mahé. On Copolia's stone, light bends the reef.\nArc the rope where the shoreline turns.",
+  "image": "ipfs://bafkreibrjl3rla2zqju5fbhy6uyvcdeuiinoxuzsljiivaxtivowhna2au",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Copolia Trail granite dome, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "L"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Cascade Waterfall"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "rope laid as precise arc; reef silhouette as protractor.",
+    "clue": "On Copolia's stone, light bends the reef.\nArc the rope where the shoreline turns.",
+    "visual_description": "Lantern on polished granite; coastline arcs below; map parchment pinned with cutlass; parrot feather points along reef line."
+  }
+}

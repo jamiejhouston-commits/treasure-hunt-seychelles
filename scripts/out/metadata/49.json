@@ -1,0 +1,30 @@
+{
+  "name": "Fragment #49 — The Compass of Seychelles",
+  "description": "A cartographic fragment from Levasseur's lore. Bearing 261°, coordinates -9.7056, 50.1387.",
+  "image": "ipfs://PLACEHOLDER/49.png",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "261°"
+    },
+    {
+      "trait_type": "Coordinates",
+      "value": "-9.7056, 50.1387"
+    }
+  ],
+  "clue": {
+    "cipher": "Rotate by 261 and sum primes.",
+    "coordinates": "-9.7056, 50.1387",
+    "index": 49,
+    "hint": "Bearing 261°. Coords -9.7056, 50.1387. Count primes between lat*100 and lon."
+  },
+  "external_url": "https://treasureofseychelles.app/nft/49",
+  "collection": {
+    "name": "Treasure of Seychelles",
+    "chapter": "Mixed Preview"
+  }
+}

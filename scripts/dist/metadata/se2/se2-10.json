@@ -1,0 +1,46 @@
+{
+  "name": "SE2-10 — TEETH OF GEORGETTE",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Georgette (Praslin). Among the teeth, a corner of night.\nThe feather points where the reef denies depth.",
+  "image": "ipfs://bafkreicmv5w4st6jpsiacvplz67grtn6o2up5tyqcwc4pff2f26n3tzbam",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Georgette (Praslin)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "E"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Lady Denison-Pender Shoal"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "tooth spacing → compass ticks toward the shoal.",
+    "clue": "Among the teeth, a corner of night.\nThe feather points where the reef denies depth.",
+    "visual_description": "Granite teeth frame turquoise cove; treasure-chest corner in sand; parrot feather pointing offshore; coin trail into surf."
+  }
+}

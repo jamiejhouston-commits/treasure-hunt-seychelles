@@ -1,0 +1,46 @@
+{
+  "name": "SE2-20 — THE FIRST SHORE'S KEY",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Baie Lazare (return), Mahé. The loop returns where it began.\nThe first shore keeps the last key.",
+  "image": "ipfs://bafkreia2pxrxegrhas46u5dxvgtlt7l2piltmp5j7vtyxihx247zmfblry",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Baie Lazare (return), Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "Y"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "(CLOSE LOOP)"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "key sigil in foam; ring completes the loop.",
+    "clue": "The loop returns where it began.\nThe first shore keeps the last key.",
+    "visual_description": "Same bay at dawn; chest partly unearthed; skull-and-sabers watermark; lantern glow on sand; compass ring closing."
+  }
+}

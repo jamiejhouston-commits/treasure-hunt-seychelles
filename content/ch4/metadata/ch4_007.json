@@ -1,0 +1,61 @@
+{
+  "name": "Sauzier's Fall Sign",
+  "description": "The midday sun creates rainbows in the spray of Sauzier Waterfall as pirate and witch stand side by side on the wet stone ledge. Three rune-arrows have been carved deep into the rock face, their meanings lost to time but their directions clear: East, South, East. The falling water translates their message into a single bearing—110 degrees true, where three arrows fall but one bearing stands eternal. Bearing 110°. Cipher output: TE. \"Three arrows fall, one bearing stands.\"",
+  "image": "ipfs://bafybeiasnawevnyrfq35bqyw3trjhqg2qgvygxhwlrswuz5fbkbryteeaq",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Sauzier Waterfall (Port Glaud)",
+  "timeOfDay": "Midday",
+  "weather": "spray",
+  "bearingDeg": 110,
+  "tide": "N/A",
+  "moonPhase": "Waning Crescent",
+  "cipherOutput": "TE",
+  "riddle": "Three arrows fall, one bearing stands.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Sauzier Waterfall (Port Glaud)"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Midday"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "spray"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "110°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "N/A"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waning Crescent"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "TE"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 147
+  }
+}

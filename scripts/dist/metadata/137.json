@@ -1,0 +1,31 @@
+{
+  "name": "S3-17 — Denison Reef Gate",
+  "description": "S3-17 — Denison Reef Gate. Clue: Six lights pretend to open—turn your bow; home holds the lock.",
+  "image": "ipfs://bafkreiafwfmwrztilmrb6trku6fgfsbmfzex4nw6drwlr2yw7zwxi6xaga",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Lady Denison-Pender Shoal"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "High Sun"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Reef"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Compass"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

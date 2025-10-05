@@ -1,0 +1,45 @@
+{
+  "name": "Traditional Fishing Village",
+  "description": "Colorful Creole houses dotting the coastline, where generations of fishermen have cast their nets in search of the ocean's bounty.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZ5oeqZ2C1bpyAx3fbPPsUs6JzoxJyM8NBzEFSjkNaDtd",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Settlement",
+      "value": "Fishing Village"
+    },
+    {
+      "trait_type": "Architecture",
+      "value": "Creole"
+    },
+    {
+      "trait_type": "Occupation",
+      "value": "Fishing"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7018
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "S3-20 — Door Below Morne Seychellois",
+  "description": "S3-20 — Door Below Morne Seychellois. Clue: All roads return to the first shore; the door hears only the right order.",
+  "image": "/preview/chapter3/S3-20.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Morne Seychellois Foothill Cave"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Night"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Cave"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lantern"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

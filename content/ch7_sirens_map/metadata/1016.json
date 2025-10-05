@@ -1,0 +1,134 @@
+{
+  "name": "La Digue Passage: White Birds on Wind",
+  "description": "6 terns, 1 buoy, 3 beacons. Blink rate spells a number.\n\nRiddle: \"A thought repeated becomes a path.\"\n\nSophisticated painterly artwork using etched-parchment technique with Seychellois cultural motifs. Part of \"The Siren's Map of Praslin\" cipher series.",
+  "image": "http://localhost:3001/content/ch7_sirens_map/output/ch7_016_painterly.png",
+  "external_url": "http://localhost:3000/nft/1016",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VII - The Siren's Map of Praslin"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Sophisticated Painterly Etched-Parchment"
+    },
+    {
+      "trait_type": "Rendering Technique",
+      "value": "Multi-Layer Textured Brushwork"
+    },
+    {
+      "trait_type": "Cultural Authenticity",
+      "value": "Seychellois Folklore Motifs"
+    },
+    {
+      "trait_type": "Visual Quality",
+      "value": "Dense Foliage Rhythmic Patterns"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Saturated Seychellois (Greens/Blues/Golds)"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Foreground/Midground/Background Depth"
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "I"
+    },
+    {
+      "trait_type": "Location",
+      "value": "La Digue Passage"
+    },
+    {
+      "trait_type": "Bearing (Degrees)",
+      "value": 20
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Sophisticated Painterly"
+    },
+    {
+      "trait_type": "Generation Method",
+      "value": "Advanced Layered Renderer (NO Primitive Shapes)"
+    },
+    {
+      "trait_type": "White Terns",
+      "value": 6
+    },
+    {
+      "trait_type": "Channel Buoy",
+      "value": 1
+    },
+    {
+      "trait_type": "Signal Beacons",
+      "value": 3
+    }
+  ],
+  "advanced_specs": {
+    "style_guarantee": "PAINTERLY_LAYERED_SEYCHELLOIS_ONLY",
+    "banned_techniques": [
+      "primitive_shapes",
+      "flat_fills",
+      "basic_graphics",
+      "simple_geometry",
+      "childlike_art"
+    ],
+    "required_elements": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "cultural_motif_stamps",
+      "volumetric_atmospheric_depth",
+      "saturated_palette",
+      "visible_brush_strokes"
+    ],
+    "painterly_elements": {
+      "atmosphere": "channel_passage_navigation_rhythm",
+      "culturalStamps": [
+        "tern_flight_patterns",
+        "maritime_navigation"
+      ],
+      "brushTechnique": "wind_swept_feather_beacon_light_texture",
+      "layering": "background_passage_midground_buoy_foreground_terns"
+    },
+    "render_prompt": "Etched parchment engraved map-card of 6 terns, 1 buoy, 3 beacons. Blink rate spells a number.. channel_passage_navigation_rhythm with wind_swept_feather_beacon_light_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_passage_midground_buoy_foreground_terns. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: tern_flight_patterns, maritime_navigation. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negative_prompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail"
+  },
+  "puzzle_data": {
+    "scene": "6 terns, 1 buoy, 3 beacons. Blink rate spells a number.",
+    "riddle": "A thought repeated becomes a path.",
+    "hidden_clue": "(6÷3)×1=2 → 20°",
+    "bearing_deg": 20,
+    "cipher_output": "I",
+    "props": [
+      {
+        "name": "white_terns",
+        "value": 6,
+        "description": "Terns wheeling in formation"
+      },
+      {
+        "name": "channel_buoy",
+        "value": 1,
+        "description": "Navigation buoy bobbing"
+      },
+      {
+        "name": "signal_beacons",
+        "value": 3,
+        "description": "Blinking navigation beacons"
+      }
+    ]
+  },
+  "technical_specs": {
+    "dimensions": "2048x2048",
+    "format": "PNG",
+    "color_space": "sRGB",
+    "render_layers": [
+      "background",
+      "midground",
+      "foreground",
+      "overlay",
+      "caption"
+    ],
+    "art_technique": "17th-century nautical chart + Seychellois modernist painting"
+  }
+}

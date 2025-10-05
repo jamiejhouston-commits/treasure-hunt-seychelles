@@ -1,0 +1,35 @@
+{
+  "name": "Witch's Pool",
+  "description": "A perfect tidepool mirrors star constellations while five silver coins rest on its bottom like fallen stars. The reflection reveals letters hidden in celestial patterns, visible only under new moon darkness.",
+  "image": "ipfs://bafkreiak5kbq7wljxxb7lnohmchynyciee2e6bz4jy4ljtnqymc4kmthb4",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "HI",
+  "riddle": "The pool repeats the sky if counted five.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "reflection_mirror"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "tidepool_macro"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "HI"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 206
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Outer Islands Revelation Card 13",
+  "description": "A beautifully crafted treasure card from Outer Islands Revelation, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeigi2xkmirrgsoevqnkmmeglhglyvnvdiasrysqz3l6sdjmz6eamq4",
+  "chapter": "Outer Islands Revelation",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Outer Islands Revelation"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "treasure"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "nautical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 13
+    }
+  ],
+  "properties": {
+    "tokenId": 13,
+    "chapter": "Outer Islands Revelation"
+  }
+}

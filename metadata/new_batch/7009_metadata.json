@@ -1,0 +1,45 @@
+{
+  "name": "Seychelles Artistic Vision #04",
+  "description": "An artistic interpretation of Seychelles' natural beauty, capturing the essence of paradise through the lens of creative expression.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQJuUA3sHMAT2JWHk6x6n2t4QkW14itzYhPmhDp1WFenz",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Art Style",
+      "value": "Painted"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Artistic Vision"
+    },
+    {
+      "trait_type": "Medium",
+      "value": "Digital Art"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7009
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

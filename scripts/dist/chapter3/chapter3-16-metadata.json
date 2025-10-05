@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 16: The False Trail",
+  "description": "Footprints in sand tell a story of deception. Two paths diverge into jungle darkness, but only one leads to treasure - the other to certain doom.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Jungle Crossroads, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Diverging Paths"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Where the crew split to confuse pursuers"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 16
+    }
+  ],
+  "properties": {
+    "clue": "Choice Riddle: 'Follow the parrot's call, not the skull's stare'",
+    "visualElements": [
+      "Two sets of footprints leading different directions",
+      "Dense jungle vegetation at path split",
+      "Ominous shadows in both directions",
+      "Warning signs carved in trees",
+      "Pirate hat abandoned at crossroads",
+      "Mysterious mist obscuring true path"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

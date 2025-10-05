@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ch6_001",
+    "title": "Port Launay: The Fisherman’s Warning",
+    "scene": "At dusk, fisherman Tibo warns Naia, Kassim, and Maliya on the shore as fruit bats arc over a crescent moon; four rusted anchors lie half-submerged.",
+    "props": {"anchors":4, "bats":3, "lanternCrack":1},
+    "hiddenClueFormula": "4 + 3 = 43°",
+    "bearingDeg": 43,
+    "cipherOutput": "R",
+    "riddle": "Four teeth in the tide, three wings in the night — steer where iron kisses moonlight.",
+    "cipherIndex": 1
+  },
+  {
+    "id": "ch6_002",
+    "title": "Cap Ternay: The Veil of Sacrifice",
+    "scene": "Mangrove cove with wax circles, skull runes, and blood glyphs; Naia, Kassim, Maliya evaluate which sigils are true while a black cat watches.",
+    "props": {"waxCircles":6, "trueRunes":2, "decoyGlyphs":7},
+    "hiddenClueFormula": "(6 − 7) × 2 = −2 → 358°",
+    "bearingDeg": 358,
+    "cipherOutput": "E",
+    "riddle": "Count what endures, subtract what lies — the truth points where the wind does not.",
+    "cipherIndex": 2
+  },
+  {
+    "id": "ch6_003",
+    "title": "Granite Fissure: First Shard",
+    "scene": "Granite ridge fissure holding a bone-iron shard; bats wheel above while chalk tallies mark attempts.",
+    "props": {"shard":1, "tallies":7, "bats":9},
+    "hiddenClueFormula": "7 + 9 = 16 → 160°",
+    "bearingDeg": 160,
+    "cipherOutput": "V",
+    "riddle": "When stone remembers, wings agree.",
+    "cipherIndex": 3
+  },
+  {
+    "id": "ch6_004",
+    "title": "Plantation Bell Tower: Chains that Toll",
+    "scene": "Coral-lime leaning tower without bell; swaying chains and cracked triangle pattern in wall; Kassim reflects on history.",
+    "props": {"niche":1, "chains":5, "markedLinks":9},
+    "hiddenClueFormula": "1 + 5 + 9 = 15 → 150°",
+    "bearingDeg": 150,
+    "cipherOutput": "E",
+    "riddle": "What tolls without a bell still counts the hour.",
+    "cipherIndex": 4
+  },
+  {
+    "id": "ch6_005",
+    "title": "Forest Drum Circle: Rhythms of the Ancestors",
+    "scene": "Takamaka clearing with five hand-drums, firefly clusters pulsing to rhythm, and ashy ring remnants of ritual.",
+    "props": {"drums":5, "fireflyClusters":8, "rings":2},
+    "hiddenClueFormula": "5 + 8 + 2 = 15 → 150°",
+    "bearingDeg": 150,
+    "cipherOutput": "N",
+    "riddle": "If you can hear the fire, you can see the path.",
+    "cipherIndex": 5
+  },
+  {
+    "id": "ch6_006",
+    "title": "Anse Major: House of Smoke",
+    "scene": "Ruined plantation house with nine skull-shaped smoke curls, hidden straps, scorched letters, and a phantom silhouette.",
+    "props": {"smokeCurls":9, "straps":2, "letters":7},
+    "hiddenClueFormula": "(9 + 2) × 1 = 11 → 110°",
+    "bearingDeg": 110,
+    "cipherOutput": "A",
+    "riddle": "The house that burns without flame counts its own breath.",
+    "cipherIndex": 6
+  },
+  {
+    "id": "ch6_007",
+    "title": "Sans Souci Pass: The Whispering Stones",
+    "scene": "Fog-laden pass with carved stones, dim lantern, ferns, and faint chain echoes.",
+    "props": {"lanterns":2, "stones":7, "ferns":3},
+    "hiddenClueFormula": "7 − 1 + 1 = 7 → 70°",
+    "bearingDeg": 70,
+    "cipherOutput": "N",
+    "riddle": "What points without pointing is still a sign.",
+    "cipherIndex": 7
+  },
+  {
+    "id": "ch6_008",
+    "title": "Copolia Heights: Flight of the Fruit Bats",
+    "scene": "Granite dome twilight release of bats splitting into braids above glowing shard.",
+    "props": {"braids":3, "ticks":7, "shard":1},
+    "hiddenClueFormula": "3 × 7 + 1 = 22 → 220°",
+    "bearingDeg": 220,
+    "cipherOutput": "T",
+    "riddle": "When the night divides and joins, the sum becomes your road.",
+    "cipherIndex": 8
+  },
+  {
+    "id": "ch6_009",
+    "title": "Black River Crossing: Ferry of Shadows",
+    "scene": "Dark river ferry with notched oar, circling fish constellation, and bending inland flame.",
+    "props": {"notchPairs":4, "fish":7, "flame":1},
+    "hiddenClueFormula": "8 + 7 + 1 = 16 → 160°",
+    "bearingDeg": 160,
+    "cipherOutput": "M",
+    "riddle": "Even water counts, if you ask it softly.",
+    "cipherIndex": 9
+  },
+  {
+    "id": "ch6_010",
+    "title": "Mission Ruins: Dance of the Bound",
+    "scene": "Moonlit mission ruin fresco of masked dancers; cracked floor crosses and echoing owl calls guide counting.",
+    "props": {"dancers":6, "crosses":3, "owlCalls":2},
+    "hiddenClueFormula": "6 + 3 + 2 = 11 → 110°",
+    "bearingDeg": 110,
+    "cipherOutput": "A",
+    "riddle": "Steps remember what tongues forget.",
+    "cipherIndex": 10
+  },
+  {
+    "id": "ch6_011",
+    "title": "The Revenant’s Hunt",
+    "scene": "Forest pursuit; revenant with half mask, salt circles, and scorched tree scars; cat hissing warning.",
+    "props": {"treeScars":8, "maskGleam":1, "saltCircles":2},
+    "hiddenClueFormula": "8 × 1 + 2 = 10 → 100°",
+    "bearingDeg": 100,
+    "cipherOutput": "S",
+    "riddle": "When hunger wears a face, count the wounds in the trees.",
+    "cipherIndex": 11
+  },
+  {
+    "id": "ch6_012",
+    "title": "Upper Sans Souci: Stones that Breathe",
+    "scene": "Wind-throated granite corridor with petroglyphs, bat roost clusters, and a misleading stick guide.",
+    "props": {"carvings":5, "batClusters":6, "stick":1},
+    "hiddenClueFormula": "5 + 6 − 1 = 10 → 100°",
+    "bearingDeg": 100,
+    "cipherOutput": "K",
+    "riddle": "Not every guide is a friend; take away the liar to find the sum.",
+    "cipherIndex": 12
+  },
+  {
+    "id": "ch6_013",
+    "title": "Eden Beach: The Dragging Chains",
+    "scene": "Beach sand inscribed by invisible chains forming loops; prints and silent gulls mark witness.",
+    "props": {"loops":7, "prints":4, "gulls":3},
+    "hiddenClueFormula": "7 + 4 + 3 = 14 → 140°",
+    "bearingDeg": 140,
+    "cipherOutput": "M",
+    "riddle": "Ink is not the only thing that writes.",
+    "cipherIndex": 13
+  },
+  {
+    "id": "ch6_014",
+    "title": "Tea Plantation Shade: Leaves that Count",
+    "scene": "Abandoned tea chests; carved board with double-veined leaf count concealing a shard.",
+    "props": {"chests":2, "veinedLeaves":6, "shard":1},
+    "hiddenClueFormula": "2 + 6 + 1 = 9 → 90°",
+    "bearingDeg": 90,
+    "cipherOutput": "A",
+    "riddle": "A leaf with two rivers drinks twice.",
+    "cipherIndex": 14
+  },
+  {
+    "id": "ch6_015",
+    "title": "Grand Anse Waterfall: The Key of Silence",
+    "scene": "Waterfall basin with extinguished candles around an alcove holding an iron key and tallies.",
+    "props": {"candles":8, "key":1, "tallies":4},
+    "hiddenClueFormula": "3 + 1 + 4 = 8 → 80°",
+    "bearingDeg": 80,
+    "cipherOutput": "H",
+    "riddle": "What roars most hides what speaks least.",
+    "cipherIndex": 15
+  },
+  {
+    "id": "ch6_016",
+    "title": "Cemetery Gate: The Quiet Arithmetic",
+    "scene": "Coral arch with skulls, guttering candles, false dates, lone key shadowed on stone.",
+    "props": {"skulls":3, "candles":8, "key":1},
+    "hiddenClueFormula": "3 + 8 = 11 → 110°",
+    "bearingDeg": 110,
+    "cipherOutput": "E",
+    "riddle": "The dead don’t lie, but they do subtract.",
+    "cipherIndex": 16
+  },
+  {
+    "id": "ch6_017",
+    "title": "Bel Ombre Tidepools: Mirror of Shards",
+    "scene": "Moon-gloss tidepools with submerged shard reflecting aged visages; shells and reef spines ring the pool.",
+    "props": {"shells":5, "spines":9, "bats":2},
+    "hiddenClueFormula": "5 + 9 + 2 = 16 → 160°",
+    "bearingDeg": 160,
+    "cipherOutput": "I",
+    "riddle": "To read a mirror, count what it refuses to keep.",
+    "cipherIndex": 17
+  },
+  {
+    "id": "ch6_018",
+    "title": "Roche Caiman: The Split Rune",
+    "scene": "Lightning-split granite boulder; rune halves and chalk circle attempt reconciliation.",
+    "props": {"cracks":4, "halves":2, "circle":1},
+    "hiddenClueFormula": "4 × 2 + 1 = 9 → 90°",
+    "bearingDeg": 90,
+    "cipherOutput": "S",
+    "riddle": "When a word is broken, its pieces still add up.",
+    "cipherIndex": 18
+  },
+  {
+    "id": "ch6_019",
+    "title": "Morne Seychellois Cavern: The Hidden Lock",
+    "scene": "Mountain cavern altar with wave-teeth bas relief; shards arranged and key poised.",
+    "props": {"shards":5, "candles":5},
+    "hiddenClueFormula": "5 + 5 = 10 → 100°",
+    "bearingDeg": 100,
+    "cipherOutput": "L",
+    "riddle": "A door you cannot see still knows its key.",
+    "cipherIndex": 19
+  },
+  {
+    "id": "ch6_020",
+    "title": "Mask Reforged: The Revenant’s Vow",
+    "scene": "Completed mask with glowing runes; revenant kneels as bats flood cavern mouth; compass rose etched on altar slab.",
+    "props": {"teeth":10, "runes":5, "compassRose":1},
+    "hiddenClueFormula": "10 + 5 = 15 → 150°",
+    "bearingDeg": 150,
+    "cipherOutput": "E",
+    "riddle": "Count the bite and read the light; where the sea swallows the number, dig.",
+    "cipherIndex": 20
+  }
+]

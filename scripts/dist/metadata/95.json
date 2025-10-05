@@ -1,0 +1,37 @@
+{
+  "name": "Levasseur Fragment #095 — Praslin's Prophecy",
+  "description": "A Seychelles cartographic fragment. Island Praslin; Chapter Praslin's Prophecy. Bearing 259°, coords -4.2961, 47.4544.",
+  "image": "ipfs://PLACEHOLDER/95.png",
+  "attributes": [
+    {
+      "trait_type": "Island",
+      "value": "Praslin"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "259°"
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Praslin's Prophecy"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Coco de Mer Sigil"
+    }
+  ],
+  "clue": {
+    "type": "coord",
+    "value": "-4.2961, 47.4544",
+    "hint": "Bearing 259°. Coords -4.2961, 47.4544."
+  },
+  "external_url": "https://treasureofseychelles.com/nft/95",
+  "collection": {
+    "name": "Treasure of Seychelles",
+    "chapter": "Praslin's Prophecy"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ch7_005",
+  "name": "Baie Ste Anne: Market of Masks",
+  "scene": "Creole market. 8 masks, 4 gourds, 2 parrots. Naia trades a map scrap.",
+  "props": [
+    {
+      "name": "cultural_masks",
+      "value": 8,
+      "description": "Traditional Creole masks"
+    },
+    {
+      "name": "carved_gourds",
+      "value": 4,
+      "description": "Decorated gourds for sale"
+    },
+    {
+      "name": "market_parrots",
+      "value": 2,
+      "description": "Parrots perched in market"
+    }
+  ],
+  "hiddenClue": "8−4+2=6 → 60°",
+  "bearingDeg": 60,
+  "cipherOutput": "N",
+  "riddle": "Every mask reveals more than a face.",
+  "painterlyElements": {
+    "atmosphere": "bustling_creole_market_awnings",
+    "culturalStamps": [
+      "traditional_masks",
+      "market_vendor_naia"
+    ],
+    "brushTechnique": "textile_pattern_vibrant_colors",
+    "layering": "background_awnings_midground_stalls_foreground_naia"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Creole market. 8 masks, 4 gourds, 2 parrots. Naia trades a map scrap.. bustling_creole_market_awnings with textile_pattern_vibrant_colors. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_awnings_midground_stalls_foreground_naia. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: traditional_masks, market_vendor_naia. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

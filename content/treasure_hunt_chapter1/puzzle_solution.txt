@@ -1,0 +1,70 @@
+TREASURE HUNT PUZZLE SOLUTION
+═══════════════════════════════════════════════════════════
+
+CHAPTER 1: THE TRAIL BEGINS
+
+ANSWER: BEL OMBRE
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PUZZLE PIECES:
+
+NFT #5 (Layer 1): Cipher Text
+  Content: "ILS VTIYL"
+  Type: Caesar cipher encrypted message
+
+NFT #12 (Layer 2): Map Fragment
+  Content: Map of Mahé Island with Bel Ombre marked with red X
+  Type: Geographic location indicator
+
+NFT #17 (Layer 3): Decoding Key
+  Content: "SHIFT BY SEVEN"
+  Type: Caesar cipher decryption key
+
+NFT #20 (Layer 1): Coordinates
+  Content: "4.6167° S, 55.4167° E"
+  Type: Precise GPS location
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SOLUTION STEPS:
+
+1. Find NFT #17 → Learn to use Caesar cipher "SHIFT BY SEVEN"
+2. Find NFT #5 → Get encrypted text "ILS VTIYL"
+3. Apply Caesar cipher - shift each letter BACK by 7:
+   I(-7)→B, L(-7)→E, S(-7)→L, (space), V(-7)→O, T(-7)→M,
+   I(-7)→B, Y(-7)→R, L(-7)→E
+   Result: "BEL OMBRE"
+4. Find NFT #12 → Map shows Bel Ombre marked on northwest Mahé
+5. Find NFT #20 → Coordinates 4.6167° S, 55.4167° E confirm location
+6. Google "Bel Ombre Seychelles" → Confirms actual treasure site
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ABOUT THE LOCATION:
+
+BEL OMBRE is the ACTUAL historical site of the La Buse treasure hunt!
+
+In 1923, Rose Savouy discovered mysterious rock carvings here including
+symbols of a dog, snake, horse, turtle, hearts, and human figures -
+believed to be treasure markers left by Olivier Levasseur (La Buse).
+
+The Cruise-Wilkins family has excavated at Bel Ombre since 1948,
+following clues from La Buse's cryptogram. The site contains tunnels,
+carved rocks, and structures that may lead to treasure worth $200+ million.
+
+Coordinates: 4.6167° S, 55.4167° E
+Location: Northwest coast of Mahé Island, Seychelles
+Historical Significance: Primary La Buse treasure excavation site
+Current Status: Active treasure hunting continues today
+
+This location represents the REAL epicenter of the La Buse treasure
+legend, where actual treasure hunters have searched for decades based
+on authentic historical documents and physical evidence.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PRIZE:
+$750 USD (test reward for testnet)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

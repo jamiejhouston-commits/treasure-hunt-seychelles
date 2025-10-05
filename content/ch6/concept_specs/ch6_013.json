@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_013",
+  "name": "Eden Beach: The Dragging Chains",
+  "description": "Beach sand scored by unseen chains forming seven loops. Four barefoot prints with two-step pause. Three silent gulls. Team documenting. Riddle: Ink is not the only thing that writes.",
+  "bearingDeg": 140,
+  "cipherOutput": "M",
+  "hiddenClue": "7 + 4 + 3 = 14 → 140°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Beach sand scored by unseen chains forming seven loops. Four barefoot prints with two-step pause. Three silent gulls. Team documenting.. Key props numeric: 7 loops, 4 prints, 3 gulls. Cipher letter: M Bearing: 140°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "M"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 140
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "7 + 4 + 3 = 14 → 140°"
+    },
+    {
+      "trait_type": "loops",
+      "value": 7
+    },
+    {
+      "trait_type": "prints",
+      "value": 4
+    },
+    {
+      "trait_type": "gulls",
+      "value": 3
+    }
+  ]
+}

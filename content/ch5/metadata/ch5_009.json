@@ -1,0 +1,35 @@
+{
+  "name": "Sandbar Signal",
+  "description": "A tattered flag snaps in ocean wind while seabirds wheel overhead in perfect letter formations. The flag's position and bird flight paths combine to spell the next cipher piece.",
+  "image": "ipfs://bafkreihzojdo65amde7ii426kmmln3kemdnpsrqbjde2pl2kmswt7gkt3q",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "TH",
+  "riddle": "Mark the spit where birds trace letters.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "wind_sculpture"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "flag_banner"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "TH"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 209
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "S3-13 — Morne Blanc Mist",
+  "description": "S3-13 — Morne Blanc Mist. Clue: Five lights survive the cloud; lay your arc where the ridge breathes.",
+  "image": "ipfs://bafybeiecbvpb24i6xobga7aevyhem3cku6kbtttesdvam4jmxcwwsidqvy",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Morne Blanc"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Dawn"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Trail"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Lantern"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

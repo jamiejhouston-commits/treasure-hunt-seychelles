@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_003",
+  "name": "Granite Fissure: First Shard",
+  "description": "Granite ridge split; bone-iron shard glints in fissure. Naia wedges compass, Maliya chants with clove and salt, Kassim pries shard with dagger. Nine fruit bats wheel above; seven chalk tallies at crack. Riddle: When stone remembers, wings agree.",
+  "bearingDeg": 160,
+  "cipherOutput": "V",
+  "hiddenClue": "7 + 9 = 16 → 160°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Granite ridge split; bone-iron shard glints in fissure. Naia wedges compass, Maliya chants with clove and salt, Kassim pries shard with dagger. Nine fruit bats wheel above; seven chalk tallies at crack.. Key props numeric: 1 shard, 7 tallies, 9 bats. Cipher letter: V Bearing: 160°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "V"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 160
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "7 + 9 = 16 → 160°"
+    },
+    {
+      "trait_type": "shard",
+      "value": 1
+    },
+    {
+      "trait_type": "tallies",
+      "value": 7
+    },
+    {
+      "trait_type": "bats",
+      "value": 9
+    }
+  ]
+}

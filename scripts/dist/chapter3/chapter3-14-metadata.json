@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 14: The Sunken Chest",
+  "description": "Beneath crystal waters lies a fortune guarded by creatures of the deep. The chest waits patiently for one brave enough to claim its waterlogged treasures.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Underwater Cave, Mahé Coast"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Submerged Treasure"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Emergency cache hidden beneath the waves"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 14
+    }
+  ],
+  "properties": {
+    "clue": "Hidden Sequence: '7-3-11-9 - depths where treasure lies'",
+    "visualElements": [
+      "Treasure chest on sandy ocean floor",
+      "Tropical fish swimming around chest",
+      "Coral growing on chest edges",
+      "Sunlight filtering down through water",
+      "Pirate skeleton reaching toward chest",
+      "Gold coins spilling from chest"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Witch-Winds of Mahé Card 8",
+  "description": "A beautifully crafted treasure card from Witch-Winds of Mahé, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeidszqlgcfu3rya4tzzpmyjz6p4q5wwtxaehsozgvet5gwvefez4aa",
+  "chapter": "Witch-Winds of Mahé",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "treasure"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 8
+    }
+  ],
+  "properties": {
+    "tokenId": 8,
+    "chapter": "Witch-Winds of Mahé"
+  }
+}

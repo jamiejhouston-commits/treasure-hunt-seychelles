@@ -1,0 +1,59 @@
+{
+  "id": "ch7_007",
+  "name": "Anse Volbert: Tide Ledger",
+  "scene": "Low tide reveals 7 traps, 1 anchor, 2 staffs.",
+  "props": [
+    {
+      "name": "fish_traps",
+      "value": 7,
+      "description": "Traditional fish traps revealed by tide"
+    },
+    {
+      "name": "coral_anchor",
+      "value": 1,
+      "description": "Ancient anchor in sand"
+    },
+    {
+      "name": "carved_staffs",
+      "value": 2,
+      "description": "Ceremonial staffs in tidal pool"
+    }
+  ],
+  "hiddenClue": "7+(2×1)=9 → 90°",
+  "bearingDeg": 90,
+  "cipherOutput": "A",
+  "riddle": "When the ocean writes, it uses sticks and stars.",
+  "painterlyElements": {
+    "atmosphere": "low_tide_exposed_secrets",
+    "culturalStamps": [
+      "traditional_fish_traps",
+      "ceremonial_staffs"
+    ],
+    "brushTechnique": "wet_sand_reflective_texture",
+    "layering": "background_receding_water_midground_traps_foreground_anchor"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Low tide reveals 7 traps, 1 anchor, 2 staffs.. low_tide_exposed_secrets with wet_sand_reflective_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_receding_water_midground_traps_foreground_anchor. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: traditional_fish_traps, ceremonial_staffs. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

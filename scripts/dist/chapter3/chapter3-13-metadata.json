@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 13: Coconut Grove Ambush",
+  "description": "In paradise lurks treachery. Pirates emerge from coconut shadows with treasure bags, their eyes gleaming with the madness that gold brings to desperate men.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Coconut Plantation, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Betrayal Mark"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Where greed turned brother against brother"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 13
+    }
+  ],
+  "properties": {
+    "clue": "Betrayal Symbol: 'Trust no man when gold is near - marked by crossed daggers'",
+    "visualElements": [
+      "Pirates lurking behind coconut palms",
+      "Treasure bags bulging with gold coins",
+      "Coconuts scattered on ground",
+      "Menacing expressions on pirate faces",
+      "Cutlasses drawn and ready",
+      "Blood red sunset through palm fronds"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

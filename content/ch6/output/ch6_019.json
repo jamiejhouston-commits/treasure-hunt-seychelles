@@ -1,0 +1,40 @@
+{
+  "name": "Morne Seychellois Cavern: The Hidden Lock",
+  "description": "Deep in Morne Seychellois the cavern breathes like a sleeping beast; five altar shards already hum beside five unlit candles scented with frankincense as condensation drips in steady tempo. Naia's ink runs down her wrists, Kassim slots fragments with steady defiance, and Maliya turns the iron key and feels the lock throb beneath her palm.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_019",
+  "bearingDeg": 100,
+  "cipherOutput": "L",
+  "cipherIndex": 19,
+  "hiddenClue": "5 + 5 = 10 → 100°",
+  "riddle": "Equal offerings balance the door—five shards, five flames, one heartbeat between.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 100
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "L"
+    },
+    {
+      "trait_type": "altarShards",
+      "value": 5
+    },
+    {
+      "trait_type": "candles",
+      "value": 5
+    }
+  ],
+  "image": "./ch6_019.png"
+}

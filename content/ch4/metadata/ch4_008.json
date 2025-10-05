@@ -1,0 +1,61 @@
+{
+  "name": "Mission Lodge Veil",
+  "description": "Sunset flames the stone arches of Mission Lodge as mist pools in the valleys far below. A witch's veil billows across the compass ring etched in stone, while a pirate adjusts his sextant to capture the sun's final angle. At 23 degrees—the tropic's secret—the instrument measures what the sun forgets at the ridge where lost voices still echo through ruins of colonial dreams. Bearing 233°. Cipher output: LT. \"At the ridge of lost voices, measure what the sun forgets.\"",
+  "image": "ipfs://bafybeigsestv6dvbb4qa2wzsms2tbcftjcfntmlpknofe5lpcpk5pk7oje",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Mission Lodge (Sans Souci)",
+  "timeOfDay": "Sunset",
+  "weather": "mist below ridges",
+  "bearingDeg": 233,
+  "tide": "—",
+  "moonPhase": "Full",
+  "cipherOutput": "LT",
+  "riddle": "At the ridge of lost voices, measure what the sun forgets.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Mission Lodge (Sans Souci)"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "mist below ridges"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "233°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "—"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Full"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "LT"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 148
+  }
+}

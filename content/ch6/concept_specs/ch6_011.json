@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_011",
+  "name": "The Revenant's Hunt",
+  "description": "Forest chase. Revenant with bone-iron half mask (teeth like nails) behind Kassim. Cat hisses on Naia's arm. Maliya casts two salt circles. Eight tree scars. Mask gleam once. Riddle: When hunger wears a face, count the wounds in the trees.",
+  "bearingDeg": 100,
+  "cipherOutput": "S",
+  "hiddenClue": "8 × 1 + 2 = 10 → 100°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Forest chase. Revenant with bone-iron half mask (teeth like nails) behind Kassim. Cat hisses on Naia's arm. Maliya casts two salt circles. Eight tree scars. Mask gleam once.. Key props numeric: 8 scars, 1 maskGleam, 2 saltCircles. Cipher letter: S Bearing: 100°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "S"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 100
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "8 × 1 + 2 = 10 → 100°"
+    },
+    {
+      "trait_type": "scars",
+      "value": 8
+    },
+    {
+      "trait_type": "maskGleam",
+      "value": 1
+    },
+    {
+      "trait_type": "saltCircles",
+      "value": 2
+    }
+  ]
+}

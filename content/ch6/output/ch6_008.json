@@ -1,0 +1,44 @@
+{
+  "name": "Copolia Heights: Flight of the Fruit Bats",
+  "description": "Twilight at Copolia Heights smells of guano and crushed orchids as three braids of fruit bats unspool from the cave, weaving around seven chalk ticks etched into the lip. One shard burns red like fresh blood in Naia's satchel, lighting Kassim's scarred back while sweat and granite dust paste his shirt to skin. Maliya hums low prayers to hold the braid together as the colony reforms and dives toward the 220° plunge.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_008",
+  "bearingDeg": 220,
+  "cipherOutput": "T",
+  "cipherIndex": 8,
+  "hiddenClue": "3 × 7 + 1 = 22 → 220°",
+  "riddle": "When the night splits thrice yet rejoins above one ember, multiply the marks and add the heart to find your descent.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 220
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "T"
+    },
+    {
+      "trait_type": "batBraids",
+      "value": 3
+    },
+    {
+      "trait_type": "chalkTicks",
+      "value": 7
+    },
+    {
+      "trait_type": "shards",
+      "value": 1
+    }
+  ],
+  "image": "./ch6_008.png"
+}

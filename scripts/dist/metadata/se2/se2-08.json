@@ -1,0 +1,46 @@
+{
+  "name": "SE2-08 — THE HIDDEN PATH OF MAJOR",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Major Trail (Bel Ombre, Mahé). A path with teeth and sea below.\nCount the cuts; they bite the heading east.",
+  "image": "ipfs://bafkreiem2j5opzdbdnkzdi7flqvixvivos3jjdo7bee6jmi4iatcp7ll5u",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Major Trail (Bel Ombre, Mahé)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "A"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Anse Georgette (Praslin)"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "dagger-hilt notches encode the heading.",
+    "clue": "A path with teeth and sea below.\nCount the cuts; they bite the heading east.",
+    "visual_description": "Cliffside path; granite teeth; distant ship under cloud break; map scrap pinned by dagger to stump."
+  }
+}

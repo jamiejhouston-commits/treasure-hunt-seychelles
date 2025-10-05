@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_020",
+  "name": "Mask Reforged: The Revenant's Vow",
+  "description": "Reforged mask with ten iron teeth, five golden runes glowing. Revenant kneels eyes hollow focused on Kassim. River of bats at cave mouth. Compass rose on altar. Riddle: Count the bite and read the light; where the sea swallows the number, dig.",
+  "bearingDeg": 150,
+  "cipherOutput": "E",
+  "hiddenClue": "10 + 5 = 15 → 150°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Reforged mask with ten iron teeth, five golden runes glowing. Revenant kneels eyes hollow focused on Kassim. River of bats at cave mouth. Compass rose on altar.. Key props numeric: 10 teeth, 5 runes, 1 compassRose. Cipher letter: E Bearing: 150°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "E"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 150
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "10 + 5 = 15 → 150°"
+    },
+    {
+      "trait_type": "teeth",
+      "value": 10
+    },
+    {
+      "trait_type": "runes",
+      "value": 5
+    },
+    {
+      "trait_type": "compassRose",
+      "value": 1
+    }
+  ]
+}

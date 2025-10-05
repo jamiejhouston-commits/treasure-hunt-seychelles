@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_002",
+  "name": "Cap Ternay: The Veil of Sacrifice",
+  "description": "Haunted cove. Mangroves clutch shore; blackened wax circles on rock. Skulls etched with spiral runes half-buried. Naia sketches symbols, Kassim stands guard (black cat with emerald eyes), Maliya reading blood glyphs. Two glyphs true, seven decoys. Candles flicker without flame. Riddle: Count what endures, subtract what lies — the truth points where the wind does not.",
+  "bearingDeg": 358,
+  "cipherOutput": "E",
+  "hiddenClue": "(6 − 7) × 2 = −2 → 358°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Haunted cove. Mangroves clutch shore; blackened wax circles on rock. Skulls etched with spiral runes half-buried. Naia sketches symbols, Kassim stands guard (black cat with emerald eyes), Maliya reading blood glyphs. Two glyphs true, seven decoys. Candles flicker without flame.. Key props numeric: 6 waxCircles, 2 trueRunes, 7 decoyGlyphs. Cipher letter: E Bearing: 358°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "E"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 358
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "(6 − 7) × 2 = −2 → 358°"
+    },
+    {
+      "trait_type": "waxCircles",
+      "value": 6
+    },
+    {
+      "trait_type": "trueRunes",
+      "value": 2
+    },
+    {
+      "trait_type": "decoyGlyphs",
+      "value": 7
+    }
+  ]
+}

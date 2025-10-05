@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 3 - VASA NFT Collection Preview</title>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1a202c 0%, #2d3748 100%);
+            color: #f7fafc;
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 20px;
+            min-height: 100vh;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 40px;
+            padding: 20px;
+            background: rgba(0,0,0,0.3);
+            border-radius: 12px;
+            border: 2px solid #d4af37;
+        }
+        .header h1 {
+            font-size: 2.5rem;
+            color: #d4af37;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+            margin: 0;
+        }
+        .warning {
+            background: #dc2626;
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-size: 1.1rem;
+            font-weight: bold;
+            text-align: center;
+        }
+        .approval-status {
+            background: #f59e0b;
+            color: #000;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-size: 1.1rem;
+            font-weight: bold;
+            text-align: center;
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 30px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        .nft-card {
+            background: linear-gradient(135deg, rgba(212, 175, 55, 0.1) 0%, rgba(20, 25, 35, 0.95) 100%);
+            border: 2px solid #d4af37;
+            border-radius: 18px;
+            padding: 20px;
+            transition: all 0.3s ease;
+            box-shadow: 0 12px 34px rgba(0, 0, 0, 0.5);
+        }
+        .nft-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.7), 0 0 30px rgba(212, 175, 55, 0.3);
+            border-color: #ffd700;
+        }
+        .nft-image {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 12px;
+            border: 2px solid #8b7355;
+            margin-bottom: 15px;
+        }
+        .nft-title {
+            font-size: 1.2rem;
+            color: #d4af37;
+            margin-bottom: 10px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.7);
+        }
+        .nft-location {
+            font-size: 1rem;
+            color: #a0aec0;
+            margin-bottom: 10px;
+        }
+        .nft-rarity {
+            display: inline-block;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.9rem;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .rarity-legendary { background: #ffd700; color: #000; }
+        .rarity-epic { background: #a855f7; color: #fff; }
+        .rarity-rare { background: #3b82f6; color: #fff; }
+        .rarity-common { background: #6b7280; color: #fff; }
+        .nft-clue {
+            font-style: italic;
+            color: #cbd5e0;
+            font-size: 0.9rem;
+            background: rgba(0,0,0,0.3);
+            padding: 10px;
+            border-radius: 8px;
+            margin-top: 10px;
+        }
+        .approval-buttons {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            display: flex;
+            gap: 15px;
+        }
+        .btn {
+            padding: 15px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .btn-approve {
+            background: #10b981;
+            color: white;
+        }
+        .btn-reject {
+            background: #dc2626;
+            color: white;
+        }
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🏴‍☠️ Chapter 3 - VASA NFT Collection</h1>
+        <p style="font-size: 1.2rem; margin: 10px 0;">20 Cinematic Pirate NFTs - Preview for Approval</p>
+    </div>
+
+    <div class="warning">
+        ⚠️ THESE ARE PREVIEW IMAGES ONLY - NOT YET MINTED TO BLOCKCHAIN
+    </div>
+
+    <div class="approval-status">
+        📋 AWAITING YOUR EXPLICIT APPROVAL BEFORE MINTING
+    </div>
+
+    <div class="gallery" id="nftGallery">
+        <!-- NFTs will be loaded here -->
+    </div>
+
+    <div class="approval-buttons">
+        <button class="btn btn-reject" onclick="rejectChapter3()">❌ REJECT</button>
+        <button class="btn btn-approve" onclick="approveChapter3()">✅ APPROVE FOR MINTING</button>
+    </div>
+
+    <script>
+        // Load Chapter 3 preview NFTs
+        async function loadChapter3Preview() {
+            try {
+                const response = await fetch('http://localhost:3001/api/preview/chapter3');
+                const data = await response.json();
+                
+                if (data.nfts && data.nfts.length > 0) {
+                    displayNFTs(data.nfts);
+                } else {
+                    document.getElementById('nftGallery').innerHTML = '<p style="text-align: center; color: #dc2626;">No preview NFTs found</p>';
+                }
+            } catch (error) {
+                console.error('Error loading preview:', error);
+                document.getElementById('nftGallery').innerHTML = '<p style="text-align: center; color: #dc2626;">Error loading preview NFTs</p>';
+            }
+        }
+
+        function displayNFTs(nfts) {
+            const gallery = document.getElementById('nftGallery');
+            
+            gallery.innerHTML = nfts.map(nft => `
+                <div class="nft-card">
+                    <img src="${nft.image_url}" alt="${nft.name}" class="nft-image" 
+                         onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgdmlld0JveD0iMCAwIDMwMCAzMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHJlY3Qgd2lkdGg9IjMwMCIgaGVpZ2h0PSIzMDAiIGZpbGw9IiMxYTIwMmMiLz48dGV4dCB4PSIxNTAiIHk9IjE1MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2Q0YWYzNyIgZm9udC1zaXplPSIyMCI+SW1hZ2UgTm90IEZvdW5kPC90ZXh0Pjwvc3ZnPg==';">
+                    <div class="nft-title">${nft.name}</div>
+                    <div class="nft-location">📍 ${nft.attributes.find(a => a.trait_type === 'Location')?.value || 'Unknown Location'}</div>
+                    <div class="nft-rarity rarity-${nft.rarity.toLowerCase()}">✨ ${nft.rarity}</div>
+                    <div class="nft-clue">"${nft.clue}"</div>
+                </div>
+            `).join('');
+        }
+
+        function approveChapter3() {
+            if (confirm('Are you sure you want to APPROVE Chapter 3 for minting? This will mint all 20 NFTs to the blockchain.')) {
+                alert('✅ CHAPTER 3 APPROVED! Proceeding with minting...');
+                // You can add actual approval logic here
+            }
+        }
+
+        function rejectChapter3() {
+            if (confirm('Are you sure you want to REJECT Chapter 3? This will require regeneration.')) {
+                alert('❌ CHAPTER 3 REJECTED! Will need to regenerate.');
+                // You can add actual rejection logic here
+            }
+        }
+
+        // Load preview on page load
+        loadChapter3Preview();
+    </script>
+</body>
+</html>

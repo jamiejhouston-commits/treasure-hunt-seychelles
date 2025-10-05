@@ -1,0 +1,28 @@
+{
+  "name": "Praslin's Prophecy Card 15",
+  "description": "A beautifully crafted treasure card from Praslin's Prophecy, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeia2y2iehpnhyydxb45d53efcwtcjdfhbuoin65rtjsv2p6bpqsnce",
+  "chapter": "Praslin's Prophecy",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Praslin's Prophecy"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "sunset"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 15
+    }
+  ],
+  "properties": {
+    "tokenId": 15,
+    "chapter": "Praslin's Prophecy"
+  }
+}

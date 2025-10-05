@@ -1,0 +1,31 @@
+{
+  "name": "S3-18 — Curieuse Mangrove Secret",
+  "description": "S3-18 — Curieuse Mangrove Secret. Clue: Where roots breathe air, a small chest lies listening.",
+  "image": "ipfs://bafkreiartdag7dotumjm4wnbxvlyobkckmxwrqy7ayssweq3zitobgddyi",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Curieuse Island Mangroves"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Noon"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Mangrove"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Chest"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

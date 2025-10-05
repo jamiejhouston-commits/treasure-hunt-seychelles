@@ -1,0 +1,890 @@
+[
+  {
+    "id": 1,
+    "name": "Seychelles Treasure #1",
+    "description": "Chapter 1: The Trail Begins - NFT #1",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Epic",
+      "color": "#9d4edd"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Seychelles Treasure #2",
+    "description": "Chapter 1: The Trail Begins - NFT #2",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Uncommon",
+      "color": "#06d6a0"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Seychelles Treasure #3",
+    "description": "Chapter 1: The Trail Begins - NFT #3",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Common",
+      "color": "#8d99ae"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Seychelles Treasure #4",
+    "description": "Chapter 1: The Trail Begins - NFT #4",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Common",
+      "color": "#8d99ae"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Seychelles Treasure #5",
+    "description": "Chapter 1: The Trail Begins - NFT #5 (Contains Puzzle Clue)",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 1,
+        "type": "cipher_text",
+        "ipfs_hash": null,
+        "description": "Encrypted message - what does it say?",
+        "hint": "HUZL THQVY AYHNSI"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": true,
+    "rarity": {
+      "tier": "Rare",
+      "color": "#3a86ff"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Seychelles Treasure #6",
+    "description": "Chapter 1: The Trail Begins - NFT #6",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Common",
+      "color": "#8d99ae"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Seychelles Treasure #7",
+    "description": "Chapter 1: The Trail Begins - NFT #7",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Uncommon",
+      "color": "#06d6a0"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Seychelles Treasure #8",
+    "description": "Chapter 1: The Trail Begins - NFT #8",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Rare",
+      "color": "#3a86ff"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Seychelles Treasure #9",
+    "description": "Chapter 1: The Trail Begins - NFT #9",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Common",
+      "color": "#8d99ae"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Seychelles Treasure #10",
+    "description": "Chapter 1: The Trail Begins - NFT #10",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Common",
+      "color": "#8d99ae"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Seychelles Treasure #11",
+    "description": "Chapter 1: The Trail Begins - NFT #11",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Uncommon",
+      "color": "#06d6a0"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Seychelles Treasure #12",
+    "description": "Chapter 1: The Trail Begins - NFT #12 (Contains Puzzle Clue)",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 2,
+        "type": "map_fragment",
+        "ipfs_hash": null,
+        "description": "Ancient map fragment showing a trail",
+        "hint": "trail_map"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": true,
+    "rarity": {
+      "tier": "Rare",
+      "color": "#3a86ff"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Seychelles Treasure #13",
+    "description": "Chapter 1: The Trail Begins - NFT #13",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Common",
+      "color": "#8d99ae"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Seychelles Treasure #14",
+    "description": "Chapter 1: The Trail Begins - NFT #14",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Uncommon",
+      "color": "#06d6a0"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Seychelles Treasure #15",
+    "description": "Chapter 1: The Trail Begins - NFT #15",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Common",
+      "color": "#8d99ae"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Seychelles Treasure #16",
+    "description": "Chapter 1: The Trail Begins - NFT #16",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Uncommon",
+      "color": "#06d6a0"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Seychelles Treasure #17",
+    "description": "Chapter 1: The Trail Begins - NFT #17 (Contains Puzzle Clue)",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 3,
+        "type": "decoding_key",
+        "ipfs_hash": null,
+        "description": "The key to unlock the cipher",
+        "hint": "SHIFT BY SEVEN"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": true,
+    "rarity": {
+      "tier": "Rare",
+      "color": "#3a86ff"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Seychelles Treasure #18",
+    "description": "Chapter 1: The Trail Begins - NFT #18",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Common",
+      "color": "#8d99ae"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Seychelles Treasure #19",
+    "description": "Chapter 1: The Trail Begins - NFT #19",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "No"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": false,
+    "rarity": {
+      "tier": "Epic",
+      "color": "#9d4edd"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Seychelles Treasure #20",
+    "description": "Chapter 1: The Trail Begins - NFT #20 (Contains Puzzle Clue)",
+    "image": null,
+    "image_url": null,
+    "attributes": [
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 1: The Trail Begins"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Has Puzzle",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Seychelles Islands"
+      },
+      {
+        "trait_type": "Series",
+        "value": "Treasure Hunt Testnet"
+      }
+    ],
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 1,
+        "type": "coordinates",
+        "ipfs_hash": null,
+        "description": "Geographic coordinates in Seychelles",
+        "hint": "4.6167° S, 55.4167° E"
+      }
+    ],
+    "chapter": "Chapter 1",
+    "puzzle_enabled": true,
+    "rarity": {
+      "tier": "Uncommon",
+      "color": "#06d6a0"
+    }
+  }
+]

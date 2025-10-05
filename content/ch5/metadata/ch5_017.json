@@ -1,0 +1,35 @@
+{
+  "name": "Skull Stack",
+  "description": "Five weathered skulls balance in perfect vertical alignment, their hollow sockets all facing a single candle flame. The flickering light casts letter shadows that dance across coral walls in ancient patterns.",
+  "image": "ipfs://bafkreib3xolkuwkn66b6oxoszarjbuab3t5hbdsivovzytuq2unq6xpkga",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "—",
+  "riddle": "Five watchers, one flame.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "bone_tower"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "shrine_stack"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "—"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 217
+  }
+}

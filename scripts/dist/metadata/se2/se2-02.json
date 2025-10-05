@@ -1,0 +1,46 @@
+{
+  "name": "SE2-02 — TIDE-BASIN RUNES",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Ros Sodyer Rock Pool (Anse Takamaka, Mahé). When the ocean exhales, stone remembers.\nRead the runes in the pool; they point by night, not day.",
+  "image": "ipfs://bafkreicfzlxus3qysro3crwtopg6koxislx5znjnzazfcpm7rvnhj3ffim",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Ros Sodyer Rock Pool (Anse Takamaka, Mahé)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "A"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Anse Boileau"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 3
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "runes form an arc aligned to a bearing notch; tri-star overlay.",
+    "clue": "When the ocean exhales, stone remembers.\nRead the runes in the pool; they point by night, not day.",
+    "visual_description": "Circular tide pool at low tide; faint runes under water. Pirate hand + cutlass reflected; parrot feather on driftwood. Constellation of three stars traced in ripples."
+  }
+}

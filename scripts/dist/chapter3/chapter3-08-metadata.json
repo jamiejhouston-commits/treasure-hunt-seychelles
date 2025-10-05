@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 08: Port Launay Shadows",
+  "description": "Under moonlight, ghostly ships sail again in this haunted bay. The shadows of vessels long sunk dance on waters that remember every secret they've carried.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Port Launay Marine Park, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ghost Ship"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Phantom vessels guard the marine sanctuary's darkest secret"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 8
+    }
+  ],
+  "properties": {
+    "clue": "Tide Riddle: 'When moon is full and tide is high, the phantom cargo comes to light'",
+    "visualElements": [
+      "Moonlit bay with calm waters",
+      "Ghostly transparent ship silhouettes",
+      "Misty ethereal atmosphere",
+      "Mangrove shadows on water surface",
+      "Pirate lantern glowing on ghost ship",
+      "Skull reflection in moonlit water"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

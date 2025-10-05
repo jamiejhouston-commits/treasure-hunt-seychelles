@@ -1,0 +1,35 @@
+{
+  "cardId": "ch6_019",
+  "name": "Morne Seychellois Cavern: The Hidden Lock",
+  "description": "Breathing mountain cave. Bas-relief altar teeth and waves. Five shards placed; five candles unlit. Key entering lock; fragments arranged. Riddle: A door you cannot see still knows its key.",
+  "bearingDeg": 100,
+  "cipherOutput": "L",
+  "hiddenClue": "5 + 5 = 10 → 100°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Breathing mountain cave. Bas-relief altar teeth and waves. Five shards placed; five candles unlit. Key entering lock; fragments arranged.. Key props numeric: 5 shards, 5 candles. Cipher letter: L Bearing: 100°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "L"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 100
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "5 + 5 = 10 → 100°"
+    },
+    {
+      "trait_type": "shards",
+      "value": 5
+    },
+    {
+      "trait_type": "candles",
+      "value": 5
+    }
+  ]
+}

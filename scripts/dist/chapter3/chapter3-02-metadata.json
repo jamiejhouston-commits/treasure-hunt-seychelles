@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 02: The Carved Rock",
+  "description": "Ancient granite bears the scars of pirate blades. Strange symbols and numbers tell a story only the initiated can read, carved deep by those who came before.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Granite Formations, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cipher Markings"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Cryptic messages left by Levasseur's advance scouts"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 2
+    }
+  ],
+  "properties": {
+    "clue": "Cipher Fragment: 'XIII + VII = XX, follow the rising sun'",
+    "visualElements": [
+      "Weathered granite rock face",
+      "Deep-carved pirate symbols and numbers",
+      "Moss and lichen partially covering carvings",
+      "Tropical vegetation framing the rock",
+      "Skull motif carved prominently",
+      "Compass direction arrows in stone"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 06: Cave of Echoes",
+  "description": "Torchlight flickers against ancient walls where pirates carved their deepest secrets. Every whisper echoes with the promise of gold and the threat of death.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Hidden Cave System, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Torch Carvings"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "The crew's secret meeting place where plans were made"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 6
+    }
+  ],
+  "properties": {
+    "clue": "Coordinate Digits: 'VII-V hidden in wall symbols, seek the southern passage'",
+    "visualElements": [
+      "Dark cave entrance with flickering torches",
+      "Pirate symbols carved deep in stone walls",
+      "Shadows dancing in torchlight",
+      "Skull and crossbones motifs on walls",
+      "Mysterious passages leading deeper",
+      "Pirate cutlass embedded in cave wall"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

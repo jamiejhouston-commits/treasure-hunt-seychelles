@@ -1,0 +1,46 @@
+{
+  "name": "SE2-12 — ROYALE LANTERN",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Anse Royale, Mahé. Royale rests with two small lights.\nLoop the rope and climb to council.",
+  "image": "ipfs://bafkreigv4jfec5jppnkn5oas2zbdxvexf3n4jxs5oslc6fmrtqhyvn2aim",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Royale, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "I"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Mission Lodge (Sans Souci)"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 2
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "two star glints; rope loop = numeric offset.",
+    "clue": "Royale rests with two small lights.\nLoop the rope and climb to council.",
+    "visual_description": "Calm bay; lantern reflection; rope forms a figure-2 loop; parrot on signpost."
+  }
+}

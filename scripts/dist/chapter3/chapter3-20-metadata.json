@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 20: Chapter Finale – Torn Map Piece",
+  "description": "Flames have scarred this final clue, but what remains points beyond Mahé's shores to distant islands where The quest reaches its ultimate conclusion. The arrow indicates Praslin, where new adventures begin.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Burnt Treasure Cache, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Arrow to Praslin"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Bridge between chapters - the journey continues to new islands"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 20
+    }
+  ],
+  "properties": {
+    "clue": "Chapter 4 Teaser: 'Where Coco de Mer grows, greater treasures await discovery'",
+    "visualElements": [
+      "Partially burned map fragment",
+      "Clear arrow pointing toward new island",
+      "Praslin island outline visible on map",
+      "Scorch marks from fire damage",
+      "Emergency cache box still smoldering",
+      "Chapter 4 teaser symbols in corner"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ch7_011",
+  "name": "Glacis Noir Lookout: Stars Beneath Leaves",
+  "scene": "5 constellations, 2 lamps, 1 tortoise shell mirror.",
+  "props": [
+    {
+      "name": "star_constellations",
+      "value": 5,
+      "description": "Constellations visible through canopy"
+    },
+    {
+      "name": "lanterns",
+      "value": 2,
+      "description": "Traditional lamps casting light"
+    },
+    {
+      "name": "shell_mirror",
+      "value": 1,
+      "description": "Polished tortoise shell mirror"
+    }
+  ],
+  "hiddenClue": "(5×2)+1=11 → 110°",
+  "bearingDeg": 110,
+  "cipherOutput": "A",
+  "riddle": "Sometimes the ground is the sky.",
+  "painterlyElements": {
+    "atmosphere": "canopy_starlight_mystical_reflection",
+    "culturalStamps": [
+      "star_navigation",
+      "tortoise_shell_crafts"
+    ],
+    "brushTechnique": "dappled_starlight_through_leaves_texture",
+    "layering": "background_stars_midground_canopy_foreground_mirror"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of 5 constellations, 2 lamps, 1 tortoise shell mirror.. canopy_starlight_mystical_reflection with dappled_starlight_through_leaves_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_stars_midground_canopy_foreground_mirror. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: star_navigation, tortoise_shell_crafts. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

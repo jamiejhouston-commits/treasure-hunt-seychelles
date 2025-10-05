@@ -1,0 +1,31 @@
+{
+  "name": "S3-03 — Rune of Ros Sodyer",
+  "description": "S3-03 — Rune of Ros Sodyer. Clue: When the ocean exhales, three lights remain—read them in the pool’s quiet eye.",
+  "image": "/preview/chapter3/S3-03.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Ros Sodyer Rock Pool (Anse Takamaka)"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Low Tide"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Pool"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Dagger"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

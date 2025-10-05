@@ -1,0 +1,164 @@
+{
+  "locations": {
+    "chapter_1": {
+      "location": "Bel Ombre",
+      "coordinates": "4.6167°S, 55.4167°E",
+      "significance": "Site of actual La Buse treasure hunt, where Rose Savouy found rock carvings in 1923",
+      "cipher_shift": 7,
+      "cipher_text": "ILS VTIYL",
+      "solution": "BEL OMBRE"
+    },
+    "chapter_2": {
+      "location": "Anse Forbans",
+      "coordinates": "4.7833°S, 55.5167°E",
+      "significance": "Pirate's Cove - legendary bay with myths of buried treasure",
+      "cipher_shift": 3,
+      "cipher_text": "DQVH IRUEDQV",
+      "solution": "ANSE FORBANS"
+    },
+    "chapter_3": {
+      "location": "Anse Royale",
+      "coordinates": "4.7403°S, 55.5142°E",
+      "significance": "Historical district overlooking Anse Forbans pirate bay",
+      "cipher_shift": 5,
+      "cipher_text": "FSXJ WTDFQJ",
+      "solution": "ANSE ROYALE"
+    },
+    "chapter_4": {
+      "location": "Cote d'Or",
+      "coordinates": "4.3333°S, 55.8333°E",
+      "significance": "Important pirate hideout on Praslin Island",
+      "cipher_shift": 2,
+      "cipher_text": "EQVG FAQT",
+      "solution": "COTE DOR"
+    },
+    "chapter_5": {
+      "location": "Anse Lazio",
+      "coordinates": "4.2933°S, 55.7033°E",
+      "significance": "Remote beach on Praslin, perfect for pirate anchorage",
+      "cipher_shift": 4,
+      "cipher_text": "ERWI PEDMS",
+      "solution": "ANSE LAZIO"
+    },
+    "chapter_6": {
+      "location": "Victoria",
+      "coordinates": "4.6234°S, 55.4522°E",
+      "significance": "Capital city, former Port Royal during colonial era",
+      "cipher_shift": 1,
+      "cipher_text": "WJDUPSJB",
+      "solution": "VICTORIA"
+    },
+    "chapter_7": {
+      "location": "Port Launay",
+      "coordinates": "4.6525°S, 55.3839°E",
+      "significance": "Natural harbor used by pirates and traders",
+      "cipher_shift": 6,
+      "cipher_text": "VUXZ RGAUGE",
+      "solution": "PORT LAUNAY"
+    },
+    "chapter_8": {
+      "location": "Baie Lazare",
+      "coordinates": "4.7497°S, 55.4817°E",
+      "significance": "Named after explorer Lazare Picault who discovered Seychelles",
+      "cipher_shift": 8,
+      "cipher_text": "JIQL TIHIZM",
+      "solution": "BAIE LAZARE"
+    },
+    "chapter_9": {
+      "location": "Anse Intendance",
+      "coordinates": "4.7806°S, 55.4856°E",
+      "significance": "Wild beach where pirates would careen ships",
+      "cipher_shift": 2,
+      "cipher_text": "CPUG KPVGPFCPEG",
+      "solution": "ANSE INTENDANCE"
+    },
+    "chapter_10": {
+      "location": "Anse Takamaka",
+      "coordinates": "4.7706°S, 55.5033°E",
+      "significance": "Sheltered bay ideal for pirate rendezvous",
+      "cipher_shift": 10,
+      "cipher_text": "KXCO DKUKWKUK",
+      "solution": "ANSE TAKAMAKA"
+    },
+    "chapter_11": {
+      "location": "Anse La Mouche",
+      "coordinates": "4.7522°S, 55.4592°E",
+      "significance": "Hidden cove used for smuggling operations",
+      "cipher_shift": 3,
+      "cipher_text": "DQVH OD PRXFKH",
+      "solution": "ANSE LA MOUCHE"
+    },
+    "chapter_12": {
+      "location": "Pointe Au Sel",
+      "coordinates": "4.7533°S, 55.5267°E",
+      "significance": "Salt harvesting point controlled by pirates",
+      "cipher_shift": 5,
+      "cipher_text": "UTNSYJ FZ XJQ",
+      "solution": "POINTE AU SEL"
+    },
+    "chapter_13": {
+      "location": "Anse Boileau",
+      "coordinates": "4.7167°S, 55.4833°E",
+      "significance": "Named after French colonial administrator",
+      "cipher_shift": 1,
+      "cipher_text": "BOTF CPJMFBV",
+      "solution": "ANSE BOILEAU"
+    },
+    "chapter_14": {
+      "location": "Grand Anse",
+      "coordinates": "4.6833°S, 55.3667°E",
+      "significance": "Large bay on west coast, pirate anchorage",
+      "cipher_shift": 4,
+      "cipher_text": "KVERH ERWI",
+      "solution": "GRAND ANSE"
+    },
+    "chapter_15": {
+      "location": "Beau Vallon",
+      "coordinates": "4.6203°S, 55.4272°E",
+      "significance": "Beautiful valley bay, major pirate trading post",
+      "cipher_shift": 7,
+      "cipher_text": "ILHB CHSSVU",
+      "solution": "BEAU VALLON"
+    },
+    "chapter_16": {
+      "location": "Anse Major",
+      "coordinates": "4.6167°S, 55.3833°E",
+      "significance": "Remote beach accessible only by trail or boat",
+      "cipher_shift": 2,
+      "cipher_text": "CPUG OCLQT",
+      "solution": "ANSE MAJOR"
+    },
+    "chapter_17": {
+      "location": "Mont Fleuri",
+      "coordinates": "4.6333°S, 55.4500°E",
+      "significance": "High ground used for pirate lookouts",
+      "cipher_shift": 3,
+      "cipher_text": "PRQW IOHXUL",
+      "solution": "MONT FLEURI"
+    },
+    "chapter_18": {
+      "location": "Ile Therese",
+      "coordinates": "4.6167°S, 55.3667°E",
+      "significance": "Small island hideaway near Port Launay",
+      "cipher_shift": 6,
+      "cipher_text": "ORK ZNKXKYK",
+      "solution": "ILE THERESE"
+    },
+    "chapter_19": {
+      "location": "Cap Ternay",
+      "coordinates": "4.6833°S, 55.3833°E",
+      "significance": "Cape with hidden coves for pirate ships",
+      "cipher_shift": 1,
+      "cipher_text": "DBQ UFSOBZ",
+      "solution": "CAP TERNAY"
+    },
+    "chapter_20": {
+      "location": "Anse Soleil",
+      "coordinates": "4.7592°S, 55.4678°E",
+      "significance": "Sun bay, secluded beach for treasure burial",
+      "cipher_shift": 9,
+      "cipher_text": "JVZN ZXUNRU",
+      "solution": "ANSE SOLEIL"
+    }
+  }
+}

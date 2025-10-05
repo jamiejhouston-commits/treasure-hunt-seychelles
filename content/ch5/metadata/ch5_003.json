@@ -1,0 +1,35 @@
+{
+  "name": "Mangrove Veil",
+  "description": "Twisted mangrove roots create a natural cathedral where tidal pools mirror the sky. Ancient coins scattered among the roots form letter patterns, visible only to those who read water's memory.",
+  "image": "ipfs://bafkreigtwf44ikgmvqldd5lh6fujymve2xylpa3etn7hmter4m7sdz77j4",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "IS",
+  "riddle": "The roots hoard what the tide forgets.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "organic_flow"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "root_maze"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "IS"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 203
+  }
+}

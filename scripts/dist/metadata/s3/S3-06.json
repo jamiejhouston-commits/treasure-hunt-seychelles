@@ -1,0 +1,31 @@
+{
+  "name": "S3-06 — Granite Teeth of Georgette",
+  "description": "S3-06 — Granite Teeth of Georgette. Clue: Between the teeth, a corner of night; measure the gaps to find the shoal.",
+  "image": "/preview/chapter3/S3-06.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Georgette, Praslin"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Midday"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Cliff"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Compass"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

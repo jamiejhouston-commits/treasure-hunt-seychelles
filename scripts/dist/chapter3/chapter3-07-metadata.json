@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 07: The Compass in the Sand",
+  "description": "Half-buried by time and tide, the brass compass still points true. Its needle seeks northwest, toward secrets that lie beyond the horizon.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Anse Gaulette Beach, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Buried Compass"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Navigation tool left as breadcrumb for the next crew"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 7
+    }
+  ],
+  "properties": {
+    "clue": "Partial Direction: 'Northwest 47 degrees, count the waves to shore'",
+    "visualElements": [
+      "Brass compass half-buried in white sand",
+      "Compass needle pointing northwest",
+      "Seashells and coral fragments around compass",
+      "Tide marks in sand showing recent water",
+      "Palm tree shadow falling across compass",
+      "Pirate coin partially visible in sand"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

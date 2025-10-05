@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_014",
+  "name": "Tea Plantation Shade: Leaves that Count",
+  "description": "Two cracked tea chests. Board carved with nine leaves (three double-veined = six). Hidden shard beneath. Naia counts; Maliya lifts shard; Kassim watch trees shift. Riddle: A leaf with two rivers drinks twice.",
+  "bearingDeg": 90,
+  "cipherOutput": "A",
+  "hiddenClue": "2 + 6 + 1 = 9 → 90°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Two cracked tea chests. Board carved with nine leaves (three double-veined = six). Hidden shard beneath. Naia counts; Maliya lifts shard; Kassim watch trees shift.. Key props numeric: 2 chests, 6 veinedLeaves, 1 shard. Cipher letter: A Bearing: 90°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "A"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 90
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "2 + 6 + 1 = 9 → 90°"
+    },
+    {
+      "trait_type": "chests",
+      "value": 2
+    },
+    {
+      "trait_type": "veinedLeaves",
+      "value": 6
+    },
+    {
+      "trait_type": "shard",
+      "value": 1
+    }
+  ]
+}

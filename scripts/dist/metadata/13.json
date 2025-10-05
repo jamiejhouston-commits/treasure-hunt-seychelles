@@ -1,0 +1,45 @@
+{
+  "name": "Levasseur Fragment #013 — La Digue's Secret",
+  "description": "A Seychelles cartographic fragment. Island La Digue; Chapter La Digue's Secrets. Bearing 15°, coords -6.1828, 51.8570.",
+  "image": "ipfs://PLACEHOLDER/13.png",
+  "attributes": [
+    {
+      "trait_type": "Island",
+      "value": "La Digue"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "15°"
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "La Digue's Secrets"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Astronomy"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Coral Tracing"
+    },
+    {
+      "trait_type": "Overlay",
+      "value": "Coco de Mer Sigil"
+    }
+  ],
+  "clue": {
+    "type": "cipher",
+    "value": "Rotate 15°, sum primes",
+    "hint": "Bearing 15°. Coords -6.1828, 51.8570."
+  },
+  "external_url": "https://treasureofseychelles.com/nft/13",
+  "collection": {
+    "name": "Treasure of Seychelles",
+    "chapter": "La Digue's Secrets"
+  }
+}

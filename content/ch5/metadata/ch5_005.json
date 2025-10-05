@@ -1,0 +1,35 @@
+{
+  "name": "Parrot's Cry",
+  "description": "Seven brilliant feathers spiral through coconut palms as a scarlet parrot releases its ancient call. Each feather carries part of the cipher, readable only when they align with the island's hidden geometry.",
+  "image": "ipfs://bafkreibnp2nsuehn5j664e3neavgrdwkh7phziyeo2264z3q65lzqggiw4",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "ND",
+  "riddle": "Feathers number the secret cry.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "feather_mandala"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "aerial_spiral"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "ND"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 205
+  }
+}

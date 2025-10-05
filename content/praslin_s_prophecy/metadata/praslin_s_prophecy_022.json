@@ -1,0 +1,28 @@
+{
+  "name": "Praslin's Prophecy Card 22",
+  "description": "A beautifully crafted treasure card from Praslin's Prophecy, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeihvdvjfmvkenrt4hxcpfl7xi3zts3z7s4r2a3xaisdsmxaqawfsre",
+  "chapter": "Praslin's Prophecy",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Praslin's Prophecy"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 22
+    }
+  ],
+  "properties": {
+    "tokenId": 22,
+    "chapter": "Praslin's Prophecy"
+  }
+}

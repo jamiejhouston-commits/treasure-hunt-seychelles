@@ -1,0 +1,31 @@
+{
+  "name": "S3-15 — Sauzier’s Echo",
+  "description": "S3-15 — Sauzier’s Echo. Clue: Follow the echo’s measure; its bars climb the coast.",
+  "image": "ipfs://bafkreigtuel5vw7u4vinwkmfxlqcsnxuwdpglz4jemsglo7aek7itmdp7i",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Sauzier Waterfall, Port Glaud"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Afternoon"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Waterfall"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Parrot"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

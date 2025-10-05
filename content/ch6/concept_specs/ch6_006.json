@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_006",
+  "name": "Anse Major: House of Smoke",
+  "description": "Plantation ruin. Nine smoke curls from chimney form skull. Two nailed leather straps under a step. Seven scorched letters on lintel. Phantom figure crosses cracked window. Riddle: The house that burns without flame counts its own breath.",
+  "bearingDeg": 110,
+  "cipherOutput": "A",
+  "hiddenClue": "(9 + 2) × 1 = 11 → 110°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Plantation ruin. Nine smoke curls from chimney form skull. Two nailed leather straps under a step. Seven scorched letters on lintel. Phantom figure crosses cracked window.. Key props numeric: 9 smokeCurls, 2 straps, 7 letters. Cipher letter: A Bearing: 110°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "A"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 110
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "(9 + 2) × 1 = 11 → 110°"
+    },
+    {
+      "trait_type": "smokeCurls",
+      "value": 9
+    },
+    {
+      "trait_type": "straps",
+      "value": 2
+    },
+    {
+      "trait_type": "letters",
+      "value": 7
+    }
+  ]
+}

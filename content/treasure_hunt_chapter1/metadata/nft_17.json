@@ -1,0 +1,48 @@
+{
+  "name": "Seychelles Treasure #17",
+  "description": "Chapter 1: The Trail Begins - NFT #17 (Contains Puzzle Clue)",
+  "image": "ipfs://Qme6uszyfoGz6FRHehMLCpreX95ETCdiarxeQjMY27XXxc",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 1: The Trail Begins"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 1",
+    "puzzle_enabled": true,
+    "art_rarity": "Rare",
+    "rarity_color": "#3a86ff",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": "Qme6uszyfoGz6FRHehMLCpreX95ETCdiarxeQjMY27XXxc",
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 3,
+        "type": "decoding_key",
+        "ipfs_hash": "QmWWDYFpsQCbFHidEXKgwdwGKueJoBXhvMGwsgVLjKZFvA",
+        "description": "The key to unlock the cipher",
+        "hint": "SHIFT BACK ONE LETTER"
+      }
+    ]
+  }
+}

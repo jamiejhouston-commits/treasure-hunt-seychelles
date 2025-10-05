@@ -1,0 +1,28 @@
+{
+  "name": "Witch-Winds of Mahé Card 37",
+  "description": "A beautifully crafted treasure card from Witch-Winds of Mahé, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeib7nvkb6e7nbliyyvldchkab4arife7piibl3mvao6b3gzxlcmdum",
+  "chapter": "Witch-Winds of Mahé",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 37
+    }
+  ],
+  "properties": {
+    "tokenId": 37,
+    "chapter": "Witch-Winds of Mahé"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 17: Map Fragment II",
+  "description": "The missing piece completes the puzzle. This torn parchment shows the eastern coastline and, when joined with its twin, reveals the exact location of Levasseur's greatest treasure.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Hidden Cache, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Completed Map"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "The final piece that makes the treasure map whole"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 17
+    }
+  ],
+  "properties": {
+    "clue": "Complete Coordinate: 'S 4° 44' 12\" - E 55° 31' 27\" (eastern fragment)'",
+    "visualElements": [
+      "Torn parchment showing eastern coastline",
+      "Map edges that clearly match Fragment I",
+      "Detailed treasure location marked with X",
+      "Compass directions clearly visible",
+      "Pirate captain's signature at bottom",
+      "Wax seal with skull and crossbones"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "index": 1,
+    "name": "SE2-01",
+    "uri": "ipfs://bafkreien3pf6avwtpjgktqgg732lwbuchkou4wvhjb6peqls7fur5ewefq",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A54DEA03700A609BB",
+    "tx_hash": "4390DBFCE076ED6379B43B26A9061B5087395D810E6DEC7CB7EAD36C780306E4",
+    "ledger_index": 10909187,
+    "timestamp": "2025-09-24T16:39:10.953Z",
+    "image_cid": "bafkreihedwwsob4pby4b4u3covfllyza7ec7kym74dltdbf6ydw5sa2cn4",
+    "metadata_cid": "bafkreien3pf6avwtpjgktqgg732lwbuchkou4wvhjb6peqls7fur5ewefq"
+  },
+  {
+    "index": 2,
+    "name": "SE2-02",
+    "uri": "ipfs://bafkreiejivymgthzhmuvui7prwrbnyzd6bdhblob26ce7naloq5fe3r7ka",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A6BC4913600A609BC",
+    "tx_hash": "ED0EECB92CD6A4BC323711035C4BC2ED19FBB5A492A25F16E754A94434BD0957",
+    "ledger_index": 10909190,
+    "timestamp": "2025-09-24T16:39:19.810Z",
+    "image_cid": "bafkreicfzlxus3qysro3crwtopg6koxislx5znjnzazfcpm7rvnhj3ffim",
+    "metadata_cid": "bafkreiejivymgthzhmuvui7prwrbnyzd6bdhblob26ce7naloq5fe3r7ka"
+  },
+  {
+    "index": 3,
+    "name": "SE2-03",
+    "uri": "ipfs://bafkreieq537tc4yoyihndy5yx7vzuosgzoge6plb3dxgujdk4lmf2flipy",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A82AA7E3900A609BD",
+    "tx_hash": "6CDE045C7AF872732499B491F3B25ABCF1BB9B9EF651016F02D5373F1C63AD4D",
+    "ledger_index": 10909193,
+    "timestamp": "2025-09-24T16:39:28.473Z",
+    "image_cid": "bafkreibu7r24neozpg6a3lsuyvob6tkbz4wvhgcvjl7w7pwkex4vj6z6fu",
+    "metadata_cid": "bafkreieq537tc4yoyihndy5yx7vzuosgzoge6plb3dxgujdk4lmf2flipy"
+  },
+  {
+    "index": 4,
+    "name": "SE2-04",
+    "uri": "ipfs://bafkreid3pbdfrmyltwa45zwwp7hnb7cbodlbx7g66nvpoapr5njzkxamim",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A0C0D583F00A609C3",
+    "tx_hash": "45F508F9373418A15E18D0B8772C7DF15532F33DF4E9C59AD34AC7C447BC657B",
+    "ledger_index": 10909196,
+    "timestamp": "2025-09-24T16:39:38.766Z",
+    "image_cid": "bafkreifsbtgmkqzmyc234mtohwrl457ond5qw3ustga7waeprzgplmurli",
+    "metadata_cid": "bafkreid3pbdfrmyltwa45zwwp7hnb7cbodlbx7g66nvpoapr5njzkxamim"
+  },
+  {
+    "index": 5,
+    "name": "SE2-05",
+    "uri": "ipfs://bafkreic4nbvmf4r5mdkw6qmguudfapcyu3hu72zpq4n4ies3qwm7qg2b7u",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A22F3093E00A609C4",
+    "tx_hash": "8D2630C79A4010561E68400FFB23977F8A14E7F3CAD62987CDB89E49FFAC0BAA",
+    "ledger_index": 10909199,
+    "timestamp": "2025-09-24T16:39:47.719Z",
+    "image_cid": "bafkreibrjl3rla2zqju5fbhy6uyvcdeuiinoxuzsljiivaxtivowhna2au",
+    "metadata_cid": "bafkreic4nbvmf4r5mdkw6qmguudfapcyu3hu72zpq4n4ies3qwm7qg2b7u"
+  },
+  {
+    "index": 6,
+    "name": "SE2-06",
+    "uri": "ipfs://bafkreiaplmgi3vbmlpawvmgkbwmhnsdwozogtilgcglrekizjgvd3cr63y",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A39D8F60100A609C5",
+    "tx_hash": "8342CD90B89AD1B9C33203AE1D00F9301DC245021EB67A13BE4E6562E461D92B",
+    "ledger_index": 10909202,
+    "timestamp": "2025-09-24T16:39:56.512Z",
+    "image_cid": "bafkreiehhiunfepr6psddsxlypqu442he3bdgdbkwat6hamq73r33b3wq4",
+    "metadata_cid": "bafkreiaplmgi3vbmlpawvmgkbwmhnsdwozogtilgcglrekizjgvd3cr63y"
+  },
+  {
+    "index": 7,
+    "name": "SE2-07",
+    "uri": "ipfs://bafkreieknkjmmzxtls5kn7q2omtzpnmjmf5tgryp347rakxnzsr2vreoey",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A50BEA70000A609C6",
+    "tx_hash": "D8506B2A2F986519E325CC8E1E94725731A595A9ED7DD3C2F02B3F3AD4C52051",
+    "ledger_index": 10909205,
+    "timestamp": "2025-09-24T16:40:05.528Z",
+    "image_cid": "bafkreifiyfo5uaelraap3alh5iwwuthsdd3gd5krafzeek5gjzkrrct2qi",
+    "metadata_cid": "bafkreieknkjmmzxtls5kn7q2omtzpnmjmf5tgryp347rakxnzsr2vreoey"
+  },
+  {
+    "index": 8,
+    "name": "SE2-08",
+    "uri": "ipfs://bafkreieapi45zxnyhwjtdyz7d36pglaaszqpe5hqa3b4w33gak5ioqqlle",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A67A4940300A609C7",
+    "tx_hash": "001F7408851200B378E8F1478A5E24804E77B96B0E2B7FDF17CB67A832A54530",
+    "ledger_index": 10909208,
+    "timestamp": "2025-09-24T16:40:14.405Z",
+    "image_cid": "bafkreiem2j5opzdbdnkzdi7flqvixvivos3jjdo7bee6jmi4iatcp7ll5u",
+    "metadata_cid": "bafkreieapi45zxnyhwjtdyz7d36pglaaszqpe5hqa3b4w33gak5ioqqlle"
+  },
+  {
+    "index": 9,
+    "name": "SE2-09",
+    "uri": "ipfs://bafkreibyx3y6tmvdb2wxi3vgqmve62aigfwecoytz6olbmlyqucd2tdm5e",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A7E8A450200A609C8",
+    "tx_hash": "F1FE8950C3A583D5B152EFFA0BF7581A803BCE73E1FC751FFC8291AF9F6178AB",
+    "ledger_index": 10909211,
+    "timestamp": "2025-09-24T16:40:23.977Z",
+    "image_cid": "bafkreifsudg7jsleg7gu57ztymdlq25dbwqapyuiothozvm7krgec6h57e",
+    "metadata_cid": "bafkreibyx3y6tmvdb2wxi3vgqmve62aigfwecoytz6olbmlyqucd2tdm5e"
+  },
+  {
+    "index": 10,
+    "name": "SE2-10",
+    "uri": "ipfs://bafkreicapy7lar7agjnfuzkqhhl3lcgm4zyidjx3ocdebx6wc7mb5bn4fe",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A9570320500A609C9",
+    "tx_hash": "349DFFAB0B2341594A4AAB9168017EBA30CF6689ABD8C470D6C646AFF85744A6",
+    "ledger_index": 10909214,
+    "timestamp": "2025-09-24T16:40:32.942Z",
+    "image_cid": "bafkreicmv5w4st6jpsiacvplz67grtn6o2up5tyqcwc4pff2f26n3tzbam",
+    "metadata_cid": "bafkreicapy7lar7agjnfuzkqhhl3lcgm4zyidjx3ocdebx6wc7mb5bn4fe"
+  },
+  {
+    "index": 11,
+    "name": "SE2-11",
+    "uri": "ipfs://bafkreifczhy6c2peniofv7oijoif73zusmasgf4ysfvyipty4todgpeng4",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7AAC55E30400A609CA",
+    "tx_hash": "B98C0B57578613C7D49F213A81558E8C5052E7CB63C2793D7ABD298D0BD15C73",
+    "ledger_index": 10909217,
+    "timestamp": "2025-09-24T16:40:41.791Z",
+    "image_cid": "bafkreier4ccpdl7aoomusq3g33giknoymhr7j6f7g4dkh4jcwzsjwean6y",
+    "metadata_cid": "bafkreifczhy6c2peniofv7oijoif73zusmasgf4ysfvyipty4todgpeng4"
+  },
+  {
+    "index": 12,
+    "name": "SE2-12",
+    "uri": "ipfs://bafkreihjpxrtmpud2yn2ghxnw3ptt4ef3xy4dwn27jymdoakzh7gi23vze",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7AC33BD00700A609CB",
+    "tx_hash": "AC4040FA06D0D074027CAFD98297706AE39850D812FEFE9765A57333945C8066",
+    "ledger_index": 10909220,
+    "timestamp": "2025-09-24T16:40:50.864Z",
+    "image_cid": "bafkreigv4jfec5jppnkn5oas2zbdxvexf3n4jxs5oslc6fmrtqhyvn2aim",
+    "metadata_cid": "bafkreihjpxrtmpud2yn2ghxnw3ptt4ef3xy4dwn27jymdoakzh7gi23vze"
+  },
+  {
+    "index": 13,
+    "name": "SE2-13",
+    "uri": "ipfs://bafkreicsp4zuie2ebe4y56ey34ftbfnwl322pijcdbp6so3s2cdfq3auaa",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7ADA21810600A609CC",
+    "tx_hash": "69FB32F740DB3B6CAC4BCF492D8B4534B21F682B4C5DE502DEB4CA84676A81A8",
+    "ledger_index": 10909223,
+    "timestamp": "2025-09-24T16:40:59.666Z",
+    "image_cid": "bafkreie2dvv7sywitc5uxzim42qdc2hs2krpaexeryeem63y27mmydhwvy",
+    "metadata_cid": "bafkreicsp4zuie2ebe4y56ey34ftbfnwl322pijcdbp6so3s2cdfq3auaa"
+  },
+  {
+    "index": 14,
+    "name": "SE2-14",
+    "uri": "ipfs://bafkreigjgnv2wr7puwrhy6qkm6be2l7jxxakd7tkccdqykpsyw6hy6qlxa",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7AF1076E0900A609CD",
+    "tx_hash": "88131B056DD8A0B06D92012290B28912A1E788BA174702CD9FA5371F696222F2",
+    "ledger_index": 10909226,
+    "timestamp": "2025-09-24T16:41:08.487Z",
+    "image_cid": "bafkreifmw5affjoycrnmwjo6u32aiaquwi6gfhmfovthewpstqbbb22yiu",
+    "metadata_cid": "bafkreigjgnv2wr7puwrhy6qkm6be2l7jxxakd7tkccdqykpsyw6hy6qlxa"
+  },
+  {
+    "index": 15,
+    "name": "SE2-15",
+    "uri": "ipfs://bafkreighuxapozuqmnb7i4u7d4exa4x4lhvdezmiut6p2f3caxsfwn6n7q",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A07ED5F0800A609CE",
+    "tx_hash": "4F0F7BA83C81A75490D1268041AE2667697081A1DA3EFF207025D7034C7115D1",
+    "ledger_index": 10909229,
+    "timestamp": "2025-09-24T16:41:17.334Z",
+    "image_cid": "bafkreicz3lk6ubph2scjxne7ht6j42nzff6l7eum7k2yzounhym24md2ca",
+    "metadata_cid": "bafkreighuxapozuqmnb7i4u7d4exa4x4lhvdezmiut6p2f3caxsfwn6n7q"
+  },
+  {
+    "index": 16,
+    "name": "SE2-16",
+    "uri": "ipfs://bafkreibwkqbwenhv7ef6s5qv5kadla5jt5hegpto6dcaihvtunzmo2r6iq",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A1ED30C0B00A609CF",
+    "tx_hash": "D1F056D9F157B304C6F30605DCE98D4E5E3E766BC48BFE8DE4F6CFDCD638DFEE",
+    "ledger_index": 10909232,
+    "timestamp": "2025-09-24T16:41:26.141Z",
+    "image_cid": "bafkreihxhq4nrhmgiivnucjfuckxuw2rw7puhtboo6taipx7ya6cf4gvha",
+    "metadata_cid": "bafkreibwkqbwenhv7ef6s5qv5kadla5jt5hegpto6dcaihvtunzmo2r6iq"
+  },
+  {
+    "index": 17,
+    "name": "SE2-17",
+    "uri": "ipfs://bafkreidyu7o4hbnvvzzjabsup74actrpwlnjcyhkdb4kix55qiexqcyxpi",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A35B8FD0A00A609D0",
+    "tx_hash": "880C90F66751640CD62D07F6679524821ABDDBEFF96830BF5172A58231971822",
+    "ledger_index": 10909235,
+    "timestamp": "2025-09-24T16:41:35.223Z",
+    "image_cid": "bafkreiagcrzpvuthoghnj77pq7qxc5e3qw3yiazyibaszyhpxiugxg5ndu",
+    "metadata_cid": "bafkreidyu7o4hbnvvzzjabsup74actrpwlnjcyhkdb4kix55qiexqcyxpi"
+  },
+  {
+    "index": 18,
+    "name": "SE2-18",
+    "uri": "ipfs://bafkreifbnvjso4i6nrkeht75rz3r3jjqi4e3ijs6skpeagmdpz7vyr3hhy",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A4C9EAA0D00A609D1",
+    "tx_hash": "6C60862D6FA087C5B1A16CDB1324C34A48B76D04D620EA4BBF8B1810A4D9959D",
+    "ledger_index": 10909238,
+    "timestamp": "2025-09-24T16:41:45.510Z",
+    "image_cid": "bafkreihmurrtapx2mkozgqgfrbwdeghdzi3o6nbbd42qzevyq2656vidvm",
+    "metadata_cid": "bafkreifbnvjso4i6nrkeht75rz3r3jjqi4e3ijs6skpeagmdpz7vyr3hhy"
+  },
+  {
+    "index": 19,
+    "name": "SE2-19",
+    "uri": "ipfs://bafkreidxb7pnywwpc2w5l62tlc7ftterdx7vtkvslkkm7xrp63vlzmx76a",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A63849B0C00A609D2",
+    "tx_hash": "E71CF66505676AD16C5CFA7A6AE96EB2FACFE71D87E12DCCCCB453CDEB4289F6",
+    "ledger_index": 10909241,
+    "timestamp": "2025-09-24T16:41:54.577Z",
+    "image_cid": "bafkreia7t7oc7r7rwnm3wbd6pg5zseyvo726js7cwrhkd5vten26wiwxhy",
+    "metadata_cid": "bafkreidxb7pnywwpc2w5l62tlc7ftterdx7vtkvslkkm7xrp63vlzmx76a"
+  },
+  {
+    "index": 20,
+    "name": "SE2-20",
+    "uri": "ipfs://bafkreib4esusxemqc7same2rjwsch2ni4sxcft3doc5rimaj7lc34ygmru",
+    "nftoken_id": "0008C350E9EEC54241010C093A907DCEBBBDF27520A0EA7A7A6A480F00A609D3",
+    "tx_hash": "57F27A59C0F6293E1EEF5243E852CF497B537CB612C25B6AA6D75C1EE1FFCA7E",
+    "ledger_index": 10909244,
+    "timestamp": "2025-09-24T16:42:03.744Z",
+    "image_cid": "bafkreia2pxrxegrhas46u5dxvgtlt7l2piltmp5j7vtyxihx247zmfblry",
+    "metadata_cid": "bafkreib4esusxemqc7same2rjwsch2ni4sxcft3doc5rimaj7lc34ygmru"
+  }
+]

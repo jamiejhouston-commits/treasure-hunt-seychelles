@@ -1,0 +1,46 @@
+{
+  "name": "SE2-13 — COUNCIL OF MISSION LODGE",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Mission Lodge (Sans Souci, Mahé). Stones that watched the island's heart\ncast shadows pointing to the high road.",
+  "image": "ipfs://bafkreie2dvv7sywitc5uxzim42qdc2hs2krpaexeryeem63y27mmydhwvy",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Mission Lodge (Sans Souci, Mahé)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "C"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "La Misère Viewpoint"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "arch shadows align to heading; seal wax hides letter.",
+    "clue": "Stones that watched the island's heart\ncast shadows pointing to the high road.",
+    "visual_description": "Old arches; clouds over ridge; cutlass crossed with spyglass; sealed parchment."
+  }
+}

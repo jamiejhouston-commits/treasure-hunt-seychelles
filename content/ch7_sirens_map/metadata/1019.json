@@ -1,0 +1,134 @@
+{
+  "name": "Fond Ferdinand Stair: The Echo of Steps",
+  "description": "9 steps, 4 candles, 1 pendant. Footsteps echo 2-1-2-1.\n\nRiddle: \"Between rise and rest, choose the smaller number.\"\n\nSophisticated painterly artwork using etched-parchment technique with Seychellois cultural motifs. Part of \"The Siren's Map of Praslin\" cipher series.",
+  "image": "http://localhost:3001/content/ch7_sirens_map/output/ch7_019_painterly.png",
+  "external_url": "http://localhost:3000/nft/1019",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VII - The Siren's Map of Praslin"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "Sophisticated Painterly Etched-Parchment"
+    },
+    {
+      "trait_type": "Rendering Technique",
+      "value": "Multi-Layer Textured Brushwork"
+    },
+    {
+      "trait_type": "Cultural Authenticity",
+      "value": "Seychellois Folklore Motifs"
+    },
+    {
+      "trait_type": "Visual Quality",
+      "value": "Dense Foliage Rhythmic Patterns"
+    },
+    {
+      "trait_type": "Palette",
+      "value": "Saturated Seychellois (Greens/Blues/Golds)"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "Foreground/Midground/Background Depth"
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "E"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Fond Ferdinand Stair"
+    },
+    {
+      "trait_type": "Bearing (Degrees)",
+      "value": 60
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Sophisticated Painterly"
+    },
+    {
+      "trait_type": "Generation Method",
+      "value": "Advanced Layered Renderer (NO Primitive Shapes)"
+    },
+    {
+      "trait_type": "Stone Steps",
+      "value": 9
+    },
+    {
+      "trait_type": "Ritual Candles",
+      "value": 4
+    },
+    {
+      "trait_type": "Jade Pendant",
+      "value": 1
+    }
+  ],
+  "advanced_specs": {
+    "style_guarantee": "PAINTERLY_LAYERED_SEYCHELLOIS_ONLY",
+    "banned_techniques": [
+      "primitive_shapes",
+      "flat_fills",
+      "basic_graphics",
+      "simple_geometry",
+      "childlike_art"
+    ],
+    "required_elements": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "cultural_motif_stamps",
+      "volumetric_atmospheric_depth",
+      "saturated_palette",
+      "visible_brush_strokes"
+    ],
+    "painterly_elements": {
+      "atmosphere": "ascending_steps_echo_ritual_passage",
+      "culturalStamps": [
+        "stone_step_construction",
+        "jade_carving"
+      ],
+      "brushTechnique": "worn_stone_candle_flame_texture",
+      "layering": "background_ascending_path_midground_candles_foreground_pendant"
+    },
+    "render_prompt": "Etched parchment engraved map-card of 9 steps, 4 candles, 1 pendant. Footsteps echo 2-1-2-1.. ascending_steps_echo_ritual_passage with worn_stone_candle_flame_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_ascending_path_midground_candles_foreground_pendant. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: stone_step_construction, jade_carving. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negative_prompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail"
+  },
+  "puzzle_data": {
+    "scene": "9 steps, 4 candles, 1 pendant. Footsteps echo 2-1-2-1.",
+    "riddle": "Between rise and rest, choose the smaller number.",
+    "hidden_clue": "(9+1)−4=6 → 60°",
+    "bearing_deg": 60,
+    "cipher_output": "E",
+    "props": [
+      {
+        "name": "stone_steps",
+        "value": 9,
+        "description": "Ancient stone steps ascending"
+      },
+      {
+        "name": "ritual_candles",
+        "value": 4,
+        "description": "Candles marking the path"
+      },
+      {
+        "name": "jade_pendant",
+        "value": 1,
+        "description": "Carved jade pendant"
+      }
+    ]
+  },
+  "technical_specs": {
+    "dimensions": "2048x2048",
+    "format": "PNG",
+    "color_space": "sRGB",
+    "render_layers": [
+      "background",
+      "midground",
+      "foreground",
+      "overlay",
+      "caption"
+    ],
+    "art_technique": "17th-century nautical chart + Seychellois modernist painting"
+  }
+}

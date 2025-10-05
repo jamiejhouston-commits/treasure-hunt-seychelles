@@ -1,0 +1,1049 @@
+{
+  "generatedAt": "2025-09-27T13:18:46.142Z",
+  "affected": [
+    {
+      "action": "NULL",
+      "id": 1,
+      "token_id": 1,
+      "original": "TEMP_1"
+    },
+    {
+      "action": "NULL",
+      "id": 2,
+      "token_id": 2,
+      "original": "TEMP_2"
+    },
+    {
+      "action": "NULL",
+      "id": 3,
+      "token_id": 3,
+      "original": "TEMP_3"
+    },
+    {
+      "action": "NULL",
+      "id": 4,
+      "token_id": 4,
+      "original": "TEMP_4"
+    },
+    {
+      "action": "NULL",
+      "id": 5,
+      "token_id": 5,
+      "original": "TEMP_5"
+    },
+    {
+      "action": "NULL",
+      "id": 6,
+      "token_id": 6,
+      "original": "TEMP_6"
+    },
+    {
+      "action": "NULL",
+      "id": 7,
+      "token_id": 7,
+      "original": "TEMP_7"
+    },
+    {
+      "action": "NULL",
+      "id": 8,
+      "token_id": 8,
+      "original": "TEMP_8"
+    },
+    {
+      "action": "NULL",
+      "id": 9,
+      "token_id": 9,
+      "original": "TEMP_9"
+    },
+    {
+      "action": "NULL",
+      "id": 11,
+      "token_id": 11,
+      "original": "TEMP_11"
+    },
+    {
+      "action": "NULL",
+      "id": 12,
+      "token_id": 12,
+      "original": "TEMP_12"
+    },
+    {
+      "action": "NULL",
+      "id": 13,
+      "token_id": 13,
+      "original": "TEMP_13"
+    },
+    {
+      "action": "NULL",
+      "id": 14,
+      "token_id": 14,
+      "original": "TEMP_14"
+    },
+    {
+      "action": "NULL",
+      "id": 16,
+      "token_id": 16,
+      "original": "TEMP_16"
+    },
+    {
+      "action": "NULL",
+      "id": 17,
+      "token_id": 17,
+      "original": "TEMP_17"
+    },
+    {
+      "action": "NULL",
+      "id": 18,
+      "token_id": 18,
+      "original": "TEMP_18"
+    },
+    {
+      "action": "NULL",
+      "id": 19,
+      "token_id": 19,
+      "original": "TEMP_19"
+    },
+    {
+      "action": "NULL",
+      "id": 20,
+      "token_id": 20,
+      "original": "TEMP_20"
+    },
+    {
+      "action": "NULL",
+      "id": 21,
+      "token_id": 21,
+      "original": "TEMP_21"
+    },
+    {
+      "action": "NULL",
+      "id": 22,
+      "token_id": 22,
+      "original": "TEMP_22"
+    },
+    {
+      "action": "NULL",
+      "id": 23,
+      "token_id": 23,
+      "original": "TEMP_23"
+    },
+    {
+      "action": "NULL",
+      "id": 24,
+      "token_id": 24,
+      "original": "TEMP_24"
+    },
+    {
+      "action": "NULL",
+      "id": 25,
+      "token_id": 25,
+      "original": "TEMP_25"
+    },
+    {
+      "action": "NULL",
+      "id": 26,
+      "token_id": 26,
+      "original": "TEMP_26"
+    },
+    {
+      "action": "NULL",
+      "id": 27,
+      "token_id": 27,
+      "original": "TEMP_27"
+    },
+    {
+      "action": "NULL",
+      "id": 28,
+      "token_id": 28,
+      "original": "TEMP_28"
+    },
+    {
+      "action": "NULL",
+      "id": 29,
+      "token_id": 29,
+      "original": "TEMP_29"
+    },
+    {
+      "action": "NULL",
+      "id": 30,
+      "token_id": 30,
+      "original": "TEMP_30"
+    },
+    {
+      "action": "NULL",
+      "id": 31,
+      "token_id": 31,
+      "original": "TEMP_31"
+    },
+    {
+      "action": "NULL",
+      "id": 32,
+      "token_id": 32,
+      "original": "TEMP_32"
+    },
+    {
+      "action": "NULL",
+      "id": 33,
+      "token_id": 33,
+      "original": "TEMP_33"
+    },
+    {
+      "action": "NULL",
+      "id": 34,
+      "token_id": 34,
+      "original": "TEMP_34"
+    },
+    {
+      "action": "NULL",
+      "id": 35,
+      "token_id": 35,
+      "original": "TEMP_35"
+    },
+    {
+      "action": "NULL",
+      "id": 36,
+      "token_id": 36,
+      "original": "TEMP_36"
+    },
+    {
+      "action": "NULL",
+      "id": 37,
+      "token_id": 37,
+      "original": "TEMP_37"
+    },
+    {
+      "action": "NULL",
+      "id": 38,
+      "token_id": 38,
+      "original": "TEMP_38"
+    },
+    {
+      "action": "NULL",
+      "id": 39,
+      "token_id": 39,
+      "original": "TEMP_39"
+    },
+    {
+      "action": "NULL",
+      "id": 40,
+      "token_id": 40,
+      "original": "TEMP_40"
+    },
+    {
+      "action": "NULL",
+      "id": 41,
+      "token_id": 41,
+      "original": "TEMP_41"
+    },
+    {
+      "action": "NULL",
+      "id": 42,
+      "token_id": 42,
+      "original": "TEMP_42"
+    },
+    {
+      "action": "NULL",
+      "id": 43,
+      "token_id": 43,
+      "original": "TEMP_43"
+    },
+    {
+      "action": "NULL",
+      "id": 44,
+      "token_id": 44,
+      "original": "TEMP_44"
+    },
+    {
+      "action": "NULL",
+      "id": 45,
+      "token_id": 45,
+      "original": "TEMP_45"
+    },
+    {
+      "action": "NULL",
+      "id": 46,
+      "token_id": 46,
+      "original": "TEMP_46"
+    },
+    {
+      "action": "NULL",
+      "id": 47,
+      "token_id": 47,
+      "original": "TEMP_47"
+    },
+    {
+      "action": "NULL",
+      "id": 48,
+      "token_id": 48,
+      "original": "TEMP_48"
+    },
+    {
+      "action": "NULL",
+      "id": 49,
+      "token_id": 49,
+      "original": "TEMP_49"
+    },
+    {
+      "action": "NULL",
+      "id": 50,
+      "token_id": 50,
+      "original": "TEMP_50"
+    },
+    {
+      "action": "NULL",
+      "id": 51,
+      "token_id": 51,
+      "original": "TEMP_51"
+    },
+    {
+      "action": "NULL",
+      "id": 52,
+      "token_id": 52,
+      "original": "TEMP_52"
+    },
+    {
+      "action": "NULL",
+      "id": 53,
+      "token_id": 53,
+      "original": "TEMP_53"
+    },
+    {
+      "action": "NULL",
+      "id": 54,
+      "token_id": 54,
+      "original": "TEMP_54"
+    },
+    {
+      "action": "NULL",
+      "id": 55,
+      "token_id": 55,
+      "original": "TEMP_55"
+    },
+    {
+      "action": "NULL",
+      "id": 56,
+      "token_id": 56,
+      "original": "TEMP_56"
+    },
+    {
+      "action": "NULL",
+      "id": 57,
+      "token_id": 57,
+      "original": "TEMP_57"
+    },
+    {
+      "action": "NULL",
+      "id": 58,
+      "token_id": 58,
+      "original": "TEMP_58"
+    },
+    {
+      "action": "NULL",
+      "id": 59,
+      "token_id": 59,
+      "original": "TEMP_59"
+    },
+    {
+      "action": "NULL",
+      "id": 60,
+      "token_id": 60,
+      "original": "TEMP_60"
+    },
+    {
+      "action": "NULL",
+      "id": 61,
+      "token_id": 61,
+      "original": "TEMP_61"
+    },
+    {
+      "action": "NULL",
+      "id": 62,
+      "token_id": 62,
+      "original": "TEMP_62"
+    },
+    {
+      "action": "NULL",
+      "id": 63,
+      "token_id": 63,
+      "original": "TEMP_63"
+    },
+    {
+      "action": "NULL",
+      "id": 64,
+      "token_id": 64,
+      "original": "TEMP_64"
+    },
+    {
+      "action": "NULL",
+      "id": 65,
+      "token_id": 65,
+      "original": "TEMP_65"
+    },
+    {
+      "action": "NULL",
+      "id": 66,
+      "token_id": 66,
+      "original": "TEMP_66"
+    },
+    {
+      "action": "NULL",
+      "id": 68,
+      "token_id": 68,
+      "original": "TEMP_68"
+    },
+    {
+      "action": "NULL",
+      "id": 69,
+      "token_id": 69,
+      "original": "TEMP_69"
+    },
+    {
+      "action": "NULL",
+      "id": 70,
+      "token_id": 70,
+      "original": "TEMP_70"
+    },
+    {
+      "action": "NULL",
+      "id": 71,
+      "token_id": 71,
+      "original": "TEMP_71"
+    },
+    {
+      "action": "NULL",
+      "id": 72,
+      "token_id": 72,
+      "original": "TEMP_72"
+    },
+    {
+      "action": "NULL",
+      "id": 73,
+      "token_id": 73,
+      "original": "TEMP_73"
+    },
+    {
+      "action": "NULL",
+      "id": 74,
+      "token_id": 74,
+      "original": "TEMP_74"
+    },
+    {
+      "action": "NULL",
+      "id": 75,
+      "token_id": 75,
+      "original": "TEMP_75"
+    },
+    {
+      "action": "NULL",
+      "id": 77,
+      "token_id": 77,
+      "original": "TEMP_77"
+    },
+    {
+      "action": "NULL",
+      "id": 78,
+      "token_id": 78,
+      "original": "TEMP_78"
+    },
+    {
+      "action": "NULL",
+      "id": 79,
+      "token_id": 79,
+      "original": "TEMP_79"
+    },
+    {
+      "action": "NULL",
+      "id": 80,
+      "token_id": 80,
+      "original": "TEMP_80"
+    },
+    {
+      "action": "NULL",
+      "id": 81,
+      "token_id": 81,
+      "original": "TEMP_81"
+    },
+    {
+      "action": "NULL",
+      "id": 82,
+      "token_id": 82,
+      "original": "TEMP_82"
+    },
+    {
+      "action": "NULL",
+      "id": 85,
+      "token_id": 85,
+      "original": "TEMP_85"
+    },
+    {
+      "action": "NULL",
+      "id": 86,
+      "token_id": 86,
+      "original": "TEMP_86"
+    },
+    {
+      "action": "NULL",
+      "id": 87,
+      "token_id": 87,
+      "original": "TEMP_87"
+    },
+    {
+      "action": "NULL",
+      "id": 88,
+      "token_id": 88,
+      "original": "TEMP_88"
+    },
+    {
+      "action": "NULL",
+      "id": 89,
+      "token_id": 89,
+      "original": "TEMP_89"
+    },
+    {
+      "action": "NULL",
+      "id": 90,
+      "token_id": 90,
+      "original": "TEMP_90"
+    },
+    {
+      "action": "NULL",
+      "id": 91,
+      "token_id": 91,
+      "original": "TEMP_91"
+    },
+    {
+      "action": "NULL",
+      "id": 92,
+      "token_id": 92,
+      "original": "TEMP_92"
+    },
+    {
+      "action": "NULL",
+      "id": 93,
+      "token_id": 93,
+      "original": "TEMP_93"
+    },
+    {
+      "action": "NULL",
+      "id": 94,
+      "token_id": 94,
+      "original": "TEMP_94"
+    },
+    {
+      "action": "NULL",
+      "id": 95,
+      "token_id": 95,
+      "original": "TEMP_95"
+    },
+    {
+      "action": "NULL",
+      "id": 96,
+      "token_id": 96,
+      "original": "TEMP_96"
+    },
+    {
+      "action": "NULL",
+      "id": 97,
+      "token_id": 97,
+      "original": "TEMP_97"
+    },
+    {
+      "action": "NULL",
+      "id": 98,
+      "token_id": 98,
+      "original": "TEMP_98"
+    },
+    {
+      "action": "NULL",
+      "id": 99,
+      "token_id": 99,
+      "original": "TEMP_99"
+    },
+    {
+      "action": "NULL",
+      "id": 100,
+      "token_id": 100,
+      "original": "TEMP_100"
+    },
+    {
+      "action": "NULL",
+      "id": 141,
+      "token_id": 141,
+      "original": "ch4_001"
+    },
+    {
+      "action": "NULL",
+      "id": 142,
+      "token_id": 142,
+      "original": "ch4_002"
+    },
+    {
+      "action": "NULL",
+      "id": 143,
+      "token_id": 143,
+      "original": "ch4_003"
+    },
+    {
+      "action": "NULL",
+      "id": 144,
+      "token_id": 144,
+      "original": "ch4_004"
+    },
+    {
+      "action": "NULL",
+      "id": 145,
+      "token_id": 145,
+      "original": "ch4_005"
+    },
+    {
+      "action": "NULL",
+      "id": 146,
+      "token_id": 146,
+      "original": "ch4_006"
+    },
+    {
+      "action": "NULL",
+      "id": 147,
+      "token_id": 147,
+      "original": "ch4_007"
+    },
+    {
+      "action": "NULL",
+      "id": 148,
+      "token_id": 148,
+      "original": "ch4_008"
+    },
+    {
+      "action": "NULL",
+      "id": 149,
+      "token_id": 149,
+      "original": "ch4_009"
+    },
+    {
+      "action": "NULL",
+      "id": 150,
+      "token_id": 150,
+      "original": "ch4_010"
+    },
+    {
+      "action": "NULL",
+      "id": 151,
+      "token_id": 151,
+      "original": "ch4_011"
+    },
+    {
+      "action": "NULL",
+      "id": 152,
+      "token_id": 152,
+      "original": "ch4_012"
+    },
+    {
+      "action": "NULL",
+      "id": 153,
+      "token_id": 153,
+      "original": "ch4_013"
+    },
+    {
+      "action": "NULL",
+      "id": 154,
+      "token_id": 154,
+      "original": "ch4_014"
+    },
+    {
+      "action": "NULL",
+      "id": 155,
+      "token_id": 155,
+      "original": "ch4_015"
+    },
+    {
+      "action": "NULL",
+      "id": 156,
+      "token_id": 156,
+      "original": "ch4_016"
+    },
+    {
+      "action": "NULL",
+      "id": 157,
+      "token_id": 157,
+      "original": "ch4_017"
+    },
+    {
+      "action": "NULL",
+      "id": 158,
+      "token_id": 158,
+      "original": "ch4_018"
+    },
+    {
+      "action": "NULL",
+      "id": 159,
+      "token_id": 159,
+      "original": "ch4_019"
+    },
+    {
+      "action": "NULL",
+      "id": 160,
+      "token_id": 160,
+      "original": "ch4_020"
+    },
+    {
+      "action": "NULL",
+      "id": 161,
+      "token_id": 161,
+      "original": "ch5_001"
+    },
+    {
+      "action": "NULL",
+      "id": 162,
+      "token_id": 162,
+      "original": "ch5_002"
+    },
+    {
+      "action": "NULL",
+      "id": 163,
+      "token_id": 163,
+      "original": "ch5_003"
+    },
+    {
+      "action": "NULL",
+      "id": 164,
+      "token_id": 164,
+      "original": "ch5_004"
+    },
+    {
+      "action": "NULL",
+      "id": 165,
+      "token_id": 165,
+      "original": "ch5_005"
+    },
+    {
+      "action": "NULL",
+      "id": 166,
+      "token_id": 166,
+      "original": "ch5_006"
+    },
+    {
+      "action": "NULL",
+      "id": 167,
+      "token_id": 167,
+      "original": "ch5_007"
+    },
+    {
+      "action": "NULL",
+      "id": 168,
+      "token_id": 168,
+      "original": "ch5_008"
+    },
+    {
+      "action": "NULL",
+      "id": 169,
+      "token_id": 169,
+      "original": "ch5_009"
+    },
+    {
+      "action": "NULL",
+      "id": 170,
+      "token_id": 170,
+      "original": "ch5_010"
+    },
+    {
+      "action": "NULL",
+      "id": 171,
+      "token_id": 171,
+      "original": "ch5_011"
+    },
+    {
+      "action": "NULL",
+      "id": 172,
+      "token_id": 172,
+      "original": "ch5_012"
+    },
+    {
+      "action": "NULL",
+      "id": 173,
+      "token_id": 173,
+      "original": "ch5_013"
+    },
+    {
+      "action": "NULL",
+      "id": 174,
+      "token_id": 174,
+      "original": "ch5_014"
+    },
+    {
+      "action": "NULL",
+      "id": 175,
+      "token_id": 175,
+      "original": "ch5_015"
+    },
+    {
+      "action": "NULL",
+      "id": 176,
+      "token_id": 176,
+      "original": "ch5_016"
+    },
+    {
+      "action": "NULL",
+      "id": 177,
+      "token_id": 177,
+      "original": "ch5_017"
+    },
+    {
+      "action": "NULL",
+      "id": 178,
+      "token_id": 178,
+      "original": "ch5_018"
+    },
+    {
+      "action": "NULL",
+      "id": 179,
+      "token_id": 179,
+      "original": "ch5_019"
+    },
+    {
+      "action": "NULL",
+      "id": 180,
+      "token_id": 180,
+      "original": "ch5_020"
+    },
+    {
+      "action": "NULL",
+      "id": 181,
+      "token_id": 201,
+      "original": "ch5_001"
+    },
+    {
+      "action": "NULL",
+      "id": 182,
+      "token_id": 202,
+      "original": "ch5_002"
+    },
+    {
+      "action": "NULL",
+      "id": 183,
+      "token_id": 203,
+      "original": "ch5_003"
+    },
+    {
+      "action": "NULL",
+      "id": 184,
+      "token_id": 204,
+      "original": "ch5_004"
+    },
+    {
+      "action": "NULL",
+      "id": 185,
+      "token_id": 205,
+      "original": "ch5_005"
+    },
+    {
+      "action": "NULL",
+      "id": 186,
+      "token_id": 206,
+      "original": "ch5_006"
+    },
+    {
+      "action": "NULL",
+      "id": 187,
+      "token_id": 207,
+      "original": "ch5_007"
+    },
+    {
+      "action": "NULL",
+      "id": 188,
+      "token_id": 208,
+      "original": "ch5_008"
+    },
+    {
+      "action": "NULL",
+      "id": 189,
+      "token_id": 209,
+      "original": "ch5_009"
+    },
+    {
+      "action": "NULL",
+      "id": 190,
+      "token_id": 210,
+      "original": "ch5_010"
+    },
+    {
+      "action": "NULL",
+      "id": 191,
+      "token_id": 211,
+      "original": "ch5_011"
+    },
+    {
+      "action": "NULL",
+      "id": 192,
+      "token_id": 212,
+      "original": "ch5_012"
+    },
+    {
+      "action": "NULL",
+      "id": 193,
+      "token_id": 213,
+      "original": "ch5_013"
+    },
+    {
+      "action": "NULL",
+      "id": 194,
+      "token_id": 214,
+      "original": "ch5_014"
+    },
+    {
+      "action": "NULL",
+      "id": 195,
+      "token_id": 215,
+      "original": "ch5_015"
+    },
+    {
+      "action": "NULL",
+      "id": 196,
+      "token_id": 216,
+      "original": "ch5_016"
+    },
+    {
+      "action": "NULL",
+      "id": 197,
+      "token_id": 217,
+      "original": "ch5_017"
+    },
+    {
+      "action": "NULL",
+      "id": 198,
+      "token_id": 218,
+      "original": "ch5_018"
+    },
+    {
+      "action": "NULL",
+      "id": 199,
+      "token_id": 219,
+      "original": "ch5_019"
+    },
+    {
+      "action": "NULL",
+      "id": 200,
+      "token_id": 220,
+      "original": "ch5_020"
+    },
+    {
+      "action": "NULL",
+      "id": 451,
+      "token_id": 6001,
+      "original": "MINTED_CH6_6001"
+    },
+    {
+      "action": "NULL",
+      "id": 452,
+      "token_id": 6002,
+      "original": "MINTED_CH6_6002"
+    },
+    {
+      "action": "NULL",
+      "id": 453,
+      "token_id": 6003,
+      "original": "MINTED_CH6_6003"
+    },
+    {
+      "action": "NULL",
+      "id": 454,
+      "token_id": 6004,
+      "original": "MINTED_CH6_6004"
+    },
+    {
+      "action": "NULL",
+      "id": 455,
+      "token_id": 6005,
+      "original": "MINTED_CH6_6005"
+    },
+    {
+      "action": "NULL",
+      "id": 456,
+      "token_id": 6006,
+      "original": "MINTED_CH6_6006"
+    },
+    {
+      "action": "NULL",
+      "id": 457,
+      "token_id": 6007,
+      "original": "MINTED_CH6_6007"
+    },
+    {
+      "action": "NULL",
+      "id": 458,
+      "token_id": 6008,
+      "original": "MINTED_CH6_6008"
+    },
+    {
+      "action": "NULL",
+      "id": 459,
+      "token_id": 6009,
+      "original": "MINTED_CH6_6009"
+    },
+    {
+      "action": "NULL",
+      "id": 460,
+      "token_id": 6010,
+      "original": "MINTED_CH6_6010"
+    },
+    {
+      "action": "NULL",
+      "id": 461,
+      "token_id": 6011,
+      "original": "MINTED_CH6_6011"
+    },
+    {
+      "action": "NULL",
+      "id": 462,
+      "token_id": 6012,
+      "original": "MINTED_CH6_6012"
+    },
+    {
+      "action": "NULL",
+      "id": 463,
+      "token_id": 6013,
+      "original": "MINTED_CH6_6013"
+    },
+    {
+      "action": "NULL",
+      "id": 464,
+      "token_id": 6014,
+      "original": "MINTED_CH6_6014"
+    },
+    {
+      "action": "NULL",
+      "id": 465,
+      "token_id": 6015,
+      "original": "MINTED_CH6_6015"
+    },
+    {
+      "action": "NULL",
+      "id": 466,
+      "token_id": 6016,
+      "original": "MINTED_CH6_6016"
+    },
+    {
+      "action": "NULL",
+      "id": 467,
+      "token_id": 6017,
+      "original": "MINTED_CH6_6017"
+    },
+    {
+      "action": "NULL",
+      "id": 468,
+      "token_id": 6018,
+      "original": "MINTED_CH6_6018"
+    },
+    {
+      "action": "NULL",
+      "id": 469,
+      "token_id": 6019,
+      "original": "MINTED_CH6_6019"
+    },
+    {
+      "action": "NULL",
+      "id": 470,
+      "token_id": 6020,
+      "original": "MINTED_CH6_6020"
+    }
+  ]
+}

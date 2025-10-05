@@ -1,0 +1,33 @@
+{
+  "name": "tos-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "gen:art": "node generate_art.js",
+    "gen:chapter3:illustrated": "node generate_chapter3_illustrated.js",
+    "gen:chapter3:tropical": "node generate_chapter3_tropical.js",
+    "build:meta": "node build_metadata.js",
+    "ipfs:upload": "node upload_ipfs.js",
+    "xrpl:mint": "node batchMint.js",
+    "all": "npm run gen:art && npm run build:meta"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.57",
+    "@web3-storage/w3up-client": "^17.3.0",
+    "axios": "^1.12.2",
+    "canvas": "^3.2.0",
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.4",
+    "fs-extra": "^11.2.0",
+    "globby": "^14.0.2",
+    "nft.storage": "^7.1.1",
+    "node-fetch": "^3.3.2",
+    "p-limit": "^5.0.0",
+    "pinata": "^2.5.0",
+    "seedrandom": "^3.0.5",
+    "web3.storage": "^4.5.5",
+    "xrpl": "^2.12.0",
+    "yargs": "^17.7.2"
+  }
+}

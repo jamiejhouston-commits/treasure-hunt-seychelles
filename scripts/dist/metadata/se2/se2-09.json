@@ -1,0 +1,46 @@
+{
+  "name": "SE2-09 — VACHE SENTINEL",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Vache Island (Île aux Vaches Marines). A cow by name, a sentinel by duty.\nCount the seven lights that never drink.",
+  "image": "ipfs://bafkreifsudg7jsleg7gu57ztymdlq25dbwqapyuiothozvm7krgec6h57e",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Vache Island (Île aux Vaches Marines)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "R"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Anse Georgette (Praslin)"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 7
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "seven-point star overlay; rope indicates bearing fork.",
+    "clue": "A cow by name, a sentinel by duty.\nCount the seven lights that never drink.",
+    "visual_description": "Bare granite islet; sentinel mood; seven faint stars above; skull watermark in foam; rope coil on rock."
+  }
+}

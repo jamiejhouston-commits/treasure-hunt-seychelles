@@ -1,0 +1,31 @@
+{
+  "name": "S3-11 — Baie Ternay Mirror",
+  "description": "S3-11 — Baie Ternay Mirror. Clue: In a bay that refuses storm, the coral fingers name your number.",
+  "image": "/preview/chapter3/S3-11.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Baie Ternay / Port Launay"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Moonlight"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Reef"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Chest"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

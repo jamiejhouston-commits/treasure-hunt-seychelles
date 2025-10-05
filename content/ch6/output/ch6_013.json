@@ -1,0 +1,44 @@
+{
+  "name": "Eden Beach: The Dragging Chains",
+  "description": "Eden Beach glows bruise-purple at false dawn; four chain loops scar sand beside three barefoot prints filling with icy foam while three silent gulls watch from posts. Kassim clenches until knuckles pop, Naia sketches the pattern, and Maliya hums a graveside hymn.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_013",
+  "bearingDeg": 100,
+  "cipherOutput": "M",
+  "cipherIndex": 13,
+  "hiddenClue": "4 + 3 + 3 = 10 → 100°",
+  "riddle": "Chains write in sand while gulls bear witness—add the loops and steps before the tide erases the sum.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 100
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "M"
+    },
+    {
+      "trait_type": "chainLoops",
+      "value": 4
+    },
+    {
+      "trait_type": "barefootPrints",
+      "value": 3
+    },
+    {
+      "trait_type": "gulls",
+      "value": 3
+    }
+  ],
+  "image": "./ch6_013.png"
+}

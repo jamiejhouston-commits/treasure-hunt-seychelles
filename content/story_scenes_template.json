@@ -1,0 +1,45 @@
+{
+  "chapter": "tropical_pirate_saga",
+  "global": {
+    "defaultCamera": "mixed",                     // wide|mid|close|mixed
+    "colorMood": "varied",                        // golden_hour|storm|twilight|night|varied
+    "styleVersion": 1,
+    "notes": "You can override any field per card below"
+  },
+  "cards": [
+    {
+      "id": 1,
+      "title": "Signal At Dawn",
+      "description": "Crew signals a hidden ally ship between two lush granite peaks.",
+      "camera": "wide",                           // overrides defaultCamera
+      "timeOfDay": "dawn",                        // dawn|day|golden|sunset|twilight|night
+      "weather": "clear",                         // clear|haze|mist|storm_light|storm_heavy|rain
+      "mood": "hopeful",
+      "terrain": {
+        "greenMountains": true,
+        "graniteBoulders": true,
+        "waterfall": false,
+        "shoreline": true
+      },
+      "characters": [
+        { "role": "captain", "pose": "spyglass", "hat": true, "eyePatch": false },
+        { "role": "navigator", "pose": "chart", "hat": false, "eyePatch": true }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Jungle Ambush",
+      "description": "Pirates crouch among dense palms watching a patrol boat in lagoon.",
+      "camera": "mid",
+      "timeOfDay": "day",
+      "weather": "haze",
+      "mood": "tense",
+      "terrain": { "greenMountains": true, "graniteBoulders": false, "waterfall": true, "shoreline": false },
+      "characters": [
+        { "role": "scout", "pose": "rigging", "hat": false, "eyePatch": false },
+        { "role": "captain", "pose": "spyglass", "hat": true, "eyePatch": true }
+      ]
+    }
+    // Add up to 20; each requires a unique id
+  ]
+}

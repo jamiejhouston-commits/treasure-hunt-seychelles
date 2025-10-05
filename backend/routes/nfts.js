@@ -1,0 +1,582 @@
+const express = require('express');
+const { body, query, validationResult } = require('express-validator');
+const path = require('path');
+const fs = require('fs');
+const db = require('../database/connection');
+const { logger } = require('../utils/logger');
+
+const realImagesDir = path.resolve(__dirname, '../../scripts/dist/images');
+const chapterAssetConfig = {
+  'Chapter IV': {
+    dir: path.resolve(__dirname, '../../content/ch4/images'),
+    route: '/ch4/images',
+    slugPrefix: 'ch4_',
+    tokenIdOffset: 140
+  },
+  'Chapter VI': {
+    dir: path.resolve(__dirname, '../../content/ch6/output'),
+    route: '/ch6/images',
+    slugPrefix: 'ch6_',
+    tokenIdOffset: 180
+  }
+};
+
+const fileExistsCache = new Map();
+
+function fileExistsCached(fullPath) {
+  if (fileExistsCache.has(fullPath)) {
+    return fileExistsCache.get(fullPath);
+  }
+  const exists = fs.existsSync(fullPath);
+  fileExistsCache.set(fullPath, exists);
+  return exists;
+}
+
+function resolveChapterAsset(nft) {
+  const config = chapterAssetConfig[nft.chapter];
+  if (!config) return null;
+
+  const candidateNumbers = new Set();
+
+  if (typeof nft.nftoken_id === 'string') {
+    const match = nft.nftoken_id.match(/_(\d{1,3})$/i);
+    if (match) candidateNumbers.add(parseInt(match[1], 10));
+  }
+
+  if (typeof nft.image_uri === 'string') {
+    const match = nft.image_uri.match(/(?:\/|_)(\d{1,3})\.(png|jpg|jpeg|webp|svg)$/i);
+    if (match) candidateNumbers.add(parseInt(match[1], 10));
+  }
+
+  if (typeof nft.token_id === 'number' && typeof config.tokenIdOffset === 'number') {
+    const seq = nft.token_id - config.tokenIdOffset;
+    if (seq >= 1 && seq <= 999) {
+      candidateNumbers.add(seq);
+    }
+  }
+
+  for (const num of candidateNumbers) {
+    if (!Number.isInteger(num) || num <= 0) continue;
+    const fileName = `${config.slugPrefix}${String(num).padStart(3, '0')}.png`;
+    const fullPath = path.join(config.dir, fileName);
+    if (fileExistsCached(fullPath)) {
+      return {
+        route: config.route,
+        fileName
+      };
+    }
+  }
+
+  return null;
+}
+
+const router = express.Router();
+
+/**    if (!nft) {
+      return res.status(404).json({ error: 'NFT not found' });
+    }
+
+    const baseUrl = process.env.BASE_URL || `http://localhost:${process.env.PORT || 3001}`; /api/nfts:
+ *   get:
+ *     summary: Get NFT collection with filters and pagination
+ *     tags: [NFTs]
+ *     parameters:
+ *       - in: query
+ *         name: page
+ *         schema:
+ *           type: integer
+ *         description: Page number (default 1)
+ *       - in: query
+ *         name: limit
+ *         schema:
+ *           type: integer
+ *         description: Items per page (default 20, max 100)
+ *       - in: query
+ *         name: chapter
+ *         schema:
+ *           type: string
+ *         description: Filter by chapter
+ *       - in: query
+ *         name: rarity
+ *         schema:
+ *           type: string
+ *         description: Filter by rarity
+ *       - in: query
+ *         name: forSale
+ *         schema:
+ *           type: boolean
+ *         description: Filter by sale status
+ *       - in: query
+ *         name: owner
+ *         schema:
+ *           type: string
+ *         description: Filter by owner address
+ *       - in: query
+ *         name: minPrice
+ *         schema:
+ *           type: number
+ *         description: Minimum price in XRP
+ *       - in: query
+ *         name: maxPrice
+ *         schema:
+ *           type: number
+ *         description: Maximum price in XRP
+ *       - in: query
+ *         name: search
+ *         schema:
+ *           type: string
+ *         description: Search in name and description
+ *     responses:
+ *       200:
+ *         description: NFT collection data
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 nfts:
+ *                   type: array
+ *                 pagination:
+ *                   type: object
+ *                 filters:
+ *                   type: object
+ */
+router.get('/', [
+  query('page').optional().isInt({ min: 1 }),
+  query('limit').optional().isInt({ min: 1, max: 200 }),
+  // Allow any chapter string to avoid hardcoded list breaking new content
+  query('chapter').optional().isString().isLength({ min: 1, max: 100 }),
+  query('rarity').optional().isIn(['common', 'uncommon', 'rare', 'epic', 'legendary']),
+  query('minted').optional().isBoolean(),
+  query('forSale').optional().isBoolean(),
+  query('minPrice').optional().isFloat({ min: 0 }),
+  query('maxPrice').optional().isFloat({ min: 0 }),
+  query('search').optional().isLength({ min: 1, max: 100 })
+], async (req, res) => {
+  try {
+    const errors = validationResult(req);
+    if (!errors.isEmpty()) {
+      return res.status(400).json({ 
+        error: 'Invalid query parameters', 
+        details: errors.array() 
+      });
+    }
+
+    const {
+      page = 1,
+      limit = 20,
+      chapter,
+      rarity,
+  minted,
+      forSale,
+      owner,
+      minPrice,
+      maxPrice,
+      search,
+      sortBy = 'token_id',
+      sortOrder = 'asc'
+    } = req.query;
+
+    const offset = (parseInt(page) - 1) * parseInt(limit);
+
+  // Build dynamic query
+    let query = db('nfts').select(
+      'id',
+      'token_id',
+      'nftoken_id',
+      'name',
+      'description',
+      'image_uri',
+      'chapter',
+      'island',
+      'rarity',
+      'attributes',
+      'layers',
+      'puzzle_enabled',
+      'art_rarity',
+      'current_owner',
+      'price_xrp',
+      'for_sale',
+      'created_at'
+    );
+
+    // Apply filters
+    if (chapter) query = query.where('chapter', chapter);
+    if (rarity) query = query.where('rarity', rarity);
+    // Minted filter (strict): only treat as minted if nftoken_id is a real XRPL NFToken ID (64 hex chars after whitespace removal)
+    const needsMintPostFilter = minted === 'true';
+    if (minted !== undefined) {
+      if (minted === 'true') {
+        // Preliminary filter just to reduce dataset; final validation happens after fetch.
+        query = query.whereNotNull('nftoken_id');
+      } else if (minted === 'false') {
+        query = query.whereNull('nftoken_id');
+      }
+    }
+    if (forSale !== undefined) query = query.where('for_sale', forSale === 'true');
+    if (owner) query = query.where('current_owner', owner);
+    if (minPrice) query = query.where('price_xrp', '>=', parseFloat(minPrice));
+    if (maxPrice) query = query.where('price_xrp', '<=', parseFloat(maxPrice));
+    
+    if (search) {
+      query = query.where(function() {
+        this.where('name', 'like', `%${search}%`)
+            .orWhere('description', 'like', `%${search}%`);
+      });
+    }
+
+    // Count total for pagination
+    const totalQuery = query.clone();
+    const total = await totalQuery.count('* as count').first();
+    const totalCount = total.count;
+
+    // Apply sorting and pagination
+    const validSortFields = ['token_id', 'name', 'rarity', 'price_xrp', 'created_at'];
+    const sortField = validSortFields.includes(sortBy) ? sortBy : 'token_id';
+    const order = ['asc', 'desc'].includes(sortOrder) ? sortOrder : 'asc';
+
+    query = query.orderBy(sortField, order).limit(parseInt(limit)).offset(offset);
+
+  let nfts = await query;
+  if (needsMintPostFilter) {
+    // For now, allow any non-null nftoken_id (including our MINTED_XXX format)
+    // const isValid = (val) => {
+    //   if (!val) return false;
+    //   const cleaned = String(val).replace(/\s+/g,'');
+    //   return /^[0-9A-Fa-f]{64}$/.test(cleaned);
+    // };
+    // nfts = nfts.filter(n => isValid(n.nftoken_id));
+    nfts = nfts.filter(n => n.nftoken_id); // Just check if nftoken_id exists
+  }
+  const baseUrl = process.env.API_BASE_URL || 'http://localhost:3001';
+  const frontendUrl = process.env.FRONTEND_URL || 'http://localhost:3000';
+
+    // Format response - prefer DB image_uri when present (e.g., Chapter 3 preview images),
+    // otherwise fall back to real generated images by ID.
+    const cacheBust = Date.now();
+
+    const response = {
+      nfts: nfts.map(nft => {
+        const realPathForId = (tokenId) => {
+          if (!Number.isInteger(tokenId)) return null;
+
+          if (tokenId >= 101 && tokenId <= 120) {
+            const idx = (tokenId - 100).toString().padStart(2, '0');
+            const se2Candidates = [`se2-${idx}.png`, `se2-${idx}.svg`];
+            for (const candidate of se2Candidates) {
+              const fullPath = path.join(realImagesDir, 'se2', candidate);
+              if (fileExistsCached(fullPath)) {
+                return `${baseUrl}/real/images/se2/${candidate}?v=${cacheBust}`;
+              }
+            }
+          }
+
+          const extensions = ['png', 'webp', 'jpg', 'jpeg'];
+          for (const ext of extensions) {
+            const fileName = `${tokenId}.${ext}`;
+            const fullPath = path.join(realImagesDir, fileName);
+            if (fileExistsCached(fullPath)) {
+              return `${baseUrl}/real/images/${fileName}?v=${cacheBust}`;
+            }
+          }
+
+          return null;
+        };
+
+        const chapterAsset = resolveChapterAsset(nft);
+        const chapterAssetUrl = chapterAsset
+          ? `${baseUrl}${chapterAsset.route}/${chapterAsset.fileName}?v=${cacheBust}`
+          : null;
+
+        const ipfsSource = typeof nft.image_uri === 'string' && nft.image_uri.startsWith('ipfs://')
+          ? nft.image_uri
+          : null;
+
+        let img;
+
+        if (typeof nft.image_uri === 'string' && !ipfsSource) {
+          if (/^https?:\/\//i.test(nft.image_uri)) {
+            img = `${nft.image_uri}${nft.image_uri.includes('?') ? `&` : `?`}v=${cacheBust}`;
+          } else if (nft.image_uri.startsWith('/')) {
+            img = `${baseUrl}${nft.image_uri}${nft.image_uri.includes('?') ? '' : `?v=${cacheBust}`}`;
+          }
+        }
+
+        if (!img && ipfsSource) {
+          img = realPathForId(nft.token_id) || chapterAssetUrl;
+          if (!img) {
+            const ipfsHttp = ipfsSource.replace('ipfs://', 'https://ipfs.io/ipfs/');
+            img = `${ipfsHttp}${ipfsHttp.includes('?') ? '&' : '?'}v=${cacheBust}`;
+          }
+        }
+
+        if (!img) {
+          img = chapterAssetUrl || realPathForId(nft.token_id);
+        }
+
+        if (!img && ipfsSource) {
+          const ipfsHttp = ipfsSource.replace('ipfs://', 'https://ipfs.io/ipfs/');
+          img = `${ipfsHttp}${ipfsHttp.includes('?') ? '&' : '?'}v=${cacheBust}`;
+        }
+
+        if (!img) {
+          img = `${baseUrl}/real/images/${nft.token_id}.png?v=${cacheBust}`;
+        }
+
+        // Parse layers and attributes
+        let parsedLayers = null;
+        if (nft.layers) {
+          try {
+            parsedLayers = typeof nft.layers === 'string' ? JSON.parse(nft.layers) : nft.layers;
+          } catch (e) {
+            console.error(`Failed to parse layers for NFT ${nft.token_id}:`, e);
+            parsedLayers = [];
+          }
+        }
+        
+        let parsedAttributes = null;
+        if (nft.attributes) {
+          try {
+            parsedAttributes = typeof nft.attributes === 'string' ? JSON.parse(nft.attributes) : nft.attributes;
+          } catch (e) {
+            parsedAttributes = null;
+          }
+        }
+
+        const result = {...nft};
+        result.attributes = parsedAttributes;
+        result.layers = parsedLayers;
+        result.image_url = img;
+        result.marketplace_url = `${frontendUrl}/nft/${nft.token_id}`;
+        
+        return result;
+      }),
+      pagination: {
+        page: parseInt(page),
+        limit: parseInt(limit),
+        total: totalCount,
+        pages: Math.ceil(totalCount / parseInt(limit)),
+        hasNext: parseInt(page) < Math.ceil(totalCount / parseInt(limit)),
+        hasPrev: parseInt(page) > 1
+      },
+      total: totalCount,
+      totalPages: Math.ceil(totalCount / parseInt(limit)),
+      filters: {
+        applied: { chapter, rarity, forSale, owner, minPrice, maxPrice, search },
+        available: await getAvailableFilters()
+      }
+    };
+
+    res.json(response);
+
+  } catch (error) {
+    logger.error('Error fetching NFTs:', error);
+    res.status(500).json({ error: 'Failed to fetch NFTs' });
+  }
+});
+
+/**
+ * @swagger
+ * /api/nfts/{tokenId}:
+ *   get:
+ *     summary: Get specific NFT by token ID
+ *     tags: [NFTs]
+ *     parameters:
+ *       - in: path
+ *         name: tokenId
+ *         required: true
+ *         schema:
+ *           type: integer
+ *     responses:
+ *       200:
+ *         description: NFT details
+ *       404:
+ *         description: NFT not found
+ */
+router.get('/:tokenId', async (req, res, next) => {
+  try {
+    const { tokenId } = req.params;
+    if (tokenId === 'stats') return next();
+    
+    const nft = await db('nfts')
+      .where('token_id', parseInt(tokenId))
+      .first();
+
+    if (!nft) {
+      return res.status(404).json({ error: 'NFT not found' });
+    }
+
+    // Get trading history (gracefully handle missing table)
+    let history = [];
+    try {
+      history = await db('transaction_logs')
+        .where('nft_token_id', parseInt(tokenId))
+        .where('status', 'success')
+        .orderBy('created_at', 'desc')
+        .limit(10);
+    } catch (err) {
+      // Table doesn't exist yet, use empty array
+      history = [];
+    }
+
+    // Get current offers (gracefully handle missing table)
+    let offers = [];
+    try {
+      offers = await db('offers')
+        .where('nft_token_id', parseInt(tokenId))
+        .where('status', 'active')
+        .orderBy('price_xrp', 'asc');
+    } catch (err) {
+      // Table doesn't exist yet, use empty array
+      offers = [];
+    }
+
+    const baseUrl = process.env.API_BASE_URL || 'http://localhost:3001';
+    // Prefer DB image_uri when present, else fallback to real image by ID
+    let imageUrl;
+    const realPathForId = (tokenId) => {
+      if (tokenId >= 101 && tokenId <= 120) {
+        const idx = (tokenId - 100).toString().padStart(2, '0');
+        const num = parseInt(idx, 10);
+        const ext = num <= 11 ? 'png' : 'svg';
+        return `${baseUrl}/real/images/se2/se2-${idx}.${ext}?v=${Date.now()}`;
+      }
+      return `${baseUrl}/real/images/${tokenId}.png?v=${Date.now()}`;
+    };
+
+    if (nft.image_uri) {
+      if (nft.image_uri.startsWith('ipfs://')) {
+        imageUrl = realPathForId(nft.token_id);
+      } else if (nft.image_uri.startsWith('http')) {
+        imageUrl = `${nft.image_uri}${nft.image_uri.includes('?') ? `&` : `?`}v=${Date.now()}`;
+      } else {
+        imageUrl = `${baseUrl}${nft.image_uri}${nft.image_uri.includes('?') ? '' : `?v=${Date.now()}`}`;
+      }
+    } else {
+      imageUrl = realPathForId(nft.token_id);
+    }
+
+    const response = {
+      ...nft,
+      attributes: typeof nft.attributes === 'string' ? JSON.parse(nft.attributes) : nft.attributes,
+      clue_data: typeof nft.clue_data === 'string' ? JSON.parse(nft.clue_data) : nft.clue_data,
+      image_url: imageUrl, // ALWAYS REAL IMAGES!
+      history,
+      offers,
+      xrpl: {
+        network: process.env.XRPL_NETWORK,
+        explorer_url: `https://livenet.xrpl.org/nft/${nft.nftoken_id}`
+      }
+    };
+
+    res.json(response);
+
+  } catch (error) {
+    logger.error('Error fetching NFT:', error);
+    res.status(500).json({ error: 'Failed to fetch NFT' });
+  }
+});
+
+/**
+ * @swagger
+ * /api/nfts/stats:
+ *   get:
+ *     summary: Get collection statistics
+ *     tags: [NFTs]
+ *     responses:
+ *       200:
+ *         description: Collection statistics
+ */
+router.get('/stats', async (req, res) => {
+  try {
+    // Get stats (gracefully handle missing table)
+    let stats = {};
+    try {
+      stats = await db('collection_stats').first() || {};
+    } catch (err) {
+      // Table doesn't exist, use defaults
+      stats = {
+        total_nfts: 100,
+        total_minted: 5,
+        total_owners: 4,
+        total_volume_xrp: 118.5,
+        total_sales: 4,
+        floor_price_xrp: 15.75,
+        puzzle_solved: false,
+        treasure_winner_account: null
+      };
+    }
+    
+    // Calculate additional stats
+    const [rarityDistribution, chapterDistribution, priceStats] = await Promise.all([
+      db('nfts')
+        .select('rarity')
+        .count('* as count')
+        .groupBy('rarity'),
+      db('nfts')
+        .select('chapter')
+        .count('* as count')
+        .groupBy('chapter'),
+      db('nfts')
+        .where('for_sale', true)
+        .select(
+          db.raw('MIN(price_xrp) as min_price'),
+          db.raw('MAX(price_xrp) as max_price'), 
+          db.raw('AVG(price_xrp) as avg_price'),
+          db.raw('COUNT(*) as listed_count')
+        )
+        .first()
+    ]);
+
+    const response = {
+      ...stats,
+      rarity_distribution: rarityDistribution.reduce((acc, item) => {
+        acc[item.rarity] = item.count;
+        return acc;
+      }, {}),
+      chapter_distribution: chapterDistribution.reduce((acc, item) => {
+        acc[item.chapter] = item.count;
+        return acc;
+      }, {}),
+      price_stats: {
+        floor_price: parseFloat(priceStats.min_price || stats.floor_price_xrp),
+        ceiling_price: parseFloat(priceStats.max_price || 0),
+        average_price: parseFloat(priceStats.avg_price || 0),
+        listed_count: parseInt(priceStats.listed_count || 0)
+      },
+      puzzle_status: {
+        solved: stats.puzzle_solved || false,
+        winner: stats.treasure_winner_account || null,
+        total_submissions: 0 // Will be populated when puzzle submissions table exists
+      }
+    };
+
+    res.json(response);
+
+  } catch (error) {
+    logger.error('Error fetching stats:', error);
+    res.status(500).json({ error: 'Failed to fetch statistics' });
+  }
+});
+
+// Helper function to get available filter options
+async function getAvailableFilters() {
+  try {
+    const [chaptersRaw, rarities, owners] = await Promise.all([
+      db('nfts').distinct('chapter').pluck('chapter'),
+      db('nfts').distinct('rarity').pluck('rarity'),
+      db('nfts').distinct('current_owner').whereNotNull('current_owner').pluck('current_owner')
+    ]);
+
+    return {
+      chapters: chaptersRaw || [],
+      rarities,
+      owners: owners.slice(0, 20) // Limit to first 20 owners
+    };
+  } catch (error) {
+    logger.error('Error fetching filter options:', error);
+    return { chapters: [], rarities: [], owners: [] };
+  }
+}
+
+module.exports = router;

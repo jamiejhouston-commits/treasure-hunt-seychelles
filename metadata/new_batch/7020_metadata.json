@@ -1,0 +1,45 @@
+{
+  "name": "Colonial Plantation House",
+  "description": "A weathered plantation house where colonial history and Creole heritage intertwine, witness to centuries of island transformation.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmPrWfyjmKanjMfvqP38sUCr9hVkZfmTDRNvz89bCpCdUq",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Architecture",
+      "value": "Colonial"
+    },
+    {
+      "trait_type": "History",
+      "value": "Plantation Era"
+    },
+    {
+      "trait_type": "Heritage",
+      "value": "Mixed"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7020
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

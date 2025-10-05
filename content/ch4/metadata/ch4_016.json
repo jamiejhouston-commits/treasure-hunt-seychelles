@@ -1,0 +1,61 @@
+{
+  "name": "Baie Lazare Lantern Line",
+  "description": "Five lanterns pierce the thin fog of Baie Lazare night, staked in a line along the shore like beacons for lost souls. A pirate counts their rhythm while a witch points toward the ridge where Lazare Picault first glimpsed this sacred bay. The lantern spacing breathes its own language—wide, narrow, wide—spelling WNW in the maritime tongue, bearing 292 degrees true toward the wider path of destiny. Bearing 292°. Cipher output: ZA. \"Where five lights breathe, follow the wider path.\"",
+  "image": "ipfs://bafybeiazs2rzbqenmqpsymqsrzkdnbuklnssmgalklbpbfkfu2n2dpza54",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Baie Lazare",
+  "timeOfDay": "Night",
+  "weather": "thin fog",
+  "bearingDeg": 292,
+  "tide": "Rising",
+  "moonPhase": "Waning Crescent",
+  "cipherOutput": "ZA",
+  "riddle": "Where five lights breathe, follow the wider path.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Baie Lazare"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "thin fog"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "292°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Rising"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waning Crescent"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "ZA"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 156
+  }
+}

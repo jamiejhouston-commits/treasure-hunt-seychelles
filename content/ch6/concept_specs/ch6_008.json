@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_008",
+  "name": "Copolia Heights: Flight of the Fruit Bats",
+  "description": "Granite dome twilight. Bats surge from cave dividing into three braids then rejoin above red-lit shard. Seven chalk ticks at cave lip. Kassim climbs, scars silver. Riddle: When the night divides and joins, the sum becomes your road.",
+  "bearingDeg": 220,
+  "cipherOutput": "T",
+  "hiddenClue": "3 × 7 + 1 = 22 → 220°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Granite dome twilight. Bats surge from cave dividing into three braids then rejoin above red-lit shard. Seven chalk ticks at cave lip. Kassim climbs, scars silver.. Key props numeric: 3 braids, 7 ticks, 1 shard. Cipher letter: T Bearing: 220°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "T"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 220
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "3 × 7 + 1 = 22 → 220°"
+    },
+    {
+      "trait_type": "braids",
+      "value": 3
+    },
+    {
+      "trait_type": "ticks",
+      "value": 7
+    },
+    {
+      "trait_type": "shard",
+      "value": 1
+    }
+  ]
+}

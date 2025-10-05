@@ -1,0 +1,45 @@
+{
+  "name": "Black Parrot of Praslin",
+  "description": "The endangered Seychelles Black Parrot, found only in the ancient coco de mer forests of Praslin, a living treasure as rare as pirate gold.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmT5R55UGcb7RtB8WrvH3JRkx1dv6GQnaWQ2m7qwoGFemK",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Fauna",
+      "value": "Black Parrot"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Praslin"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Endangered"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7015
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

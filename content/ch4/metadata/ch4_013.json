@@ -1,0 +1,61 @@
+{
+  "name": "Moyenne Graves",
+  "description": "Dawn haze shrouds the simple grave markers of Moyenne Island, where pirates of old found their final anchorage. A weathered corsair kneels in respect while a witch places a skull-coin on weathered stone as offering. Rosary-like beads lie scattered in the sacred rhythm 1-3-2, their prayer-pattern more meaningful than any carved epitaph. Count what's prayed, not what's carved—for the living remember better than stone. Bearing 196°. Cipher output: ET. \"Count what's prayed, not what's carved.\"",
+  "image": "ipfs://bafybeigzpcjfhbvphycs7hbfhkjdd2maip4fokqzcwwzlxqdrwggm2yedy",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Moyenne Island (pirate graves)",
+  "timeOfDay": "Dawn",
+  "weather": "sea haze",
+  "bearingDeg": 196,
+  "tide": "Low",
+  "moonPhase": "Waxing Crescent",
+  "cipherOutput": "ET",
+  "riddle": "Count what's prayed, not what's carved.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Moyenne Island (pirate graves)"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Dawn"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "sea haze"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "196°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waxing Crescent"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "ET"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 153
+  }
+}

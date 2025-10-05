@@ -1,0 +1,31 @@
+{
+  "name": "S3-19 — Anse Source d’Argent Veil",
+  "description": "S3-19 — Anse Source d’Argent Veil. Clue: The rose chalked on stone turns with the sun—trace its shadow to the gap.",
+  "image": "ipfs://bafybeighfcuqr4lya46c5tphnyiqic3ycfm7l6e6j53yrh7ziybaivukbq",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Source d’Argent, La Digue"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Late Afternoon"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Compass"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

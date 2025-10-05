@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 12: The Crossed Blades",
+  "description": "Two cutlasses driven deep into sacred ground mark where gold lies buried. The Latin inscription speaks of honor among thieves and death to betrayers.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Sacred Grove, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Crossed Cutlasses"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Burial site of the crew's most precious treasure"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 12
+    }
+  ],
+  "properties": {
+    "clue": "Latin Phrase: 'Fideles usque ad mortem' - Faithful unto death",
+    "visualElements": [
+      "Two pirate cutlasses crossed and driven into ground",
+      "Latin inscription carved in nearby stone",
+      "Treasure chest partially visible beneath blades",
+      "Sacred grove with ancient trees",
+      "Mystical light filtering through canopy",
+      "Pirate coins scattered around blades"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

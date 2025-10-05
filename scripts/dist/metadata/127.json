@@ -1,0 +1,31 @@
+{
+  "name": "S3-07 — Vache Sentinel",
+  "description": "S3-07 — Vache Sentinel. Clue: A cow by name, a watch by duty—seven lights refuse to drink.",
+  "image": "ipfs://bafkreibhviwqbnr5dsaehzbutz43qjwqybvgtx3hh6lywmvjvlqntqsoku",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Île aux Vaches Marines"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Islet"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Cutlass"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

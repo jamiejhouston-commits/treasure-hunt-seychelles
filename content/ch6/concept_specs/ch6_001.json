@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_001",
+  "name": "Port Launay: The Fisherman's Warning",
+  "description": "Dusk at Port Launay. Fisherman Tibo warns Naia (indigo scarf, compass), Kassim (scarred, shark-tooth necklace, pearl-guard cutlass), and Maliya (copper bangles, sea-green shawl, bone runes). Fruit bats arc across crescent moon. Four rusted anchors in shallows. Lantern with cracked pane glows faint. Tone: foreboding maritime omen. Riddle: Four teeth in the tide, three wings in the night — steer where iron kisses moonlight.",
+  "bearingDeg": 43,
+  "cipherOutput": "R",
+  "hiddenClue": "4 + 3 = 43°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Dusk at Port Launay. Fisherman Tibo warns Naia (indigo scarf, compass), Kassim (scarred, shark-tooth necklace, pearl-guard cutlass), and Maliya (copper bangles, sea-green shawl, bone runes). Fruit bats arc across crescent moon. Four rusted anchors in shallows. Lantern with cracked pane glows faint. Tone: foreboding maritime omen.. Key props numeric: 4 anchors, 3 bats, 1 crackedLanternPanes. Cipher letter: R Bearing: 43°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "R"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 43
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "4 + 3 = 43°"
+    },
+    {
+      "trait_type": "anchors",
+      "value": 4
+    },
+    {
+      "trait_type": "bats",
+      "value": 3
+    },
+    {
+      "trait_type": "crackedLanternPanes",
+      "value": 1
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_010",
+  "name": "Mission Ruins: Dance of the Bound",
+  "description": "Ivy-choked mission. Moonlight frescoes of six masked dancers. Three cracked crosses on floor. Two distant owl calls. Maliya mirrors steps; Naia counts; Kassim listens. Riddle: Steps remember what tongues forget.",
+  "bearingDeg": 110,
+  "cipherOutput": "A",
+  "hiddenClue": "6 + 3 + 2 = 11 → 110°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Ivy-choked mission. Moonlight frescoes of six masked dancers. Three cracked crosses on floor. Two distant owl calls. Maliya mirrors steps; Naia counts; Kassim listens.. Key props numeric: 6 dancers, 3 crosses, 2 owlCalls. Cipher letter: A Bearing: 110°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "A"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 110
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "6 + 3 + 2 = 11 → 110°"
+    },
+    {
+      "trait_type": "dancers",
+      "value": 6
+    },
+    {
+      "trait_type": "crosses",
+      "value": 3
+    },
+    {
+      "trait_type": "owlCalls",
+      "value": 2
+    }
+  ]
+}

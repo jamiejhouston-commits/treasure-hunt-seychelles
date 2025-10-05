@@ -1,0 +1,31 @@
+{
+  "name": "S3-16 — Skull Mark at Gaulettes",
+  "description": "S3-16 — Skull Mark at Gaulettes. Clue: Scratch the sign and follow the feather—the coin’s notch faces home.",
+  "image": "/preview/chapter3/S3-16.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Gaulettes Marker Stone"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Bright Sun"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Trail"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

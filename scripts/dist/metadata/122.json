@@ -1,0 +1,31 @@
+{
+  "name": "S3-02 — Skull in the Sand",
+  "description": "S3-02 — Skull in the Sand. Clue: Count the coins to the water’s edge; the odd piece marks your bearing.",
+  "image": "ipfs://bafybeifdm3wh7ly6p74gji22wiafrf3kvp4jj74vl36fwbjpan4tj74u7u",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Beau Vallon, Mahé"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "High Noon"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Lagoon Cross",
+  "description": "Perfect ripples form a cross pattern where fresh spring water meets salt lagoon. Ancient coins sink slowly through the intersection, their descent tracing letter shapes in the crystalline water column.",
+  "image": "ipfs://bafkreibbxjvnbx75zlkj7fuhp3omtlgw7jx4gmgxgejtusbf5odvedwl6i",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "—",
+  "riddle": "Cross what sinks.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "water_sacred"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "cross_ripple"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "—"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 219
+  }
+}

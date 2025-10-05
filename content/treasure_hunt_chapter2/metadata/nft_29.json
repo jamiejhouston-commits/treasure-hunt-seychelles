@@ -1,0 +1,41 @@
+{
+  "name": "Seychelles Treasure #29",
+  "description": "Chapter 2: The Hidden Cache - NFT #29",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 2: The Hidden Cache"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "No"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 2",
+    "puzzle_enabled": false,
+    "art_rarity": "Common",
+    "rarity_color": "#8d99ae",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": null,
+        "description": "Original Seychelles artwork"
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Hermit's Cave",
+  "description": "Deep in limestone chambers, primitive paintings glow by torch light. Nine skull guardians watch over ancient runes that spell cipher letters in languages lost to time.",
+  "image": "ipfs://bafkreif2ezmxemtxeweaaypbdxmv35accq5l4ckxhb65rfh7job5seh6ma",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "S",
+  "riddle": "Where shadows multiply, nine stand guard.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "cave_painting"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "interior_chamber"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "S"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 208
+  }
+}

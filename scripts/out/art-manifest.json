@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "rarity": "Rare",
+    "bearing": 110,
+    "coordinates": "-9.8806, 54.8525",
+    "clue": "Bearing 110°. Coords -9.8806, 54.8525. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 2,
+    "rarity": "Common",
+    "bearing": 314,
+    "coordinates": "-8.4318, 55.6436",
+    "clue": "Bearing 314°. Coords -8.4318, 55.6436. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 3,
+    "rarity": "Common",
+    "bearing": 325,
+    "coordinates": "-9.8209, 53.6599",
+    "clue": "Bearing 325°. Coords -9.8209, 53.6599. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 4,
+    "rarity": "Common",
+    "bearing": 165,
+    "coordinates": "-9.3835, 54.1237",
+    "clue": "Bearing 165°. Coords -9.3835, 54.1237. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 5,
+    "rarity": "Rare",
+    "bearing": 151,
+    "coordinates": "-6.2385, 49.2713",
+    "clue": "Bearing 151°. Coords -6.2385, 49.2713. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 6,
+    "rarity": "Common",
+    "bearing": 23,
+    "coordinates": "-6.5952, 52.7422",
+    "clue": "Bearing 23°. Coords -6.5952, 52.7422. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 7,
+    "rarity": "Common",
+    "bearing": 99,
+    "coordinates": "-5.8695, 48.3251",
+    "clue": "Bearing 99°. Coords -5.8695, 48.3251. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 8,
+    "rarity": "Common",
+    "bearing": 168,
+    "coordinates": "-4.7207, 52.8675",
+    "clue": "Bearing 168°. Coords -4.7207, 52.8675. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 9,
+    "rarity": "Common",
+    "bearing": 172,
+    "coordinates": "-5.1046, 48.5543",
+    "clue": "Bearing 172°. Coords -5.1046, 48.5543. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 10,
+    "rarity": "Rare",
+    "bearing": 301,
+    "coordinates": "-4.6154, 51.0020",
+    "clue": "Bearing 301°. Coords -4.6154, 51.0020. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 11,
+    "rarity": "Common",
+    "bearing": 11,
+    "coordinates": "-8.6869, 47.8665",
+    "clue": "Bearing 11°. Coords -8.6869, 47.8665. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 12,
+    "rarity": "Common",
+    "bearing": 89,
+    "coordinates": "-5.6406, 54.3927",
+    "clue": "Bearing 89°. Coords -5.6406, 54.3927. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 13,
+    "rarity": "Rare",
+    "bearing": 170,
+    "coordinates": "-4.1601, 55.2191",
+    "clue": "Bearing 170°. Coords -4.1601, 55.2191. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 14,
+    "rarity": "Common",
+    "bearing": 283,
+    "coordinates": "-5.7734, 54.3449",
+    "clue": "Bearing 283°. Coords -5.7734, 54.3449. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 15,
+    "rarity": "Common",
+    "bearing": 106,
+    "coordinates": "-7.0903, 47.9437",
+    "clue": "Bearing 106°. Coords -7.0903, 47.9437. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 16,
+    "rarity": "Rare",
+    "bearing": 159,
+    "coordinates": "-6.8389, 54.4233",
+    "clue": "Bearing 159°. Coords -6.8389, 54.4233. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 17,
+    "rarity": "Rare",
+    "bearing": 147,
+    "coordinates": "-9.1678, 50.5042",
+    "clue": "Bearing 147°. Coords -9.1678, 50.5042. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 18,
+    "rarity": "Rare",
+    "bearing": 157,
+    "coordinates": "-5.3111, 46.7884",
+    "clue": "Bearing 157°. Coords -5.3111, 46.7884. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 19,
+    "rarity": "Common",
+    "bearing": 157,
+    "coordinates": "-8.6695, 48.9035",
+    "clue": "Bearing 157°. Coords -8.6695, 48.9035. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 20,
+    "rarity": "Common",
+    "bearing": 131,
+    "coordinates": "-6.2131, 46.5469",
+    "clue": "Bearing 131°. Coords -6.2131, 46.5469. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 21,
+    "rarity": "Common",
+    "bearing": 88,
+    "coordinates": "-9.6912, 55.7549",
+    "clue": "Bearing 88°. Coords -9.6912, 55.7549. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 22,
+    "rarity": "Common",
+    "bearing": 26,
+    "coordinates": "-6.7943, 54.3152",
+    "clue": "Bearing 26°. Coords -6.7943, 54.3152. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 23,
+    "rarity": "Rare",
+    "bearing": 203,
+    "coordinates": "-9.1386, 46.4130",
+    "clue": "Bearing 203°. Coords -9.1386, 46.4130. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 24,
+    "rarity": "Common",
+    "bearing": 170,
+    "coordinates": "-4.9086, 54.0212",
+    "clue": "Bearing 170°. Coords -4.9086, 54.0212. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 25,
+    "rarity": "Common",
+    "bearing": 164,
+    "coordinates": "-5.6141, 52.6590",
+    "clue": "Bearing 164°. Coords -5.6141, 52.6590. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 26,
+    "rarity": "Common",
+    "bearing": 171,
+    "coordinates": "-4.3939, 53.2009",
+    "clue": "Bearing 171°. Coords -4.3939, 53.2009. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 27,
+    "rarity": "Common",
+    "bearing": 315,
+    "coordinates": "-4.4940, 51.0626",
+    "clue": "Bearing 315°. Coords -4.4940, 51.0626. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 28,
+    "rarity": "Rare",
+    "bearing": 321,
+    "coordinates": "-4.5019, 52.4155",
+    "clue": "Bearing 321°. Coords -4.5019, 52.4155. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 29,
+    "rarity": "Common",
+    "bearing": 219,
+    "coordinates": "-8.9752, 50.1498",
+    "clue": "Bearing 219°. Coords -8.9752, 50.1498. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 30,
+    "rarity": "Common",
+    "bearing": 76,
+    "coordinates": "-4.3366, 52.5386",
+    "clue": "Bearing 76°. Coords -4.3366, 52.5386. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 31,
+    "rarity": "Rare",
+    "bearing": 63,
+    "coordinates": "-4.3677, 55.3938",
+    "clue": "Bearing 63°. Coords -4.3677, 55.3938. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 32,
+    "rarity": "Common",
+    "bearing": 234,
+    "coordinates": "-5.0316, 48.0198",
+    "clue": "Bearing 234°. Coords -5.0316, 48.0198. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 33,
+    "rarity": "Legendary",
+    "bearing": 35,
+    "coordinates": "-4.8488, 51.9876",
+    "clue": "Bearing 35°. Coords -4.8488, 51.9876. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 34,
+    "rarity": "Common",
+    "bearing": 218,
+    "coordinates": "-6.5804, 49.5016",
+    "clue": "Bearing 218°. Coords -6.5804, 49.5016. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 35,
+    "rarity": "Common",
+    "bearing": 266,
+    "coordinates": "-6.5252, 53.2758",
+    "clue": "Bearing 266°. Coords -6.5252, 53.2758. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 36,
+    "rarity": "Common",
+    "bearing": 146,
+    "coordinates": "-6.8107, 54.5146",
+    "clue": "Bearing 146°. Coords -6.8107, 54.5146. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 37,
+    "rarity": "Common",
+    "bearing": 227,
+    "coordinates": "-8.6526, 52.9438",
+    "clue": "Bearing 227°. Coords -8.6526, 52.9438. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 38,
+    "rarity": "Common",
+    "bearing": 216,
+    "coordinates": "-7.5210, 52.9649",
+    "clue": "Bearing 216°. Coords -7.5210, 52.9649. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 39,
+    "rarity": "Common",
+    "bearing": 305,
+    "coordinates": "-8.7996, 48.2871",
+    "clue": "Bearing 305°. Coords -8.7996, 48.2871. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 40,
+    "rarity": "Common",
+    "bearing": 227,
+    "coordinates": "-8.7615, 48.3576",
+    "clue": "Bearing 227°. Coords -8.7615, 48.3576. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 41,
+    "rarity": "Common",
+    "bearing": 329,
+    "coordinates": "-6.5797, 46.4254",
+    "clue": "Bearing 329°. Coords -6.5797, 46.4254. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 42,
+    "rarity": "Rare",
+    "bearing": 3,
+    "coordinates": "-5.3860, 52.3775",
+    "clue": "Bearing 3°. Coords -5.3860, 52.3775. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 43,
+    "rarity": "Common",
+    "bearing": 54,
+    "coordinates": "-6.1927, 48.5037",
+    "clue": "Bearing 54°. Coords -6.1927, 48.5037. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 44,
+    "rarity": "Common",
+    "bearing": 312,
+    "coordinates": "-8.5589, 55.9584",
+    "clue": "Bearing 312°. Coords -8.5589, 55.9584. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 45,
+    "rarity": "Rare",
+    "bearing": 333,
+    "coordinates": "-7.3148, 46.8260",
+    "clue": "Bearing 333°. Coords -7.3148, 46.8260. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 46,
+    "rarity": "Common",
+    "bearing": 339,
+    "coordinates": "-4.0390, 49.7598",
+    "clue": "Bearing 339°. Coords -4.0390, 49.7598. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 47,
+    "rarity": "Rare",
+    "bearing": 46,
+    "coordinates": "-6.5982, 49.1400",
+    "clue": "Bearing 46°. Coords -6.5982, 49.1400. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 48,
+    "rarity": "Rare",
+    "bearing": 136,
+    "coordinates": "-9.4002, 52.2729",
+    "clue": "Bearing 136°. Coords -9.4002, 52.2729. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 49,
+    "rarity": "Common",
+    "bearing": 261,
+    "coordinates": "-9.7056, 50.1387",
+    "clue": "Bearing 261°. Coords -9.7056, 50.1387. Count primes between lat*100 and lon."
+  },
+  {
+    "index": 50,
+    "rarity": "Rare",
+    "bearing": 42,
+    "coordinates": "-4.2177, 52.2498",
+    "clue": "Bearing 42°. Coords -4.2177, 52.2498. Count primes between lat*100 and lon."
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "name": "Gaulette Night Oath",
+  "description": "Midnight returns to Anse Gaulette where this mystical chapter began, but now the final chest lies half-buried beneath coiled rope and starlight. The witch lifts her veil for the ultimate revelation while the pirate plants his flag in sand that remembers countless tides. Runes spell 'ANSE GAULETTE' across the wave crests when read left to right, while the flagpole tilts to 320 degrees—the final bearing where breath holds and tide waits, and all secrets converge. Bearing 320°. Cipher output: UL. \"Read the sea left to right; breathe when the tide holds its breath.\"",
+  "image": "ipfs://bafybeigdmbe3w3sicbams7feowdzh5sqyzjcbxhcq575lezkzc5a3iqpiy",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Anse Gaulette",
+  "timeOfDay": "Midnight",
+  "weather": "low fog + starlight",
+  "bearingDeg": 320,
+  "tide": "Lowest",
+  "moonPhase": "New",
+  "cipherOutput": "UL",
+  "riddle": "Read the sea left to right; breathe when the tide holds its breath.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Gaulette"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "low fog + starlight"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "320°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Lowest"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "New"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "UL"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 160
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 18: The Pirate's Ghost",
+  "description": "Death could not silence his duty to the treasure. The spectral pirate points toward the inland mountains, his ghostly finger indicating where the final cache awaits.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Haunted Clearing, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Spectral Guide"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "The captain's spirit guides the worthy to the final destination"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 18
+    }
+  ],
+  "properties": {
+    "clue": "Ghostly Riddle: 'Beyond the mist, where eagles nest, lies what you seek'",
+    "visualElements": [
+      "Translucent ghostly pirate figure",
+      "Spectral hand pointing toward mountains",
+      "Ethereal mist surrounding ghost",
+      "Faint skull and crossbones on ghost's chest",
+      "Mountain silhouette in background",
+      "Otherworldly blue glow around spirit"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Witch-Winds at Intendance",
+  "description": "Blue hour descends upon Anse Intendance as sea mist rolls across the shore break. A weathered pirate helmsman clutches a brass lantern with five panes of glass, its amber light cutting through the gathering gloom. Behind him in the surf foam, a witch in a tattered shawl traces spiral runes with her fingertips, calling upon the ancient winds. Seven perfect spirals bloom in the foam where witch-craft meets tide, while the lantern's five panes catch the last light. Bearing 57°. Cipher output: LA. \"When the sea writes a spiral, count the panes that brave it.\"",
+  "image": "ipfs://bafybeidgwoqd6oku5mi3novv6zmwsicrsisaakstlkcapk6ugm44aqezqq",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Anse Intendance",
+  "timeOfDay": "Blue hour dusk",
+  "weather": "sea mist",
+  "bearingDeg": 57,
+  "tide": "Low",
+  "moonPhase": "First Quarter",
+  "cipherOutput": "LA",
+  "riddle": "When the sea writes a spiral, count the panes that brave it.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Intendance"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Blue hour dusk"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "sea mist"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "057°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "First Quarter"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "LA"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 141
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "Jungle River Passage",
+  "description": "Hidden waterways cutting through Mahé's dense tropical jungle, where pirates once moved treasure under the canopy's protective embrace.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmYNk3ffyosHdDP7YAq9BZwYw3wFuzQjpUnPaWmBsoNdV7",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "River"
+    },
+    {
+      "trait_type": "Biome",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Mystery",
+      "value": "Pirate Route"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7017
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

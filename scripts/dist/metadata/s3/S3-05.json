@@ -1,0 +1,31 @@
+{
+  "name": "S3-05 — Parrot of Mission Lodge",
+  "description": "S3-05 — Parrot of Mission Lodge. Clue: The arch’s shadow names the hour; the feather points your climb.",
+  "image": "/preview/chapter3/S3-05.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Mission Lodge (Sans Souci)"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Ruins"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Parrot"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

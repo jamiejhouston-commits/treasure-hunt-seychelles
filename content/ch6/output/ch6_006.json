@@ -1,0 +1,44 @@
+{
+  "name": "Anse Major: House of Smoke",
+  "description": "The ruined house above Anse Major wheezes char and molasses; nine curls of soot-smoke knot into a skull, two nailed leather straps creak beneath a splintered step, and seven scorched letters pulse ember-orange across the lintel. Naia keeps sketching even as gusts drive ash into her eyes, Kassim shoulders the door and coughs blood-tinged sputum, and Maliya draws sigils in soot that smear back as if licked by tongues. The shard in Kassim's satchel thrums when the 110° breeze knifes through the broken windows.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_006",
+  "bearingDeg": 110,
+  "cipherOutput": "A",
+  "cipherIndex": 6,
+  "hiddenClue": "(9 + 2) × 1 = 11 → 110°",
+  "riddle": "Count the breaths the smoke exhales; the straps and sigils finish the equation fire began.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 110
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "A"
+    },
+    {
+      "trait_type": "smokeCurls",
+      "value": 9
+    },
+    {
+      "trait_type": "leatherStraps",
+      "value": 2
+    },
+    {
+      "trait_type": "scorchedLetters",
+      "value": 7
+    }
+  ],
+  "image": "./ch6_006.png"
+}

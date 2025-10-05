@@ -1,0 +1,59 @@
+{
+  "id": "ch7_016",
+  "name": "La Digue Passage: White Birds on Wind",
+  "scene": "6 terns, 1 buoy, 3 beacons. Blink rate spells a number.",
+  "props": [
+    {
+      "name": "white_terns",
+      "value": 6,
+      "description": "Terns wheeling in formation"
+    },
+    {
+      "name": "channel_buoy",
+      "value": 1,
+      "description": "Navigation buoy bobbing"
+    },
+    {
+      "name": "signal_beacons",
+      "value": 3,
+      "description": "Blinking navigation beacons"
+    }
+  ],
+  "hiddenClue": "(6÷3)×1=2 → 20°",
+  "bearingDeg": 20,
+  "cipherOutput": "I",
+  "riddle": "A thought repeated becomes a path.",
+  "painterlyElements": {
+    "atmosphere": "channel_passage_navigation_rhythm",
+    "culturalStamps": [
+      "tern_flight_patterns",
+      "maritime_navigation"
+    ],
+    "brushTechnique": "wind_swept_feather_beacon_light_texture",
+    "layering": "background_passage_midground_buoy_foreground_terns"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of 6 terns, 1 buoy, 3 beacons. Blink rate spells a number.. channel_passage_navigation_rhythm with wind_swept_feather_beacon_light_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_passage_midground_buoy_foreground_terns. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: tern_flight_patterns, maritime_navigation. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

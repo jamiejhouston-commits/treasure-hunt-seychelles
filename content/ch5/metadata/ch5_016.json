@@ -1,0 +1,35 @@
+{
+  "name": "Broken Mast",
+  "description": "A ship's mast juts from reef shallows at precisely 190 degrees, its weathered wood carved with barnacle colonies that form cryptic letter shapes. The mast still points toward its final, secret destination.",
+  "image": "ipfs://bafkreibeucudvl6ufqndwjopd2cr4zt7mail7jejjqalhqmelqxok4diri",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "—",
+  "riddle": "Wood tilts, bearing its last course.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "wreck_patina"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "mast_angle"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "—"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 216
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "Mission Ruins: Dance of the Bound",
+  "description": "Moonlight paints the mission ruin in silver mildew where six masked dancers twirl across peeling frescoes; three cracked crosses lie broken on the floorboards, and two owl calls echo like distant bells. Naia mimics the choreography to unlock the pattern, Kassim sways despite bleeding soles, and Maliya matches each turn with a whispered counter-curse to keep the revenant's shadow at the door.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_010",
+  "bearingDeg": 110,
+  "cipherOutput": "A",
+  "cipherIndex": 10,
+  "hiddenClue": "6 + 3 + 2 = 11 → 110°",
+  "riddle": "Steps remember what tongues forget—add the dancers to the fallen symbols and the owls' warning to read the angle.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 110
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "A"
+    },
+    {
+      "trait_type": "dancers",
+      "value": 6
+    },
+    {
+      "trait_type": "crackedCrosses",
+      "value": 3
+    },
+    {
+      "trait_type": "owlCalls",
+      "value": 2
+    }
+  ],
+  "image": "./ch6_010.png"
+}

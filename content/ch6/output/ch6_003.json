@@ -1,0 +1,44 @@
+{
+  "name": "Granite Fissure: First Shard",
+  "description": "Copolia's granite spine splits around a lone bone-iron shard. Kassim pries it free while seven chalk tallies grind under Naia's thumb and nine fruit bats dust the map before Maliya seals clove smoke into the fissure.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_003",
+  "bearingDeg": 160,
+  "cipherOutput": "V",
+  "cipherIndex": 3,
+  "hiddenClue": "7 + 9 = 16 → 160°",
+  "riddle": "Stone remembers with seven marks, sky agrees with nine wings—align them to feel the pull.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 160
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "V"
+    },
+    {
+      "trait_type": "shards",
+      "value": 1
+    },
+    {
+      "trait_type": "tallies",
+      "value": 7
+    },
+    {
+      "trait_type": "bats",
+      "value": 9
+    }
+  ],
+  "image": "./ch6_003.png"
+}

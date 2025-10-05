@@ -1,0 +1,38 @@
+
+<svg width="2048" height="2048" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#133C55;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0D1B2A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A1830;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="2048" height="2048" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="1024" y="150" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="48" font-weight="bold">SE2-16 — MAJOR'S RETURN</text>
+  
+  <!-- Place -->
+  <text x="1024" y="220" text-anchor="middle" fill="#D9B45B" font-family="serif" font-size="32">Anse Major headland (return)</text>
+  
+  <!-- Hidden Letter (very faint) -->
+  <text x="1024" y="1200" text-anchor="middle" fill="#133C55" font-family="serif" font-size="400" font-weight="bold" opacity="0.3">L</text>
+  
+  <!-- Compass Ring -->
+  <circle cx="1024" cy="1024" r="300" fill="none" stroke="#D9B45B" stroke-width="8"/>
+  
+  <!-- Star overlay if needed -->
+  <polygon points="1174,385 1179,395 1189,395 1182,402 1184,412 1174,408 1164,412 1166,402 1159,395 1169,395" fill="#EAE7DC"/>
+<polygon points="1024,485 1029,495 1039,495 1032,502 1034,512 1024,508 1014,512 1016,502 1009,495 1019,495" fill="#EAE7DC"/>
+<polygon points="874,385 879,395 889,395 882,402 884,412 874,408 864,412 866,402 859,395 869,395" fill="#EAE7DC"/>
+<polygon points="1024,285 1029,295 1039,295 1032,302 1034,312 1024,308 1014,312 1016,302 1009,295 1019,295" fill="#EAE7DC"/>
+  
+  <!-- Clue text -->
+  <text x="1024" y="1700" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="24">Four lights on the cliff's brow</text>
+  <text x="1024" y="1750" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="24">send you back along the wound.</text>
+  
+  <!-- Visual description -->
+  <text x="100" y="1900" fill="#D9B45B" font-family="serif" font-size="20">Headland curve; four faint stars; dagger in rope coil; torn map corner....</text>
+</svg>

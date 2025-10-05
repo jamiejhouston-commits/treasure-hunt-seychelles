@@ -1,0 +1,46 @@
+{
+  "name": "SE2-01 — THE SHOREFALL LANDING",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Baie Lazare (Anse Gaulettes / Lazare Picault, Mahé). Where Picault first kissed shore, the moon drew a silver line.\nFollow it south, when the tide leaves a bowl of glass.",
+  "image": "ipfs://bafkreihedwwsob4pby4b4u3covfllyza7ec7kym74dltdbf6ydw5sa2cn4",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Baie Lazare (Anse Gaulettes / Lazare Picault, Mahé)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "B"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Ros Sodyer (Rock Pool, Anse Takamaka)"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "thin compass ring in shore foam; tiny runes on wet rock.",
+    "clue": "Where Picault first kissed shore, the moon drew a silver line.\nFollow it south, when the tide leaves a bowl of glass.",
+    "visual_description": "Moonlit surf curls into Baie Lazare. Low galleon silhouette in the shallows. Foreground: tricorn hat on rope coil; faint skull-and-sabers watermark; lantern glow on wet granite. Weathered roadside stone/marker hinted in brush (Picault)."
+  }
+}

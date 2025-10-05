@@ -1,0 +1,31 @@
+{
+  "name": "S3-01 — Landing at Anse Gaulette",
+  "description": "S3-01 — Landing at Anse Gaulette. Clue: Where Picault kissed the shore, the rope points past the teeth of granite.",
+  "image": "ipfs://bafybeia7uktd234qmb3fjuvdmhnvu7dbg35mej3qthcmhvywk5wpiqnyru",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Gaulette (Baie Lazare)"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Morning Sun"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Anchor"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

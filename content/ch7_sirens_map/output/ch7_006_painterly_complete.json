@@ -1,0 +1,59 @@
+{
+  "id": "ch7_006",
+  "name": "Fond Ferdinand: The Spiral Path",
+  "scene": "Steps like nautilus. 4 landings, 3 coco carvings, 5 pandanus.",
+  "props": [
+    {
+      "name": "spiral_landings",
+      "value": 4,
+      "description": "Nautilus-spiral stone landings"
+    },
+    {
+      "name": "coco_carvings",
+      "value": 3,
+      "description": "Carved coco de mer in stone"
+    },
+    {
+      "name": "pandanus_trees",
+      "value": 5,
+      "description": "Pandanus trees along path"
+    }
+  ],
+  "hiddenClue": "4×3+5=17 → 170°",
+  "bearingDeg": 170,
+  "cipherOutput": "M",
+  "riddle": "Follow the shell's mathematics.",
+  "painterlyElements": {
+    "atmosphere": "spiral_path_mathematical_nature",
+    "culturalStamps": [
+      "nautilus_patterns",
+      "carved_coco_motifs"
+    ],
+    "brushTechnique": "geometric_natural_spiral_texture",
+    "layering": "background_pandanus_midground_carvings_foreground_steps"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Steps like nautilus. 4 landings, 3 coco carvings, 5 pandanus.. spiral_path_mathematical_nature with geometric_natural_spiral_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_pandanus_midground_carvings_foreground_steps. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: nautilus_patterns, carved_coco_motifs. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

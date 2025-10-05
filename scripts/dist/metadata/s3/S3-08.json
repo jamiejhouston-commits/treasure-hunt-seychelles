@@ -1,0 +1,31 @@
+{
+  "name": "S3-08 — Intendance Thunder",
+  "description": "S3-08 — Intendance Thunder. Clue: Turn the scar on the coin toward calm; the shoreline will forgive.",
+  "image": "/preview/chapter3/S3-08.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Anse Intendance, Mahé"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Pre-Storm"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Coin"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

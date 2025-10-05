@@ -1,0 +1,44 @@
+{
+  "name": "The Revenant’s Hunt",
+  "description": "The jungle explodes into copper leaves as the revenant lunges from the dark with a half-mask of welded bone. Eight tree scars blaze where its claws struck, one flash of iron teeth blinds Kassim, and two salt circles Maliya hurls hiss on the damp earth. Naia's cat arches and shrieks like a war horn as the trio stumbles toward the 100° opening between strangler figs.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_011",
+  "bearingDeg": 100,
+  "cipherOutput": "S",
+  "cipherIndex": 11,
+  "hiddenClue": "8 × 1 + 2 = 10 → 100°",
+  "riddle": "When hunger wears a mask, count the wounds it leaves; the salt that survives will reveal your escape.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 100
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "S"
+    },
+    {
+      "trait_type": "treeScars",
+      "value": 8
+    },
+    {
+      "trait_type": "maskGleam",
+      "value": 1
+    },
+    {
+      "trait_type": "saltCircles",
+      "value": 2
+    }
+  ],
+  "image": "./ch6_011.png"
+}

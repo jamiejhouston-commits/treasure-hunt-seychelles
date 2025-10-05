@@ -1,0 +1,22 @@
+[
+  {"id":1,"label":"dawn parchment","saturation":1.08,"brightness":1.18,"warmth":0.18,"grain":0.22,"vignette":0.18,"parchmentStrength":0.05,"edgeBoost":0.12},
+  {"id":2,"label":"storm muted","saturation":0.92,"brightness":1.12,"warmth":-0.04,"grain":0.26,"vignette":0.22,"edgeBoost":0.08},
+  {"id":3,"label":"witch glow","saturation":1.14,"brightness":1.2,"warmth":0.22,"grain":0.24,"vignette":0.18,"edgeBoost":0.14},
+  {"id":4,"label":"moonlit","saturation":0.88,"brightness":1.08,"warmth":-0.06,"grain":0.28,"vignette":0.24,"parchmentStrength":0.02,"edgeBoost":0.06},
+  {"id":5,"label":"tide teal","saturation":1.12,"brightness":1.16,"warmth":-0.02,"grain":0.23,"vignette":0.2,"edgeBoost":0.1},
+  {"id":6,"label":"ember relic","saturation":1.04,"brightness":1.15,"warmth":0.26,"grain":0.27,"vignette":0.21,"grainBoost":0.05,"edgeBoost":0.16},
+  {"id":7,"label":"jungle moss","saturation":0.98,"brightness":1.13,"warmth":-0.03,"grain":0.25,"vignette":0.19,"parchmentStrength":0.03},
+  {"id":8,"label":"talisman gold","saturation":1.16,"brightness":1.19,"warmth":0.3,"grain":0.22,"vignette":0.17,"edgeBoost":0.2},
+  {"id":9,"label":"seer vision","saturation":1.1,"brightness":1.18,"warmth":0.16,"grain":0.21,"vignette":0.18,"grainBoost":0.04},
+  {"id":10,"label":"abyss fade","saturation":0.86,"brightness":1.09,"warmth":-0.08,"grain":0.27,"vignette":0.26,"edgeBoost":0.07},
+  {"id":11,"label":"rusted map","saturation":0.94,"brightness":1.11,"warmth":0.12,"grain":0.26,"vignette":0.21,"parchmentStrength":0.04},
+  {"id":12,"label":"crystal hush","saturation":1.02,"brightness":1.17,"warmth":0.05,"grain":0.2,"vignette":0.16,"edgeBoost":0.1},
+  {"id":13,"label":"deep rune","saturation":0.9,"brightness":1.1,"warmth":-0.05,"grain":0.29,"vignette":0.23,"edgeBoost":0.05},
+  {"id":14,"label":"sunken glow","saturation":1.06,"brightness":1.16,"warmth":0.18,"grain":0.23,"vignette":0.19,"grainBoost":0.03,"edgeBoost":0.09},
+  {"id":15,"label":"silent relic","saturation":0.88,"brightness":1.08,"warmth":-0.02,"grain":0.3,"vignette":0.25,"parchmentStrength":0.01},
+  {"id":16,"label":"oracle flare","saturation":1.2,"brightness":1.2,"warmth":0.32,"grain":0.22,"vignette":0.18,"edgeBoost":0.18},
+  {"id":17,"label":"kelp dusk","saturation":0.96,"brightness":1.12,"warmth":-0.04,"grain":0.26,"vignette":0.22,"edgeBoost":0.08},
+  {"id":18,"label":"reef ember","saturation":1.08,"brightness":1.17,"warmth":0.24,"grain":0.25,"vignette":0.2,"grainBoost":0.04},
+  {"id":19,"label":"whisper frost","saturation":0.9,"brightness":1.1,"warmth":-0.07,"grain":0.27,"vignette":0.21,"edgeBoost":0.06},
+  {"id":20,"label":"arcane tide","saturation":1.15,"brightness":1.19,"warmth":0.2,"grain":0.24,"vignette":0.18,"edgeBoost":0.11}
+]

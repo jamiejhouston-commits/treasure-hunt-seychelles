@@ -1,0 +1,28 @@
+{
+  "name": "Witch-Winds of Mahé Card 14",
+  "description": "A beautifully crafted treasure card from Witch-Winds of Mahé, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeid32h7zlrvhysopozcdqgjths3eot4lyegd362zwxffhdzxk6lsw4",
+  "chapter": "Witch-Winds of Mahé",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "granite"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 14
+    }
+  ],
+  "properties": {
+    "tokenId": 14,
+    "chapter": "Witch-Winds of Mahé"
+  }
+}

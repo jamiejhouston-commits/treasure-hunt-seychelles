@@ -1,0 +1,35 @@
+{
+  "name": "Old Anchorage",
+  "description": "Carved into volcanic stone, an iron mooring ring catches twin flames from ceremonial torches. The dancing light carves cipher letters into shadow and flame, marking where ships once anchored in darker times.",
+  "image": "ipfs://bafkreidpxllddg4emx5vufqsxj6vo4gikd5o2kkwi7jyanrz27puklpqjy",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "LA",
+  "riddle": "Light split in two points to the ring that holds.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "stone_carving"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "monument_detail"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "LA"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 204
+  }
+}

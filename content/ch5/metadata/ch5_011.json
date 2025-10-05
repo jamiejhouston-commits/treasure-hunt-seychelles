@@ -1,0 +1,35 @@
+{
+  "name": "Cliff Echo",
+  "description": "Sheer cliff faces create perfect acoustic chambers where every shout returns as paired echoes. The sound waves themselves form visible letter patterns in spray and mist, spelling secrets in doubled voice.",
+  "image": "ipfs://bafkreif6jrb6ehhbkm57yv7di75yvmqlohevvnt26rqu5s2zvg4f7izzfe",
+  "chapter": "V — Cerf Island Shadows",
+  "island": "Cerf Island",
+  "cipherOutput": "KE",
+  "riddle": "The echo answers in doubles.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "V — Cerf Island Shadows"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Cerf Island"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "sound_wave"
+    },
+    {
+      "trait_type": "Composition",
+      "value": "cliff_profile"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "KE"
+    }
+  ],
+  "properties": {
+    "chapter": "V — Cerf Island Shadows",
+    "tokenId": 211
+  }
+}

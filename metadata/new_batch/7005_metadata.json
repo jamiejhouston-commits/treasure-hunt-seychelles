@@ -1,0 +1,45 @@
+{
+  "name": "Seychelles Treasure Clue #7005",
+  "description": "A cryptographic clue leading to the legendary treasure of Olivier Levasseur, hidden somewhere in the pristine islands of Seychelles.",
+  "image": "https://gateway.pinata.cloud/ipfs/Qmezv9c7VGYnWmUoCGv5AkQSEQADVt1eMuXfvDb19cKyTL",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Treasure Clue"
+    },
+    {
+      "trait_type": "Island Group",
+      "value": "Seychelles"
+    },
+    {
+      "trait_type": "Mystery",
+      "value": "Levasseur"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7005
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

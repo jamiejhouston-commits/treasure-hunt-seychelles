@@ -1,0 +1,44 @@
+{
+  "name": "Cemetery Gate: The Quiet Arithmetic",
+  "description": "Cold camphor breathes from the cemetery gate; three skulls mortar the arch, eight guttering candles spit wax, and the falls' iron key rests on moss-slick stone. Naia reads the dates backward while Kassim guards the satchel and Maliya seals wax over her palms.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_016",
+  "bearingDeg": 110,
+  "cipherOutput": "E",
+  "cipherIndex": 16,
+  "hiddenClue": "3 + 8 = 11 → 110°",
+  "riddle": "Skulls remember, candles confess, the key waits—add the witnesses and the light to reach the next resting place.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 110
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "E"
+    },
+    {
+      "trait_type": "skulls",
+      "value": 3
+    },
+    {
+      "trait_type": "candles",
+      "value": 8
+    },
+    {
+      "trait_type": "ironKey",
+      "value": 1
+    }
+  ],
+  "image": "./ch6_016.png"
+}

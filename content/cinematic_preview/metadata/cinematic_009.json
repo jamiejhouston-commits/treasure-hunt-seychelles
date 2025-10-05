@@ -1,0 +1,19 @@
+{
+  "name": "Cinematic Treasure Panel #9",
+  "description": "Cinematic Seychelles pirate adventure scene generated procedurally.",
+  "image": "ipfs://TO-BE-UPLOADED/cinematic_009.png",
+  "attributes": [
+    {
+      "trait_type": "Template",
+      "value": "scroll_fortress_channel"
+    },
+    {
+      "trait_type": "Hero Object",
+      "value": "map_scroll"
+    },
+    {
+      "trait_type": "Seed",
+      "value": "GOLDEN-HOUR"
+    }
+  ]
+}

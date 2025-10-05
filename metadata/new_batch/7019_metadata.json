@@ -1,0 +1,45 @@
+{
+  "name": "Forest Spirits of Mahé",
+  "description": "Ancient spirits dwelling in Mahé's primordial forests, guardians of secrets that predate even Levasseur's buried treasure.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZ4EbBmLcHSThQHW3HPBj9nC4gnB9o972rZUfprBMGii3",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Mystical",
+      "value": "Forest Spirits"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Nature"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Token ID",
+      "value": 7019
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Seychelles Heritage"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Levasseur Treasure"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "r4Kv7mM3LPtLZCydMgpwoBRtftf37195PH",
+        "share": 100
+      }
+    ]
+  }
+}

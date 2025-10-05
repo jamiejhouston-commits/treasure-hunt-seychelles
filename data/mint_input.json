@@ -1,0 +1,470 @@
+[
+  {
+    "tokenId": "treasure-hunt-ch1-1",
+    "metadataUri": "ipfs://QmTjjYJYRiuMAqW99khUsy73bWgrniHYFArGxhxY5uD6aA",
+    "originalData": {
+      "id": 1,
+      "name": "Seychelles Treasure #1",
+      "description": "Chapter 1: The Trail Begins - NFT #1",
+      "image_ipfs": "QmVo27NmwsrT4KcAjRS7U48YqHPejKHssnKVV7zSqJVYh9",
+      "metadata_ipfs": "QmTjjYJYRiuMAqW99khUsy73bWgrniHYFArGxhxY5uD6aA",
+      "chapter": "Chapter 1",
+      "rarity": "Epic",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmVo27NmwsrT4KcAjRS7U48YqHPejKHssnKVV7zSqJVYh9",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-2",
+    "metadataUri": "ipfs://QmXcLHydhP8zzi3jgJjYuBSVWGNe67Fi4BvBw7GVDq43Am",
+    "originalData": {
+      "id": 2,
+      "name": "Seychelles Treasure #2",
+      "description": "Chapter 1: The Trail Begins - NFT #2",
+      "image_ipfs": "QmZw9AAC9ur4aDEQnwbCR6rzXFXxUQw6rz4ZT1Qy1p73Px",
+      "metadata_ipfs": "QmXcLHydhP8zzi3jgJjYuBSVWGNe67Fi4BvBw7GVDq43Am",
+      "chapter": "Chapter 1",
+      "rarity": "Uncommon",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmZw9AAC9ur4aDEQnwbCR6rzXFXxUQw6rz4ZT1Qy1p73Px",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-3",
+    "metadataUri": "ipfs://QmPdMHXRNzempNpBY7q1RCaraPxvNJbkfk6GTMpyPDoFt9",
+    "originalData": {
+      "id": 3,
+      "name": "Seychelles Treasure #3",
+      "description": "Chapter 1: The Trail Begins - NFT #3",
+      "image_ipfs": "QmWyhsfLepCWP5vMS4pbkf7JFG6EbQQHwQfofu1JsLpbFT",
+      "metadata_ipfs": "QmPdMHXRNzempNpBY7q1RCaraPxvNJbkfk6GTMpyPDoFt9",
+      "chapter": "Chapter 1",
+      "rarity": "Common",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmWyhsfLepCWP5vMS4pbkf7JFG6EbQQHwQfofu1JsLpbFT",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-4",
+    "metadataUri": "ipfs://QmXzodAZNH2ZyxLhL66tUwmAAxbhQ4NETSYhwwJRkmkyuA",
+    "originalData": {
+      "id": 4,
+      "name": "Seychelles Treasure #4",
+      "description": "Chapter 1: The Trail Begins - NFT #4",
+      "image_ipfs": "QmVGGKPuncSt43sDfiZdqeQRHJ7Svms5TLJGSVuKKJ3snn",
+      "metadata_ipfs": "QmXzodAZNH2ZyxLhL66tUwmAAxbhQ4NETSYhwwJRkmkyuA",
+      "chapter": "Chapter 1",
+      "rarity": "Common",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmVGGKPuncSt43sDfiZdqeQRHJ7Svms5TLJGSVuKKJ3snn",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-5",
+    "metadataUri": "ipfs://QmXE1QPt6Fv13T5mkQ4PNUu845TsEJDnYS6nWA3kfj7HAy",
+    "originalData": {
+      "id": 5,
+      "name": "Seychelles Treasure #5",
+      "description": "Chapter 1: The Trail Begins - NFT #5 (Contains Puzzle Clue)",
+      "image_ipfs": "QmZZbJnAg2Js3i7exxz2oSY2cpS3VCXEtTDvx5P32RNBLR",
+      "metadata_ipfs": "QmXE1QPt6Fv13T5mkQ4PNUu845TsEJDnYS6nWA3kfj7HAy",
+      "chapter": "Chapter 1",
+      "rarity": "Rare",
+      "puzzle_enabled": true,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmZZbJnAg2Js3i7exxz2oSY2cpS3VCXEtTDvx5P32RNBLR",
+          "description": "Original Seychelles artwork"
+        },
+        {
+          "layer": 1,
+          "type": "cipher_text",
+          "ipfs_hash": "QmRrRdu5tq5W1T143MMC3jAnu1GHGvMcH7z1Rkd76vuY6B",
+          "description": "Encrypted message - what does it say?",
+          "hint": "HUZL THQVY AYHNSI"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-6",
+    "metadataUri": "ipfs://QmawqQ7Q76rHo5sAk5Hi9eTdyzFHEVtYRoYCe9uGb24Kmo",
+    "originalData": {
+      "id": 6,
+      "name": "Seychelles Treasure #6",
+      "description": "Chapter 1: The Trail Begins - NFT #6",
+      "image_ipfs": "QmU3sQwpH2PigDy3wE6dbMbpspxbBRva6s5SazQBy34sdu",
+      "metadata_ipfs": "QmawqQ7Q76rHo5sAk5Hi9eTdyzFHEVtYRoYCe9uGb24Kmo",
+      "chapter": "Chapter 1",
+      "rarity": "Common",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmU3sQwpH2PigDy3wE6dbMbpspxbBRva6s5SazQBy34sdu",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-7",
+    "metadataUri": "ipfs://QmVXQs4SE8of6MhJDjMM6e5qNxkTpZ4GeJVZvtBap8FYLU",
+    "originalData": {
+      "id": 7,
+      "name": "Seychelles Treasure #7",
+      "description": "Chapter 1: The Trail Begins - NFT #7",
+      "image_ipfs": "QmPfFvbHij4Ntct5jywuyJSThDc8EsyAAYmG4mbWxn21j6",
+      "metadata_ipfs": "QmVXQs4SE8of6MhJDjMM6e5qNxkTpZ4GeJVZvtBap8FYLU",
+      "chapter": "Chapter 1",
+      "rarity": "Uncommon",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmPfFvbHij4Ntct5jywuyJSThDc8EsyAAYmG4mbWxn21j6",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-8",
+    "metadataUri": "ipfs://QmUUvbCqXuejY2PTH4n8naXGPnkxXTxghXaUYkrfDirfsr",
+    "originalData": {
+      "id": 8,
+      "name": "Seychelles Treasure #8",
+      "description": "Chapter 1: The Trail Begins - NFT #8",
+      "image_ipfs": "QmbsaJpRAKjjSZjGbGoR9dBJmtaNFVoct7E2sj6uBRud4Q",
+      "metadata_ipfs": "QmUUvbCqXuejY2PTH4n8naXGPnkxXTxghXaUYkrfDirfsr",
+      "chapter": "Chapter 1",
+      "rarity": "Rare",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmbsaJpRAKjjSZjGbGoR9dBJmtaNFVoct7E2sj6uBRud4Q",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-9",
+    "metadataUri": "ipfs://Qme6mAcqqrP7bFim2PGHWHbCyDEi2HwsdtQ773Yzm1c8er",
+    "originalData": {
+      "id": 9,
+      "name": "Seychelles Treasure #9",
+      "description": "Chapter 1: The Trail Begins - NFT #9",
+      "image_ipfs": "QmdhCHx8ANdDLzRACX4TyxgqTGXtExNHjG9XUaAjbxVyRK",
+      "metadata_ipfs": "Qme6mAcqqrP7bFim2PGHWHbCyDEi2HwsdtQ773Yzm1c8er",
+      "chapter": "Chapter 1",
+      "rarity": "Common",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmdhCHx8ANdDLzRACX4TyxgqTGXtExNHjG9XUaAjbxVyRK",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-10",
+    "metadataUri": "ipfs://QmRBq72DpahTt8CBVm1cV8YwV7kbMK9nKXztED3H8bQ8go",
+    "originalData": {
+      "id": 10,
+      "name": "Seychelles Treasure #10",
+      "description": "Chapter 1: The Trail Begins - NFT #10",
+      "image_ipfs": "QmeqiseQfk7FB8Mv7gUWi4CGnKe4dCRjFSCobXdfsBM9bi",
+      "metadata_ipfs": "QmRBq72DpahTt8CBVm1cV8YwV7kbMK9nKXztED3H8bQ8go",
+      "chapter": "Chapter 1",
+      "rarity": "Common",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmeqiseQfk7FB8Mv7gUWi4CGnKe4dCRjFSCobXdfsBM9bi",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-11",
+    "metadataUri": "ipfs://Qmcj3R2NLf4LuaS9JjpCBxe7W2XANh4L1Smyumj45FnrES",
+    "originalData": {
+      "id": 11,
+      "name": "Seychelles Treasure #11",
+      "description": "Chapter 1: The Trail Begins - NFT #11",
+      "image_ipfs": "QmcCUskrz2R6CdG2PpbkVj7Ghtzen8xcvJAcbRvYb8FZPR",
+      "metadata_ipfs": "Qmcj3R2NLf4LuaS9JjpCBxe7W2XANh4L1Smyumj45FnrES",
+      "chapter": "Chapter 1",
+      "rarity": "Uncommon",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmcCUskrz2R6CdG2PpbkVj7Ghtzen8xcvJAcbRvYb8FZPR",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-12",
+    "metadataUri": "ipfs://QmXBzXJt1FHrRHkyDRUB56fhohCMP5odSPVvwWyhgVsTrt",
+    "originalData": {
+      "id": 12,
+      "name": "Seychelles Treasure #12",
+      "description": "Chapter 1: The Trail Begins - NFT #12 (Contains Puzzle Clue)",
+      "image_ipfs": "QmZWAUS5UDEvLxfe9ATLuueVmvFw9j2Shnmn1W4A2wu5fG",
+      "metadata_ipfs": "QmXBzXJt1FHrRHkyDRUB56fhohCMP5odSPVvwWyhgVsTrt",
+      "chapter": "Chapter 1",
+      "rarity": "Rare",
+      "puzzle_enabled": true,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmZWAUS5UDEvLxfe9ATLuueVmvFw9j2Shnmn1W4A2wu5fG",
+          "description": "Original Seychelles artwork"
+        },
+        {
+          "layer": 2,
+          "type": "map_fragment",
+          "ipfs_hash": "QmVUUPYBAm9TGRBa8vQdozBw7NmiFYM7cLfPZjsVJBei2g",
+          "description": "Ancient map fragment showing a trail",
+          "hint": "trail_map"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-13",
+    "metadataUri": "ipfs://QmTXSWXirAKkAzaVYYaXAXfauKaWh6P9sRocfMUpcjrrRX",
+    "originalData": {
+      "id": 13,
+      "name": "Seychelles Treasure #13",
+      "description": "Chapter 1: The Trail Begins - NFT #13",
+      "image_ipfs": "QmV52yttSzWfs2Hjy8WudKRiBSCNyyayu5SrAiBXamNAXz",
+      "metadata_ipfs": "QmTXSWXirAKkAzaVYYaXAXfauKaWh6P9sRocfMUpcjrrRX",
+      "chapter": "Chapter 1",
+      "rarity": "Common",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmV52yttSzWfs2Hjy8WudKRiBSCNyyayu5SrAiBXamNAXz",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-14",
+    "metadataUri": "ipfs://QmV1RCQWWXQkBW423pgVHhrJynGcyVx5F1vdSFTUmL1Snu",
+    "originalData": {
+      "id": 14,
+      "name": "Seychelles Treasure #14",
+      "description": "Chapter 1: The Trail Begins - NFT #14",
+      "image_ipfs": "QmYaDJZXLgs4G5TwiHRnGd1tdcSu4GeuVSdVq6DkKTdrfj",
+      "metadata_ipfs": "QmV1RCQWWXQkBW423pgVHhrJynGcyVx5F1vdSFTUmL1Snu",
+      "chapter": "Chapter 1",
+      "rarity": "Uncommon",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmYaDJZXLgs4G5TwiHRnGd1tdcSu4GeuVSdVq6DkKTdrfj",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-15",
+    "metadataUri": "ipfs://QmQLpRKcasMVSh69YCod4JbmUEkPFohpWKSUSJWmjqgfbT",
+    "originalData": {
+      "id": 15,
+      "name": "Seychelles Treasure #15",
+      "description": "Chapter 1: The Trail Begins - NFT #15",
+      "image_ipfs": "QmceRdbaVddMWmSs6KcTDMaTszGNjbeg2dAuRtvK5DGtkJ",
+      "metadata_ipfs": "QmQLpRKcasMVSh69YCod4JbmUEkPFohpWKSUSJWmjqgfbT",
+      "chapter": "Chapter 1",
+      "rarity": "Common",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmceRdbaVddMWmSs6KcTDMaTszGNjbeg2dAuRtvK5DGtkJ",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-16",
+    "metadataUri": "ipfs://QmRDUJRa23Bwe9jAak7S8c8wofzfgi7asRFoLmRL5FsrnH",
+    "originalData": {
+      "id": 16,
+      "name": "Seychelles Treasure #16",
+      "description": "Chapter 1: The Trail Begins - NFT #16",
+      "image_ipfs": "Qmf7ghw1i16qxEwdAJS78sQQea9QQZyxifxWA9cByhH5Rp",
+      "metadata_ipfs": "QmRDUJRa23Bwe9jAak7S8c8wofzfgi7asRFoLmRL5FsrnH",
+      "chapter": "Chapter 1",
+      "rarity": "Uncommon",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "Qmf7ghw1i16qxEwdAJS78sQQea9QQZyxifxWA9cByhH5Rp",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-17",
+    "metadataUri": "ipfs://Qmat8j3C3wLkVXA1MQGc4AsJwAvbYBtDmJT5unJXK2JAf9",
+    "originalData": {
+      "id": 17,
+      "name": "Seychelles Treasure #17",
+      "description": "Chapter 1: The Trail Begins - NFT #17 (Contains Puzzle Clue)",
+      "image_ipfs": "Qme6uszyfoGz6FRHehMLCpreX95ETCdiarxeQjMY27XXxc",
+      "metadata_ipfs": "Qmat8j3C3wLkVXA1MQGc4AsJwAvbYBtDmJT5unJXK2JAf9",
+      "chapter": "Chapter 1",
+      "rarity": "Rare",
+      "puzzle_enabled": true,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "Qme6uszyfoGz6FRHehMLCpreX95ETCdiarxeQjMY27XXxc",
+          "description": "Original Seychelles artwork"
+        },
+        {
+          "layer": 3,
+          "type": "decoding_key",
+          "ipfs_hash": "QmWWDYFpsQCbFHidEXKgwdwGKueJoBXhvMGwsgVLjKZFvA",
+          "description": "The key to unlock the cipher",
+          "hint": "SHIFT BY SEVEN"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-18",
+    "metadataUri": "ipfs://QmTgBwZPFuNEZkc2NNFx44XQSCS29x4uS9eLwFrgV1zpob",
+    "originalData": {
+      "id": 18,
+      "name": "Seychelles Treasure #18",
+      "description": "Chapter 1: The Trail Begins - NFT #18",
+      "image_ipfs": "QmSaBqanYS4msELBdedtvzNCh8DnKuBuXo4T5aQLAc952h",
+      "metadata_ipfs": "QmTgBwZPFuNEZkc2NNFx44XQSCS29x4uS9eLwFrgV1zpob",
+      "chapter": "Chapter 1",
+      "rarity": "Common",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmSaBqanYS4msELBdedtvzNCh8DnKuBuXo4T5aQLAc952h",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-19",
+    "metadataUri": "ipfs://QmWMvMfTcZT1Z1gANR1k3JM5NkpaL6m258ydYSHG1EFbX4",
+    "originalData": {
+      "id": 19,
+      "name": "Seychelles Treasure #19",
+      "description": "Chapter 1: The Trail Begins - NFT #19",
+      "image_ipfs": "QmZGhTQByoYpuJqdZPEiMhMrzL4CXChev2Cghut9dp83Hu",
+      "metadata_ipfs": "QmWMvMfTcZT1Z1gANR1k3JM5NkpaL6m258ydYSHG1EFbX4",
+      "chapter": "Chapter 1",
+      "rarity": "Epic",
+      "puzzle_enabled": false,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmZGhTQByoYpuJqdZPEiMhMrzL4CXChev2Cghut9dp83Hu",
+          "description": "Original Seychelles artwork"
+        }
+      ]
+    }
+  },
+  {
+    "tokenId": "treasure-hunt-ch1-20",
+    "metadataUri": "ipfs://QmbR9XBfcWFyULVpfcPgn7ZuABxUf6ZznYY7ZzQKhHVzRP",
+    "originalData": {
+      "id": 20,
+      "name": "Seychelles Treasure #20",
+      "description": "Chapter 1: The Trail Begins - NFT #20 (Contains Puzzle Clue)",
+      "image_ipfs": "QmcMggHSbZwJ62anEMup9W3XGG3McBJRH16a1LX1JyK4vs",
+      "metadata_ipfs": "QmbR9XBfcWFyULVpfcPgn7ZuABxUf6ZznYY7ZzQKhHVzRP",
+      "chapter": "Chapter 1",
+      "rarity": "Uncommon",
+      "puzzle_enabled": true,
+      "layers": [
+        {
+          "layer": 0,
+          "type": "base_artwork",
+          "ipfs_hash": "QmcMggHSbZwJ62anEMup9W3XGG3McBJRH16a1LX1JyK4vs",
+          "description": "Original Seychelles artwork"
+        },
+        {
+          "layer": 1,
+          "type": "coordinates",
+          "ipfs_hash": "QmcHgyga8PKkLnnP4MnRh2ypVSrHwKWKgeXggKQGvY6iCG",
+          "description": "Geographic coordinates in Seychelles",
+          "hint": "4.6167° S, 55.4167° E"
+        }
+      ]
+    }
+  }
+]

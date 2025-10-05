@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 10: The Watcher's Skull",
+  "description": "Death stands sentinel on a weathered pole, warning travelers of the price of greed. This marker divides the true path from the false, for those wise enough to read its meaning.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Jungle Trail, Mahé Interior"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Warning Skull"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Pirate marker warning of false trails and true dangers"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 10
+    }
+  ],
+  "properties": {
+    "clue": "Path Riddle: 'Left leads to death, right to gold, choose wisely bold'",
+    "visualElements": [
+      "Human skull mounted on wooden pole",
+      "Jungle vines growing around pole",
+      "Two diverging paths in dense vegetation",
+      "Warning symbols carved into pole",
+      "Pirate bandana tied to pole",
+      "Mysterious fog swirling around base"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Witch-Winds of Mahé Card 6",
+  "description": "A beautifully crafted treasure card from Witch-Winds of Mahé, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeihp6zfco6il6diyrqfpiqup2lct6vsdzrfmzb476aygbocb7xwsee",
+  "chapter": "Witch-Winds of Mahé",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "underwater"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 6
+    }
+  ],
+  "properties": {
+    "tokenId": 6,
+    "chapter": "Witch-Winds of Mahé"
+  }
+}

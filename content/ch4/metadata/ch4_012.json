@@ -1,0 +1,61 @@
+{
+  "name": "Eden Channel Lights",
+  "description": "Night transforms Victoria harbor into a constellation of earthbound stars, each light reflecting in the dark channel waters like fallen pieces of Orion. A pirate stands at the rail while a witch cups a flame that hides ancient runes in its flickering dance. Three lanterns of different heights spell Morse code in the darkness—dot-dash, the shorter song that sailors know means 'A' for anchorage, for arrival, for the end of all voyaging. Bearing 278°. Cipher output: UL. \"Where man's stars mirror heaven's, read the shorter song.\"",
+  "image": "ipfs://bafybeia2jmmhhjhejl2rcdd6t7mpseyczcaxddwlh2byhbhhd7cmuttj6m",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Victoria / Eden Island channel",
+  "timeOfDay": "Night",
+  "weather": "clear sky",
+  "bearingDeg": 278,
+  "tide": "Slack",
+  "moonPhase": "New",
+  "cipherOutput": "UL",
+  "riddle": "Where man's stars mirror heaven's, read the shorter song.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Victoria / Eden Island channel"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "clear sky"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "278°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Slack"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "New"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "UL"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 152
+  }
+}

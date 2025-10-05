@@ -1,0 +1,20 @@
+    try {
+      const solutionData = {
+        chapter: 'chapter1',
+        answer: solution.trim(),
+        wallet_address: address || null
+      };
+
+      const result = await submitSolution(solutionData);
+      
+      // Add to local submissions history
+      const newSubmission = {
+        id: Date.now(),
+        timestamp: new Date().toISOString(),
+        solution: solution.trim(),
+        coordinates: {
+          latitude: parseFloat(latitude),
+          longitude: parseFloat(longitude)
+        },
+        success: result.success
+      };

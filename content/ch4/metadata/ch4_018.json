@@ -1,0 +1,61 @@
+{
+  "name": "Takamaka Sign",
+  "description": "Salt haze softens the late afternoon light filtering through the massive takamaka roots that tower like cathedral buttresses. A witch nails a silk ribbon to the ancient bark while a pirate carves a compass rose into the living wood. The carved needle points to 169 degrees, while the ribbon bears three holes that breathe the numbers 1-6-9—a trinity of direction where root wisdom and human craft converge. Bearing 169°. Cipher output: PI. \"The root points where the ribbon breathes.\"",
+  "image": "ipfs://bafybeiedfhnlogow3y5exxrr5g5ji5ylrlaeicttosi5f4qadjdx3sfsdu",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Takamaka",
+  "timeOfDay": "Late afternoon",
+  "weather": "salt haze",
+  "bearingDeg": 169,
+  "tide": "Falling",
+  "moonPhase": "Waxing Gibbous",
+  "cipherOutput": "PI",
+  "riddle": "The root points where the ribbon breathes.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Takamaka"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Late afternoon"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "salt haze"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "169°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Falling"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waxing Gibbous"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "PI"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 158
+  }
+}

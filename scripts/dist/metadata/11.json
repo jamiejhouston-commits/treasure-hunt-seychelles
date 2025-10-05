@@ -1,0 +1,33 @@
+{
+  "name": "Levasseur Fragment #011 — Mahé Manuscript",
+  "description": "A Seychelles cartographic fragment. Island Mahé; Chapter Mahé Manuscripts. Bearing 321°, coords -9.4854, 52.0293.",
+  "image": "ipfs://PLACEHOLDER/11.png",
+  "attributes": [
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "321°"
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "Mahé Manuscripts"
+    }
+  ],
+  "clue": {
+    "type": "coord",
+    "value": "-9.4854, 52.0293",
+    "hint": "Bearing 321°. Coords -9.4854, 52.0293."
+  },
+  "external_url": "https://treasureofseychelles.com/nft/11",
+  "collection": {
+    "name": "Treasure of Seychelles",
+    "chapter": "Mahé Manuscripts"
+  }
+}

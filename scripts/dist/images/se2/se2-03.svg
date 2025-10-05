@@ -1,0 +1,35 @@
+
+<svg width="2048" height="2048" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#133C55;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0D1B2A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A1830;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="2048" height="2048" fill="url(#bgGradient)"/>
+  
+  <!-- Title -->
+  <text x="1024" y="150" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="48" font-weight="bold">SE2-03 — THE HOLLOW AT BOILEAU</text>
+  
+  <!-- Place -->
+  <text x="1024" y="220" text-anchor="middle" fill="#D9B45B" font-family="serif" font-size="32">Anse Boileau</text>
+  
+  <!-- Hidden Letter (very faint) -->
+  <text x="1024" y="1200" text-anchor="middle" fill="#133C55" font-family="serif" font-size="400" font-weight="bold" opacity="0.3">I</text>
+  
+  <!-- Compass Ring -->
+  <circle cx="1024" cy="1024" r="300" fill="none" stroke="#D9B45B" stroke-width="8"/>
+  
+  <!-- Star overlay if needed -->
+  
+  
+  <!-- Clue text -->
+  <text x="1024" y="1700" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="24">In Boileau's hollow, a blade once bit the map.</text>
+  <text x="1024" y="1750" text-anchor="middle" fill="#EAE7DC" font-family="serif" font-size="24">Lift the stone; the hillside whispers where to climb.</text>
+  
+  <!-- Visual description -->
+  <text x="100" y="1900" fill="#D9B45B" font-family="serif" font-size="20">Stream through mangrove; a hollow stone with scratch marks; dagger pommel in san...</text>
+</svg>

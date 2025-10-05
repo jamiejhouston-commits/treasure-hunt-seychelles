@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 05: The Pirate's Parrot",
+  "description": "Polly knows more than she squawks. Perched on a broken mast, she clutches a scroll fragment that may hold the key to everything the crew seeks.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Shipwreck Site, Mahé Coast"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Scroll Fragment"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "The captain's faithful companion guards crucial intelligence"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 5
+    }
+  ],
+  "properties": {
+    "clue": "Torn Map Piece: '...cave entrance marked by three palms...'",
+    "visualElements": [
+      "Colorful parrot perched on broken ship mast",
+      "Torn scroll fragment in parrot's talon",
+      "Shipwreck debris scattered on beach",
+      "Tropical sunset in background",
+      "Pirate hat floating in tide pool",
+      "Message bottle half-buried in sand"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

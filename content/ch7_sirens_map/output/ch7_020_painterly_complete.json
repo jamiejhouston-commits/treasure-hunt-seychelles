@@ -1,0 +1,59 @@
+{
+  "id": "ch7_020",
+  "name": "Pointe Chevalier: Siren's Map Restored",
+  "scene": "Fragments unfurl across water. 10 stars, 5 glyphs, 1 spiral. The map spells 'SIREN MAP PRASLIN ISLES.'",
+  "props": [
+    {
+      "name": "map_stars",
+      "value": 10,
+      "description": "Navigation stars on the restored map"
+    },
+    {
+      "name": "ancient_glyphs",
+      "value": 5,
+      "description": "Glyphs revealing the cipher"
+    },
+    {
+      "name": "central_spiral",
+      "value": 1,
+      "description": "Spiral binding all elements"
+    }
+  ],
+  "hiddenClue": "10+5+1=16 → 160°",
+  "bearingDeg": 160,
+  "cipherOutput": "S",
+  "riddle": "When sea and sky agree, read the music.",
+  "painterlyElements": {
+    "atmosphere": "map_revelation_siren_song_completion",
+    "culturalStamps": [
+      "complete_siren_map",
+      "praslin_isles_layout"
+    ],
+    "brushTechnique": "unfurling_map_water_reflection_texture",
+    "layering": "background_open_sea_midground_floating_fragments_foreground_complete_map"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Fragments unfurl across water. 10 stars, 5 glyphs, 1 spiral. The map spells 'SIREN MAP PRASLIN ISLES.'. map_revelation_siren_song_completion with unfurling_map_water_reflection_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_open_sea_midground_floating_fragments_foreground_complete_map. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: complete_siren_map, praslin_isles_layout. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

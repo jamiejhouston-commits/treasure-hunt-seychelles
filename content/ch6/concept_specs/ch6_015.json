@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_015",
+  "name": "Grand Anse Waterfall: The Key of Silence",
+  "description": "Roaring waterfall. Eight candles gutter, three extinguished. Alcove iron key on stone tongue. Four etched tallies. Kassim waist-deep rope-tied; Naia signaling; Maliya blessing. Riddle: What roars most hides what speaks least.",
+  "bearingDeg": 80,
+  "cipherOutput": "H",
+  "hiddenClue": "3 + 1 + 4 = 8 → 80°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Roaring waterfall. Eight candles gutter, three extinguished. Alcove iron key on stone tongue. Four etched tallies. Kassim waist-deep rope-tied; Naia signaling; Maliya blessing.. Key props numeric: 8 candles, 1 key, 4 tallies. Cipher letter: H Bearing: 80°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "H"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 80
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "3 + 1 + 4 = 8 → 80°"
+    },
+    {
+      "trait_type": "candles",
+      "value": 8
+    },
+    {
+      "trait_type": "key",
+      "value": 1
+    },
+    {
+      "trait_type": "tallies",
+      "value": 4
+    }
+  ]
+}

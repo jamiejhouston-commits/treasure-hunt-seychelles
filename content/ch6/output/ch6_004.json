@@ -1,0 +1,44 @@
+{
+  "name": "Plantation Bell Tower: Chains that Toll",
+  "description": "Rust and sugar mold cling to the plantation bell tower; five chains swing like pendulums while cross-marked links click against the coral lime. Kassim grips the iron as Naia tracks the upslope cracks and Maliya counts the toll toward the revenant's wake.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_004",
+  "bearingDeg": 150,
+  "cipherOutput": "E",
+  "cipherIndex": 4,
+  "hiddenClue": "1 + 5 + 9 = 15 → 150°",
+  "riddle": "Add the empty mouth, the hanging tongues, and the marked links—the hour you seek rings without sound.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 150
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "E"
+    },
+    {
+      "trait_type": "niche",
+      "value": 1
+    },
+    {
+      "trait_type": "chains",
+      "value": 5
+    },
+    {
+      "trait_type": "markedLinks",
+      "value": 9
+    }
+  ],
+  "image": "./ch6_004.png"
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1001,
+    "token_id": "PREVIEW_CH3_01",
+    "nftoken_id": "PREVIEW_CH3_1",
+    "name": "Chapter 3 – Card 01: Landing at Anse Gaulette",
+    "description": "[PREVIEW] Landing at Anse Gaulette - Anse Gaulette, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-01.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Epic",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Anse Gaulette, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 1
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.194Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-01.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-1",
+    "clue": "Coordinates: -4.7333, 55.5167 - Where the journey begins"
+  },
+  {
+    "id": 1002,
+    "token_id": "PREVIEW_CH3_02",
+    "nftoken_id": "PREVIEW_CH3_2",
+    "name": "Chapter 3 – Card 02: The Carved Rock",
+    "description": "[PREVIEW] The Carved Rock - Granite Formations, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-02.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Rare",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Granite Formations, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 2
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-02.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-2",
+    "clue": "Cipher Fragment: 'XIII + VII = XX, follow the rising sun'"
+  },
+  {
+    "id": 1003,
+    "token_id": "PREVIEW_CH3_03",
+    "nftoken_id": "PREVIEW_CH3_3",
+    "name": "Chapter 3 – Card 03: Fog at Lazare Picault",
+    "description": "[PREVIEW] Fog at Lazare Picault - Lazare Picault Viewpoint, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-03.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Legendary",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Lazare Picault Viewpoint, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 3
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-03.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-3",
+    "clue": "Directional Riddle: 'When mist clears at dawn, follow the golden ray northwest'"
+  },
+  {
+    "id": 1004,
+    "token_id": "PREVIEW_CH3_04",
+    "nftoken_id": "PREVIEW_CH3_4",
+    "name": "Chapter 3 – Card 04: The Hidden Waterfall",
+    "description": "[PREVIEW] The Hidden Waterfall - Sans Souci Waterfall, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-04.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Epic",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Sans Souci Waterfall, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 4
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-04.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-4",
+    "clue": "Numerical Pattern: 3-7-11-? (Count the falls to find the next)"
+  },
+  {
+    "id": 1005,
+    "token_id": "PREVIEW_CH3_05",
+    "nftoken_id": "PREVIEW_CH3_5",
+    "name": "Chapter 3 – Card 05: The Pirate's Parrot",
+    "description": "[PREVIEW] The Pirate's Parrot - Shipwreck Site, Mahé Coast. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-05.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Rare",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Shipwreck Site, Mahé Coast"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 5
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-05.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-5",
+    "clue": "Torn Map Piece: '...cave entrance marked by three palms...'"
+  },
+  {
+    "id": 1006,
+    "token_id": "PREVIEW_CH3_06",
+    "nftoken_id": "PREVIEW_CH3_6",
+    "name": "Chapter 3 – Card 06: Cave of Echoes",
+    "description": "[PREVIEW] Cave of Echoes - Hidden Cave System, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-06.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Epic",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Hidden Cave System, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 6
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-06.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-6",
+    "clue": "Coordinate Digits: 'VII-V hidden in wall symbols, seek the southern passage'"
+  },
+  {
+    "id": 1007,
+    "token_id": "PREVIEW_CH3_07",
+    "nftoken_id": "PREVIEW_CH3_7",
+    "name": "Chapter 3 – Card 07: The Compass in the Sand",
+    "description": "[PREVIEW] The Compass in the Sand - Anse Gaulette Beach, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-07.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Rare",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Anse Gaulette Beach, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 7
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-07.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-7",
+    "clue": "Partial Direction: 'Northwest 47 degrees, count the waves to shore'"
+  },
+  {
+    "id": 1008,
+    "token_id": "PREVIEW_CH3_08",
+    "nftoken_id": "PREVIEW_CH3_8",
+    "name": "Chapter 3 – Card 08: Port Launay Shadows",
+    "description": "[PREVIEW] Port Launay Shadows - Port Launay Marine Park, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-08.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Legendary",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Port Launay Marine Park, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 8
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-08.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-8",
+    "clue": "Tide Riddle: 'When moon is full and tide is high, the phantom cargo comes to light'"
+  },
+  {
+    "id": 1009,
+    "token_id": "PREVIEW_CH3_09",
+    "nftoken_id": "PREVIEW_CH3_9",
+    "name": "Chapter 3 – Card 09: The Rock Pool Secret",
+    "description": "[PREVIEW] The Rock Pool Secret - Tidal Rock Pools, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-09.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Epic",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Tidal Rock Pools, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 9
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-09.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-9",
+    "clue": "Cipher Key Fragment: 'Reflection shows truth: A=1, S=19, K=11'"
+  },
+  {
+    "id": 1010,
+    "token_id": "PREVIEW_CH3_10",
+    "nftoken_id": "PREVIEW_CH3_10",
+    "name": "Chapter 3 – Card 10: The Watcher's Skull",
+    "description": "[PREVIEW] The Watcher's Skull - Jungle Trail, Mahé Interior. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-10.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Rare",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Jungle Trail, Mahé Interior"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 10
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.201Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-10.png?v=1758736501201",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-10",
+    "clue": "Path Riddle: 'Left leads to death, right to gold, choose wisely bold'"
+  },
+  {
+    "id": 1011,
+    "token_id": "PREVIEW_CH3_11",
+    "nftoken_id": "PREVIEW_CH3_11",
+    "name": "Chapter 3 – Card 11: Map Fragment I",
+    "description": "[PREVIEW] Map Fragment I - Pirate Camp, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-11.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Epic",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Pirate Camp, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 11
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-11.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-11",
+    "clue": "Half Coordinate: 'S 4° 44' -- E 55° 31' (western fragment)'"
+  },
+  {
+    "id": 1012,
+    "token_id": "PREVIEW_CH3_12",
+    "nftoken_id": "PREVIEW_CH3_12",
+    "name": "Chapter 3 – Card 12: The Crossed Blades",
+    "description": "[PREVIEW] The Crossed Blades - Sacred Grove, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-12.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Legendary",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Sacred Grove, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 12
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-12.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-12",
+    "clue": "Latin Phrase: 'Fideles usque ad mortem' - Faithful unto death"
+  },
+  {
+    "id": 1013,
+    "token_id": "PREVIEW_CH3_13",
+    "nftoken_id": "PREVIEW_CH3_13",
+    "name": "Chapter 3 – Card 13: Coconut Grove Ambush",
+    "description": "[PREVIEW] Coconut Grove Ambush - Coconut Plantation, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-13.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Rare",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Coconut Plantation, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 13
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-13.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-13",
+    "clue": "Betrayal Symbol: 'Trust no man when gold is near - marked by crossed daggers'"
+  },
+  {
+    "id": 1014,
+    "token_id": "PREVIEW_CH3_14",
+    "nftoken_id": "PREVIEW_CH3_14",
+    "name": "Chapter 3 – Card 14: The Sunken Chest",
+    "description": "[PREVIEW] The Sunken Chest - Underwater Cave, Mahé Coast. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-14.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Epic",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Underwater Cave, Mahé Coast"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 14
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-14.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-14",
+    "clue": "Hidden Sequence: '7-3-11-9 - depths where treasure lies'"
+  },
+  {
+    "id": 1015,
+    "token_id": "PREVIEW_CH3_15",
+    "nftoken_id": "PREVIEW_CH3_15",
+    "name": "Chapter 3 – Card 15: Torch of Secrets",
+    "description": "[PREVIEW] Torch of Secrets - Secret Cave Chamber, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-15.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Legendary",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Secret Cave Chamber, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 15
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-15.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-15",
+    "clue": "Cryptogram Fragment: 'WKHUH OLHV WKH WUHDVXUH RI OHYDVVHXU'"
+  },
+  {
+    "id": 1016,
+    "token_id": "PREVIEW_CH3_16",
+    "nftoken_id": "PREVIEW_CH3_16",
+    "name": "Chapter 3 – Card 16: The False Trail",
+    "description": "[PREVIEW] The False Trail - Jungle Crossroads, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-16.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Rare",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Jungle Crossroads, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 16
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-16.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-16",
+    "clue": "Choice Riddle: 'Follow the parrot's call, not the skull's stare'"
+  },
+  {
+    "id": 1017,
+    "token_id": "PREVIEW_CH3_17",
+    "nftoken_id": "PREVIEW_CH3_17",
+    "name": "Chapter 3 – Card 17: Map Fragment II",
+    "description": "[PREVIEW] Map Fragment II - Hidden Cache, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-17.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Legendary",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Hidden Cache, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 17
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-17.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-17",
+    "clue": "Complete Coordinate: 'S 4° 44' 12\" - E 55° 31' 27\" (eastern fragment)'"
+  },
+  {
+    "id": 1018,
+    "token_id": "PREVIEW_CH3_18",
+    "nftoken_id": "PREVIEW_CH3_18",
+    "name": "Chapter 3 – Card 18: The Pirate's Ghost",
+    "description": "[PREVIEW] The Pirate's Ghost - Haunted Clearing, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-18.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Legendary",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Haunted Clearing, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 18
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-18.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-18",
+    "clue": "Ghostly Riddle: 'Beyond the mist, where eagles nest, lies what you seek'"
+  },
+  {
+    "id": 1019,
+    "token_id": "PREVIEW_CH3_19",
+    "nftoken_id": "PREVIEW_CH3_19",
+    "name": "Chapter 3 – Card 19: The Final Cave",
+    "description": "[PREVIEW] The Final Cave - Mountain Cave, Mahé Interior. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-19.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Mythic",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Mountain Cave, Mahé Interior"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Mythic"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 19
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-19.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-19",
+    "clue": "Chapter 3 Cipher: 'In depths of stone, where light does glow, the final truth at last you'll know'"
+  },
+  {
+    "id": 1020,
+    "token_id": "PREVIEW_CH3_20",
+    "nftoken_id": "PREVIEW_CH3_20",
+    "name": "Chapter 3 – Card 20: Chapter Finale – Torn Map Piece",
+    "description": "[PREVIEW] Chapter Finale – Torn Map Piece - Burnt Treasure Cache, Mahé. This is a preview for approval - NOT YET MINTED.",
+    "image_uri": "http://localhost:3001/preview/chapter3/chapter3-20.png",
+    "chapter": "Chapter 3 - VASA Expedition [PREVIEW]",
+    "island": "Mahé",
+    "rarity": "Mythic",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "PREVIEW - AWAITING APPROVAL"
+      },
+      {
+        "trait_type": "Chapter",
+        "value": "Chapter 3 - VASA Expedition"
+      },
+      {
+        "trait_type": "Location",
+        "value": "Burnt Treasure Cache, Mahé"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Mythic"
+      },
+      {
+        "trait_type": "CardIndex",
+        "value": 20
+      }
+    ],
+    "current_owner": "PREVIEW",
+    "price_xrp": 0,
+    "for_sale": 0,
+    "created_at": "2025-09-24T17:55:01.202Z",
+    "image_url": "http://localhost:3001/preview/chapter3/chapter3-20.png?v=1758736501202",
+    "marketplace_url": "http://localhost:3000/nft/preview-ch3-20",
+    "clue": "Chapter 3 Conclusion: The quest reaches its ultimate revelation"
+  }
+]

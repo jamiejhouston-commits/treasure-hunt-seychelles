@@ -1,0 +1,59 @@
+{
+  "id": "ch7_002",
+  "name": "Vallée de Mai: Heart of Secrets",
+  "scene": "Palm cathedral, coco de mer husks glowing. 5 tortoises, 9 seeds, 1 shard in roots.",
+  "props": [
+    {
+      "name": "giant_tortoises",
+      "value": 5,
+      "description": "Ancient tortoises among palm roots"
+    },
+    {
+      "name": "coco_seeds",
+      "value": 9,
+      "description": "Glowing coco de mer seeds"
+    },
+    {
+      "name": "crystal_shard",
+      "value": 1,
+      "description": "Crystal shard nestled in roots"
+    }
+  ],
+  "hiddenClue": "5+9+1=15 → 150°",
+  "bearingDeg": 150,
+  "cipherOutput": "I",
+  "riddle": "When a heart splits clean, its halves point home.",
+  "painterlyElements": {
+    "atmosphere": "cathedral_palms_dappled_light",
+    "culturalStamps": [
+      "coco_de_mer_motifs",
+      "tortoise_shells"
+    ],
+    "brushTechnique": "dense_foliage_texture_layers",
+    "layering": "background_palms_midground_tortoises_foreground_seeds"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Palm cathedral, coco de mer husks glowing. 5 tortoises, 9 seeds, 1 shard in roots.. cathedral_palms_dappled_light with dense_foliage_texture_layers. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_palms_midground_tortoises_foreground_seeds. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: coco_de_mer_motifs, tortoise_shells. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

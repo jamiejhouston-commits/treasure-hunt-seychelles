@@ -1,0 +1,31 @@
+{
+  "name": "S3-04 — Torch Wall at Cascade",
+  "description": "S3-04 — Torch Wall at Cascade. Clue: Step through the veil—fire reveals the mark the rain conceals.",
+  "image": "ipfs://bafybeig4svozj3oql4mzahe7m5ahe7qrjiwgirvsx5blnkehvxlinbpfbu",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Cascade Waterfall, Mahé"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Late Afternoon"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Waterfall"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Torch"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

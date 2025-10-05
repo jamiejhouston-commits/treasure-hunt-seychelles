@@ -1,0 +1,44 @@
+{
+  "name": "Upper Sans Souci: Stones that Breathe",
+  "description": "Upper Sans Souci's granite throat exhales bat musk; five petroglyphs glow under Naia's rubbing while six roosting clusters murmur and one guide stick taps hollow against the wall. Kassim leans into the rock for the far-off drum as Maliya tastes mineral fear and the 100° resonance thrums through their bundle.",
+  "chapter": 6,
+  "chapterId": "VI",
+  "cardId": "ch6_012",
+  "bearingDeg": 100,
+  "cipherOutput": "K",
+  "cipherIndex": 12,
+  "hiddenClue": "5 + 6 − 1 = 10 → 100°",
+  "riddle": "Subtract the liar who left the stick—what remains in carvings and wings will hum you forward.",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Collection Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": 100
+    },
+    {
+      "trait_type": "Cipher Letter",
+      "value": "K"
+    },
+    {
+      "trait_type": "petroglyphs",
+      "value": 5
+    },
+    {
+      "trait_type": "batClusters",
+      "value": 6
+    },
+    {
+      "trait_type": "guideStick",
+      "value": 1
+    }
+  ],
+  "image": "./ch6_012.png"
+}

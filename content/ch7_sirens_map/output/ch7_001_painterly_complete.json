@@ -1,0 +1,59 @@
+{
+  "id": "ch7_001",
+  "name": "Anse Lazio: The Siren's Whisper",
+  "scene": "Twilight surf with glowing plankton. 3 black parrots wheel above 2 broken oars; 7 lanterns bob on the swell. Fisherman Jacques warns: 'Not all tides bring gifts.'",
+  "props": [
+    {
+      "name": "black_parrots",
+      "value": 3,
+      "description": "Black parrots wheeling above surf"
+    },
+    {
+      "name": "broken_oars",
+      "value": 2,
+      "description": "Broken oars floating in waves"
+    },
+    {
+      "name": "floating_lanterns",
+      "value": 7,
+      "description": "Lanterns bobbing on swell"
+    }
+  ],
+  "hiddenClue": "3+2+7=12 → 120°",
+  "bearingDeg": 120,
+  "cipherOutput": "S",
+  "riddle": "Count the wings that watch the oars that broke—sail where seven fires float.",
+  "painterlyElements": {
+    "atmosphere": "twilight_surf_glowing_plankton",
+    "culturalStamps": [
+      "seychellois_fisherman",
+      "traditional_lanterns"
+    ],
+    "brushTechnique": "rough_ocean_spray_texture",
+    "layering": "foreground_parrots_midground_oars_background_surf"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Twilight surf with glowing plankton. 3 black parrots wheel above 2 broken oars; 7 lanterns bob on the swell. Fisherman Jacques warns: 'Not all tides bring gifts.'. twilight_surf_glowing_plankton with rough_ocean_spray_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. foreground_parrots_midground_oars_background_surf. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: seychellois_fisherman, traditional_lanterns. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

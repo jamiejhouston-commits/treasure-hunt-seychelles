@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 01: Landing at Anse Gaulette",
+  "description": "The pirates have finally reached the legendary landing site. A weathered ship anchors in the turquoise waters as crew members unload mysterious crates under cover of dawn mist.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Anse Gaulette, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Buried Chest"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "The sacred landing where Levasseur's crew first touched Seychelles soil"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 1
+    }
+  ],
+  "properties": {
+    "clue": "Coordinates: -4.7333, 55.5167 - Where the journey begins",
+    "visualElements": [
+      "Pirate ship anchored offshore in turquoise water",
+      "Pirates unloading wooden crates onto beach",
+      "Hidden treasure chest buried near palm trees",
+      "Dawn mist rolling over the bay",
+      "Skull and crossbones flag on ship mast",
+      "Compass rose carved in beach sand"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

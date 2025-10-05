@@ -1,0 +1,45 @@
+{
+  "name": "Chapter 3 – Card 15: Torch of Secrets",
+  "description": "Fire reveals what daylight hides. As the torch burns bright, mysterious writing appears on the cave wall, spelling out secrets that could change everything.",
+  "image": "ipfs://PLACEHOLDER_CID",
+  "external_url": "https://treasureofseychelles.com",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 3 - VASA Expedition"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Secret Cave Chamber, Mahé"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Revealed Text"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "StoryFragment",
+      "value": "Hidden chamber where the final secret was recorded"
+    },
+    {
+      "trait_type": "CardIndex",
+      "value": 15
+    }
+  ],
+  "properties": {
+    "clue": "Cryptogram Fragment: 'WKHUH OLHV WKH WUHDVXUH RI OHYDVVHXU'",
+    "visualElements": [
+      "Pirate holding burning torch high",
+      "Ancient writing becoming visible on stone wall",
+      "Shadows dancing in torchlight",
+      "Mysterious symbols and numbers on wall",
+      "Pirate's face illuminated by flame",
+      "Spider webs in dark corners"
+    ],
+    "chapter": 3,
+    "collection": "VASA NFT Collection"
+  }
+}

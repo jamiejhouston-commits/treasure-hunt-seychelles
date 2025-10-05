@@ -1,0 +1,28 @@
+{
+  "name": "Praslin's Prophecy Card 26",
+  "description": "A beautifully crafted treasure card from Praslin's Prophecy, featuring unique artwork and professional composition.",
+  "image": "ipfs://bafybeicnxaiumw4jqglgm5hjhxshafvbdo7kln45qndu5bvxvimijfwooe",
+  "chapter": "Praslin's Prophecy",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Praslin's Prophecy"
+    },
+    {
+      "trait_type": "Art Style",
+      "value": "underwater"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "mystical"
+    },
+    {
+      "trait_type": "Card Number",
+      "value": 26
+    }
+  ],
+  "properties": {
+    "tokenId": 26,
+    "chapter": "Praslin's Prophecy"
+  }
+}

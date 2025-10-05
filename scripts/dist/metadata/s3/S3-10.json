@@ -1,0 +1,31 @@
+{
+  "name": "S3-10 — La Misère Lookout",
+  "description": "S3-10 — La Misère Lookout. Clue: Count two knots of wind and drop to the quiet bay.",
+  "image": "/preview/chapter3/S3-10.png",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "III — The Pirate’s Trail"
+    },
+    {
+      "trait_type": "Place",
+      "value": "La Misère Viewpoint"
+    },
+    {
+      "trait_type": "TimeOfDay",
+      "value": "Blue Hour"
+    },
+    {
+      "trait_type": "SceneType",
+      "value": "Viewpoint"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Rope"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ch7_019",
+  "name": "Fond Ferdinand Stair: The Echo of Steps",
+  "scene": "9 steps, 4 candles, 1 pendant. Footsteps echo 2-1-2-1.",
+  "props": [
+    {
+      "name": "stone_steps",
+      "value": 9,
+      "description": "Ancient stone steps ascending"
+    },
+    {
+      "name": "ritual_candles",
+      "value": 4,
+      "description": "Candles marking the path"
+    },
+    {
+      "name": "jade_pendant",
+      "value": 1,
+      "description": "Carved jade pendant"
+    }
+  ],
+  "hiddenClue": "(9+1)−4=6 → 60°",
+  "bearingDeg": 60,
+  "cipherOutput": "E",
+  "riddle": "Between rise and rest, choose the smaller number.",
+  "painterlyElements": {
+    "atmosphere": "ascending_steps_echo_ritual_passage",
+    "culturalStamps": [
+      "stone_step_construction",
+      "jade_carving"
+    ],
+    "brushTechnique": "worn_stone_candle_flame_texture",
+    "layering": "background_ascending_path_midground_candles_foreground_pendant"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of 9 steps, 4 candles, 1 pendant. Footsteps echo 2-1-2-1.. ascending_steps_echo_ritual_passage with worn_stone_candle_flame_texture. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_ascending_path_midground_candles_foreground_pendant. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: stone_step_construction, jade_carving. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

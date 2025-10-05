@@ -1,0 +1,46 @@
+{
+  "name": "SE2-06 — BEHIND THE CASCADE",
+  "description": "Chapter II — The Landing at Baie Lazare (Lazare Picault). Cascade Waterfall (east interior, Mahé). Step behind the veil; water hides what stone declares.\nCoins of light pay passage west.",
+  "image": "ipfs://bafkreiehhiunfepr6psddsxlypqu442he3bdgdbkwat6hamq73r33b3wq4",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter II — The Landing at Baie Lazare"
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Special"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Cascade Waterfall (east interior, Mahé)"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Levasseur Cipher"
+    },
+    {
+      "trait_type": "ClueType",
+      "value": "Cartographic Fragment"
+    },
+    {
+      "trait_type": "HiddenLetter",
+      "value": "A"
+    },
+    {
+      "trait_type": "BearingToNext",
+      "value": "Sauzier Waterfall (Port Glaud)"
+    },
+    {
+      "trait_type": "StarCount",
+      "value": 0
+    }
+  ],
+  "external_url": "https://levasseur-treasure.seychelles.io",
+  "animation_url": null,
+  "properties": {
+    "cipher": "carved tick equals bearing; coin alignment gives direction.",
+    "clue": "Step behind the veil; water hides what stone declares.\nCoins of light pay passage west.",
+    "visual_description": "Water curtain; carved mark behind; coin sparkles in spray; skull emblem faint on wet rock; gloved hand reaches behind the fall."
+  }
+}

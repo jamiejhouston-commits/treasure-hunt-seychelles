@@ -1,0 +1,16 @@
+{
+  "name": "PreMint Painterly Scene 1",
+  "description": "Work-in-progress Seychelles painterly pirate scene",
+  "collectionPhase": "premint",
+  "attributes": [
+    {
+      "trait_type": "Phase",
+      "value": "Pre-Mint"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Painterly"
+    }
+  ],
+  "image": "./advanced_painterly_02.png"
+}

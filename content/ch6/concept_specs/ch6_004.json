@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_004",
+  "name": "Plantation Bell Tower: Chains that Toll",
+  "description": "Coral-lime leaning tower without bell; swaying chains. Kassim grips iron recalling past. Maliya senses warmth in wall. Naia maps cracks forming triangle pointing upslope. Nine chain links stamped with crosses. Riddle: What tolls without a bell still counts the hour.",
+  "bearingDeg": 150,
+  "cipherOutput": "E",
+  "hiddenClue": "1 + 5 + 9 = 15 → 150°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Coral-lime leaning tower without bell; swaying chains. Kassim grips iron recalling past. Maliya senses warmth in wall. Naia maps cracks forming triangle pointing upslope. Nine chain links stamped with crosses.. Key props numeric: 1 niche, 5 chains, 9 markedLinks. Cipher letter: E Bearing: 150°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "E"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 150
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "1 + 5 + 9 = 15 → 150°"
+    },
+    {
+      "trait_type": "niche",
+      "value": 1
+    },
+    {
+      "trait_type": "chains",
+      "value": 5
+    },
+    {
+      "trait_type": "markedLinks",
+      "value": 9
+    }
+  ]
+}

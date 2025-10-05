@@ -1,0 +1,59 @@
+{
+  "id": "ch7_010",
+  "name": "Anse Georgette: Salt Geometry",
+  "scene": "Granite monoliths. 4 stacks, 3 triangles, 2 kites.",
+  "props": [
+    {
+      "name": "granite_stacks",
+      "value": 4,
+      "description": "Balanced granite stone stacks"
+    },
+    {
+      "name": "salt_triangles",
+      "value": 3,
+      "description": "Salt crystal triangular formations"
+    },
+    {
+      "name": "wind_kites",
+      "value": 2,
+      "description": "Traditional kites in wind"
+    }
+  ],
+  "hiddenClue": "4+3+2=9 → 90°",
+  "bearingDeg": 90,
+  "cipherOutput": "R",
+  "riddle": "Triangles in shells point where wind agrees.",
+  "painterlyElements": {
+    "atmosphere": "granite_beach_geometric_patterns",
+    "culturalStamps": [
+      "balanced_stones",
+      "traditional_kites"
+    ],
+    "brushTechnique": "rough_granite_texture_salt_crystal",
+    "layering": "background_monoliths_midground_stacks_foreground_kites"
+  },
+  "renderSpec": {
+    "prompt": "Etched parchment engraved map-card of Granite monoliths. 4 stacks, 3 triangles, 2 kites.. granite_beach_geometric_patterns with rough_granite_texture_salt_crystal. Dense foliage, rhythmic Seychellois motifs, saturated greens/blues/yellows. background_monoliths_midground_stacks_foreground_kites. Fine copperplate hatching, visible brush strokes, textured overlays. Cultural stamps: balanced_stones, traditional_kites. Volumetric depth, painterly effects, living busy scene. Etched-map caption strip with gold title. 17th-century nautical chart + Seychellois modernist painting, ritualistic archaeological mood.",
+    "negativePrompt": "flat shapes, primitive graphics, basic fills, simple geometry, vector primitives, plain colors, childlike, cartoon, modern technology, photoreal, neon, low detail",
+    "renderType": "PAINTERLY_LAYERED_SEYCHELLOIS",
+    "guaranteedEffects": [
+      "textured_brushes",
+      "multi_layer_overlays",
+      "pattern_fills",
+      "cultural_motif_stamps",
+      "volumetric_depth",
+      "saturated_palette"
+    ]
+  },
+  "outputSize": 2048,
+  "colorSpace": "sRGB",
+  "painterly": true,
+  "bannedElements": [
+    "flat_shapes",
+    "primitive_graphics",
+    "basic_fills",
+    "simple_geometry",
+    "vector_primitives",
+    "plain_colors"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Baie Lazare Oath",
+  "description": "Golden hour bathes Baie Lazare in warm amber light as a grizzled pirate captain stands before the stone memorial that bears the name of Lazare Picault. The witch beside him ties gris-gris charms to a weathered post while distant sails dot the bay. A single coin gleams outside the open chest clasp, but look closer to the dagger thrust into the rock—its blade tilts at precisely 124 degrees of reverence carved in steel and stone. Bearing 124°. Cipher output: ZA. \"Tilt the blade as he once did; the angle names the bay.\"",
+  "image": "ipfs://bafybeid5hna5cm35oyvzqkidpua64bhygtjtsqe34nk66swxsvp2tiegnq",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Baie Lazare",
+  "timeOfDay": "Golden hour",
+  "weather": "clear",
+  "bearingDeg": 124,
+  "tide": "Low",
+  "moonPhase": "Waxing Gibbous",
+  "cipherOutput": "ZA",
+  "riddle": "Tilt the blade as he once did; the angle names the bay.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Baie Lazare"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Golden hour"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "clear"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "124°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "Low"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waxing Gibbous"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "ZA"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 142
+  }
+}

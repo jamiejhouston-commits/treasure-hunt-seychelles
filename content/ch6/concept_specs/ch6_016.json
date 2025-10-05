@@ -1,0 +1,39 @@
+{
+  "cardId": "ch6_016",
+  "name": "Cemetery Gate: The Quiet Arithmetic",
+  "description": "Coral arch with lichen. Three animal skulls mortared. Eight candles guttering. Iron key on step casting long shadow. False dates faint. Riddle: The dead don't lie, but they do subtract.",
+  "bearingDeg": 110,
+  "cipherOutput": "E",
+  "hiddenClue": "3 + 8 = 11 → 110°",
+  "prompt": "Etched parchment engraved map-card, muted sepia + indigo + teal + faint gold highlights. Ritual haunting atmosphere, layered symbolic composition. Coral arch with lichen. Three animal skulls mortared. Eight candles guttering. Iron key on step casting long shadow. False dates faint.. Key props numeric: 3 skulls, 8 candles, 1 key. Cipher letter: E Bearing: 110°. Intricate line engraving, subtle volumetric mist, painterly etched hybrid",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "VI"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "E"
+    },
+    {
+      "trait_type": "Bearing Deg",
+      "value": 110
+    },
+    {
+      "trait_type": "Hidden Clue",
+      "value": "3 + 8 = 11 → 110°"
+    },
+    {
+      "trait_type": "skulls",
+      "value": 3
+    },
+    {
+      "trait_type": "candles",
+      "value": 8
+    },
+    {
+      "trait_type": "key",
+      "value": 1
+    }
+  ]
+}

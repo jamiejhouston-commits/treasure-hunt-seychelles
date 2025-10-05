@@ -1,0 +1,61 @@
+{
+  "name": "Copolia Sky",
+  "description": "Morning clouds swirl around Copolia's granite dome as Victoria spreads far below like a cartographer's dream. A witch sprinkles salt to the four winds while a pirate pins a parchment map with his dagger's point. The blade aims true northeast at 045 degrees, while four coins mark the cardinal points—a cipher written in steel and silver where the cloud thins to glass and truth becomes visible. Bearing 45°. Cipher output: AN. \"Pin the map where the cloud thins to glass.\"",
+  "image": "ipfs://bafybeiaezyrr72pikllallyj6d75f7h64ce66bvdb2wxjgw63ghw6kuyki",
+  "chapter": "IV — Witch-Winds of Mahé",
+  "island": "Mahé",
+  "place": "Copolia trail summit",
+  "timeOfDay": "Morning",
+  "weather": "low cloud",
+  "bearingDeg": 45,
+  "tide": "—",
+  "moonPhase": "Waxing Gibbous",
+  "cipherOutput": "AN",
+  "riddle": "Pin the map where the cloud thins to glass.",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "IV — Witch-Winds of Mahé"
+    },
+    {
+      "trait_type": "Island",
+      "value": "Mahé"
+    },
+    {
+      "trait_type": "Place",
+      "value": "Copolia trail summit"
+    },
+    {
+      "trait_type": "Time of Day",
+      "value": "Morning"
+    },
+    {
+      "trait_type": "Weather",
+      "value": "low cloud"
+    },
+    {
+      "trait_type": "Bearing",
+      "value": "045°"
+    },
+    {
+      "trait_type": "Tide",
+      "value": "—"
+    },
+    {
+      "trait_type": "Moon Phase",
+      "value": "Waxing Gibbous"
+    },
+    {
+      "trait_type": "Cipher Output",
+      "value": "AN"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ],
+  "properties": {
+    "chapter": "IV — Witch-Winds of Mahé",
+    "tokenId": 149
+  }
+}

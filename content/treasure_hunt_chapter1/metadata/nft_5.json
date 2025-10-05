@@ -1,0 +1,48 @@
+{
+  "name": "Seychelles Treasure #5",
+  "description": "Chapter 1: The Trail Begins - NFT #5 (Contains Puzzle Clue)",
+  "image": "ipfs://QmZZbJnAg2Js3i7exxz2oSY2cpS3VCXEtTDvx5P32RNBLR",
+  "attributes": [
+    {
+      "trait_type": "Chapter",
+      "value": "Chapter 1: The Trail Begins"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Has Puzzle",
+      "value": "Yes"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Seychelles Islands"
+    },
+    {
+      "trait_type": "Series",
+      "value": "Treasure Hunt Testnet"
+    }
+  ],
+  "properties": {
+    "chapter": "Chapter 1",
+    "puzzle_enabled": true,
+    "art_rarity": "Rare",
+    "rarity_color": "#3a86ff",
+    "layers": [
+      {
+        "layer": 0,
+        "type": "base_artwork",
+        "ipfs_hash": "QmZZbJnAg2Js3i7exxz2oSY2cpS3VCXEtTDvx5P32RNBLR",
+        "description": "Original Seychelles artwork"
+      },
+      {
+        "layer": 1,
+        "type": "cipher_text",
+        "ipfs_hash": "QmRrRdu5tq5W1T143MMC3jAnu1GHGvMcH7z1Rkd76vuY6B",
+        "description": "Encrypted message - what does it say?",
+        "hint": "CFM PNCSF"
+      }
+    ]
+  }
+}
