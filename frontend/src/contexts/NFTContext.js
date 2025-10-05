@@ -4,6 +4,7 @@ import toast from 'react-hot-toast';
 
 // API base URL
 const API_BASE_URL = process.env.REACT_APP_API_URL || 'http://localhost:3001/api';
+const BACKEND_BASE_URL = process.env.REACT_APP_API_URL?.replace('/api', '') || 'http://localhost:3001';
 
 // NFT state structure
 const initialState = {
@@ -91,7 +92,7 @@ const resolveImage = (item) => {
   if (item.chapter === 'Chapter VII' && item.image_uri && item.image_uri.includes('/ch7_sirens_map/')) {
     return item.image_uri.startsWith('http')
       ? item.image_uri
-      : `http://localhost:3001${item.image_uri}`;
+      : `${BACKEND_BASE_URL}${item.image_uri}`;
   }
 
   // Chapter VI pre-mint assets have image_uri like /ch6_premint/{n}.png
@@ -99,7 +100,7 @@ const resolveImage = (item) => {
     const normalized = normalizePremintImagePath(item.image_uri);
     return normalized.startsWith('http')
       ? normalized
-      : `http://localhost:3001${normalized}`;
+      : `${BACKEND_BASE_URL}${normalized}`;
   }
 
   const imageUrlCandidate = item.image_url || item.imageUrl;
@@ -116,17 +117,17 @@ const resolveImage = (item) => {
       const normalized = normalizePremintImagePath(ipfs);
       return normalized.startsWith('http')
         ? normalized
-        : `http://localhost:3001${normalized}`;
+        : `${BACKEND_BASE_URL}${normalized}`;
     }
     if (ipfs.startsWith('ipfs://')) {
-      if (item.token_id != null) return `http://localhost:3001/real/images/${item.token_id}.png`;
-      if (item.id != null) return `http://localhost:3001/real/images/${item.id}.png`;
+      if (item.token_id != null) return `${BACKEND_BASE_URL}/real/images/${item.token_id}.png`;
+      if (item.id != null) return `${BACKEND_BASE_URL}/real/images/${item.id}.png`;
     }
     return ipfs.replace('ipfs://', 'https://ipfs.io/ipfs/');
   }
 
-  if (item.token_id != null) return `http://localhost:3001/real/images/${item.token_id}.png`;
-  if (item.id != null) return `http://localhost:3001/real/images/${item.id}.png`;
+  if (item.token_id != null) return `${BACKEND_BASE_URL}/real/images/${item.token_id}.png`;
+  if (item.id != null) return `${BACKEND_BASE_URL}/real/images/${item.id}.png`;
   return undefined;
 };
 
