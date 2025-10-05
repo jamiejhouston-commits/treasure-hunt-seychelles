@@ -484,6 +484,7 @@ app.use('/api/auth', authRoutes);
 app.use('/api/admin', adminRoutes);
 app.use('/api/preview', previewRoutes);
 app.use('/api/populate', require('./routes/populate'));
+app.use('/api/reset', require('./routes/reset_database'));
 
 // Root endpoint
 app.get('/', (req, res) => {
