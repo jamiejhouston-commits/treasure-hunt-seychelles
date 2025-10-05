@@ -60,7 +60,7 @@ const devOrigins = [
 
 app.use(cors({
         origin: isProduction
-                ? ['https://treasureofseychelles.com', 'https://www.treasureofseychelles.com']
+                ? ['https://treasureofseychelles.com', 'https://www.treasureofseychelles.com', 'https://treasure-hunt-seychelles-3.onrender.com', 'https://treasure-hunt-seychelles-1.onrender.com']
                 : function(origin, callback) {
                         // Allow requests with no origin like curl or mobile apps
                         if (!origin) return callback(null, true);
