@@ -483,6 +483,7 @@ app.use('/api/progress', progressRoutes);
 app.use('/api/auth', authRoutes);
 app.use('/api/admin', adminRoutes);
 app.use('/api/preview', previewRoutes);
+app.use('/api/populate', require('./routes/populate'));
 
 // Root endpoint
 app.get('/', (req, res) => {
@@ -524,4 +525,4 @@ const server = app.listen(PORT, () => {
     logger.info(`🔒 Environment: ${process.env.NODE_ENV || 'development'}`);
 });
 
-module.exports = app;app.use('/api/populate', require('./routes/populate'));
+module.exports = app;
