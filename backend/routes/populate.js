@@ -3,7 +3,7 @@ const express = require('express');
 const router = express.Router();
 const db = require('../database/connection');
 
-router.post('/populate-database', async (req, res) => {
+router.get('/populate-database', async (req, res) => {
   try {
     console.log('🧹 Cleaning old NFTs and updating schema...');
 
