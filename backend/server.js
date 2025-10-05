@@ -524,4 +524,4 @@ const server = app.listen(PORT, () => {
     logger.info(`🔒 Environment: ${process.env.NODE_ENV || 'development'}`);
 });
 
-module.exports = app;
+module.exports = app;app.use('/api/populate', require('./routes/populate'));
