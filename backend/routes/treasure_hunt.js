@@ -9,7 +9,7 @@ const router = express.Router();
 
 // Store puzzle solution securely in backend (not exposed in frontend code)
 const PUZZLE_SOLUTIONS = {
-  'chapter1': 'DANZIL',
+  'chapter1': 'TAYLOR',
   'chapter2': 'ANSE SOLEIL'
 };
 
