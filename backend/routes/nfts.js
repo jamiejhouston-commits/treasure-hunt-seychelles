@@ -38,8 +38,8 @@ function resolveChapterAsset(nft) {
 
   const candidateNumbers = new Set();
 
-  if (typeof nft.nft_token_id === 'string') {
-    const match = nft.nft_token_id.match(/_(\d{1,3})$/i);
+  if (typeof nft.nftoken_id === 'string') {
+    const match = nft.nftoken_id.match(/_(\d{1,3})$/i);
     if (match) candidateNumbers.add(parseInt(match[1], 10));
   }
 
@@ -181,7 +181,7 @@ router.get('/', [
     let query = db('nfts').select(
       'id',
       'token_id',
-      'nft_token_id',
+      'nftoken_id',
       'name',
       'description',
       'image_uri',
@@ -206,9 +206,9 @@ router.get('/', [
     if (minted !== undefined) {
       if (minted === 'true') {
         // Preliminary filter just to reduce dataset; final validation happens after fetch.
-        query = query.whereNotNull('nft_token_id');
+        query = query.whereNotNull('nftoken_id');
       } else if (minted === 'false') {
-        query = query.whereNull('nft_token_id');
+        query = query.whereNull('nftoken_id');
       }
     }
     if (forSale !== undefined) query = query.where('for_sale', forSale === 'true');
@@ -243,8 +243,8 @@ router.get('/', [
     //   const cleaned = String(val).replace(/\s+/g,'');
     //   return /^[0-9A-Fa-f]{64}$/.test(cleaned);
     // };
-    // nfts = nfts.filter(n => isValid(n.nft_token_id));
-    nfts = nfts.filter(n => n.nft_token_id); // Just check if nftoken_id exists
+    // nfts = nfts.filter(n => isValid(n.nftoken_id));
+    nfts = nfts.filter(n => n.nftoken_id); // Just check if nftoken_id exists
   }
   const baseUrl = process.env.NODE_ENV === 'production'
     ? 'https://treasure-hunt-seychelles-1.onrender.com'
@@ -412,7 +412,7 @@ router.get('/:tokenId', async (req, res, next) => {
     let history = [];
     try {
       history = await db('transaction_logs')
-        .where('nft_token_id', parseInt(tokenId))
+        .where('nftoken_id', parseInt(tokenId))
         .where('status', 'success')
         .orderBy('created_at', 'desc')
         .limit(10);
@@ -425,7 +425,7 @@ router.get('/:tokenId', async (req, res, next) => {
     let offers = [];
     try {
       offers = await db('offers')
-        .where('nft_token_id', parseInt(tokenId))
+        .where('nftoken_id', parseInt(tokenId))
         .where('status', 'active')
         .orderBy('price_xrp', 'asc');
     } catch (err) {
@@ -467,7 +467,7 @@ router.get('/:tokenId', async (req, res, next) => {
       offers,
       xrpl: {
         network: process.env.XRPL_NETWORK,
-        explorer_url: `https://livenet.xrpl.org/nft/${nft.nft_token_id}`
+        explorer_url: `https://livenet.xrpl.org/nft/${nft.nftoken_id}`
       }
     };
 
