@@ -43,14 +43,14 @@ async function autoPopulateDatabase() {
         const layers = [{layer: 0, type: 'base_artwork', description: 'Original artwork'}];
 
         // Add puzzle layers for Chapter 1 DANZIL puzzle (7 cards: 6 real + 1 fake)
-        // NOTE: NFT #3 is FISH not bird - using NFT #4 as bird fake instead
-        if (i === 4) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_4_layer_1.png', description: 'FAKE BIRD - Wrong coordinate'});
+        // NOTE: Using DIFFERENT layer numbers like original system (1, 2, 3, 4, 5, 6, 7)
+        if (i === 4) layers.push({layer: 7, type: 'cryptogram_coordinate', url: '/images/nft_4_layer_1.png', description: 'FAKE BIRD - Wrong coordinate'});
         if (i === 5) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_5_layer_1.png', description: 'ROW 4, COLUMN 8 → D'});
-        if (i === 8) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_8_layer_1.png', description: 'ROW 1, COLUMN 1 → A'});
-        if (i === 12) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_12_layer_1.png', description: 'ROW 7, COLUMN 5 → N'});
-        if (i === 15) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_15_layer_1.png', description: 'ROW 17, COLUMN 9 → Z'});
-        if (i === 17) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_17_layer_1.png', description: 'ROW 5, COLUMN 5 → I'});
-        if (i === 20) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_20_layer_1.png', description: 'ROW 16, COLUMN 1 → L'});
+        if (i === 8) layers.push({layer: 4, type: 'cryptogram_coordinate', url: '/images/nft_8_layer_1.png', description: 'ROW 1, COLUMN 1 → A'});
+        if (i === 12) layers.push({layer: 2, type: 'cryptogram_coordinate', url: '/images/nft_12_layer_1.png', description: 'ROW 7, COLUMN 5 → N'});
+        if (i === 15) layers.push({layer: 5, type: 'cryptogram_coordinate', url: '/images/nft_15_layer_1.png', description: 'ROW 17, COLUMN 9 → Z'});
+        if (i === 17) layers.push({layer: 3, type: 'cryptogram_coordinate', url: '/images/nft_17_layer_1.png', description: 'ROW 5, COLUMN 5 → I'});
+        if (i === 20) layers.push({layer: 6, type: 'cryptogram_coordinate', url: '/images/nft_20_layer_1.png', description: 'ROW 16, COLUMN 1 → L'});
 
         nfts.push({
           token_id: i,
@@ -73,10 +73,11 @@ async function autoPopulateDatabase() {
         const layers = [{layer: 0, type: 'base_artwork', description: 'Original artwork'}];
 
         // Add puzzle layers for Chapter 2 ANSE SOLEIL puzzle (4 cards: 3 real + 1 fake)
+        // NOTE: Using DIFFERENT layer numbers like original system
         if (i === 25) layers.push({layer: 1, type: 'cipher_text', url: '/images/nft_25_layer_1.png', description: 'Cipher: JWBN BXUNRU'});
-        if (i === 28) layers.push({layer: 1, type: 'fake_map', url: '/images/nft_28_layer_1.png', description: 'FAKE MAP - Wrong beach'});
-        if (i === 32) layers.push({layer: 1, type: 'real_map', url: '/images/nft_32_layer_1.png', description: 'Real map: Anse Soleil'});
-        if (i === 37) layers.push({layer: 1, type: 'decoding_key', url: '/images/nft_37_layer_1.png', description: 'Key: SHIFT NINE FORWARD'});
+        if (i === 28) layers.push({layer: 4, type: 'fake_map', url: '/images/nft_28_layer_1.png', description: 'FAKE MAP - Wrong beach'});
+        if (i === 32) layers.push({layer: 2, type: 'real_map', url: '/images/nft_32_layer_2.png', description: 'Real map: Anse Soleil'});
+        if (i === 37) layers.push({layer: 3, type: 'decoding_key', url: '/images/nft_37_layer_3.png', description: 'Key: SHIFT NINE FORWARD'});
 
         nfts.push({
           token_id: i,
