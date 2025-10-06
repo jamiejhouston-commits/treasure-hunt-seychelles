@@ -38,8 +38,8 @@ function resolveChapterAsset(nft) {
 
   const candidateNumbers = new Set();
 
-  if (typeof nft.nftoken_id === 'string') {
-    const match = nft.nftoken_id.match(/_(\d{1,3})$/i);
+  if (typeof nft.nft_token_id === 'string') {
+    const match = nft.nft_token_id.match(/_(\d{1,3})$/i);
     if (match) candidateNumbers.add(parseInt(match[1], 10));
   }
 
@@ -72,11 +72,9 @@ function resolveChapterAsset(nft) {
 
 const router = express.Router();
 
-/**    if (!nft) {
-      return res.status(404).json({ error: 'NFT not found' });
-    }
-
-    const baseUrl = process.env.BASE_URL || `http://localhost:${process.env.PORT || 3001}`; /api/nfts:
+/**
+ * @swagger
+ * /api/nfts:
  *   get:
  *     summary: Get NFT collection with filters and pagination
  *     tags: [NFTs]
@@ -183,7 +181,7 @@ router.get('/', [
     let query = db('nfts').select(
       'id',
       'token_id',
-      'nftoken_id',
+      'nft_token_id',
       'name',
       'description',
       'image_uri',
@@ -208,9 +206,9 @@ router.get('/', [
     if (minted !== undefined) {
       if (minted === 'true') {
         // Preliminary filter just to reduce dataset; final validation happens after fetch.
-        query = query.whereNotNull('nftoken_id');
+        query = query.whereNotNull('nft_token_id');
       } else if (minted === 'false') {
-        query = query.whereNull('nftoken_id');
+        query = query.whereNull('nft_token_id');
       }
     }
     if (forSale !== undefined) query = query.where('for_sale', forSale === 'true');
@@ -245,8 +243,8 @@ router.get('/', [
     //   const cleaned = String(val).replace(/\s+/g,'');
     //   return /^[0-9A-Fa-f]{64}$/.test(cleaned);
     // };
-    // nfts = nfts.filter(n => isValid(n.nftoken_id));
-    nfts = nfts.filter(n => n.nftoken_id); // Just check if nftoken_id exists
+    // nfts = nfts.filter(n => isValid(n.nft_token_id));
+    nfts = nfts.filter(n => n.nft_token_id); // Just check if nftoken_id exists
   }
   const baseUrl = process.env.NODE_ENV === 'production'
     ? 'https://treasure-hunt-seychelles-1.onrender.com'
@@ -469,7 +467,7 @@ router.get('/:tokenId', async (req, res, next) => {
       offers,
       xrpl: {
         network: process.env.XRPL_NETWORK,
-        explorer_url: `https://livenet.xrpl.org/nft/${nft.nftoken_id}`
+        explorer_url: `https://livenet.xrpl.org/nft/${nft.nft_token_id}`
       }
     };
 
