@@ -38,6 +38,7 @@
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
+    "build:production": "REACT_APP_API_URL=https://treasure-hunt-seychelles-1.onrender.com/api react-app-rewired build",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject",
     "deploy": "npm run build && npx surge build treasureofseychelles.com"
