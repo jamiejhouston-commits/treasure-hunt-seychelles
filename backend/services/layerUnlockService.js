@@ -16,20 +16,23 @@ class LayerUnlockService {
         prize: 500,
         solvableAt: 2000, // 4X multiplier
         layerThresholds: {
-          5: 500,    // NFT #5 cipher - unlocks first (useless alone)
-          12: 1000,  // NFT #12 map - unlocks second (still useless)
-          20: 1500,  // NFT #20 coordinates - unlocks third (still useless)
-          17: 2000   // NFT #17 KEY - unlocks LAST (makes puzzle solvable!)
+          5: 600,    // NFT #5 (D) - unlocks at 20% profit minimum
+          8: 600,    // NFT #8 (A) - unlocks at 20% profit minimum
+          12: 1000,  // NFT #12 (N) - unlocks second phase
+          15: 1000,  // NFT #15 (Z) - unlocks second phase
+          17: 1500,  // NFT #17 (I) - unlocks third phase (now solvable)
+          20: 1500,  // NFT #20 (L) - unlocks third phase (now solvable)
+          3: 2000    // NFT #3 (FAKE) - unlocks last (adds confusion)
         }
       },
       2: {
         prize: 750,
         solvableAt: 3000, // 4X multiplier
         layerThresholds: {
-          25: 750,   // NFT #25 cipher - unlocks first (useless alone)
-          40: 1500,  // NFT #40 cryptogram - unlocks second (decorative)
-          32: 2250,  // NFT #32 map - unlocks third (shows location but can't decode)
-          37: 3000   // NFT #37 KEY - unlocks LAST (makes puzzle solvable!)
+          25: 900,   // NFT #25 cipher - unlocks at 20% profit minimum
+          32: 1500,  // NFT #32 real map - unlocks second phase
+          37: 2250,  // NFT #37 KEY - unlocks LAST (makes puzzle solvable!)
+          28: 3000   // NFT #28 fake map - unlocks after solvable (adds confusion)
         }
       },
       3: {
@@ -186,7 +189,7 @@ class LayerUnlockService {
    */
   async updateLayerLockStatus() {
     // Process Chapter 1
-    for (const tokenId of [5, 12, 17, 20]) {
+    for (const tokenId of [3, 5, 8, 12, 15, 17, 20]) {
       const layerStatus = await this.getLayerStatus(tokenId);
       if (!layerStatus) continue;
 
@@ -209,7 +212,7 @@ class LayerUnlockService {
     }
 
     // Process Chapter 2
-    for (const tokenId of [25, 32, 37, 40]) {
+    for (const tokenId of [25, 28, 32, 37]) {
       const layerStatus = await this.getLayerStatus(tokenId);
       if (!layerStatus) continue;
 

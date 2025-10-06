@@ -9,15 +9,23 @@ const router = express.Router();
 
 // Store puzzle solution securely in backend (not exposed in frontend code)
 const PUZZLE_SOLUTIONS = {
-  'chapter1': 'DAN ZIL'
+  'chapter1': 'DANZIL',
+  'chapter2': 'ANSE SOLEIL'
 };
 
 const PUZZLE_CONFIG = {
   chapter1: {
     title: 'Chapter 1: The Trail Begins',
-    prize: '$750 USD',
+    prize: '$500 USD',
     description: 'Collect clues from puzzle NFTs and decode the location',
-    puzzle_nfts: [5, 12, 17, 20],
+    puzzle_nfts: [3, 5, 8, 12, 15, 17, 20],
+    active: true
+  },
+  chapter2: {
+    title: 'Chapter 2: The Hidden Cache',
+    prize: '$750 USD',
+    description: 'Decipher the code and locate the hidden treasure',
+    puzzle_nfts: [25, 28, 32, 37],
     active: true
   }
 };

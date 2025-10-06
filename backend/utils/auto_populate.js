@@ -42,11 +42,14 @@ async function autoPopulateDatabase() {
       for (let i = 1; i <= 20; i++) {
         const layers = [{layer: 0, type: 'base_artwork', description: 'Original artwork'}];
 
-        // Add puzzle layers for specific Chapter 1 NFTs
-        if (i === 5) layers.push({layer: 1, type: 'cipher_clue', url: '/images/nft_5_layer_1.png', description: 'First puzzle piece'});
-        if (i === 12) layers.push({layer: 2, type: 'map_coordinates', url: '/images/nft_12_layer_2.png', description: 'Second puzzle piece'});
-        if (i === 17) layers.push({layer: 3, type: 'direction_key', url: '/images/nft_17_layer_3.png', description: 'Third puzzle piece'});
-        if (i === 20) layers.push({layer: 1, type: 'final_clue', url: '/images/nft_20_layer_1.png', description: 'Final puzzle piece'});
+        // Add puzzle layers for Chapter 1 DANZIL puzzle (7 cards: 6 real + 1 fake)
+        if (i === 3) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_3_layer_1.png', description: 'FAKE BIRD - Wrong coordinate'});
+        if (i === 5) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_5_layer_1.png', description: 'ROW 4, COLUMN 8 → D'});
+        if (i === 8) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_8_layer_1.png', description: 'ROW 1, COLUMN 1 → A'});
+        if (i === 12) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_12_layer_1.png', description: 'ROW 7, COLUMN 5 → N'});
+        if (i === 15) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_15_layer_1.png', description: 'ROW 17, COLUMN 9 → Z'});
+        if (i === 17) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_17_layer_1.png', description: 'ROW 5, COLUMN 5 → I'});
+        if (i === 20) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_20_layer_1.png', description: 'ROW 16, COLUMN 1 → L'});
 
         nfts.push({
           token_id: i,
@@ -57,7 +60,7 @@ async function autoPopulateDatabase() {
           rarity: i % 5 === 0 ? 'epic' : i % 3 === 0 ? 'rare' : i % 2 === 0 ? 'uncommon' : 'common',
           art_rarity: i % 5 === 0 ? 'epic' : i % 3 === 0 ? 'rare' : i % 2 === 0 ? 'uncommon' : 'common',
           layers: JSON.stringify(layers),
-          puzzle_enabled: [5, 12, 17, 20].includes(i),
+          puzzle_enabled: [3, 5, 8, 12, 15, 17, 20].includes(i),
           price_xrp: 10.0,
           for_sale: true,
           current_owner: null
@@ -68,11 +71,11 @@ async function autoPopulateDatabase() {
       for (let i = 21; i <= 40; i++) {
         const layers = [{layer: 0, type: 'base_artwork', description: 'Original artwork'}];
 
-        // Add puzzle layers for specific NFTs
-        if (i === 25) layers.push({layer: 1, type: 'cipher_text', url: '/images/nft_25_layer_1.png'});
-        if (i === 32) layers.push({layer: 2, type: 'map_fragment', url: '/images/nft_32_layer_2.png'});
-        if (i === 37) layers.push({layer: 3, type: 'decoding_key', url: '/images/nft_37_layer_3.png'});
-        if (i === 40) layers.push({layer: 1, type: 'cryptogram', url: '/images/nft_40_layer_1.png'});
+        // Add puzzle layers for Chapter 2 ANSE SOLEIL puzzle (4 cards: 3 real + 1 fake)
+        if (i === 25) layers.push({layer: 1, type: 'cipher_text', url: '/images/nft_25_layer_1.png', description: 'Cipher: JWBN BXUNRU'});
+        if (i === 28) layers.push({layer: 1, type: 'fake_map', url: '/images/nft_28_layer_1.png', description: 'FAKE MAP - Wrong beach'});
+        if (i === 32) layers.push({layer: 1, type: 'real_map', url: '/images/nft_32_layer_1.png', description: 'Real map: Anse Soleil'});
+        if (i === 37) layers.push({layer: 1, type: 'decoding_key', url: '/images/nft_37_layer_1.png', description: 'Key: SHIFT NINE FORWARD'});
 
         nfts.push({
           token_id: i,
@@ -83,7 +86,7 @@ async function autoPopulateDatabase() {
           rarity: i % 5 === 0 ? 'epic' : i % 3 === 0 ? 'rare' : i % 2 === 0 ? 'uncommon' : 'common',
           art_rarity: i % 5 === 0 ? 'epic' : i % 3 === 0 ? 'rare' : i % 2 === 0 ? 'uncommon' : 'common',
           layers: JSON.stringify(layers),
-          puzzle_enabled: [25, 32, 37, 40].includes(i),
+          puzzle_enabled: [25, 28, 32, 37].includes(i),
           price_xrp: 10.0,
           for_sale: true,
           current_owner: null
