@@ -44,13 +44,13 @@ async function autoPopulateDatabase() {
 
         // Add puzzle layers for Chapter 1 DANZIL puzzle (7 cards: 6 real + 1 fake)
         // NOTE: Using DIFFERENT layer numbers like original system (1, 2, 3, 4, 5, 6, 7)
-        if (i === 4) layers.push({layer: 7, type: 'cryptogram_coordinate', url: '/images/nft_4_layer_1.png', description: 'FAKE BIRD - Wrong coordinate'});
-        if (i === 5) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_5_layer_1.png', description: 'ROW 4, COLUMN 8 → D'});
-        if (i === 8) layers.push({layer: 4, type: 'cryptogram_coordinate', url: '/images/nft_8_layer_1.png', description: 'ROW 1, COLUMN 1 → A'});
-        if (i === 12) layers.push({layer: 2, type: 'cryptogram_coordinate', url: '/images/nft_12_layer_1.png', description: 'ROW 7, COLUMN 5 → N'});
-        if (i === 15) layers.push({layer: 5, type: 'cryptogram_coordinate', url: '/images/nft_15_layer_1.png', description: 'ROW 17, COLUMN 9 → Z'});
-        if (i === 17) layers.push({layer: 3, type: 'cryptogram_coordinate', url: '/images/nft_17_layer_1.png', description: 'ROW 5, COLUMN 5 → I'});
-        if (i === 20) layers.push({layer: 6, type: 'cryptogram_coordinate', url: '/images/nft_20_layer_1.png', description: 'ROW 16, COLUMN 1 → L'});
+        if (i === 4) layers.push({layer: 7, type: 'cryptogram_coordinate', url: '/treasure_hunt/chapter1/layers/nft_4_layer_7.png', description: 'FAKE BIRD - Wrong coordinate'});
+        if (i === 5) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/treasure_hunt/chapter1/layers/nft_5_layer_1.png', description: 'ROW 4, COLUMN 8 → D'});
+        if (i === 8) layers.push({layer: 4, type: 'cryptogram_coordinate', url: '/treasure_hunt/chapter1/layers/nft_8_layer_4.png', description: 'ROW 1, COLUMN 1 → A'});
+        if (i === 12) layers.push({layer: 2, type: 'cryptogram_coordinate', url: '/treasure_hunt/chapter1/layers/nft_12_layer_2.png', description: 'ROW 7, COLUMN 5 → N'});
+        if (i === 15) layers.push({layer: 5, type: 'cryptogram_coordinate', url: '/treasure_hunt/chapter1/layers/nft_15_layer_5.png', description: 'ROW 17, COLUMN 9 → Z'});
+        if (i === 17) layers.push({layer: 3, type: 'cryptogram_coordinate', url: '/treasure_hunt/chapter1/layers/nft_17_layer_3.png', description: 'ROW 5, COLUMN 5 → I'});
+        if (i === 20) layers.push({layer: 6, type: 'cryptogram_coordinate', url: '/treasure_hunt/chapter1/layers/nft_20_layer_6.png', description: 'ROW 16, COLUMN 1 → L'});
 
         nfts.push({
           token_id: i,
