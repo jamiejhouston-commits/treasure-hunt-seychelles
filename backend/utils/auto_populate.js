@@ -74,10 +74,10 @@ async function autoPopulateDatabase() {
 
         // Add puzzle layers for Chapter 2 ANSE SOLEIL puzzle (4 cards: 3 real + 1 fake)
         // NOTE: Using DIFFERENT layer numbers like original system
-        if (i === 25) layers.push({layer: 1, type: 'cipher_text', url: '/images/nft_25_layer_1.png', description: 'Cipher: JWBN BXUNRU'});
-        if (i === 28) layers.push({layer: 4, type: 'fake_map', url: '/images/nft_28_layer_1.png', description: 'FAKE MAP - Wrong beach'});
-        if (i === 32) layers.push({layer: 2, type: 'real_map', url: '/images/nft_32_layer_2.png', description: 'Real map: Anse Soleil'});
-        if (i === 37) layers.push({layer: 3, type: 'decoding_key', url: '/images/nft_37_layer_3.png', description: 'Key: SHIFT NINE FORWARD'});
+        if (i === 25) layers.push({layer: 1, type: 'cipher_text', url: '/treasure_hunt/chapter2/layers/nft_25_layer_1.png', description: 'Cipher: JWBN BXUNRU'});
+        if (i === 28) layers.push({layer: 4, type: 'map_fragment', url: '/treasure_hunt/chapter2/layers/nft_28_layer_4.png', description: 'Map showing northern coastal region'});
+        if (i === 32) layers.push({layer: 2, type: 'map_fragment', url: '/treasure_hunt/chapter2/layers/nft_32_layer_2.png', description: 'Map showing southern beach area'});
+        if (i === 37) layers.push({layer: 3, type: 'decoding_key', url: '/treasure_hunt/chapter2/layers/nft_37_layer_3.png', description: 'Cipher decoding instructions'});
 
         nfts.push({
           token_id: i,

@@ -60,7 +60,7 @@ const devOrigins = [
 
 app.use(cors({
         origin: isProduction
-                ? ['https://treasureofseychelles.com', 'https://www.treasureofseychelles.com', 'https://treasure-hunt-seychelles-3.onrender.com', 'https://treasure-hunt-seychelles-1.onrender.com']
+                ? ['https://treasureofseychelles.com', 'https://www.treasureofseychelles.com']
                 : function(origin, callback) {
                         // Allow requests with no origin like curl or mobile apps
                         if (!origin) return callback(null, true);
@@ -414,16 +414,6 @@ app.use('/treasure_hunt/chapter1/metadata', imagesCors, express.static(path.join
     }
 }));
 
-// Serve Treasure Hunt Chapter 2 assets
-const treasureHuntCh2Base = path.resolve(__dirname, '../content/treasure_hunt_chapter2');
-app.use('/treasure_hunt/chapter2/layers', imagesCors, express.static(path.join(treasureHuntCh2Base, 'layers'), {
-    maxAge: '1d',
-    etag: true,
-    setHeaders: (res) => {
-        res.setHeader('Cross-Origin-Resource-Policy', 'cross-origin');
-    }
-}));
-
 // Serve public static files (HTML preview pages)
 const publicPath = path.resolve(__dirname, './public');
 app.use(express.static(publicPath, {
@@ -528,16 +518,12 @@ process.on('SIGINT', () => {
 });
 
 // Start server
-const { autoPopulateDatabase } = require('./utils/auto_populate');
-
-const server = app.listen(PORT, async () => {
+const server = app.listen(PORT, () => {
     logger.info(`🏴‍☠️ Treasure of Seychelles API server running on port ${PORT}`);
     logger.info(`📚 API Documentation: http://localhost:${PORT}/api-docs`);
     logger.info(`💾 Database: ${process.env.DATABASE_URL || 'SQLite'}`);
     logger.info(`🌐 XRPL Network: ${process.env.XRPL_NETWORK}`);
     logger.info(`🔒 Environment: ${process.env.NODE_ENV || 'development'}`);
-    // Auto-populate database if empty
-    await autoPopulateDatabase();
 });
 
 module.exports = app;
