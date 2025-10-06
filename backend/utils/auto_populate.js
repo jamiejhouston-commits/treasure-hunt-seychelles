@@ -43,7 +43,8 @@ async function autoPopulateDatabase() {
         const layers = [{layer: 0, type: 'base_artwork', description: 'Original artwork'}];
 
         // Add puzzle layers for Chapter 1 DANZIL puzzle (7 cards: 6 real + 1 fake)
-        if (i === 3) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_3_layer_1.png', description: 'FAKE BIRD - Wrong coordinate'});
+        // NOTE: NFT #3 is FISH not bird - using NFT #4 as bird fake instead
+        if (i === 4) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_4_layer_1.png', description: 'FAKE BIRD - Wrong coordinate'});
         if (i === 5) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_5_layer_1.png', description: 'ROW 4, COLUMN 8 → D'});
         if (i === 8) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_8_layer_1.png', description: 'ROW 1, COLUMN 1 → A'});
         if (i === 12) layers.push({layer: 1, type: 'cryptogram_coordinate', url: '/images/nft_12_layer_1.png', description: 'ROW 7, COLUMN 5 → N'});
@@ -60,7 +61,7 @@ async function autoPopulateDatabase() {
           rarity: i % 5 === 0 ? 'epic' : i % 3 === 0 ? 'rare' : i % 2 === 0 ? 'uncommon' : 'common',
           art_rarity: i % 5 === 0 ? 'epic' : i % 3 === 0 ? 'rare' : i % 2 === 0 ? 'uncommon' : 'common',
           layers: JSON.stringify(layers),
-          puzzle_enabled: [3, 5, 8, 12, 15, 17, 20].includes(i),
+          puzzle_enabled: [4, 5, 8, 12, 15, 17, 20].includes(i),
           price_xrp: 10.0,
           for_sale: true,
           current_owner: null

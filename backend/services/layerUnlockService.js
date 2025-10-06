@@ -22,7 +22,7 @@ class LayerUnlockService {
           15: 1000,  // NFT #15 (Z) - unlocks second phase
           17: 1500,  // NFT #17 (I) - unlocks third phase (now solvable)
           20: 1500,  // NFT #20 (L) - unlocks third phase (now solvable)
-          3: 2000    // NFT #3 (FAKE) - unlocks last (adds confusion)
+          4: 2000    // NFT #4 (FAKE BIRD) - unlocks last (adds confusion)
         }
       },
       2: {
@@ -189,7 +189,7 @@ class LayerUnlockService {
    */
   async updateLayerLockStatus() {
     // Process Chapter 1
-    for (const tokenId of [3, 5, 8, 12, 15, 17, 20]) {
+    for (const tokenId of [4, 5, 8, 12, 15, 17, 20]) {
       const layerStatus = await this.getLayerStatus(tokenId);
       if (!layerStatus) continue;
 

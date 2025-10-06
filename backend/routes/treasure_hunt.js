@@ -18,7 +18,7 @@ const PUZZLE_CONFIG = {
     title: 'Chapter 1: The Trail Begins',
     prize: '$500 USD',
     description: 'Collect clues from puzzle NFTs and decode the location',
-    puzzle_nfts: [3, 5, 8, 12, 15, 17, 20],
+    puzzle_nfts: [4, 5, 8, 12, 15, 17, 20],
     active: true
   },
   chapter2: {
