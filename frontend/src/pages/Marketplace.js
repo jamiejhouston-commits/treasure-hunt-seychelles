@@ -36,6 +36,146 @@ const Subtitle = styled.p`
   margin: 0 auto;
 `;
 
+const InfoSection = styled.div`
+  max-width: 1200px;
+  margin: 0 auto 80px;
+  text-align: center;
+`;
+
+const InfoHeadline = styled.h2`
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 3rem);
+  color: var(--gold);
+  margin-bottom: 16px;
+  line-height: 1.2;
+`;
+
+const InfoSubtitle = styled.p`
+  color: var(--text-dim);
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 0 auto 48px;
+  line-height: 1.6;
+`;
+
+const FeaturesGrid = styled.div`
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 32px;
+  margin-bottom: 48px;
+`;
+
+const FeatureCard = styled.div`
+  background: linear-gradient(135deg, rgba(18,22,28,0.9) 0%, rgba(25,30,38,0.9) 100%);
+  border: 2px solid rgba(212, 175, 55, 0.2);
+  border-radius: 16px;
+  padding: 32px 24px;
+  transition: all 0.3s ease;
+
+  &:hover {
+    border-color: var(--gold);
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(212, 175, 55, 0.2);
+  }
+`;
+
+const FeatureTitle = styled.h3`
+  color: var(--gold);
+  font-size: 1.5rem;
+  margin: 0 0 12px;
+  font-weight: 700;
+`;
+
+const FeatureText = styled.p`
+  color: var(--text-dim);
+  font-size: 1rem;
+  line-height: 1.6;
+  margin: 0;
+`;
+
+const HowItWorksSection = styled.div`
+  background: linear-gradient(135deg, rgba(18,22,28,0.6) 0%, rgba(25,30,38,0.6) 100%);
+  border: 2px solid rgba(212, 175, 55, 0.2);
+  border-radius: 16px;
+  padding: 40px;
+  margin-bottom: 32px;
+
+  @media (max-width: 768px) {
+    padding: 24px;
+  }
+`;
+
+const HowItWorksTitle = styled.h3`
+  color: var(--gold);
+  font-size: 1.8rem;
+  margin: 0 0 24px;
+  font-weight: 700;
+  text-align: center;
+`;
+
+const StepsList = styled.ol`
+  list-style: none;
+  counter-reset: step-counter;
+  padding: 0;
+  margin: 0 0 32px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+`;
+
+const Step = styled.li`
+  counter-increment: step-counter;
+  position: relative;
+  padding-left: 50px;
+  margin-bottom: 20px;
+  color: var(--text-dim);
+  font-size: 1.1rem;
+  line-height: 1.6;
+
+  &::before {
+    content: counter(step-counter);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 32px;
+    height: 32px;
+    background: var(--gold);
+    color: var(--bg-deep);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 1.1rem;
+  }
+`;
+
+const MysteryNote = styled.p`
+  color: var(--gold);
+  font-style: italic;
+  font-size: 1.1rem;
+  margin: 24px 0 0;
+  text-align: center;
+`;
+
+const StartBrowsingButton = styled.a`
+  display: inline-block;
+  background: linear-gradient(135deg, var(--gold) 0%, #b8860b 100%);
+  color: var(--bg-deep);
+  padding: 16px 48px;
+  border-radius: 8px;
+  font-weight: 700;
+  font-size: 1.2rem;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  margin-top: 16px;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(212, 175, 55, 0.4);
+  }
+`;
+
 const PriceTag = styled.div`
   display: inline-block;
   background: linear-gradient(135deg, rgba(212, 175, 55, 0.2) 0%, rgba(184, 134, 11, 0.2) 100%);
@@ -281,12 +421,61 @@ const Marketplace = () => {
         <Header>
           <Title>Treasure Marketplace</Title>
           <Subtitle>
-            Purchase exclusive La Buse treasure NFTs. Each piece contains puzzle clues and artistic value.
+            Purchase exclusive La Buse treasure NFTs. Unique Seychellois artwork with hidden puzzles and real rewards.
           </Subtitle>
           <PriceTag>$200 per NFT</PriceTag>
         </Header>
 
-        <FilterSection>
+        <InfoSection>
+          <InfoHeadline>Seychellois Art. Hidden Puzzles. Real Prizes.</InfoHeadline>
+          <InfoSubtitle>
+            Each NFT is unique artwork generated from authentic Seychellois paintings.
+            Select pieces contain hidden layers with encrypted puzzles leading to actual rewards.
+          </InfoSubtitle>
+
+          <FeaturesGrid>
+            <FeatureCard>
+              <FeatureTitle>Collectible Art</FeatureTitle>
+              <FeatureText>
+                Unique digital artwork trained on genuine Seychellois master paintings.
+                Choose the piece you want.
+              </FeatureText>
+            </FeatureCard>
+
+            <FeatureCard>
+              <FeatureTitle>Hidden Layers</FeatureTitle>
+              <FeatureText>
+                Some NFTs contain encrypted puzzle layers beneath the surface.
+                Only discoverable after purchase when you connect your wallet.
+              </FeatureText>
+            </FeatureCard>
+
+            <FeatureCard>
+              <FeatureTitle>Real Prizes</FeatureTitle>
+              <FeatureText>
+                Solve the puzzles, win cash rewards. Prizes increase with each chapter.
+              </FeatureText>
+            </FeatureCard>
+          </FeaturesGrid>
+
+          <HowItWorksSection>
+            <HowItWorksTitle>How It Works</HowItWorksTitle>
+            <StepsList>
+              <Step>Browse the gallery below</Step>
+              <Step>Choose the artwork you want</Step>
+              <Step>Connect your wallet</Step>
+              <Step>Click "Mint" - the NFT is yours</Step>
+              <Step>Check if it has hidden puzzle layers</Step>
+            </StepsList>
+            <MysteryNote>Not all NFTs contain puzzles. The mystery is part of the hunt.</MysteryNote>
+          </HowItWorksSection>
+
+          <StartBrowsingButton href="#nft-gallery">
+            START BROWSING ↓
+          </StartBrowsingButton>
+        </InfoSection>
+
+        <FilterSection id="nft-gallery">
           <FilterButton active={filter === 'all'} onClick={() => setFilter('all')}>
             All NFTs
           </FilterButton>
