@@ -84,11 +84,34 @@ router.post('/submit', [
     if (!puzzleConfig) {
       return res.status(404).json({ error: 'Puzzle not found' });
     }
-    
+
     if (!puzzleConfig.active) {
       return res.status(400).json({ error: 'This puzzle is no longer active' });
     }
-    
+
+    // Check if Chapter 2 requires Chapter 1 to be completed first
+    if (chapter === 'chapter2' && wallet_address) {
+      try {
+        const chapter1Solved = await db('puzzle_submissions')
+          .where({
+            wallet_address,
+            chapter: 'chapter1',
+            is_correct: true
+          })
+          .first();
+
+        if (!chapter1Solved) {
+          return res.status(403).json({
+            success: false,
+            error: 'You must complete Chapter 1 first before attempting Chapter 2',
+            hint: 'Solve the TAYLOR puzzle in Chapter 1 to unlock Chapter 2'
+          });
+        }
+      } catch (dbError) {
+        logger.warn('Could not check Chapter 1 completion:', dbError.message);
+      }
+    }
+
     // Check solution (case-insensitive, normalized)
     const correctAnswer = PUZZLE_SOLUTIONS[chapter];
     const normalizedAnswer = answer.trim().toUpperCase().replace(/\s+/g, ' ');

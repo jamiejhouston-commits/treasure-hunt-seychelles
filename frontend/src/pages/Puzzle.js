@@ -258,36 +258,6 @@ const SolutionInput = styled.textarea`
   }
 `;
 
-const CoordinatesInput = styled.div`
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  
-  @media (max-width: 768px) {
-    grid-template-columns: 1fr;
-  }
-`;
-
-const CoordinateField = styled.div`
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-`;
-
-const CoordinateInput = styled.input`
-  padding: 0.75rem;
-  border-radius: 8px;
-  border: 2px solid #333333;
-  background: ${props => props.theme.colors.background};
-  color: ${props => props.theme.colors.text};
-  font-size: 1rem;
-  
-  &:focus {
-    outline: none;
-    border-color: ${props => props.theme.colors.primary};
-  }
-`;
-
 const SubmitButton = styled.button`
   background: linear-gradient(135deg, #d4af37 0%, #f5d976 100%);
   color: #000000;
@@ -412,8 +382,6 @@ function Puzzle() {
   const { isConnected, connect, address } = useWallet();
   
   const [solution, setSolution] = useState('');
-  const [latitude, setLatitude] = useState('');
-  const [longitude, setLongitude] = useState('');
   const [submissions, setSubmissions] = useState([]);
 
   // Load previous submissions
@@ -426,7 +394,7 @@ function Puzzle() {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    
+
     if (!isConnected) {
       toast.error('Please connect your wallet first');
       return;
@@ -434,11 +402,6 @@ function Puzzle() {
 
     if (!solution.trim()) {
       toast.error('Please enter your solution');
-      return;
-    }
-
-    if (!latitude || !longitude) {
-      toast.error('Please enter the coordinates');
       return;
     }
 
@@ -450,30 +413,24 @@ function Puzzle() {
       };
 
       const result = await submitSolution(solutionData);
-      
+
       // Add to local submissions history
       const newSubmission = {
         id: Date.now(),
         timestamp: new Date().toISOString(),
         solution: solution.trim(),
-        coordinates: {
-          latitude: parseFloat(latitude),
-          longitude: parseFloat(longitude)
-        },
         success: result.success
       };
-      
+
       const updatedSubmissions = [newSubmission, ...submissions.slice(0, 9)]; // Keep last 10
       setSubmissions(updatedSubmissions);
       localStorage.setItem('puzzle_submissions', JSON.stringify(updatedSubmissions));
-      
+
       if (result.success) {
         // Clear form on success
         setSolution('');
-        setLatitude('');
-        setLongitude('');
       }
-      
+
     } catch (error) {
       console.error('Failed to submit solution:', error);
     }
@@ -640,41 +597,6 @@ TAREDOPOD`;
             />
           </div>
 
-          <div>
-            <SolutionLabel>Treasure Location Coordinates:</SolutionLabel>
-            <CoordinatesInput>
-              <CoordinateField>
-                <label>Latitude (°S)</label>
-                <CoordinateInput
-                  type="number"
-                  step="any"
-                  placeholder="-4.6796"
-                  value={latitude}
-                  onChange={(e) => setLatitude(e.target.value)}
-                  required
-                />
-              </CoordinateField>
-              <CoordinateField>
-                <label>Longitude (°E)</label>
-                <CoordinateInput
-                  type="number"
-                  step="any"
-                  placeholder="55.4919"
-                  value={longitude}
-                  onChange={(e) => setLongitude(e.target.value)}
-                  required
-                />
-              </CoordinateField>
-            </CoordinatesInput>
-            <p style={{ 
-              fontSize: '0.9rem', 
-              color: '#999', 
-              marginTop: '0.5rem' 
-            }}>
-              Enter coordinates in decimal degrees. Seychelles range: Lat -3° to -10°, Lon 46° to 56°
-            </p>
-          </div>
-
           <SubmitButton
             type="submit"
             disabled={!isConnected || isSubmittingSolution}
@@ -695,8 +617,7 @@ TAREDOPOD`;
             {submissions.map((submission) => (
               <SubmissionItem key={submission.id}>
                 <SubmissionInfo>
-                  {new Date(submission.timestamp).toLocaleString()} - 
-                  Lat: {submission.coordinates.latitude}, Lon: {submission.coordinates.longitude}
+                  {new Date(submission.timestamp).toLocaleString()} - Answer: {submission.solution}
                 </SubmissionInfo>
                 <SubmissionStatus success={submission.success}>
                   {submission.success ? '✅ Correct!' : '❌ Incorrect'}
